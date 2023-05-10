@@ -1,158 +1,158 @@
-,frame_num,environment,places,title,year,imdb_id
-0,0,outdoor,"desert/sand, lake/natural, marsh, beach, sky",The Beast With Five Fingers,1946,38338
-1,24,outdoor,"desert/sand, beach, lake/natural, marsh, sky",The Beast With Five Fingers,1946,38338
-2,48,indoor,"clothing_store, beauty_salon, coffee_shop, pharmacy, ice_cream_parlor",The Beast With Five Fingers,1946,38338
-3,72,indoor,"pharmacy, beauty_salon, drugstore, bookstore, coffee_shop",The Beast With Five Fingers,1946,38338
-4,96,indoor,"beauty_salon, pharmacy, drugstore, motel, bookstore",The Beast With Five Fingers,1946,38338
-5,120,indoor,"pharmacy, drugstore, beauty_salon, bookstore, motel",The Beast With Five Fingers,1946,38338
-6,144,indoor,"drugstore, pharmacy, beauty_salon, bookstore, motel",The Beast With Five Fingers,1946,38338
-7,168,indoor,"pharmacy, drugstore, beauty_salon, bookstore, coffee_shop",The Beast With Five Fingers,1946,38338
-8,192,indoor,"pharmacy, drugstore, beauty_salon, bookstore, motel",The Beast With Five Fingers,1946,38338
-9,216,indoor,"motel, drugstore, pharmacy, coffee_shop, bowling_alley",The Beast With Five Fingers,1946,38338
-10,240,indoor,"drugstore, beauty_salon, bookstore, coffee_shop, pharmacy",The Beast With Five Fingers,1946,38338
-11,264,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop",The Beast With Five Fingers,1946,38338
-12,288,indoor,"drugstore, beauty_salon, coffee_shop, bookstore, pharmacy",The Beast With Five Fingers,1946,38338
-13,312,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop",The Beast With Five Fingers,1946,38338
-14,336,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop",The Beast With Five Fingers,1946,38338
-15,360,indoor,"coffee_shop, nursery, dining_room, ice_shelf, motel",The Beast With Five Fingers,1946,38338
-16,384,indoor,"nursery, coffee_shop, ice_shelf, dining_room, motel",The Beast With Five Fingers,1946,38338
-17,408,indoor,"ice_shelf, dining_room, coffee_shop, nursery, motel",The Beast With Five Fingers,1946,38338
-18,432,indoor,"ice_shelf, coffee_shop, dining_room, nursery, motel",The Beast With Five Fingers,1946,38338
-19,456,indoor,"ice_shelf, nursery, coffee_shop, dining_room, motel",The Beast With Five Fingers,1946,38338
-20,480,indoor,"nursery, playground, ice_shelf, jail_cell, drugstore",The Beast With Five Fingers,1946,38338
-21,504,indoor,"nursery, locker_room, ice_shelf, pier, gymnasium/indoor",The Beast With Five Fingers,1946,38338
-22,528,indoor,"martial_arts_gym, gymnasium/indoor, boxing_ring, motel, ice_shelf",The Beast With Five Fingers,1946,38338
-23,552,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom",The Beast With Five Fingers,1946,38338
-24,576,indoor,"clean_room, airport_terminal, shower, museum/indoor, ballroom",The Beast With Five Fingers,1946,38338
-25,600,indoor,"clean_room, museum/indoor, airport_terminal, shower, ballroom",The Beast With Five Fingers,1946,38338
-26,624,indoor,"clean_room, airport_terminal, museum/indoor, shower, lobby",The Beast With Five Fingers,1946,38338
-27,648,indoor,"clean_room, airport_terminal, museum/indoor, shower, lobby",The Beast With Five Fingers,1946,38338
-28,672,indoor,"clean_room, museum/indoor, shower, airport_terminal, ballroom",The Beast With Five Fingers,1946,38338
-29,696,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom",The Beast With Five Fingers,1946,38338
-30,720,indoor,"clean_room, airport_terminal, museum/indoor, shower, art_gallery",The Beast With Five Fingers,1946,38338
-31,744,indoor,"clean_room, shower, museum/indoor, airport_terminal, art_gallery",The Beast With Five Fingers,1946,38338
-32,768,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom",The Beast With Five Fingers,1946,38338
-33,792,indoor,"museum/indoor, shower, natural_history_museum, art_gallery, science_museum",The Beast With Five Fingers,1946,38338
-34,816,indoor,"shower, bathroom, clean_room, elevator/door, basement",The Beast With Five Fingers,1946,38338
-35,840,indoor,"museum/indoor, science_museum, aquarium, discotheque, shower",The Beast With Five Fingers,1946,38338
-36,864,indoor,"shower, museum/indoor, natural_history_museum, science_museum, bathroom",The Beast With Five Fingers,1946,38338
-37,888,indoor,"discotheque, stage/indoor, ballroom, dressing_room, music_studio",The Beast With Five Fingers,1946,38338
-38,912,indoor,"museum/indoor, shower, art_gallery, elevator/door, archive",The Beast With Five Fingers,1946,38338
-39,936,indoor,"museum/indoor, shower, nursery, art_gallery, bathroom",The Beast With Five Fingers,1946,38338
-40,960,indoor,"nursery, museum/indoor, shower, science_museum, igloo",The Beast With Five Fingers,1946,38338
-41,984,indoor,"basement, shower, elevator/door, locker_room, elevator_lobby",The Beast With Five Fingers,1946,38338
-42,1008,indoor,"elevator/door, elevator_lobby, locker_room, shower, basement",The Beast With Five Fingers,1946,38338
-43,1032,indoor,"elevator/door, elevator_lobby, clean_room, shower, locker_room",The Beast With Five Fingers,1946,38338
-44,1056,indoor,"clean_room, airport_terminal, elevator/door, reception, elevator_lobby",The Beast With Five Fingers,1946,38338
-45,1080,indoor,"clean_room, shower, basement, locker_room, airport_terminal",The Beast With Five Fingers,1946,38338
-46,1104,indoor,"clean_room, elevator/door, airport_terminal, wind_farm, basement",The Beast With Five Fingers,1946,38338
-47,1128,indoor,"clean_room, elevator/door, shower, art_gallery, bank_vault",The Beast With Five Fingers,1946,38338
-48,1152,indoor,"staircase, entrance_hall, escalator/indoor, atrium/public, corridor",The Beast With Five Fingers,1946,38338
-49,1176,indoor,"staircase, entrance_hall, corridor, escalator/indoor, basement",The Beast With Five Fingers,1946,38338
-50,1200,indoor,"staircase, corridor, atrium/public, lobby, clean_room",The Beast With Five Fingers,1946,38338
-51,1224,indoor,"shower, bank_vault, bathroom, elevator/door, elevator_lobby",The Beast With Five Fingers,1946,38338
-52,1248,indoor,"shower, elevator/door, basement, bathroom, elevator_lobby",The Beast With Five Fingers,1946,38338
-53,1272,indoor,"shower, elevator/door, basement, elevator_lobby, corridor",The Beast With Five Fingers,1946,38338
-54,1296,indoor,"shower, museum/indoor, discotheque, clean_room, art_gallery",The Beast With Five Fingers,1946,38338
-55,1320,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, discotheque",The Beast With Five Fingers,1946,38338
-56,1344,indoor,"shower, museum/indoor, natural_history_museum, basement, science_museum",The Beast With Five Fingers,1946,38338
-57,1368,indoor,"shower, clean_room, locker_room, basement, bathroom",The Beast With Five Fingers,1946,38338
-58,1392,indoor,"clean_room, archive, discotheque, museum/indoor, music_studio",The Beast With Five Fingers,1946,38338
-59,1416,indoor,"clean_room, archive, music_studio, discotheque, museum/indoor",The Beast With Five Fingers,1946,38338
-60,1440,indoor,"discotheque, museum/indoor, music_studio, stage/indoor, archive",The Beast With Five Fingers,1946,38338
-61,1464,indoor,"discotheque, museum/indoor, boxing_ring, music_studio, stage/indoor",The Beast With Five Fingers,1946,38338
-62,1488,indoor,"archive, locker_room, clean_room, museum/indoor, art_gallery",The Beast With Five Fingers,1946,38338
-63,1512,indoor,"locker_room, archive, clean_room, basement, art_gallery",The Beast With Five Fingers,1946,38338
-64,1536,indoor,"locker_room, shower, elevator/door, clean_room, server_room",The Beast With Five Fingers,1946,38338
-65,1560,indoor,"shower, bathroom, art_gallery, museum/indoor, clean_room",The Beast With Five Fingers,1946,38338
-66,1584,indoor,"shower, natural_history_museum, museum/indoor, bathroom, art_gallery",The Beast With Five Fingers,1946,38338
-67,1608,indoor,"shower, bathroom, museum/indoor, natural_history_museum, clean_room",The Beast With Five Fingers,1946,38338
-68,1632,indoor,"shower, bathroom, museum/indoor, nursery, clean_room",The Beast With Five Fingers,1946,38338
-69,1656,indoor,"museum/indoor, clean_room, art_gallery, natural_history_museum, science_museum",The Beast With Five Fingers,1946,38338
-70,1680,indoor,"museum/indoor, dressing_room, clean_room, discotheque, natural_history_museum",The Beast With Five Fingers,1946,38338
-71,1704,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-72,1728,indoor,"dressing_room, museum/indoor, clean_room, discotheque, art_gallery",The Beast With Five Fingers,1946,38338
-73,1752,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, natural_history_museum",The Beast With Five Fingers,1946,38338
-74,1776,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-75,1800,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-76,1824,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-77,1848,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-78,1872,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-79,1896,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",The Beast With Five Fingers,1946,38338
-80,1920,indoor,"ice_cream_parlor, kindergarden_classroom, amusement_park, pharmacy, bar",The Beast With Five Fingers,1946,38338
-81,1944,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, bar, mosque/outdoor",The Beast With Five Fingers,1946,38338
-82,1968,indoor,"kindergarden_classroom, ice_cream_parlor, pharmacy, amusement_park, ticket_booth",The Beast With Five Fingers,1946,38338
-83,1992,indoor,"ice_cream_parlor, pharmacy, kindergarden_classroom, cafeteria, bar",The Beast With Five Fingers,1946,38338
-84,2016,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, cafeteria",The Beast With Five Fingers,1946,38338
-85,2040,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, laundromat, archive",The Beast With Five Fingers,1946,38338
-86,2064,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, laundromat",The Beast With Five Fingers,1946,38338
-87,2088,indoor,"ice_cream_parlor, ticket_booth, pharmacy, kindergarden_classroom, laundromat",The Beast With Five Fingers,1946,38338
-88,2112,indoor,"ice_cream_parlor, kindergarden_classroom, ticket_booth, pharmacy, dressing_room",The Beast With Five Fingers,1946,38338
-89,2136,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, nursery",The Beast With Five Fingers,1946,38338
-90,2160,indoor,"ice_cream_parlor, archive, clean_room, museum/indoor, cemetery",The Beast With Five Fingers,1946,38338
-91,2184,indoor,"ice_cream_parlor, archive, clean_room, schoolhouse, cemetery",The Beast With Five Fingers,1946,38338
-92,2208,indoor,"archive, gymnasium/indoor, boxing_ring, music_studio, library/indoor",The Beast With Five Fingers,1946,38338
-93,2232,indoor,"archive, music_studio, boxing_ring, museum/indoor, clean_room",The Beast With Five Fingers,1946,38338
-94,2256,indoor,"archive, music_studio, boxing_ring, clean_room, museum/indoor",The Beast With Five Fingers,1946,38338
-95,2280,indoor,"archive, music_studio, boxing_ring, clean_room, locker_room",The Beast With Five Fingers,1946,38338
-96,2304,indoor,"archive, music_studio, boxing_ring, gymnasium/indoor, stage/indoor",The Beast With Five Fingers,1946,38338
-97,2328,indoor,"dressing_room, museum/indoor, clean_room, locker_room, archive",The Beast With Five Fingers,1946,38338
-98,2352,indoor,"locker_room, museum/indoor, clean_room, dressing_room, archive",The Beast With Five Fingers,1946,38338
-99,2376,indoor,"clean_room, locker_room, museum/indoor, dressing_room, archive",The Beast With Five Fingers,1946,38338
-100,2400,indoor,"clean_room, locker_room, dressing_room, archive, museum/indoor",The Beast With Five Fingers,1946,38338
-101,2424,indoor,"dressing_room, locker_room, clean_room, archive, museum/indoor",The Beast With Five Fingers,1946,38338
-102,2448,indoor,"clean_room, locker_room, dressing_room, museum/indoor, archive",The Beast With Five Fingers,1946,38338
-103,2472,indoor,"discotheque, museum/indoor, art_gallery, natural_history_museum, science_museum",The Beast With Five Fingers,1946,38338
-104,2496,indoor,"museum/indoor, stage/indoor, art_gallery, discotheque, natural_history_museum",The Beast With Five Fingers,1946,38338
-105,2520,indoor,"museum/indoor, art_gallery, natural_history_museum, stage/indoor, science_museum",The Beast With Five Fingers,1946,38338
-106,2544,indoor,"museum/indoor, art_gallery, stage/indoor, discotheque, natural_history_museum",The Beast With Five Fingers,1946,38338
-107,2568,indoor,"museum/indoor, art_gallery, stage/indoor, discotheque, natural_history_museum",The Beast With Five Fingers,1946,38338
-108,2592,indoor,"art_gallery, iceberg, natural_history_museum, museum/indoor, archive",The Beast With Five Fingers,1946,38338
-109,2616,indoor,"art_gallery, natural_history_museum, museum/indoor, iceberg, science_museum",The Beast With Five Fingers,1946,38338
-110,2640,outdoor,"shower, pond, lake/natural, forest/broadleaf, swamp",The Beast With Five Fingers,1946,38338
-111,2664,outdoor,"shower, pond, lake/natural, swamp, bathroom",The Beast With Five Fingers,1946,38338
-112,2688,outdoor,"iceberg, aquarium, natural_history_museum, lake/natural, pond",The Beast With Five Fingers,1946,38338
-113,2712,indoor,"clean_room, iceberg, museum/indoor, natural_history_museum, science_museum",The Beast With Five Fingers,1946,38338
-114,2736,indoor,"clean_room, natural_history_museum, museum/indoor, shower, nursery",The Beast With Five Fingers,1946,38338
-115,2760,indoor,"museum/indoor, clean_room, iceberg, natural_history_museum, shower",The Beast With Five Fingers,1946,38338
-116,2784,indoor,"museum/indoor, natural_history_museum, science_museum, shower, aquarium",The Beast With Five Fingers,1946,38338
-117,2808,indoor,"clean_room, art_gallery, chemistry_lab, museum/indoor, jewelry_shop",The Beast With Five Fingers,1946,38338
-118,2832,indoor,"clean_room, art_gallery, museum/indoor, natural_history_museum, jewelry_shop",The Beast With Five Fingers,1946,38338
-119,2856,indoor,"clothing_store, shower, closet, nursery, dressing_room",The Beast With Five Fingers,1946,38338
-120,2880,indoor,"clothing_store, shower, clean_room, museum/indoor, airport_terminal",The Beast With Five Fingers,1946,38338
-121,2904,indoor,"pharmacy, drugstore, elevator/door, motel, coffee_shop",The Beast With Five Fingers,1946,38338
-122,2928,indoor,"pharmacy, drugstore, motel, bowling_alley, beauty_salon",The Beast With Five Fingers,1946,38338
-123,2952,indoor,"pharmacy, drugstore, beauty_salon, motel, bowling_alley",The Beast With Five Fingers,1946,38338
-124,2976,indoor,"pharmacy, drugstore, motel, beauty_salon, bowling_alley",The Beast With Five Fingers,1946,38338
-125,3000,indoor,"discotheque, shower, locker_room, basement, bathroom",The Beast With Five Fingers,1946,38338
-126,3024,indoor,"reception, nursery, hospital_room, hospital, pharmacy",The Beast With Five Fingers,1946,38338
-127,3048,indoor,"locker_room, airport_terminal, hospital, hospital_room, nursery",The Beast With Five Fingers,1946,38338
-128,3072,indoor,"pharmacy, motel, drugstore, airport_terminal, hospital_room",The Beast With Five Fingers,1946,38338
-129,3096,indoor,"motel, pharmacy, drugstore, bowling_alley, airport_terminal",The Beast With Five Fingers,1946,38338
-130,3120,indoor,"motel, bowling_alley, pharmacy, drugstore, hospital_room",The Beast With Five Fingers,1946,38338
-131,3144,indoor,"natural_history_museum, nursery, museum/indoor, elevator/door, airport_terminal",The Beast With Five Fingers,1946,38338
-132,3168,indoor,"banquet_hall, dining_hall, restaurant, jewelry_shop, ballroom",The Beast With Five Fingers,1946,38338
-133,3192,indoor,"restaurant, banquet_hall, jewelry_shop, cafeteria, conference_center",The Beast With Five Fingers,1946,38338
-134,3216,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital_room",The Beast With Five Fingers,1946,38338
-135,3240,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital",The Beast With Five Fingers,1946,38338
-136,3264,indoor,"pharmacy, beauty_salon, drugstore, hospital_room, hospital",The Beast With Five Fingers,1946,38338
-137,3288,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital_room",The Beast With Five Fingers,1946,38338
-138,3312,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital",The Beast With Five Fingers,1946,38338
-139,3336,indoor,"shower, natural_history_museum, discotheque, auditorium, museum/indoor",The Beast With Five Fingers,1946,38338
-140,3360,indoor,"motel, airport_terminal, hospital_room, hospital, locker_room",The Beast With Five Fingers,1946,38338
-141,3384,indoor,"bookstore, motel, department_store, airport_terminal, coffee_shop",The Beast With Five Fingers,1946,38338
-142,3408,indoor,"bookstore, department_store, motel, airport_terminal, drugstore",The Beast With Five Fingers,1946,38338
-143,3432,indoor,"department_store, bookstore, motel, airport_terminal, drugstore",The Beast With Five Fingers,1946,38338
-144,3456,indoor,"motel, bookstore, coffee_shop, museum/indoor, archive",The Beast With Five Fingers,1946,38338
-145,3480,indoor,"martial_arts_gym, airport_terminal, clean_room, museum/indoor, locker_room",The Beast With Five Fingers,1946,38338
-146,3504,indoor,"laundromat, beauty_salon, pharmacy, airport_terminal, locker_room",The Beast With Five Fingers,1946,38338
-147,3528,indoor,"locker_room, beauty_salon, department_store, clothing_store, dressing_room",The Beast With Five Fingers,1946,38338
-148,3552,indoor,"locker_room, beauty_salon, clothing_store, dressing_room, department_store",The Beast With Five Fingers,1946,38338
-149,3576,indoor,"locker_room, beauty_salon, nursery, dressing_room, clothing_store",The Beast With Five Fingers,1946,38338
-150,3600,indoor,"locker_room, beauty_salon, dressing_room, nursery, clothing_store",The Beast With Five Fingers,1946,38338
-151,3624,indoor,"locker_room, beauty_salon, dressing_room, nursery, clothing_store",The Beast With Five Fingers,1946,38338
-152,3648,indoor,"locker_room, beauty_salon, department_store, dressing_room, nursery",The Beast With Five Fingers,1946,38338
-153,3672,outdoor,"desert/sand, sky, beach, lake/natural, marsh",The Beast With Five Fingers,1946,38338
-154,3696,outdoor,"desert/sand, sky, beach, lake/natural, marsh",The Beast With Five Fingers,1946,38338
-155,3720,outdoor,"desert/sand, beach, lake/natural, marsh, sky",The Beast With Five Fingers,1946,38338
-156,3744,outdoor,"desert/sand, beach, lake/natural, marsh, sky",The Beast With Five Fingers,1946,38338
+,frame_num,environment,places
+0,0,outdoor,"desert/sand, lake/natural, marsh, beach, sky"
+1,24,outdoor,"desert/sand, beach, lake/natural, marsh, sky"
+2,48,indoor,"clothing_store, beauty_salon, coffee_shop, pharmacy, ice_cream_parlor"
+3,72,indoor,"pharmacy, beauty_salon, drugstore, bookstore, coffee_shop"
+4,96,indoor,"beauty_salon, pharmacy, drugstore, motel, bookstore"
+5,120,indoor,"pharmacy, drugstore, beauty_salon, bookstore, motel"
+6,144,indoor,"drugstore, pharmacy, beauty_salon, bookstore, motel"
+7,168,indoor,"pharmacy, drugstore, beauty_salon, bookstore, coffee_shop"
+8,192,indoor,"pharmacy, drugstore, beauty_salon, bookstore, motel"
+9,216,indoor,"motel, drugstore, pharmacy, coffee_shop, bowling_alley"
+10,240,indoor,"drugstore, beauty_salon, bookstore, coffee_shop, pharmacy"
+11,264,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop"
+12,288,indoor,"drugstore, beauty_salon, coffee_shop, bookstore, pharmacy"
+13,312,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop"
+14,336,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop"
+15,360,indoor,"coffee_shop, nursery, dining_room, ice_shelf, motel"
+16,384,indoor,"nursery, coffee_shop, ice_shelf, dining_room, motel"
+17,408,indoor,"ice_shelf, dining_room, coffee_shop, nursery, motel"
+18,432,indoor,"ice_shelf, coffee_shop, dining_room, nursery, motel"
+19,456,indoor,"ice_shelf, nursery, coffee_shop, dining_room, motel"
+20,480,indoor,"nursery, playground, ice_shelf, jail_cell, drugstore"
+21,504,indoor,"nursery, locker_room, ice_shelf, pier, gymnasium/indoor"
+22,528,indoor,"martial_arts_gym, gymnasium/indoor, boxing_ring, motel, ice_shelf"
+23,552,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom"
+24,576,indoor,"clean_room, airport_terminal, shower, museum/indoor, ballroom"
+25,600,indoor,"clean_room, museum/indoor, airport_terminal, shower, ballroom"
+26,624,indoor,"clean_room, airport_terminal, museum/indoor, shower, lobby"
+27,648,indoor,"clean_room, airport_terminal, museum/indoor, shower, lobby"
+28,672,indoor,"clean_room, museum/indoor, shower, airport_terminal, ballroom"
+29,696,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom"
+30,720,indoor,"clean_room, airport_terminal, museum/indoor, shower, art_gallery"
+31,744,indoor,"clean_room, shower, museum/indoor, airport_terminal, art_gallery"
+32,768,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom"
+33,792,indoor,"museum/indoor, shower, natural_history_museum, art_gallery, science_museum"
+34,816,indoor,"shower, bathroom, clean_room, elevator/door, basement"
+35,840,indoor,"museum/indoor, science_museum, aquarium, discotheque, shower"
+36,864,indoor,"shower, museum/indoor, natural_history_museum, science_museum, bathroom"
+37,888,indoor,"discotheque, stage/indoor, ballroom, dressing_room, music_studio"
+38,912,indoor,"museum/indoor, shower, art_gallery, elevator/door, archive"
+39,936,indoor,"museum/indoor, shower, nursery, art_gallery, bathroom"
+40,960,indoor,"nursery, museum/indoor, shower, science_museum, igloo"
+41,984,indoor,"basement, shower, elevator/door, locker_room, elevator_lobby"
+42,1008,indoor,"elevator/door, elevator_lobby, locker_room, shower, basement"
+43,1032,indoor,"elevator/door, elevator_lobby, clean_room, shower, locker_room"
+44,1056,indoor,"clean_room, airport_terminal, elevator/door, reception, elevator_lobby"
+45,1080,indoor,"clean_room, shower, basement, locker_room, airport_terminal"
+46,1104,indoor,"clean_room, elevator/door, airport_terminal, wind_farm, basement"
+47,1128,indoor,"clean_room, elevator/door, shower, art_gallery, bank_vault"
+48,1152,indoor,"staircase, entrance_hall, escalator/indoor, atrium/public, corridor"
+49,1176,indoor,"staircase, entrance_hall, corridor, escalator/indoor, basement"
+50,1200,indoor,"staircase, corridor, atrium/public, lobby, clean_room"
+51,1224,indoor,"shower, bank_vault, bathroom, elevator/door, elevator_lobby"
+52,1248,indoor,"shower, elevator/door, basement, bathroom, elevator_lobby"
+53,1272,indoor,"shower, elevator/door, basement, elevator_lobby, corridor"
+54,1296,indoor,"shower, museum/indoor, discotheque, clean_room, art_gallery"
+55,1320,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, discotheque"
+56,1344,indoor,"shower, museum/indoor, natural_history_museum, basement, science_museum"
+57,1368,indoor,"shower, clean_room, locker_room, basement, bathroom"
+58,1392,indoor,"clean_room, archive, discotheque, museum/indoor, music_studio"
+59,1416,indoor,"clean_room, archive, music_studio, discotheque, museum/indoor"
+60,1440,indoor,"discotheque, museum/indoor, music_studio, stage/indoor, archive"
+61,1464,indoor,"discotheque, museum/indoor, boxing_ring, music_studio, stage/indoor"
+62,1488,indoor,"archive, locker_room, clean_room, museum/indoor, art_gallery"
+63,1512,indoor,"locker_room, archive, clean_room, basement, art_gallery"
+64,1536,indoor,"locker_room, shower, elevator/door, clean_room, server_room"
+65,1560,indoor,"shower, bathroom, art_gallery, museum/indoor, clean_room"
+66,1584,indoor,"shower, natural_history_museum, museum/indoor, bathroom, art_gallery"
+67,1608,indoor,"shower, bathroom, museum/indoor, natural_history_museum, clean_room"
+68,1632,indoor,"shower, bathroom, museum/indoor, nursery, clean_room"
+69,1656,indoor,"museum/indoor, clean_room, art_gallery, natural_history_museum, science_museum"
+70,1680,indoor,"museum/indoor, dressing_room, clean_room, discotheque, natural_history_museum"
+71,1704,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum"
+72,1728,indoor,"dressing_room, museum/indoor, clean_room, discotheque, art_gallery"
+73,1752,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, natural_history_museum"
+74,1776,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum"
+75,1800,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum"
+76,1824,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum"
+77,1848,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum"
+78,1872,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum"
+79,1896,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum"
+80,1920,indoor,"ice_cream_parlor, kindergarden_classroom, amusement_park, pharmacy, bar"
+81,1944,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, bar, mosque/outdoor"
+82,1968,indoor,"kindergarden_classroom, ice_cream_parlor, pharmacy, amusement_park, ticket_booth"
+83,1992,indoor,"ice_cream_parlor, pharmacy, kindergarden_classroom, cafeteria, bar"
+84,2016,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, cafeteria"
+85,2040,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, laundromat, archive"
+86,2064,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, laundromat"
+87,2088,indoor,"ice_cream_parlor, ticket_booth, pharmacy, kindergarden_classroom, laundromat"
+88,2112,indoor,"ice_cream_parlor, kindergarden_classroom, ticket_booth, pharmacy, dressing_room"
+89,2136,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, nursery"
+90,2160,indoor,"ice_cream_parlor, archive, clean_room, museum/indoor, cemetery"
+91,2184,indoor,"ice_cream_parlor, archive, clean_room, schoolhouse, cemetery"
+92,2208,indoor,"archive, gymnasium/indoor, boxing_ring, music_studio, library/indoor"
+93,2232,indoor,"archive, music_studio, boxing_ring, museum/indoor, clean_room"
+94,2256,indoor,"archive, music_studio, boxing_ring, clean_room, museum/indoor"
+95,2280,indoor,"archive, music_studio, boxing_ring, clean_room, locker_room"
+96,2304,indoor,"archive, music_studio, boxing_ring, gymnasium/indoor, stage/indoor"
+97,2328,indoor,"dressing_room, museum/indoor, clean_room, locker_room, archive"
+98,2352,indoor,"locker_room, museum/indoor, clean_room, dressing_room, archive"
+99,2376,indoor,"clean_room, locker_room, museum/indoor, dressing_room, archive"
+100,2400,indoor,"clean_room, locker_room, dressing_room, archive, museum/indoor"
+101,2424,indoor,"dressing_room, locker_room, clean_room, archive, museum/indoor"
+102,2448,indoor,"clean_room, locker_room, dressing_room, museum/indoor, archive"
+103,2472,indoor,"discotheque, museum/indoor, art_gallery, natural_history_museum, science_museum"
+104,2496,indoor,"museum/indoor, stage/indoor, art_gallery, discotheque, natural_history_museum"
+105,2520,indoor,"museum/indoor, art_gallery, natural_history_museum, stage/indoor, science_museum"
+106,2544,indoor,"museum/indoor, art_gallery, stage/indoor, discotheque, natural_history_museum"
+107,2568,indoor,"museum/indoor, art_gallery, stage/indoor, discotheque, natural_history_museum"
+108,2592,indoor,"art_gallery, iceberg, natural_history_museum, museum/indoor, archive"
+109,2616,indoor,"art_gallery, natural_history_museum, museum/indoor, iceberg, science_museum"
+110,2640,outdoor,"shower, pond, lake/natural, forest/broadleaf, swamp"
+111,2664,outdoor,"shower, pond, lake/natural, swamp, bathroom"
+112,2688,outdoor,"iceberg, aquarium, natural_history_museum, lake/natural, pond"
+113,2712,indoor,"clean_room, iceberg, museum/indoor, natural_history_museum, science_museum"
+114,2736,indoor,"clean_room, natural_history_museum, museum/indoor, shower, nursery"
+115,2760,indoor,"museum/indoor, clean_room, iceberg, natural_history_museum, shower"
+116,2784,indoor,"museum/indoor, natural_history_museum, science_museum, shower, aquarium"
+117,2808,indoor,"clean_room, art_gallery, chemistry_lab, museum/indoor, jewelry_shop"
+118,2832,indoor,"clean_room, art_gallery, museum/indoor, natural_history_museum, jewelry_shop"
+119,2856,indoor,"clothing_store, shower, closet, nursery, dressing_room"
+120,2880,indoor,"clothing_store, shower, clean_room, museum/indoor, airport_terminal"
+121,2904,indoor,"pharmacy, drugstore, elevator/door, motel, coffee_shop"
+122,2928,indoor,"pharmacy, drugstore, motel, bowling_alley, beauty_salon"
+123,2952,indoor,"pharmacy, drugstore, beauty_salon, motel, bowling_alley"
+124,2976,indoor,"pharmacy, drugstore, motel, beauty_salon, bowling_alley"
+125,3000,indoor,"discotheque, shower, locker_room, basement, bathroom"
+126,3024,indoor,"reception, nursery, hospital_room, hospital, pharmacy"
+127,3048,indoor,"locker_room, airport_terminal, hospital, hospital_room, nursery"
+128,3072,indoor,"pharmacy, motel, drugstore, airport_terminal, hospital_room"
+129,3096,indoor,"motel, pharmacy, drugstore, bowling_alley, airport_terminal"
+130,3120,indoor,"motel, bowling_alley, pharmacy, drugstore, hospital_room"
+131,3144,indoor,"natural_history_museum, nursery, museum/indoor, elevator/door, airport_terminal"
+132,3168,indoor,"banquet_hall, dining_hall, restaurant, jewelry_shop, ballroom"
+133,3192,indoor,"restaurant, banquet_hall, jewelry_shop, cafeteria, conference_center"
+134,3216,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital_room"
+135,3240,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital"
+136,3264,indoor,"pharmacy, beauty_salon, drugstore, hospital_room, hospital"
+137,3288,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital_room"
+138,3312,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital"
+139,3336,indoor,"shower, natural_history_museum, discotheque, auditorium, museum/indoor"
+140,3360,indoor,"motel, airport_terminal, hospital_room, hospital, locker_room"
+141,3384,indoor,"bookstore, motel, department_store, airport_terminal, coffee_shop"
+142,3408,indoor,"bookstore, department_store, motel, airport_terminal, drugstore"
+143,3432,indoor,"department_store, bookstore, motel, airport_terminal, drugstore"
+144,3456,indoor,"motel, bookstore, coffee_shop, museum/indoor, archive"
+145,3480,indoor,"martial_arts_gym, airport_terminal, clean_room, museum/indoor, locker_room"
+146,3504,indoor,"laundromat, beauty_salon, pharmacy, airport_terminal, locker_room"
+147,3528,indoor,"locker_room, beauty_salon, department_store, clothing_store, dressing_room"
+148,3552,indoor,"locker_room, beauty_salon, clothing_store, dressing_room, department_store"
+149,3576,indoor,"locker_room, beauty_salon, nursery, dressing_room, clothing_store"
+150,3600,indoor,"locker_room, beauty_salon, dressing_room, nursery, clothing_store"
+151,3624,indoor,"locker_room, beauty_salon, dressing_room, nursery, clothing_store"
+152,3648,indoor,"locker_room, beauty_salon, department_store, dressing_room, nursery"
+153,3672,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+154,3696,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+155,3720,outdoor,"desert/sand, beach, lake/natural, marsh, sky"
+156,3744,outdoor,"desert/sand, beach, lake/natural, marsh, sky"

@@ -1,120 +1,120 @@
-,frame_num,environment,places,title,year,imdb_id
-0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh",Terror Street,1953,46411
-1,24,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, clean_room",Terror Street,1953,46411
-2,48,indoor,"nursery, museum/indoor, gift_shop, art_gallery, reception",Terror Street,1953,46411
-3,72,indoor,"nursery, reception, museum/indoor, pharmacy, lobby",Terror Street,1953,46411
-4,96,indoor,"shower, elevator/door, locker_room, jail_cell, bathroom",Terror Street,1953,46411
-5,120,indoor,"archive, beauty_salon, dressing_room, clean_room, nursery",Terror Street,1953,46411
-6,144,indoor,"hospital_room, clean_room, archive, pharmacy, beauty_salon",Terror Street,1953,46411
-7,168,indoor,"airport_terminal, hospital_room, archive, beauty_salon, pharmacy",Terror Street,1953,46411
-8,192,indoor,"martial_arts_gym, dressing_room, bathroom, boxing_ring, locker_room",Terror Street,1953,46411
-9,216,indoor,"locker_room, martial_arts_gym, dressing_room, boxing_ring, gymnasium/indoor",Terror Street,1953,46411
-10,240,indoor,"airport_terminal, elevator/door, locker_room, elevator_lobby, archive",Terror Street,1953,46411
-11,264,outdoor,"motel, airport_terminal, hospital, hospital_room, crosswalk",Terror Street,1953,46411
-12,288,outdoor,"motel, airport_terminal, hospital, hospital_room, crosswalk",Terror Street,1953,46411
-13,312,indoor,"airport_terminal, elevator/door, atrium/public, elevator_lobby, hospital_room",Terror Street,1953,46411
-14,336,indoor,"bow_window/indoor, shower, jail_cell, dressing_room, elevator/door",Terror Street,1953,46411
-15,360,indoor,"shower, bow_window/indoor, jail_cell, bathroom, elevator/door",Terror Street,1953,46411
-16,384,indoor,"dressing_room, nursery, shower, clean_room, museum/indoor",Terror Street,1953,46411
-17,408,indoor,"dressing_room, nursery, clean_room, shower, museum/indoor",Terror Street,1953,46411
-18,432,indoor,"dressing_room, nursery, clean_room, shower, museum/indoor",Terror Street,1953,46411
-19,456,indoor,"dressing_room, nursery, clean_room, museum/indoor, bow_window/indoor",Terror Street,1953,46411
-20,480,indoor,"dressing_room, nursery, clean_room, museum/indoor, art_gallery",Terror Street,1953,46411
-21,504,indoor,"dressing_room, nursery, museum/indoor, clean_room, bow_window/indoor",Terror Street,1953,46411
-22,528,indoor,"shower, jail_cell, bow_window/indoor, bathroom, locker_room",Terror Street,1953,46411
-23,552,indoor,"shower, bow_window/indoor, jail_cell, bathroom, dressing_room",Terror Street,1953,46411
-24,576,indoor,"shower, bow_window/indoor, bathroom, jail_cell, dressing_room",Terror Street,1953,46411
-25,600,indoor,"dressing_room, clean_room, nursing_home, nursery, living_room",Terror Street,1953,46411
-26,624,indoor,"dressing_room, nursery, nursing_home, clean_room, museum/indoor",Terror Street,1953,46411
-27,648,indoor,"dressing_room, nursery, clean_room, nursing_home, museum/indoor",Terror Street,1953,46411
-28,672,indoor,"dressing_room, nursery, clean_room, museum/indoor, archive",Terror Street,1953,46411
-29,696,indoor,"dressing_room, nursery, museum/indoor, nursing_home, clean_room",Terror Street,1953,46411
-30,720,indoor,"dressing_room, nursery, clean_room, museum/indoor, nursing_home",Terror Street,1953,46411
-31,744,indoor,"dressing_room, nursery, clean_room, nursing_home, museum/indoor",Terror Street,1953,46411
-32,768,indoor,"dressing_room, nursery, clean_room, nursing_home, stage/indoor",Terror Street,1953,46411
-33,792,indoor,"dressing_room, nursery, clean_room, nursing_home, museum/indoor",Terror Street,1953,46411
-34,816,indoor,"dressing_room, nursery, clean_room, museum/indoor, nursing_home",Terror Street,1953,46411
-35,840,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, science_museum",Terror Street,1953,46411
-36,864,indoor,"dressing_room, bathroom, shower, locker_room, clean_room",Terror Street,1953,46411
-37,888,indoor,"dressing_room, discotheque, beauty_salon, locker_room, airplane_cabin",Terror Street,1953,46411
-38,912,indoor,"closet, locker_room, server_room, dressing_room, office",Terror Street,1953,46411
-39,936,indoor,"office, bow_window/indoor, conference_room, hotel_room, dorm_room",Terror Street,1953,46411
-40,960,outdoor,"desert/sand, ice_floe, iceberg, lake/natural, glacier",Terror Street,1953,46411
-41,984,outdoor,"desert/sand, ice_floe, lake/natural, zen_garden, glacier",Terror Street,1953,46411
-42,1008,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, art_gallery",Terror Street,1953,46411
-43,1032,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, art_studio",Terror Street,1953,46411
-44,1056,indoor,"art_gallery, reception, lobby, parking_garage/indoor, museum/indoor",Terror Street,1953,46411
-45,1080,indoor,"art_gallery, reception, museum/indoor, jewelry_shop, lobby",Terror Street,1953,46411
-46,1104,indoor,"art_gallery, museum/indoor, science_museum, tower, chemistry_lab",Terror Street,1953,46411
-47,1128,indoor,"lake/natural, pond, martial_arts_gym, museum/indoor, art_gallery",Terror Street,1953,46411
-48,1152,indoor,"clean_room, airport_terminal, server_room, lobby, locker_room",Terror Street,1953,46411
-49,1176,indoor,"clean_room, airport_terminal, lobby, museum/indoor, basement",Terror Street,1953,46411
-50,1200,indoor,"jewelry_shop, reception, airport_terminal, art_gallery, lobby",Terror Street,1953,46411
-51,1224,indoor,"science_museum, museum/indoor, martial_arts_gym, beauty_salon, aquarium",Terror Street,1953,46411
-52,1248,indoor,"science_museum, art_gallery, museum/indoor, dressing_room, natural_history_museum",Terror Street,1953,46411
-53,1272,indoor,"museum/indoor, science_museum, martial_arts_gym, airport_terminal, art_gallery",Terror Street,1953,46411
-54,1296,indoor,"discotheque, stage/indoor, music_studio, science_museum, pond",Terror Street,1953,46411
-55,1320,indoor,"discotheque, stage/indoor, music_studio, basement, bar",Terror Street,1953,46411
-56,1344,indoor,"museum/indoor, art_gallery, dressing_room, locker_room, clean_room",Terror Street,1953,46411
-57,1368,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",Terror Street,1953,46411
-58,1392,indoor,"clean_room, dressing_room, hospital_room, martial_arts_gym, operating_room",Terror Street,1953,46411
-59,1416,indoor,"aquarium, science_museum, shower, natural_history_museum, pond",Terror Street,1953,46411
-60,1440,indoor,"archive, locker_room, pharmacy, library/indoor, drugstore",Terror Street,1953,46411
-61,1464,indoor,"archive, pharmacy, drugstore, chemistry_lab, clean_room",Terror Street,1953,46411
-62,1488,indoor,"archive, library/indoor, kindergarden_classroom, drugstore, pharmacy",Terror Street,1953,46411
-63,1512,indoor,"discotheque, bar, archive, chemistry_lab, drugstore",Terror Street,1953,46411
-64,1536,indoor,"bar, drugstore, pharmacy, hardware_store, candy_store",Terror Street,1953,46411
-65,1560,indoor,"archive, playground, chemistry_lab, clean_room, physics_laboratory",Terror Street,1953,46411
-66,1584,indoor,"discotheque, bar, playground, dressing_room, archive",Terror Street,1953,46411
-67,1608,indoor,"playground, archive, bar, pharmacy, crosswalk",Terror Street,1953,46411
-68,1632,indoor,"clean_room, chemistry_lab, physics_laboratory, archive, biology_laboratory",Terror Street,1953,46411
-69,1656,indoor,"archive, playground, pharmacy, drugstore, martial_arts_gym",Terror Street,1953,46411
-70,1680,indoor,"clean_room, martial_arts_gym, chemistry_lab, hospital_room, biology_laboratory",Terror Street,1953,46411
-71,1704,indoor,"corridor, elevator_lobby, clean_room, elevator/door, dressing_room",Terror Street,1953,46411
-72,1728,indoor,"corridor, basement, entrance_hall, staircase, attic",Terror Street,1953,46411
-73,1752,indoor,"nursery, museum/indoor, clean_room, art_gallery, discotheque",Terror Street,1953,46411
-74,1776,indoor,"shower, dressing_room, bathroom, corridor, clean_room",Terror Street,1953,46411
-75,1800,indoor,"nursery, childs_room, playroom, living_room, office",Terror Street,1953,46411
-76,1824,indoor,"chemistry_lab, clean_room, museum/indoor, biology_laboratory, beauty_salon",Terror Street,1953,46411
-77,1848,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, beauty_salon",Terror Street,1953,46411
-78,1872,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, beauty_salon",Terror Street,1953,46411
-79,1896,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, beauty_salon",Terror Street,1953,46411
-80,1920,indoor,"clean_room, chemistry_lab, museum/indoor, beauty_salon, biology_laboratory",Terror Street,1953,46411
-81,1944,indoor,"clean_room, museum/indoor, chemistry_lab, nursery, biology_laboratory",Terror Street,1953,46411
-82,1968,indoor,"clean_room, museum/indoor, nursery, chemistry_lab, dining_room",Terror Street,1953,46411
-83,1992,indoor,"clean_room, museum/indoor, chemistry_lab, nursery, biology_laboratory",Terror Street,1953,46411
-84,2016,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, nursery",Terror Street,1953,46411
-85,2040,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, stage/indoor",Terror Street,1953,46411
-86,2064,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, hospital_room",Terror Street,1953,46411
-87,2088,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, operating_room",Terror Street,1953,46411
-88,2112,indoor,"clean_room, hospital_room, museum/indoor, dressing_room, operating_room",Terror Street,1953,46411
-89,2136,indoor,"clean_room, hotel_room, dressing_room, bedroom, living_room",Terror Street,1953,46411
-90,2160,indoor,"locker_room, dressing_room, martial_arts_gym, elevator/door, elevator_lobby",Terror Street,1953,46411
-91,2184,indoor,"martial_arts_gym, locker_room, dressing_room, clean_room, basement",Terror Street,1953,46411
-92,2208,indoor,"clean_room, locker_room, archive, martial_arts_gym, art_gallery",Terror Street,1953,46411
-93,2232,indoor,"clean_room, art_gallery, locker_room, museum/indoor, martial_arts_gym",Terror Street,1953,46411
-94,2256,indoor,"clean_room, art_gallery, museum/indoor, locker_room, archive",Terror Street,1953,46411
-95,2280,indoor,"dressing_room, clean_room, locker_room, martial_arts_gym, basement",Terror Street,1953,46411
-96,2304,indoor,"martial_arts_gym, locker_room, dressing_room, clean_room, gymnasium/indoor",Terror Street,1953,46411
-97,2328,indoor,"corridor, entrance_hall, locker_room, museum/indoor, clean_room",Terror Street,1953,46411
-98,2352,indoor,"dressing_room, clean_room, art_gallery, bedroom, locker_room",Terror Street,1953,46411
-99,2376,indoor,"elevator_lobby, reception, conference_center, atrium/public, natural_history_museum",Terror Street,1953,46411
-100,2400,indoor,"nursery, pharmacy, hospital_room, reception, clothing_store",Terror Street,1953,46411
-101,2424,indoor,"pharmacy, nursery, drugstore, hospital_room, hospital",Terror Street,1953,46411
-102,2448,indoor,"pharmacy, hospital_room, nursery, reception, hospital",Terror Street,1953,46411
-103,2472,indoor,"pharmacy, reception, hospital_room, nursery, beauty_salon",Terror Street,1953,46411
-104,2496,indoor,"elevator/door, elevator_lobby, bow_window/indoor, locker_room, doorway/outdoor",Terror Street,1953,46411
-105,2520,indoor,"shower, elevator_lobby, elevator/door, bathroom, locker_room",Terror Street,1953,46411
-106,2544,indoor,"corridor, basement, attic, nursing_home, martial_arts_gym",Terror Street,1953,46411
-107,2568,indoor,"hospital_room, nursery, museum/indoor, elevator_lobby, art_gallery",Terror Street,1953,46411
-108,2592,indoor,"hospital_room, nursery, reception, beauty_salon, elevator_lobby",Terror Street,1953,46411
-109,2616,indoor,"hospital_room, beauty_salon, clean_room, reception, pharmacy",Terror Street,1953,46411
-110,2640,indoor,"art_gallery, corridor, museum/indoor, gymnasium/indoor, elevator_lobby",Terror Street,1953,46411
-111,2664,indoor,"motel, airport_terminal, museum/indoor, bowling_alley, gymnasium/indoor",Terror Street,1953,46411
-112,2688,indoor,"motel, airport_terminal, museum/indoor, archive, gymnasium/indoor",Terror Street,1953,46411
-113,2712,indoor,"motel, airport_terminal, museum/indoor, bowling_alley, gymnasium/indoor",Terror Street,1953,46411
-114,2736,indoor,"motel, airport_terminal, museum/indoor, office_cubicles, bowling_alley",Terror Street,1953,46411
-115,2760,indoor,"motel, airport_terminal, museum/indoor, gymnasium/indoor, hospital_room",Terror Street,1953,46411
-116,2784,outdoor,"desert/sand, sky, beach, lake/natural, marsh",Terror Street,1953,46411
-117,2808,outdoor,"desert/sand, sky, beach, lake/natural, marsh",Terror Street,1953,46411
-118,2832,outdoor,"desert/sand, sky, beach, lake/natural, marsh",Terror Street,1953,46411
+,frame_num,environment,places
+0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+1,24,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, clean_room"
+2,48,indoor,"nursery, museum/indoor, gift_shop, art_gallery, reception"
+3,72,indoor,"nursery, reception, museum/indoor, pharmacy, lobby"
+4,96,indoor,"shower, elevator/door, locker_room, jail_cell, bathroom"
+5,120,indoor,"archive, beauty_salon, dressing_room, clean_room, nursery"
+6,144,indoor,"hospital_room, clean_room, archive, pharmacy, beauty_salon"
+7,168,indoor,"airport_terminal, hospital_room, archive, beauty_salon, pharmacy"
+8,192,indoor,"martial_arts_gym, dressing_room, bathroom, boxing_ring, locker_room"
+9,216,indoor,"locker_room, martial_arts_gym, dressing_room, boxing_ring, gymnasium/indoor"
+10,240,indoor,"airport_terminal, elevator/door, locker_room, elevator_lobby, archive"
+11,264,outdoor,"motel, airport_terminal, hospital, hospital_room, crosswalk"
+12,288,outdoor,"motel, airport_terminal, hospital, hospital_room, crosswalk"
+13,312,indoor,"airport_terminal, elevator/door, atrium/public, elevator_lobby, hospital_room"
+14,336,indoor,"bow_window/indoor, shower, jail_cell, dressing_room, elevator/door"
+15,360,indoor,"shower, bow_window/indoor, jail_cell, bathroom, elevator/door"
+16,384,indoor,"dressing_room, nursery, shower, clean_room, museum/indoor"
+17,408,indoor,"dressing_room, nursery, clean_room, shower, museum/indoor"
+18,432,indoor,"dressing_room, nursery, clean_room, shower, museum/indoor"
+19,456,indoor,"dressing_room, nursery, clean_room, museum/indoor, bow_window/indoor"
+20,480,indoor,"dressing_room, nursery, clean_room, museum/indoor, art_gallery"
+21,504,indoor,"dressing_room, nursery, museum/indoor, clean_room, bow_window/indoor"
+22,528,indoor,"shower, jail_cell, bow_window/indoor, bathroom, locker_room"
+23,552,indoor,"shower, bow_window/indoor, jail_cell, bathroom, dressing_room"
+24,576,indoor,"shower, bow_window/indoor, bathroom, jail_cell, dressing_room"
+25,600,indoor,"dressing_room, clean_room, nursing_home, nursery, living_room"
+26,624,indoor,"dressing_room, nursery, nursing_home, clean_room, museum/indoor"
+27,648,indoor,"dressing_room, nursery, clean_room, nursing_home, museum/indoor"
+28,672,indoor,"dressing_room, nursery, clean_room, museum/indoor, archive"
+29,696,indoor,"dressing_room, nursery, museum/indoor, nursing_home, clean_room"
+30,720,indoor,"dressing_room, nursery, clean_room, museum/indoor, nursing_home"
+31,744,indoor,"dressing_room, nursery, clean_room, nursing_home, museum/indoor"
+32,768,indoor,"dressing_room, nursery, clean_room, nursing_home, stage/indoor"
+33,792,indoor,"dressing_room, nursery, clean_room, nursing_home, museum/indoor"
+34,816,indoor,"dressing_room, nursery, clean_room, museum/indoor, nursing_home"
+35,840,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, science_museum"
+36,864,indoor,"dressing_room, bathroom, shower, locker_room, clean_room"
+37,888,indoor,"dressing_room, discotheque, beauty_salon, locker_room, airplane_cabin"
+38,912,indoor,"closet, locker_room, server_room, dressing_room, office"
+39,936,indoor,"office, bow_window/indoor, conference_room, hotel_room, dorm_room"
+40,960,outdoor,"desert/sand, ice_floe, iceberg, lake/natural, glacier"
+41,984,outdoor,"desert/sand, ice_floe, lake/natural, zen_garden, glacier"
+42,1008,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, art_gallery"
+43,1032,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, art_studio"
+44,1056,indoor,"art_gallery, reception, lobby, parking_garage/indoor, museum/indoor"
+45,1080,indoor,"art_gallery, reception, museum/indoor, jewelry_shop, lobby"
+46,1104,indoor,"art_gallery, museum/indoor, science_museum, tower, chemistry_lab"
+47,1128,indoor,"lake/natural, pond, martial_arts_gym, museum/indoor, art_gallery"
+48,1152,indoor,"clean_room, airport_terminal, server_room, lobby, locker_room"
+49,1176,indoor,"clean_room, airport_terminal, lobby, museum/indoor, basement"
+50,1200,indoor,"jewelry_shop, reception, airport_terminal, art_gallery, lobby"
+51,1224,indoor,"science_museum, museum/indoor, martial_arts_gym, beauty_salon, aquarium"
+52,1248,indoor,"science_museum, art_gallery, museum/indoor, dressing_room, natural_history_museum"
+53,1272,indoor,"museum/indoor, science_museum, martial_arts_gym, airport_terminal, art_gallery"
+54,1296,indoor,"discotheque, stage/indoor, music_studio, science_museum, pond"
+55,1320,indoor,"discotheque, stage/indoor, music_studio, basement, bar"
+56,1344,indoor,"museum/indoor, art_gallery, dressing_room, locker_room, clean_room"
+57,1368,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum"
+58,1392,indoor,"clean_room, dressing_room, hospital_room, martial_arts_gym, operating_room"
+59,1416,indoor,"aquarium, science_museum, shower, natural_history_museum, pond"
+60,1440,indoor,"archive, locker_room, pharmacy, library/indoor, drugstore"
+61,1464,indoor,"archive, pharmacy, drugstore, chemistry_lab, clean_room"
+62,1488,indoor,"archive, library/indoor, kindergarden_classroom, drugstore, pharmacy"
+63,1512,indoor,"discotheque, bar, archive, chemistry_lab, drugstore"
+64,1536,indoor,"bar, drugstore, pharmacy, hardware_store, candy_store"
+65,1560,indoor,"archive, playground, chemistry_lab, clean_room, physics_laboratory"
+66,1584,indoor,"discotheque, bar, playground, dressing_room, archive"
+67,1608,indoor,"playground, archive, bar, pharmacy, crosswalk"
+68,1632,indoor,"clean_room, chemistry_lab, physics_laboratory, archive, biology_laboratory"
+69,1656,indoor,"archive, playground, pharmacy, drugstore, martial_arts_gym"
+70,1680,indoor,"clean_room, martial_arts_gym, chemistry_lab, hospital_room, biology_laboratory"
+71,1704,indoor,"corridor, elevator_lobby, clean_room, elevator/door, dressing_room"
+72,1728,indoor,"corridor, basement, entrance_hall, staircase, attic"
+73,1752,indoor,"nursery, museum/indoor, clean_room, art_gallery, discotheque"
+74,1776,indoor,"shower, dressing_room, bathroom, corridor, clean_room"
+75,1800,indoor,"nursery, childs_room, playroom, living_room, office"
+76,1824,indoor,"chemistry_lab, clean_room, museum/indoor, biology_laboratory, beauty_salon"
+77,1848,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, beauty_salon"
+78,1872,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, beauty_salon"
+79,1896,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, beauty_salon"
+80,1920,indoor,"clean_room, chemistry_lab, museum/indoor, beauty_salon, biology_laboratory"
+81,1944,indoor,"clean_room, museum/indoor, chemistry_lab, nursery, biology_laboratory"
+82,1968,indoor,"clean_room, museum/indoor, nursery, chemistry_lab, dining_room"
+83,1992,indoor,"clean_room, museum/indoor, chemistry_lab, nursery, biology_laboratory"
+84,2016,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, nursery"
+85,2040,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, stage/indoor"
+86,2064,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, hospital_room"
+87,2088,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, operating_room"
+88,2112,indoor,"clean_room, hospital_room, museum/indoor, dressing_room, operating_room"
+89,2136,indoor,"clean_room, hotel_room, dressing_room, bedroom, living_room"
+90,2160,indoor,"locker_room, dressing_room, martial_arts_gym, elevator/door, elevator_lobby"
+91,2184,indoor,"martial_arts_gym, locker_room, dressing_room, clean_room, basement"
+92,2208,indoor,"clean_room, locker_room, archive, martial_arts_gym, art_gallery"
+93,2232,indoor,"clean_room, art_gallery, locker_room, museum/indoor, martial_arts_gym"
+94,2256,indoor,"clean_room, art_gallery, museum/indoor, locker_room, archive"
+95,2280,indoor,"dressing_room, clean_room, locker_room, martial_arts_gym, basement"
+96,2304,indoor,"martial_arts_gym, locker_room, dressing_room, clean_room, gymnasium/indoor"
+97,2328,indoor,"corridor, entrance_hall, locker_room, museum/indoor, clean_room"
+98,2352,indoor,"dressing_room, clean_room, art_gallery, bedroom, locker_room"
+99,2376,indoor,"elevator_lobby, reception, conference_center, atrium/public, natural_history_museum"
+100,2400,indoor,"nursery, pharmacy, hospital_room, reception, clothing_store"
+101,2424,indoor,"pharmacy, nursery, drugstore, hospital_room, hospital"
+102,2448,indoor,"pharmacy, hospital_room, nursery, reception, hospital"
+103,2472,indoor,"pharmacy, reception, hospital_room, nursery, beauty_salon"
+104,2496,indoor,"elevator/door, elevator_lobby, bow_window/indoor, locker_room, doorway/outdoor"
+105,2520,indoor,"shower, elevator_lobby, elevator/door, bathroom, locker_room"
+106,2544,indoor,"corridor, basement, attic, nursing_home, martial_arts_gym"
+107,2568,indoor,"hospital_room, nursery, museum/indoor, elevator_lobby, art_gallery"
+108,2592,indoor,"hospital_room, nursery, reception, beauty_salon, elevator_lobby"
+109,2616,indoor,"hospital_room, beauty_salon, clean_room, reception, pharmacy"
+110,2640,indoor,"art_gallery, corridor, museum/indoor, gymnasium/indoor, elevator_lobby"
+111,2664,indoor,"motel, airport_terminal, museum/indoor, bowling_alley, gymnasium/indoor"
+112,2688,indoor,"motel, airport_terminal, museum/indoor, archive, gymnasium/indoor"
+113,2712,indoor,"motel, airport_terminal, museum/indoor, bowling_alley, gymnasium/indoor"
+114,2736,indoor,"motel, airport_terminal, museum/indoor, office_cubicles, bowling_alley"
+115,2760,indoor,"motel, airport_terminal, museum/indoor, gymnasium/indoor, hospital_room"
+116,2784,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+117,2808,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+118,2832,outdoor,"desert/sand, sky, beach, lake/natural, marsh"

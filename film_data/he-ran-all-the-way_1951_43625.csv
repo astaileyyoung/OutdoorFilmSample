@@ -1,168 +1,168 @@
-,frame_num,environment,places,title,year,imdb_id
-0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh",He Ran All The Way,1951,43625
-1,24,outdoor,"desert/sand, sky, beach, lake/natural, marsh",He Ran All The Way,1951,43625
-2,48,indoor,"dressing_room, shower, nursery, jacuzzi/indoor, bedroom",He Ran All The Way,1951,43625
-3,72,indoor,"nursery, childs_room, bakery/shop, bedroom, bow_window/indoor",He Ran All The Way,1951,43625
-4,96,indoor,"nursery, childs_room, bakery/shop, bedroom, gift_shop",He Ran All The Way,1951,43625
-5,120,indoor,"nursery, childs_room, bakery/shop, bedroom, gift_shop",He Ran All The Way,1951,43625
-6,144,indoor,"nursery, childs_room, bakery/shop, gift_shop, bedroom",He Ran All The Way,1951,43625
-7,168,indoor,"nursery, home_office, archive, computer_room, office",He Ran All The Way,1951,43625
-8,192,indoor,"dressing_room, shower, discotheque, bedroom, bathroom",He Ran All The Way,1951,43625
-9,216,indoor,"dressing_room, discotheque, shower, bathroom, jacuzzi/indoor",He Ran All The Way,1951,43625
-10,240,indoor,"dressing_room, shower, discotheque, bathroom, bedroom",He Ran All The Way,1951,43625
-11,264,indoor,"dressing_room, shower, discotheque, nursery, bedroom",He Ran All The Way,1951,43625
-12,288,indoor,"dressing_room, discotheque, shower, bedroom, bathroom",He Ran All The Way,1951,43625
-13,312,indoor,"dressing_room, discotheque, shower, bedroom, bathroom",He Ran All The Way,1951,43625
-14,336,indoor,"dressing_room, discotheque, shower, bedroom, bathroom",He Ran All The Way,1951,43625
-15,360,indoor,"dressing_room, shower, discotheque, bathroom, bedroom",He Ran All The Way,1951,43625
-16,384,indoor,"shower, bathroom, beauty_salon, discotheque, nursery",He Ran All The Way,1951,43625
-17,408,indoor,"bathroom, shower, museum/indoor, art_gallery, beauty_salon",He Ran All The Way,1951,43625
-18,432,indoor,"shower, bank_vault, barndoor, elevator/door, jail_cell",He Ran All The Way,1951,43625
-19,456,indoor,"museum/indoor, nursery, natural_history_museum, art_gallery, science_museum",He Ran All The Way,1951,43625
-20,480,indoor,"museum/indoor, beauty_salon, nursery, clothing_store, elevator_lobby",He Ran All The Way,1951,43625
-21,504,indoor,"museum/indoor, natural_history_museum, elevator/door, elevator_lobby, discotheque",He Ran All The Way,1951,43625
-22,528,indoor,"clean_room, dressing_room, museum/indoor, music_studio, stage/indoor",He Ran All The Way,1951,43625
-23,552,indoor,"museum/indoor, elevator/door, music_studio, subway_station/platform, elevator_lobby",He Ran All The Way,1951,43625
-24,576,indoor,"museum/indoor, elevator/door, subway_station/platform, music_studio, elevator_lobby",He Ran All The Way,1951,43625
-25,600,indoor,"elevator/door, music_studio, museum/indoor, elevator_lobby, nursery",He Ran All The Way,1951,43625
-26,624,indoor,"clean_room, operating_room, hospital_room, dressing_room, elevator/door",He Ran All The Way,1951,43625
-27,648,indoor,"living_room, hotel_room, bow_window/indoor, dressing_room, bathroom",He Ran All The Way,1951,43625
-28,672,indoor,"clean_room, living_room, lobby, bow_window/indoor, elevator_lobby",He Ran All The Way,1951,43625
-29,696,indoor,"elevator_lobby, elevator/door, bank_vault, airport_terminal, lobby",He Ran All The Way,1951,43625
-30,720,indoor,"elevator_lobby, elevator/door, bank_vault, airport_terminal, locker_room",He Ran All The Way,1951,43625
-31,744,indoor,"elevator/door, elevator_lobby, bank_vault, locker_room, clean_room",He Ran All The Way,1951,43625
-32,768,indoor,"clean_room, dressing_room, living_room, hospital_room, dining_room",He Ran All The Way,1951,43625
-33,792,indoor,"pharmacy, drugstore, beauty_salon, nursery, hospital_room",He Ran All The Way,1951,43625
-34,816,indoor,"beauty_salon, hospital_room, pharmacy, elevator_lobby, drugstore",He Ran All The Way,1951,43625
-35,840,indoor,"elevator_lobby, elevator/door, beauty_salon, hospital_room, museum/indoor",He Ran All The Way,1951,43625
-36,864,indoor,"beauty_salon, hospital_room, elevator_lobby, pharmacy, reception",He Ran All The Way,1951,43625
-37,888,indoor,"discotheque, museum/indoor, hospital_room, nursery, beauty_salon",He Ran All The Way,1951,43625
-38,912,indoor,"beauty_salon, archive, jewelry_shop, office, office_cubicles",He Ran All The Way,1951,43625
-39,936,indoor,"atrium/public, shopping_mall/indoor, archive, entrance_hall, library/indoor",He Ran All The Way,1951,43625
-40,960,indoor,"atrium/public, shopping_mall/indoor, archive, mezzanine, entrance_hall",He Ran All The Way,1951,43625
-41,984,indoor,"atrium/public, archive, shopping_mall/indoor, mezzanine, library/indoor",He Ran All The Way,1951,43625
-42,1008,indoor,"clean_room, office_cubicles, archive, atrium/public, office",He Ran All The Way,1951,43625
-43,1032,indoor,"clean_room, archive, office_cubicles, atrium/public, airport_terminal",He Ran All The Way,1951,43625
-44,1056,indoor,"bow_window/indoor, ice_shelf, barndoor, jail_cell, clean_room",He Ran All The Way,1951,43625
-45,1080,indoor,"bow_window/indoor, shower, doorway/outdoor, bathroom, barndoor",He Ran All The Way,1951,43625
-46,1104,outdoor,"bow_window/indoor, doorway/outdoor, balcony/interior, barndoor, bathroom",He Ran All The Way,1951,43625
-47,1128,indoor,"bow_window/indoor, shower, balcony/interior, bathroom, artists_loft",He Ran All The Way,1951,43625
-48,1152,indoor,"bow_window/indoor, clothing_store, dressing_room, artists_loft, bedroom",He Ran All The Way,1951,43625
-49,1176,indoor,"bow_window/indoor, dressing_room, artists_loft, locker_room, bathroom",He Ran All The Way,1951,43625
-50,1200,indoor,"museum/indoor, bow_window/indoor, schoolhouse, art_gallery, jail_cell",He Ran All The Way,1951,43625
-51,1224,indoor,"museum/indoor, art_gallery, shower, science_museum, clean_room",He Ran All The Way,1951,43625
-52,1248,indoor,"archive, classroom, art_gallery, bow_window/indoor, lecture_room",He Ran All The Way,1951,43625
-53,1272,indoor,"archive, classroom, bow_window/indoor, library/indoor, lecture_room",He Ran All The Way,1951,43625
-54,1296,indoor,"bow_window/indoor, elevator_shaft, atrium/public, shower, alcove",He Ran All The Way,1951,43625
-55,1320,indoor,"bow_window/indoor, archive, staircase, atrium/public, balcony/interior",He Ran All The Way,1951,43625
-56,1344,indoor,"entrance_hall, staircase, clean_room, bridge, arch",He Ran All The Way,1951,43625
-57,1368,indoor,"clean_room, staircase, entrance_hall, museum/indoor, arch",He Ran All The Way,1951,43625
-58,1392,indoor,"museum/indoor, staircase, bridge, clean_room, entrance_hall",He Ran All The Way,1951,43625
-59,1416,indoor,"discotheque, classroom, restaurant, bar, kindergarden_classroom",He Ran All The Way,1951,43625
-60,1440,indoor,"butchers_shop, dressing_room, hospital_room, operating_room, clean_room",He Ran All The Way,1951,43625
-61,1464,indoor,"bar, beauty_salon, pharmacy, ice_cream_parlor, discotheque",He Ran All The Way,1951,43625
-62,1488,indoor,"dressing_room, bar, locker_room, beauty_salon, discotheque",He Ran All The Way,1951,43625
-63,1512,indoor,"clean_room, hospital_room, operating_room, ice_cream_parlor, chemistry_lab",He Ran All The Way,1951,43625
-64,1536,indoor,"aquarium, discotheque, swimming_pool/indoor, museum/indoor, ice_floe",He Ran All The Way,1951,43625
-65,1560,indoor,"nursery, ball_pit, aquarium, ice_floe, igloo",He Ran All The Way,1951,43625
-66,1584,indoor,"ball_pit, swimming_pool/indoor, discotheque, nursery, martial_arts_gym",He Ran All The Way,1951,43625
-67,1608,indoor,"museum/indoor, nursery, swimming_pool/indoor, playground, martial_arts_gym",He Ran All The Way,1951,43625
-68,1632,indoor,"ice_floe, nursery, ball_pit, swimming_pool/indoor, bedroom",He Ran All The Way,1951,43625
-69,1656,indoor,"museum/indoor, nursery, aquarium, discotheque, ice_cream_parlor",He Ran All The Way,1951,43625
-70,1680,indoor,"bowling_alley, discotheque, martial_arts_gym, kindergarden_classroom, dressing_room",He Ran All The Way,1951,43625
-71,1704,indoor,"archive, clean_room, chemistry_lab, swimming_pool/indoor, ice_cream_parlor",He Ran All The Way,1951,43625
-72,1728,indoor,"swimming_pool/indoor, clean_room, archive, martial_arts_gym, airport_terminal",He Ran All The Way,1951,43625
-73,1752,indoor,"clean_room, archive, pharmacy, drugstore, hospital_room",He Ran All The Way,1951,43625
-74,1776,indoor,"archive, bookstore, drugstore, pharmacy, library/indoor",He Ran All The Way,1951,43625
-75,1800,indoor,"pharmacy, clean_room, drugstore, ice_cream_parlor, archive",He Ran All The Way,1951,43625
-76,1824,indoor,"clean_room, dressing_room, museum/indoor, office, physics_laboratory",He Ran All The Way,1951,43625
-77,1848,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, office",He Ran All The Way,1951,43625
-78,1872,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, nursing_home",He Ran All The Way,1951,43625
-79,1896,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, office",He Ran All The Way,1951,43625
-80,1920,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, nursing_home",He Ran All The Way,1951,43625
-81,1944,indoor,"clean_room, discotheque, dressing_room, stage/indoor, music_studio",He Ran All The Way,1951,43625
-82,1968,indoor,"clean_room, dressing_room, nursing_home, living_room, hospital_room",He Ran All The Way,1951,43625
-83,1992,indoor,"clean_room, dressing_room, living_room, nursing_home, nursery",He Ran All The Way,1951,43625
-84,2016,indoor,"clean_room, dressing_room, living_room, hospital_room, nursery",He Ran All The Way,1951,43625
-85,2040,indoor,"clean_room, dressing_room, living_room, bedroom, hospital_room",He Ran All The Way,1951,43625
-86,2064,indoor,"dressing_room, clean_room, archive, office, hospital_room",He Ran All The Way,1951,43625
-87,2088,indoor,"clean_room, dressing_room, archive, beauty_salon, hospital_room",He Ran All The Way,1951,43625
-88,2112,indoor,"dressing_room, clean_room, beauty_salon, archive, hospital_room",He Ran All The Way,1951,43625
-89,2136,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, nursing_home",He Ran All The Way,1951,43625
-90,2160,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, nursing_home",He Ran All The Way,1951,43625
-91,2184,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, archive",He Ran All The Way,1951,43625
-92,2208,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, hospital_room",He Ran All The Way,1951,43625
-93,2232,indoor,"dressing_room, clean_room, beauty_salon, locker_room, hospital_room",He Ran All The Way,1951,43625
-94,2256,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room",He Ran All The Way,1951,43625
-95,2280,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room",He Ran All The Way,1951,43625
-96,2304,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, archive",He Ran All The Way,1951,43625
-97,2328,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, archive",He Ran All The Way,1951,43625
-98,2352,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room",He Ran All The Way,1951,43625
-99,2376,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room",He Ran All The Way,1951,43625
-100,2400,indoor,"dressing_room, clean_room, locker_room, nursing_home, beauty_salon",He Ran All The Way,1951,43625
-101,2424,indoor,"dressing_room, clean_room, nursing_home, locker_room, archive",He Ran All The Way,1951,43625
-102,2448,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, archive",He Ran All The Way,1951,43625
-103,2472,indoor,"dressing_room, clean_room, nursing_home, archive, beauty_salon",He Ran All The Way,1951,43625
-104,2496,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, archive",He Ran All The Way,1951,43625
-105,2520,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, hospital_room",He Ran All The Way,1951,43625
-106,2544,indoor,"dressing_room, clean_room, nursing_home, hospital_room, beauty_salon",He Ran All The Way,1951,43625
-107,2568,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, archive",He Ran All The Way,1951,43625
-108,2592,indoor,"dressing_room, clean_room, archive, nursing_home, beauty_salon",He Ran All The Way,1951,43625
-109,2616,indoor,"dressing_room, clean_room, archive, beauty_salon, locker_room",He Ran All The Way,1951,43625
-110,2640,indoor,"dressing_room, clean_room, archive, locker_room, beauty_salon",He Ran All The Way,1951,43625
-111,2664,indoor,"dressing_room, clean_room, archive, nursing_home, locker_room",He Ran All The Way,1951,43625
-112,2688,indoor,"dressing_room, clean_room, archive, nursing_home, beauty_salon",He Ran All The Way,1951,43625
-113,2712,indoor,"hospital_room, clean_room, hotel_room, bedroom, dressing_room",He Ran All The Way,1951,43625
-114,2736,indoor,"dressing_room, clothing_store, bow_window/indoor, closet, ice_shelf",He Ran All The Way,1951,43625
-115,2760,indoor,"bow_window/indoor, bedroom, hospital_room, hotel_room, dressing_room",He Ran All The Way,1951,43625
-116,2784,indoor,"hotel_room, bedroom, hospital_room, dressing_room, bedchamber",He Ran All The Way,1951,43625
-117,2808,indoor,"bow_window/indoor, bedroom, bedchamber, hotel_room, hospital_room",He Ran All The Way,1951,43625
-118,2832,outdoor,"ice_shelf, bow_window/indoor, bedroom, hot_spring, ice_floe",He Ran All The Way,1951,43625
-119,2856,indoor,"clean_room, dressing_room, nursery, museum/indoor, hospital_room",He Ran All The Way,1951,43625
-120,2880,indoor,"dressing_room, clean_room, nursery, museum/indoor, beauty_salon",He Ran All The Way,1951,43625
-121,2904,indoor,"dressing_room, clean_room, discotheque, office_cubicles, archive",He Ran All The Way,1951,43625
-122,2928,indoor,"dressing_room, clean_room, discotheque, archive, office_cubicles",He Ran All The Way,1951,43625
-123,2952,indoor,"dressing_room, clean_room, discotheque, archive, office",He Ran All The Way,1951,43625
-124,2976,indoor,"clean_room, chemistry_lab, dressing_room, office_cubicles, discotheque",He Ran All The Way,1951,43625
-125,3000,indoor,"dressing_room, discotheque, clean_room, chemistry_lab, stage/indoor",He Ran All The Way,1951,43625
-126,3024,indoor,"discotheque, clean_room, chemistry_lab, dressing_room, ballroom",He Ran All The Way,1951,43625
-127,3048,indoor,"clean_room, dressing_room, discotheque, chemistry_lab, sauna",He Ran All The Way,1951,43625
-128,3072,indoor,"clean_room, discotheque, chemistry_lab, dressing_room, stage/indoor",He Ran All The Way,1951,43625
-129,3096,indoor,"discotheque, clean_room, stage/indoor, dressing_room, chemistry_lab",He Ran All The Way,1951,43625
-130,3120,indoor,"clean_room, clothing_store, dressing_room, locker_room, nursery",He Ran All The Way,1951,43625
-131,3144,indoor,"clothing_store, reception, beauty_salon, elevator_lobby, shoe_shop",He Ran All The Way,1951,43625
-132,3168,indoor,"beauty_salon, clothing_store, shoe_shop, coffee_shop, jewelry_shop",He Ran All The Way,1951,43625
-133,3192,indoor,"shoe_shop, coffee_shop, beauty_salon, gift_shop, clothing_store",He Ran All The Way,1951,43625
-134,3216,indoor,"clean_room, museum/indoor, discotheque, art_gallery, dressing_room",He Ran All The Way,1951,43625
-135,3240,indoor,"clean_room, hospital_room, hospital, archive, office",He Ran All The Way,1951,43625
-136,3264,indoor,"hospital_room, nursery, clothing_store, hospital, museum/indoor",He Ran All The Way,1951,43625
-137,3288,indoor,"hospital_room, clean_room, clothing_store, nursery, hospital",He Ran All The Way,1951,43625
-138,3312,indoor,"stage/indoor, discotheque, museum/indoor, music_studio, clean_room",He Ran All The Way,1951,43625
-139,3336,indoor,"pharmacy, archive, nursery, hospital_room, clean_room",He Ran All The Way,1951,43625
-140,3360,indoor,"hospital, pharmacy, hospital_room, clean_room, airport_terminal",He Ran All The Way,1951,43625
-141,3384,indoor,"hospital, airport_terminal, hospital_room, pharmacy, beauty_salon",He Ran All The Way,1951,43625
-142,3408,indoor,"hospital, pharmacy, hospital_room, beauty_salon, drugstore",He Ran All The Way,1951,43625
-143,3432,indoor,"hospital, motel, hospital_room, pharmacy, beauty_salon",He Ran All The Way,1951,43625
-144,3456,indoor,"hospital, hospital_room, motel, pharmacy, beauty_salon",He Ran All The Way,1951,43625
-145,3480,indoor,"staircase, wind_farm, mezzanine, windmill, museum/indoor",He Ran All The Way,1951,43625
-146,3504,indoor,"museum/indoor, staircase, mezzanine, art_gallery, entrance_hall",He Ran All The Way,1951,43625
-147,3528,indoor,"staircase, museum/indoor, stage/indoor, music_studio, gymnasium/indoor",He Ran All The Way,1951,43625
-148,3552,indoor,"staircase, museum/indoor, nursery, art_gallery, classroom",He Ran All The Way,1951,43625
-149,3576,indoor,"clean_room, martial_arts_gym, locker_room, entrance_hall, museum/indoor",He Ran All The Way,1951,43625
-150,3600,indoor,"clean_room, martial_arts_gym, entrance_hall, locker_room, museum/indoor",He Ran All The Way,1951,43625
-151,3624,indoor,"clean_room, martial_arts_gym, entrance_hall, schoolhouse, locker_room",He Ran All The Way,1951,43625
-152,3648,indoor,"clean_room, martial_arts_gym, schoolhouse, museum/indoor, entrance_hall",He Ran All The Way,1951,43625
-153,3672,indoor,"clean_room, martial_arts_gym, schoolhouse, museum/indoor, entrance_hall",He Ran All The Way,1951,43625
-154,3696,indoor,"clean_room, elevator/door, archive, bank_vault, locker_room",He Ran All The Way,1951,43625
-155,3720,indoor,"clean_room, elevator/door, archive, doorway/outdoor, hospital_room",He Ran All The Way,1951,43625
-156,3744,indoor,"clean_room, archive, elevator/door, hospital_room, locker_room",He Ran All The Way,1951,43625
-157,3768,indoor,"clean_room, archive, hospital_room, operating_room, beauty_salon",He Ran All The Way,1951,43625
-158,3792,indoor,"archive, bookstore, museum/indoor, nursery, library/indoor",He Ran All The Way,1951,43625
-159,3816,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor",He Ran All The Way,1951,43625
-160,3840,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor",He Ran All The Way,1951,43625
-161,3864,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor",He Ran All The Way,1951,43625
-162,3888,indoor,"archive, museum/indoor, nursery, bookstore, library/indoor",He Ran All The Way,1951,43625
-163,3912,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor",He Ran All The Way,1951,43625
-164,3936,outdoor,"desert/sand, sky, beach, lake/natural, marsh",He Ran All The Way,1951,43625
-165,3960,outdoor,"desert/sand, sky, beach, lake/natural, marsh",He Ran All The Way,1951,43625
-166,3984,outdoor,"desert/sand, sky, beach, lake/natural, marsh",He Ran All The Way,1951,43625
+,frame_num,environment,places
+0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+1,24,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+2,48,indoor,"dressing_room, shower, nursery, jacuzzi/indoor, bedroom"
+3,72,indoor,"nursery, childs_room, bakery/shop, bedroom, bow_window/indoor"
+4,96,indoor,"nursery, childs_room, bakery/shop, bedroom, gift_shop"
+5,120,indoor,"nursery, childs_room, bakery/shop, bedroom, gift_shop"
+6,144,indoor,"nursery, childs_room, bakery/shop, gift_shop, bedroom"
+7,168,indoor,"nursery, home_office, archive, computer_room, office"
+8,192,indoor,"dressing_room, shower, discotheque, bedroom, bathroom"
+9,216,indoor,"dressing_room, discotheque, shower, bathroom, jacuzzi/indoor"
+10,240,indoor,"dressing_room, shower, discotheque, bathroom, bedroom"
+11,264,indoor,"dressing_room, shower, discotheque, nursery, bedroom"
+12,288,indoor,"dressing_room, discotheque, shower, bedroom, bathroom"
+13,312,indoor,"dressing_room, discotheque, shower, bedroom, bathroom"
+14,336,indoor,"dressing_room, discotheque, shower, bedroom, bathroom"
+15,360,indoor,"dressing_room, shower, discotheque, bathroom, bedroom"
+16,384,indoor,"shower, bathroom, beauty_salon, discotheque, nursery"
+17,408,indoor,"bathroom, shower, museum/indoor, art_gallery, beauty_salon"
+18,432,indoor,"shower, bank_vault, barndoor, elevator/door, jail_cell"
+19,456,indoor,"museum/indoor, nursery, natural_history_museum, art_gallery, science_museum"
+20,480,indoor,"museum/indoor, beauty_salon, nursery, clothing_store, elevator_lobby"
+21,504,indoor,"museum/indoor, natural_history_museum, elevator/door, elevator_lobby, discotheque"
+22,528,indoor,"clean_room, dressing_room, museum/indoor, music_studio, stage/indoor"
+23,552,indoor,"museum/indoor, elevator/door, music_studio, subway_station/platform, elevator_lobby"
+24,576,indoor,"museum/indoor, elevator/door, subway_station/platform, music_studio, elevator_lobby"
+25,600,indoor,"elevator/door, music_studio, museum/indoor, elevator_lobby, nursery"
+26,624,indoor,"clean_room, operating_room, hospital_room, dressing_room, elevator/door"
+27,648,indoor,"living_room, hotel_room, bow_window/indoor, dressing_room, bathroom"
+28,672,indoor,"clean_room, living_room, lobby, bow_window/indoor, elevator_lobby"
+29,696,indoor,"elevator_lobby, elevator/door, bank_vault, airport_terminal, lobby"
+30,720,indoor,"elevator_lobby, elevator/door, bank_vault, airport_terminal, locker_room"
+31,744,indoor,"elevator/door, elevator_lobby, bank_vault, locker_room, clean_room"
+32,768,indoor,"clean_room, dressing_room, living_room, hospital_room, dining_room"
+33,792,indoor,"pharmacy, drugstore, beauty_salon, nursery, hospital_room"
+34,816,indoor,"beauty_salon, hospital_room, pharmacy, elevator_lobby, drugstore"
+35,840,indoor,"elevator_lobby, elevator/door, beauty_salon, hospital_room, museum/indoor"
+36,864,indoor,"beauty_salon, hospital_room, elevator_lobby, pharmacy, reception"
+37,888,indoor,"discotheque, museum/indoor, hospital_room, nursery, beauty_salon"
+38,912,indoor,"beauty_salon, archive, jewelry_shop, office, office_cubicles"
+39,936,indoor,"atrium/public, shopping_mall/indoor, archive, entrance_hall, library/indoor"
+40,960,indoor,"atrium/public, shopping_mall/indoor, archive, mezzanine, entrance_hall"
+41,984,indoor,"atrium/public, archive, shopping_mall/indoor, mezzanine, library/indoor"
+42,1008,indoor,"clean_room, office_cubicles, archive, atrium/public, office"
+43,1032,indoor,"clean_room, archive, office_cubicles, atrium/public, airport_terminal"
+44,1056,indoor,"bow_window/indoor, ice_shelf, barndoor, jail_cell, clean_room"
+45,1080,indoor,"bow_window/indoor, shower, doorway/outdoor, bathroom, barndoor"
+46,1104,outdoor,"bow_window/indoor, doorway/outdoor, balcony/interior, barndoor, bathroom"
+47,1128,indoor,"bow_window/indoor, shower, balcony/interior, bathroom, artists_loft"
+48,1152,indoor,"bow_window/indoor, clothing_store, dressing_room, artists_loft, bedroom"
+49,1176,indoor,"bow_window/indoor, dressing_room, artists_loft, locker_room, bathroom"
+50,1200,indoor,"museum/indoor, bow_window/indoor, schoolhouse, art_gallery, jail_cell"
+51,1224,indoor,"museum/indoor, art_gallery, shower, science_museum, clean_room"
+52,1248,indoor,"archive, classroom, art_gallery, bow_window/indoor, lecture_room"
+53,1272,indoor,"archive, classroom, bow_window/indoor, library/indoor, lecture_room"
+54,1296,indoor,"bow_window/indoor, elevator_shaft, atrium/public, shower, alcove"
+55,1320,indoor,"bow_window/indoor, archive, staircase, atrium/public, balcony/interior"
+56,1344,indoor,"entrance_hall, staircase, clean_room, bridge, arch"
+57,1368,indoor,"clean_room, staircase, entrance_hall, museum/indoor, arch"
+58,1392,indoor,"museum/indoor, staircase, bridge, clean_room, entrance_hall"
+59,1416,indoor,"discotheque, classroom, restaurant, bar, kindergarden_classroom"
+60,1440,indoor,"butchers_shop, dressing_room, hospital_room, operating_room, clean_room"
+61,1464,indoor,"bar, beauty_salon, pharmacy, ice_cream_parlor, discotheque"
+62,1488,indoor,"dressing_room, bar, locker_room, beauty_salon, discotheque"
+63,1512,indoor,"clean_room, hospital_room, operating_room, ice_cream_parlor, chemistry_lab"
+64,1536,indoor,"aquarium, discotheque, swimming_pool/indoor, museum/indoor, ice_floe"
+65,1560,indoor,"nursery, ball_pit, aquarium, ice_floe, igloo"
+66,1584,indoor,"ball_pit, swimming_pool/indoor, discotheque, nursery, martial_arts_gym"
+67,1608,indoor,"museum/indoor, nursery, swimming_pool/indoor, playground, martial_arts_gym"
+68,1632,indoor,"ice_floe, nursery, ball_pit, swimming_pool/indoor, bedroom"
+69,1656,indoor,"museum/indoor, nursery, aquarium, discotheque, ice_cream_parlor"
+70,1680,indoor,"bowling_alley, discotheque, martial_arts_gym, kindergarden_classroom, dressing_room"
+71,1704,indoor,"archive, clean_room, chemistry_lab, swimming_pool/indoor, ice_cream_parlor"
+72,1728,indoor,"swimming_pool/indoor, clean_room, archive, martial_arts_gym, airport_terminal"
+73,1752,indoor,"clean_room, archive, pharmacy, drugstore, hospital_room"
+74,1776,indoor,"archive, bookstore, drugstore, pharmacy, library/indoor"
+75,1800,indoor,"pharmacy, clean_room, drugstore, ice_cream_parlor, archive"
+76,1824,indoor,"clean_room, dressing_room, museum/indoor, office, physics_laboratory"
+77,1848,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, office"
+78,1872,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, nursing_home"
+79,1896,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, office"
+80,1920,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, nursing_home"
+81,1944,indoor,"clean_room, discotheque, dressing_room, stage/indoor, music_studio"
+82,1968,indoor,"clean_room, dressing_room, nursing_home, living_room, hospital_room"
+83,1992,indoor,"clean_room, dressing_room, living_room, nursing_home, nursery"
+84,2016,indoor,"clean_room, dressing_room, living_room, hospital_room, nursery"
+85,2040,indoor,"clean_room, dressing_room, living_room, bedroom, hospital_room"
+86,2064,indoor,"dressing_room, clean_room, archive, office, hospital_room"
+87,2088,indoor,"clean_room, dressing_room, archive, beauty_salon, hospital_room"
+88,2112,indoor,"dressing_room, clean_room, beauty_salon, archive, hospital_room"
+89,2136,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, nursing_home"
+90,2160,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, nursing_home"
+91,2184,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, archive"
+92,2208,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, hospital_room"
+93,2232,indoor,"dressing_room, clean_room, beauty_salon, locker_room, hospital_room"
+94,2256,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room"
+95,2280,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room"
+96,2304,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, archive"
+97,2328,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, archive"
+98,2352,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room"
+99,2376,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, locker_room"
+100,2400,indoor,"dressing_room, clean_room, locker_room, nursing_home, beauty_salon"
+101,2424,indoor,"dressing_room, clean_room, nursing_home, locker_room, archive"
+102,2448,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, archive"
+103,2472,indoor,"dressing_room, clean_room, nursing_home, archive, beauty_salon"
+104,2496,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, archive"
+105,2520,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, hospital_room"
+106,2544,indoor,"dressing_room, clean_room, nursing_home, hospital_room, beauty_salon"
+107,2568,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, archive"
+108,2592,indoor,"dressing_room, clean_room, archive, nursing_home, beauty_salon"
+109,2616,indoor,"dressing_room, clean_room, archive, beauty_salon, locker_room"
+110,2640,indoor,"dressing_room, clean_room, archive, locker_room, beauty_salon"
+111,2664,indoor,"dressing_room, clean_room, archive, nursing_home, locker_room"
+112,2688,indoor,"dressing_room, clean_room, archive, nursing_home, beauty_salon"
+113,2712,indoor,"hospital_room, clean_room, hotel_room, bedroom, dressing_room"
+114,2736,indoor,"dressing_room, clothing_store, bow_window/indoor, closet, ice_shelf"
+115,2760,indoor,"bow_window/indoor, bedroom, hospital_room, hotel_room, dressing_room"
+116,2784,indoor,"hotel_room, bedroom, hospital_room, dressing_room, bedchamber"
+117,2808,indoor,"bow_window/indoor, bedroom, bedchamber, hotel_room, hospital_room"
+118,2832,outdoor,"ice_shelf, bow_window/indoor, bedroom, hot_spring, ice_floe"
+119,2856,indoor,"clean_room, dressing_room, nursery, museum/indoor, hospital_room"
+120,2880,indoor,"dressing_room, clean_room, nursery, museum/indoor, beauty_salon"
+121,2904,indoor,"dressing_room, clean_room, discotheque, office_cubicles, archive"
+122,2928,indoor,"dressing_room, clean_room, discotheque, archive, office_cubicles"
+123,2952,indoor,"dressing_room, clean_room, discotheque, archive, office"
+124,2976,indoor,"clean_room, chemistry_lab, dressing_room, office_cubicles, discotheque"
+125,3000,indoor,"dressing_room, discotheque, clean_room, chemistry_lab, stage/indoor"
+126,3024,indoor,"discotheque, clean_room, chemistry_lab, dressing_room, ballroom"
+127,3048,indoor,"clean_room, dressing_room, discotheque, chemistry_lab, sauna"
+128,3072,indoor,"clean_room, discotheque, chemistry_lab, dressing_room, stage/indoor"
+129,3096,indoor,"discotheque, clean_room, stage/indoor, dressing_room, chemistry_lab"
+130,3120,indoor,"clean_room, clothing_store, dressing_room, locker_room, nursery"
+131,3144,indoor,"clothing_store, reception, beauty_salon, elevator_lobby, shoe_shop"
+132,3168,indoor,"beauty_salon, clothing_store, shoe_shop, coffee_shop, jewelry_shop"
+133,3192,indoor,"shoe_shop, coffee_shop, beauty_salon, gift_shop, clothing_store"
+134,3216,indoor,"clean_room, museum/indoor, discotheque, art_gallery, dressing_room"
+135,3240,indoor,"clean_room, hospital_room, hospital, archive, office"
+136,3264,indoor,"hospital_room, nursery, clothing_store, hospital, museum/indoor"
+137,3288,indoor,"hospital_room, clean_room, clothing_store, nursery, hospital"
+138,3312,indoor,"stage/indoor, discotheque, museum/indoor, music_studio, clean_room"
+139,3336,indoor,"pharmacy, archive, nursery, hospital_room, clean_room"
+140,3360,indoor,"hospital, pharmacy, hospital_room, clean_room, airport_terminal"
+141,3384,indoor,"hospital, airport_terminal, hospital_room, pharmacy, beauty_salon"
+142,3408,indoor,"hospital, pharmacy, hospital_room, beauty_salon, drugstore"
+143,3432,indoor,"hospital, motel, hospital_room, pharmacy, beauty_salon"
+144,3456,indoor,"hospital, hospital_room, motel, pharmacy, beauty_salon"
+145,3480,indoor,"staircase, wind_farm, mezzanine, windmill, museum/indoor"
+146,3504,indoor,"museum/indoor, staircase, mezzanine, art_gallery, entrance_hall"
+147,3528,indoor,"staircase, museum/indoor, stage/indoor, music_studio, gymnasium/indoor"
+148,3552,indoor,"staircase, museum/indoor, nursery, art_gallery, classroom"
+149,3576,indoor,"clean_room, martial_arts_gym, locker_room, entrance_hall, museum/indoor"
+150,3600,indoor,"clean_room, martial_arts_gym, entrance_hall, locker_room, museum/indoor"
+151,3624,indoor,"clean_room, martial_arts_gym, entrance_hall, schoolhouse, locker_room"
+152,3648,indoor,"clean_room, martial_arts_gym, schoolhouse, museum/indoor, entrance_hall"
+153,3672,indoor,"clean_room, martial_arts_gym, schoolhouse, museum/indoor, entrance_hall"
+154,3696,indoor,"clean_room, elevator/door, archive, bank_vault, locker_room"
+155,3720,indoor,"clean_room, elevator/door, archive, doorway/outdoor, hospital_room"
+156,3744,indoor,"clean_room, archive, elevator/door, hospital_room, locker_room"
+157,3768,indoor,"clean_room, archive, hospital_room, operating_room, beauty_salon"
+158,3792,indoor,"archive, bookstore, museum/indoor, nursery, library/indoor"
+159,3816,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor"
+160,3840,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor"
+161,3864,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor"
+162,3888,indoor,"archive, museum/indoor, nursery, bookstore, library/indoor"
+163,3912,indoor,"archive, museum/indoor, bookstore, nursery, library/indoor"
+164,3936,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+165,3960,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
+166,3984,outdoor,"desert/sand, sky, beach, lake/natural, marsh"
