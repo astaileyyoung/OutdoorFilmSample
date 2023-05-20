@@ -1,821 +1,821 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"dressing_room, clean_room, music_studio, discotheque, stage/indoor",18033
-1,24,indoor,"dressing_room, clean_room, sauna, shower, locker_room",18033
-2,48,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, shower",18033
-3,72,indoor,"clean_room, locker_room, dressing_room, art_gallery, museum/indoor",18033
-4,96,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, music_studio",18033
-5,120,outdoor,"auto_factory, gas_station, repair_shop, fire_station, street",18033
-6,144,indoor,"auto_factory, assembly_line, gas_station, repair_shop, fire_station",18033
-7,168,outdoor,"street, gas_station, arcade, fire_station, auto_factory",18033
-8,192,outdoor,"gas_station, street, crosswalk, arcade, porch",18033
-9,216,outdoor,"gas_station, repair_shop, auto_factory, fire_station, street",18033
-10,240,outdoor,"repair_shop, gas_station, fire_station, auto_factory, street",18033
-11,264,indoor,"gas_station, auto_factory, fire_station, repair_shop, assembly_line",18033
-12,288,indoor,"auto_factory, gas_station, repair_shop, fire_station, assembly_line",18033
-13,312,indoor,"airport_terminal, bowling_alley, ice_skating_rink/outdoor, crosswalk, ice_skating_rink/indoor",18033
-14,336,indoor,"airport_terminal, ice_skating_rink/indoor, ice_skating_rink/outdoor, bowling_alley, playground",18033
-15,360,indoor,"airport_terminal, playground, ball_pit, bowling_alley, crosswalk",18033
-16,384,indoor,"gymnasium/indoor, boxing_ring, music_studio, stage/indoor, ballroom",18033
-17,408,indoor,"hospital_room, operating_room, auto_factory, repair_shop, youth_hostel",18033
-18,432,indoor,"hospital_room, operating_room, boxing_ring, repair_shop, ballroom",18033
-19,456,indoor,"clean_room, operating_room, hospital_room, music_studio, archive",18033
-20,480,indoor,"clean_room, hospital_room, ballroom, airport_terminal, gymnasium/indoor",18033
-21,504,indoor,"clean_room, hospital_room, engine_room, operating_room, entrance_hall",18033
-22,528,indoor,"gymnasium/indoor, hospital_room, clean_room, recreation_room, nursery",18033
-23,552,indoor,"gymnasium/indoor, clean_room, ballroom, hospital_room, recreation_room",18033
-24,576,indoor,"entrance_hall, hospital_room, ballroom, clean_room, living_room",18033
-25,600,indoor,"ballroom, hospital_room, entrance_hall, nursing_home, living_room",18033
-26,624,indoor,"clean_room, gymnasium/indoor, auto_factory, library/indoor, bowling_alley",18033
-27,648,indoor,"gymnasium/indoor, hospital_room, clean_room, operating_room, music_studio",18033
-28,672,indoor,"discotheque, clean_room, archive, classroom, ticket_booth",18033
-29,696,indoor,"clean_room, archive, classroom, airport_terminal, subway_station/platform",18033
-30,720,indoor,"classroom, boxing_ring, cafeteria, food_court, airport_terminal",18033
-31,744,indoor,"hospital_room, ballroom, stage/indoor, clean_room, nursery",18033
-32,768,indoor,"clean_room, gymnasium/indoor, carrousel, playground, boxing_ring",18033
-33,792,indoor,"pub/indoor, discotheque, bar, restaurant, dressing_room",18033
-34,816,indoor,"dressing_room, banquet_hall, discotheque, restaurant, pub/indoor",18033
-35,840,indoor,"dressing_room, discotheque, banquet_hall, pub/indoor, restaurant",18033
-36,864,indoor,"pharmacy, museum/indoor, cemetery, drugstore, hospital",18033
-37,888,indoor,"pharmacy, museum/indoor, cemetery, drugstore, hospital",18033
-38,912,indoor,"pharmacy, museum/indoor, drugstore, cemetery, hospital",18033
-39,936,indoor,"pharmacy, cemetery, museum/indoor, drugstore, hospital",18033
-40,960,indoor,"museum/indoor, pharmacy, cemetery, drugstore, hospital",18033
-41,984,indoor,"pharmacy, drugstore, museum/indoor, cemetery, hospital",18033
-42,1008,indoor,"pharmacy, museum/indoor, cemetery, drugstore, hospital",18033
-43,1032,indoor,"pharmacy, museum/indoor, cemetery, drugstore, hospital",18033
-44,1056,indoor,"pharmacy, drugstore, cemetery, museum/indoor, hospital",18033
-45,1080,indoor,"cafeteria, pub/indoor, bar, food_court, restaurant",18033
-46,1104,indoor,"restaurant, cafeteria, discotheque, pub/indoor, bar",18033
-47,1128,indoor,"ballroom, gymnasium/indoor, cafeteria, kindergarden_classroom, classroom",18033
-48,1152,indoor,"bowling_alley, playground, airport_terminal, boxing_ring, gymnasium/indoor",18033
-49,1176,indoor,"kindergarden_classroom, classroom, cafeteria, bowling_alley, food_court",18033
-50,1200,indoor,"pharmacy, drugstore, cemetery, hospital, museum/indoor",18033
-51,1224,indoor,"pharmacy, cemetery, hospital, drugstore, museum/indoor",18033
-52,1248,indoor,"pharmacy, cemetery, drugstore, hospital, museum/indoor",18033
-53,1272,indoor,"pharmacy, cemetery, drugstore, hospital, museum/indoor",18033
-54,1296,indoor,"pharmacy, cemetery, drugstore, hospital, museum/indoor",18033
-55,1320,indoor,"gymnasium/indoor, boxing_ring, auto_factory, assembly_line, martial_arts_gym",18033
-56,1344,indoor,"bar, discotheque, kindergarden_classroom, dressing_room, archive",18033
-57,1368,outdoor,"carrousel, amusement_park, assembly_line, ski_resort, schoolhouse",18033
-58,1392,indoor,"archive, schoolhouse, ski_resort, auto_factory, assembly_line",18033
-59,1416,indoor,"archive, clean_room, schoolhouse, auto_factory, assembly_line",18033
-60,1440,indoor,"assembly_line, auto_factory, archive, clean_room, boat_deck",18033
-61,1464,indoor,"hardware_store, archive, drugstore, auto_factory, clean_room",18033
-62,1488,indoor,"discotheque, dressing_room, bowling_alley, banquet_hall, ballroom",18033
-63,1512,indoor,"clean_room, chemistry_lab, discotheque, biology_laboratory, stage/indoor",18033
-64,1536,indoor,"discotheque, clean_room, chemistry_lab, biology_laboratory, music_studio",18033
-65,1560,indoor,"clean_room, biology_laboratory, chemistry_lab, physics_laboratory, discotheque",18033
-66,1584,indoor,"discotheque, music_studio, stage/indoor, clean_room, chemistry_lab",18033
-67,1608,indoor,"clean_room, nursery, chemistry_lab, science_museum, ice_cream_parlor",18033
-68,1632,indoor,"swimming_pool/indoor, clean_room, hospital_room, airport_terminal, ice_cream_parlor",18033
-69,1656,indoor,"archive, engine_room, chemistry_lab, clean_room, physics_laboratory",18033
-70,1680,indoor,"archive, chemistry_lab, physics_laboratory, engine_room, auto_factory",18033
-71,1704,indoor,"music_studio, television_studio, staircase, boxing_ring, stage/indoor",18033
-72,1728,indoor,"music_studio, television_studio, discotheque, stage/indoor, ballroom",18033
-73,1752,indoor,"music_studio, clean_room, television_studio, boxing_ring, gymnasium/indoor",18033
-74,1776,indoor,"archive, chemistry_lab, classroom, clean_room, physics_laboratory",18033
-75,1800,indoor,"archive, classroom, library/indoor, chemistry_lab, kindergarden_classroom",18033
-76,1824,indoor,"chemistry_lab, archive, clean_room, physics_laboratory, biology_laboratory",18033
-77,1848,indoor,"clean_room, archive, chemistry_lab, physics_laboratory, engine_room",18033
-78,1872,indoor,"nursery, amusement_park, boxing_ring, museum/indoor, music_studio",18033
-79,1896,indoor,"ice_cream_parlor, beauty_salon, discotheque, clean_room, nursery",18033
-80,1920,indoor,"ice_cream_parlor, carrousel, nursery, amusement_park, boxing_ring",18033
-81,1944,indoor,"carrousel, nursery, kindergarden_classroom, classroom, clean_room",18033
-82,1968,indoor,"classroom, nursery, kindergarden_classroom, clean_room, hospital_room",18033
-83,1992,indoor,"bowling_alley, assembly_line, escalator/indoor, supermarket, clean_room",18033
-84,2016,indoor,"clean_room, supermarket, music_studio, nursery, boxing_ring",18033
-85,2040,indoor,"clean_room, escalator/indoor, assembly_line, supermarket, airport_terminal",18033
-86,2064,indoor,"discotheque, nursery, hospital_room, boxing_ring, airport_terminal",18033
-87,2088,indoor,"nursery, staircase, coffee_shop, hospital_room, porch",18033
-88,2112,indoor,"archive, basement, ice_shelf, jail_cell, slum",18033
-89,2136,indoor,"museum/indoor, pharmacy, cemetery, hospital, elevator/door",18033
-90,2160,indoor,"pharmacy, hospital, museum/indoor, cemetery, elevator/door",18033
-91,2184,indoor,"pharmacy, hospital, drugstore, museum/indoor, cemetery",18033
-92,2208,indoor,"pharmacy, museum/indoor, hospital, drugstore, cemetery",18033
-93,2232,indoor,"pharmacy, hospital, museum/indoor, drugstore, cemetery",18033
-94,2256,indoor,"pharmacy, hospital, museum/indoor, drugstore, cemetery",18033
-95,2280,indoor,"pharmacy, museum/indoor, hospital, drugstore, cemetery",18033
-96,2304,indoor,"pharmacy, museum/indoor, hospital, drugstore, elevator/door",18033
-97,2328,indoor,"discotheque, stage/indoor, music_studio, chemistry_lab, boxing_ring",18033
-98,2352,indoor,"discotheque, clean_room, music_studio, stage/indoor, raceway",18033
-99,2376,indoor,"clean_room, museum/indoor, music_studio, operating_room, stage/indoor",18033
-100,2400,indoor,"chemistry_lab, discotheque, stage/indoor, music_studio, clean_room",18033
-101,2424,indoor,"chemistry_lab, clean_room, music_studio, physics_laboratory, discotheque",18033
-102,2448,indoor,"clean_room, music_studio, discotheque, chemistry_lab, physics_laboratory",18033
-103,2472,indoor,"clean_room, chemistry_lab, shoe_shop, toyshop, locker_room",18033
-104,2496,indoor,"shower, bathroom, discotheque, igloo, clean_room",18033
-105,2520,indoor,"clean_room, physics_laboratory, chemistry_lab, engine_room, archive",18033
-106,2544,indoor,"clean_room, chemistry_lab, physics_laboratory, music_studio, biology_laboratory",18033
-107,2568,indoor,"clean_room, physics_laboratory, chemistry_lab, music_studio, engine_room",18033
-108,2592,indoor,"archive, clean_room, music_studio, kindergarden_classroom, bookstore",18033
-109,2616,indoor,"archive, clean_room, museum/indoor, dressing_room, physics_laboratory",18033
-110,2640,indoor,"clean_room, archive, corridor, museum/indoor, staircase",18033
-111,2664,indoor,"clean_room, archive, museum/indoor, locker_room, staircase",18033
-112,2688,indoor,"clean_room, archive, corridor, hospital_room, physics_laboratory",18033
-113,2712,indoor,"pharmacy, hospital, drugstore, elevator/door, beauty_salon",18033
-114,2736,indoor,"pharmacy, hospital, drugstore, beauty_salon, elevator/door",18033
-115,2760,indoor,"pharmacy, hospital, drugstore, beauty_salon, elevator/door",18033
-116,2784,indoor,"jewelry_shop, dressing_room, clean_room, shower, museum/indoor",18033
-117,2808,indoor,"clean_room, dressing_room, museum/indoor, jewelry_shop, discotheque",18033
-118,2832,indoor,"dressing_room, discotheque, music_studio, clean_room, basement",18033
-119,2856,indoor,"dressing_room, discotheque, clean_room, beauty_salon, ballroom",18033
-120,2880,indoor,"dressing_room, discotheque, clean_room, music_studio, stage/indoor",18033
-121,2904,indoor,"dressing_room, clean_room, discotheque, music_studio, stage/indoor",18033
-122,2928,indoor,"dressing_room, discotheque, clean_room, music_studio, beauty_salon",18033
-123,2952,indoor,"movie_theater/indoor, sky, ice_shelf, home_theater, elevator/door",18033
-124,2976,indoor,"clean_room, dressing_room, nursery, jewelry_shop, childs_room",18033
-125,3000,indoor,"clean_room, dressing_room, nursery, discotheque, museum/indoor",18033
-126,3024,indoor,"clean_room, dressing_room, ice_cream_parlor, art_gallery, discotheque",18033
-127,3048,indoor,"clean_room, dressing_room, beauty_salon, art_gallery, elevator/door",18033
-128,3072,indoor,"dressing_room, clean_room, discotheque, art_gallery, museum/indoor",18033
-129,3096,indoor,"dressing_room, clean_room, discotheque, elevator/door, beauty_salon",18033
-130,3120,indoor,"dressing_room, clean_room, discotheque, beauty_salon, shower",18033
-131,3144,indoor,"dressing_room, clean_room, beauty_salon, jewelry_shop, bathroom",18033
-132,3168,indoor,"dressing_room, clean_room, beauty_salon, discotheque, chemistry_lab",18033
-133,3192,indoor,"dressing_room, clean_room, beauty_salon, discotheque, jewelry_shop",18033
-134,3216,indoor,"dressing_room, clean_room, jewelry_shop, discotheque, beauty_salon",18033
-135,3240,outdoor,"ice_shelf, hospital, sky, pharmacy, beauty_salon",18033
-136,3264,indoor,"clean_room, dressing_room, jewelry_shop, art_gallery, museum/indoor",18033
-137,3288,indoor,"dressing_room, clean_room, discotheque, music_studio, stage/indoor",18033
-138,3312,indoor,"hospital, pharmacy, drugstore, beauty_salon, sky",18033
-139,3336,indoor,"dressing_room, discotheque, beauty_salon, elevator/door, elevator_lobby",18033
-140,3360,indoor,"dressing_room, discotheque, clean_room, elevator/door, elevator_lobby",18033
-141,3384,indoor,"dressing_room, discotheque, clean_room, ballroom, reception",18033
-142,3408,indoor,"dressing_room, discotheque, clean_room, hospital_room, ballroom",18033
-143,3432,indoor,"dressing_room, discotheque, clean_room, ballroom, shower",18033
-144,3456,indoor,"pharmacy, hospital, drugstore, beauty_salon, elevator/door",18033
-145,3480,indoor,"hospital, pharmacy, drugstore, beauty_salon, elevator/door",18033
-146,3504,indoor,"clean_room, archive, museum/indoor, corridor, porch",18033
-147,3528,indoor,"clean_room, archive, staircase, dressing_room, hospital_room",18033
-148,3552,indoor,"clean_room, archive, dressing_room, hospital_room, corridor",18033
-149,3576,indoor,"archive, clean_room, chemistry_lab, pharmacy, physics_laboratory",18033
-150,3600,indoor,"corridor, staircase, mezzanine, clean_room, atrium/public",18033
-151,3624,indoor,"entrance_hall, staircase, corridor, sauna, artists_loft",18033
-152,3648,indoor,"clean_room, archive, museum/indoor, corridor, staircase",18033
-153,3672,indoor,"bow_window/indoor, clean_room, living_room, entrance_hall, waiting_room",18033
-154,3696,indoor,"sauna, shower, museum/indoor, martial_arts_gym, dressing_room",18033
-155,3720,indoor,"staircase, basement, sauna, archive, dressing_room",18033
-156,3744,indoor,"staircase, pantry, basement, closet, sauna",18033
-157,3768,indoor,"staircase, escalator/indoor, entrance_hall, sauna, mezzanine",18033
-158,3792,indoor,"staircase, entrance_hall, mezzanine, escalator/indoor, museum/indoor",18033
-159,3816,indoor,"staircase, escalator/indoor, entrance_hall, mezzanine, corridor",18033
-160,3840,indoor,"staircase, escalator/indoor, entrance_hall, museum/indoor, corridor",18033
-161,3864,indoor,"staircase, escalator/indoor, elevator/door, corridor, sauna",18033
-162,3888,indoor,"clean_room, archive, corridor, staircase, mezzanine",18033
-163,3912,indoor,"staircase, archive, mezzanine, corridor, entrance_hall",18033
-164,3936,indoor,"archive, corridor, atrium/public, mezzanine, staircase",18033
-165,3960,indoor,"mezzanine, atrium/public, staircase, corridor, clean_room",18033
-166,3984,indoor,"clean_room, discotheque, dressing_room, operating_room, chemistry_lab",18033
-167,4008,indoor,"clean_room, discotheque, chemistry_lab, biology_laboratory, operating_room",18033
-168,4032,indoor,"clean_room, discotheque, chemistry_lab, hospital_room, operating_room",18033
-169,4056,indoor,"clean_room, discotheque, chemistry_lab, operating_room, biology_laboratory",18033
-170,4080,indoor,"clean_room, discotheque, dressing_room, locker_room, chemistry_lab",18033
-171,4104,indoor,"clean_room, discotheque, locker_room, dressing_room, operating_room",18033
-172,4128,indoor,"clean_room, chemistry_lab, locker_room, dressing_room, discotheque",18033
-173,4152,indoor,"clean_room, dressing_room, chemistry_lab, discotheque, hospital_room",18033
-174,4176,indoor,"clean_room, discotheque, chemistry_lab, dressing_room, airport_terminal",18033
-175,4200,indoor,"clean_room, discotheque, chemistry_lab, biology_laboratory, dressing_room",18033
-176,4224,indoor,"clean_room, archive, dressing_room, locker_room, chemistry_lab",18033
-177,4248,indoor,"clean_room, discotheque, dressing_room, chemistry_lab, archive",18033
-178,4272,indoor,"staircase, entrance_hall, mezzanine, artists_loft, museum/indoor",18033
-179,4296,indoor,"staircase, museum/indoor, art_gallery, archive, artists_loft",18033
-180,4320,indoor,"staircase, artists_loft, lecture_room, museum/indoor, archive",18033
-181,4344,indoor,"sauna, staircase, classroom, archive, basement",18033
-182,4368,indoor,"shower, dressing_room, bow_window/indoor, elevator/door, closet",18033
-183,4392,indoor,"dressing_room, sauna, shower, clean_room, corridor",18033
-184,4416,indoor,"elevator/door, dressing_room, shower, bathroom, elevator_lobby",18033
-185,4440,indoor,"elevator/door, shower, dressing_room, bathroom, elevator_lobby",18033
-186,4464,indoor,"shower, elevator/door, dressing_room, bathroom, elevator_lobby",18033
-187,4488,indoor,"shower, dressing_room, elevator/door, bathroom, sauna",18033
-188,4512,indoor,"elevator/door, dressing_room, shower, bathroom, elevator_lobby",18033
-189,4536,indoor,"elevator/door, shower, dressing_room, bathroom, elevator_lobby",18033
-190,4560,indoor,"shower, elevator/door, dressing_room, bathroom, elevator_lobby",18033
-191,4584,indoor,"clean_room, operating_room, hospital_room, veterinarians_office, nursing_home",18033
-192,4608,indoor,"clean_room, operating_room, hospital_room, veterinarians_office, nursing_home",18033
-193,4632,indoor,"clean_room, operating_room, hospital_room, veterinarians_office, nursing_home",18033
-194,4656,indoor,"clean_room, operating_room, hospital_room, veterinarians_office, nursing_home",18033
-195,4680,indoor,"elevator/door, shower, dressing_room, bathroom, bow_window/indoor",18033
-196,4704,indoor,"clean_room, nursery, operating_room, hospital_room, museum/indoor",18033
-197,4728,indoor,"clean_room, nursery, hospital_room, operating_room, museum/indoor",18033
-198,4752,indoor,"clean_room, operating_room, veterinarians_office, hospital_room, martial_arts_gym",18033
-199,4776,indoor,"shower, bathroom, dressing_room, elevator/door, bow_window/indoor",18033
-200,4800,indoor,"shower, dressing_room, bathroom, elevator/door, bow_window/indoor",18033
-201,4824,indoor,"shower, bathroom, dressing_room, elevator/door, sauna",18033
-202,4848,indoor,"dressing_room, shower, bathroom, sauna, elevator/door",18033
-203,4872,indoor,"dressing_room, shower, bathroom, sauna, elevator/door",18033
-204,4896,indoor,"clean_room, nursery, martial_arts_gym, dressing_room, nursing_home",18033
-205,4920,indoor,"clean_room, nursery, dressing_room, hospital_room, bathroom",18033
-206,4944,indoor,"dressing_room, shower, bathroom, sauna, elevator/door",18033
-207,4968,indoor,"dressing_room, shower, bathroom, clean_room, beauty_salon",18033
-208,4992,indoor,"shower, clean_room, dressing_room, bathroom, nursery",18033
-209,5016,indoor,"dressing_room, shower, clean_room, art_gallery, bathroom",18033
-210,5040,indoor,"dressing_room, clean_room, beauty_salon, living_room, artists_loft",18033
-211,5064,indoor,"dressing_room, clean_room, bathroom, beauty_salon, shower",18033
-212,5088,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, operating_room",18033
-213,5112,indoor,"dressing_room, clean_room, living_room, hospital_room, dining_room",18033
-214,5136,indoor,"dressing_room, nursery, hospital_room, clean_room, chemistry_lab",18033
-215,5160,indoor,"clean_room, hospital_room, dressing_room, nursing_home, operating_room",18033
-216,5184,indoor,"clean_room, discotheque, dressing_room, stage/indoor, martial_arts_gym",18033
-217,5208,indoor,"clean_room, dressing_room, chemistry_lab, hospital_room, restaurant",18033
-218,5232,indoor,"dressing_room, clean_room, hospital_room, restaurant, dining_room",18033
-219,5256,indoor,"clean_room, dressing_room, ice_cream_parlor, restaurant, chemistry_lab",18033
-220,5280,indoor,"clean_room, dressing_room, kitchen, hospital_room, nursing_home",18033
-221,5304,indoor,"dressing_room, bathroom, shower, clean_room, locker_room",18033
-222,5328,indoor,"dressing_room, clean_room, hospital_room, locker_room, operating_room",18033
-223,5352,indoor,"dressing_room, shower, bathroom, clean_room, hospital_room",18033
-224,5376,indoor,"clean_room, dressing_room, museum/indoor, locker_room, shower",18033
-225,5400,indoor,"clean_room, dressing_room, shower, hospital_room, operating_room",18033
-226,5424,indoor,"dressing_room, clean_room, shower, bathroom, operating_room",18033
-227,5448,indoor,"dressing_room, clean_room, shower, hospital_room, operating_room",18033
-228,5472,indoor,"dressing_room, clean_room, hospital_room, shower, sauna",18033
-229,5496,indoor,"clean_room, dressing_room, operating_room, hospital_room, shower",18033
-230,5520,indoor,"dressing_room, clean_room, bathroom, hospital_room, dining_room",18033
-231,5544,indoor,"clean_room, dressing_room, hospital_room, restaurant_kitchen, bathroom",18033
-232,5568,indoor,"dressing_room, clean_room, bathroom, hospital_room, locker_room",18033
-233,5592,indoor,"dressing_room, shower, bathroom, locker_room, sauna",18033
-234,5616,indoor,"dressing_room, discotheque, shower, bathroom, locker_room",18033
-235,5640,indoor,"dressing_room, clean_room, discotheque, museum/indoor, art_gallery",18033
-236,5664,outdoor,"hospital, elevator/door, ice_shelf, pharmacy, sky",18033
-237,5688,indoor,"clean_room, operating_room, dressing_room, chemistry_lab, hospital_room",18033
-238,5712,indoor,"clean_room, dressing_room, operating_room, hospital_room, shower",18033
-239,5736,indoor,"clean_room, dressing_room, shower, bathroom, locker_room",18033
-240,5760,indoor,"dressing_room, clean_room, clothing_store, locker_room, beauty_salon",18033
-241,5784,indoor,"dressing_room, clean_room, clothing_store, beauty_salon, chemistry_lab",18033
-242,5808,indoor,"dressing_room, clean_room, clothing_store, martial_arts_gym, nursing_home",18033
-243,5832,indoor,"dressing_room, clean_room, clothing_store, martial_arts_gym, nursing_home",18033
-244,5856,indoor,"dressing_room, clean_room, clothing_store, locker_room, nursing_home",18033
-245,5880,indoor,"dressing_room, clean_room, clothing_store, nursing_home, locker_room",18033
-246,5904,indoor,"dressing_room, hospital_room, beauty_salon, clean_room, chemistry_lab",18033
-247,5928,indoor,"museum/indoor, booth/indoor, cemetery, natural_history_museum, pharmacy",18033
-248,5952,indoor,"museum/indoor, booth/indoor, cemetery, pharmacy, natural_history_museum",18033
-249,5976,indoor,"museum/indoor, booth/indoor, cemetery, natural_history_museum, pharmacy",18033
-250,6000,indoor,"museum/indoor, booth/indoor, cemetery, natural_history_museum, pharmacy",18033
-251,6024,indoor,"museum/indoor, booth/indoor, cemetery, pharmacy, natural_history_museum",18033
-252,6048,indoor,"museum/indoor, booth/indoor, cemetery, natural_history_museum, pharmacy",18033
-253,6072,indoor,"museum/indoor, booth/indoor, cemetery, pharmacy, hospital",18033
-254,6096,indoor,"museum/indoor, booth/indoor, cemetery, pharmacy, natural_history_museum",18033
-255,6120,indoor,"dressing_room, clean_room, nursing_home, hospital_room, locker_room",18033
-256,6144,indoor,"dressing_room, clean_room, hospital_room, nursing_home, locker_room",18033
-257,6168,indoor,"dressing_room, clean_room, locker_room, bathroom, shower",18033
-258,6192,indoor,"dressing_room, clean_room, hospital_room, locker_room, nursing_home",18033
-259,6216,indoor,"dressing_room, clean_room, locker_room, shower, bathroom",18033
-260,6240,indoor,"dressing_room, clean_room, locker_room, hospital_room, operating_room",18033
-261,6264,indoor,"dressing_room, clean_room, locker_room, hospital_room, shower",18033
-262,6288,indoor,"dressing_room, clean_room, locker_room, nursery, hospital_room",18033
-263,6312,indoor,"pharmacy, drugstore, hospital, cemetery, museum/indoor",18033
-264,6336,outdoor,"pharmacy, drugstore, hospital, cemetery, ice_shelf",18033
-265,6360,indoor,"pharmacy, drugstore, cemetery, hospital, museum/indoor",18033
-266,6384,indoor,"pharmacy, cemetery, drugstore, hospital, museum/indoor",18033
-267,6408,indoor,"pharmacy, cemetery, drugstore, hospital, museum/indoor",18033
-268,6432,indoor,"dressing_room, art_gallery, museum/indoor, burial_chamber, archive",18033
-269,6456,indoor,"dressing_room, discotheque, shower, beauty_salon, art_gallery",18033
-270,6480,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-271,6504,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-272,6528,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-273,6552,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-274,6576,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-275,6600,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-276,6624,indoor,"pharmacy, drugstore, museum/indoor, natural_history_museum, cemetery",18033
-277,6648,indoor,"pharmacy, museum/indoor, drugstore, natural_history_museum, cemetery",18033
-278,6672,indoor,"beauty_salon, dressing_room, hospital_room, chemistry_lab, clean_room",18033
-279,6696,indoor,"dressing_room, beauty_salon, shower, discotheque, bathroom",18033
-280,6720,indoor,"dressing_room, beauty_salon, hospital_room, chemistry_lab, bedroom",18033
-281,6744,indoor,"dressing_room, hospital_room, beauty_salon, chemistry_lab, biology_laboratory",18033
-282,6768,indoor,"dressing_room, beauty_salon, discotheque, art_gallery, museum/indoor",18033
-283,6792,indoor,"dressing_room, beauty_salon, shower, discotheque, art_gallery",18033
-284,6816,indoor,"pharmacy, hospital, drugstore, cemetery, elevator/door",18033
-285,6840,indoor,"pharmacy, hospital, drugstore, cemetery, elevator/door",18033
-286,6864,indoor,"pharmacy, hospital, cemetery, drugstore, museum/indoor",18033
-287,6888,indoor,"pharmacy, hospital, drugstore, cemetery, museum/indoor",18033
-288,6912,indoor,"dressing_room, shower, discotheque, beauty_salon, art_gallery",18033
-289,6936,indoor,"dressing_room, beauty_salon, hospital_room, discotheque, chemistry_lab",18033
-290,6960,indoor,"dressing_room, discotheque, beauty_salon, chemistry_lab, hospital_room",18033
-291,6984,indoor,"dressing_room, clean_room, locker_room, nursery, hospital_room",18033
-292,7008,indoor,"dressing_room, clean_room, nursing_home, nursery, hospital_room",18033
-293,7032,indoor,"dressing_room, clean_room, locker_room, nursing_home, bathroom",18033
-294,7056,indoor,"hospital, pharmacy, drugstore, beauty_salon, cemetery",18033
-295,7080,indoor,"pharmacy, hospital, drugstore, beauty_salon, cemetery",18033
-296,7104,indoor,"dressing_room, clean_room, nursing_home, locker_room, hospital_room",18033
-297,7128,indoor,"dressing_room, clean_room, nursing_home, locker_room, nursery",18033
-298,7152,indoor,"dressing_room, nursery, clean_room, locker_room, bathroom",18033
-299,7176,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursery",18033
-300,7200,indoor,"clean_room, dressing_room, shower, nursery, bathroom",18033
-301,7224,indoor,"clean_room, dressing_room, nursery, clothing_store, childs_room",18033
-302,7248,indoor,"clean_room, dressing_room, hospital_room, operating_room, chemistry_lab",18033
-303,7272,indoor,"clean_room, dressing_room, shower, bathroom, locker_room",18033
-304,7296,indoor,"clean_room, shower, dressing_room, chemistry_lab, bathroom",18033
-305,7320,indoor,"clean_room, dressing_room, shower, operating_room, hospital_room",18033
-306,7344,indoor,"clean_room, dressing_room, operating_room, shower, hospital_room",18033
-307,7368,indoor,"clean_room, dressing_room, shower, bathroom, art_studio",18033
-308,7392,indoor,"clean_room, dressing_room, shower, bathroom, beauty_salon",18033
-309,7416,indoor,"clean_room, dressing_room, beauty_salon, hospital_room, shower",18033
-310,7440,indoor,"clean_room, dressing_room, shower, hospital_room, bathroom",18033
-311,7464,indoor,"clean_room, dressing_room, hospital_room, shower, beauty_salon",18033
-312,7488,indoor,"clean_room, dressing_room, hospital_room, operating_room, beauty_salon",18033
-313,7512,indoor,"clean_room, dressing_room, hospital_room, beauty_salon, operating_room",18033
-314,7536,indoor,"clean_room, dressing_room, shower, hospital_room, beauty_salon",18033
-315,7560,indoor,"dressing_room, discotheque, chemistry_lab, clean_room, music_studio",18033
-316,7584,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, toyshop",18033
-317,7608,indoor,"dressing_room, clean_room, music_studio, art_studio, museum/indoor",18033
-318,7632,indoor,"dressing_room, clean_room, music_studio, art_gallery, discotheque",18033
-319,7656,indoor,"clean_room, dressing_room, music_studio, chemistry_lab, physics_laboratory",18033
-320,7680,indoor,"clean_room, dressing_room, music_studio, beauty_salon, chemistry_lab",18033
-321,7704,indoor,"dressing_room, clean_room, music_studio, physics_laboratory, basement",18033
-322,7728,indoor,"dressing_room, clean_room, music_studio, museum/indoor, discotheque",18033
-323,7752,indoor,"dressing_room, clean_room, music_studio, discotheque, basement",18033
-324,7776,indoor,"dressing_room, clean_room, music_studio, sauna, locker_room",18033
-325,7800,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, discotheque",18033
-326,7824,indoor,"dressing_room, beauty_salon, clean_room, hospital_room, shower",18033
-327,7848,indoor,"dressing_room, clean_room, music_studio, museum/indoor, physics_laboratory",18033
-328,7872,indoor,"clean_room, dressing_room, shower, museum/indoor, music_studio",18033
-329,7896,indoor,"clean_room, dressing_room, music_studio, shower, bathroom",18033
-330,7920,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, nursery",18033
-331,7944,indoor,"dressing_room, clean_room, music_studio, science_museum, shower",18033
-332,7968,indoor,"dressing_room, clean_room, bathroom, shower, sauna",18033
-333,7992,indoor,"dressing_room, clean_room, bathroom, shower, sauna",18033
-334,8016,indoor,"dressing_room, discotheque, clean_room, basement, sauna",18033
-335,8040,indoor,"dressing_room, clean_room, music_studio, shower, discotheque",18033
-336,8064,indoor,"dressing_room, clean_room, nursing_home, hospital_room, beauty_salon",18033
-337,8088,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, discotheque",18033
-338,8112,indoor,"dressing_room, clean_room, nursing_home, beauty_salon, hospital_room",18033
-339,8136,indoor,"dressing_room, shower, clean_room, bathroom, art_gallery",18033
-340,8160,indoor,"dressing_room, clean_room, beauty_salon, chemistry_lab, hospital_room",18033
-341,8184,indoor,"dressing_room, discotheque, stage/indoor, clean_room, music_studio",18033
-342,8208,indoor,"dressing_room, beauty_salon, clean_room, nursing_home, hospital_room",18033
-343,8232,indoor,"dressing_room, clean_room, discotheque, chemistry_lab, music_studio",18033
-344,8256,indoor,"dressing_room, clean_room, chemistry_lab, discotheque, music_studio",18033
-345,8280,indoor,"dressing_room, clean_room, chemistry_lab, beauty_salon, hospital_room",18033
-346,8304,indoor,"dressing_room, clean_room, beauty_salon, ballroom, hospital_room",18033
-347,8328,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, ballroom",18033
-348,8352,indoor,"dressing_room, clean_room, locker_room, museum/indoor, art_gallery",18033
-349,8376,indoor,"dressing_room, clean_room, hospital_room, nursing_home, beauty_salon",18033
-350,8400,indoor,"dressing_room, clean_room, hospital_room, nursing_home, locker_room",18033
-351,8424,indoor,"dressing_room, clean_room, locker_room, beauty_salon, nursing_home",18033
-352,8448,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, hospital_room",18033
-353,8472,indoor,"dressing_room, clean_room, bathroom, shower, beauty_salon",18033
-354,8496,indoor,"dressing_room, clean_room, locker_room, shower, sauna",18033
-355,8520,indoor,"dressing_room, beauty_salon, bathroom, clean_room, shower",18033
-356,8544,indoor,"dressing_room, clean_room, locker_room, shower, beauty_salon",18033
-357,8568,indoor,"dressing_room, clean_room, shower, locker_room, bathroom",18033
-358,8592,indoor,"dressing_room, clean_room, shower, bathroom, sauna",18033
-359,8616,indoor,"dressing_room, clean_room, shower, beauty_salon, bathroom",18033
-360,8640,indoor,"dressing_room, clean_room, shower, bathroom, sauna",18033
-361,8664,indoor,"dressing_room, clean_room, shower, locker_room, bathroom",18033
-362,8688,indoor,"dressing_room, clean_room, locker_room, hospital_room, operating_room",18033
-363,8712,indoor,"dressing_room, clean_room, shower, art_gallery, locker_room",18033
-364,8736,indoor,"dressing_room, clean_room, art_gallery, shower, museum/indoor",18033
-365,8760,indoor,"clean_room, dressing_room, shower, art_gallery, museum/indoor",18033
-366,8784,indoor,"clean_room, dressing_room, shower, art_gallery, bathroom",18033
-367,8808,indoor,"dressing_room, clean_room, shower, art_gallery, art_studio",18033
-368,8832,indoor,"dressing_room, shower, clean_room, bathroom, locker_room",18033
-369,8856,indoor,"dressing_room, clean_room, shower, chemistry_lab, locker_room",18033
-370,8880,indoor,"dressing_room, discotheque, stage/indoor, music_studio, clean_room",18033
-371,8904,indoor,"dressing_room, discotheque, stage/indoor, shower, art_gallery",18033
-372,8928,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, discotheque",18033
-373,8952,indoor,"dressing_room, clean_room, art_gallery, museum/indoor, discotheque",18033
-374,8976,indoor,"dressing_room, clean_room, museum/indoor, shower, discotheque",18033
-375,9000,indoor,"dressing_room, clean_room, art_gallery, museum/indoor, shower",18033
-376,9024,indoor,"dressing_room, clean_room, locker_room, discotheque, art_gallery",18033
-377,9048,indoor,"dressing_room, clean_room, discotheque, stage/indoor, chemistry_lab",18033
-378,9072,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, science_museum",18033
-379,9096,indoor,"clean_room, dressing_room, operating_room, martial_arts_gym, museum/indoor",18033
-380,9120,indoor,"dressing_room, clean_room, locker_room, shower, sauna",18033
-381,9144,indoor,"clean_room, dressing_room, museum/indoor, operating_room, art_gallery",18033
-382,9168,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, operating_room",18033
-383,9192,indoor,"dressing_room, clean_room, discotheque, music_studio, beauty_salon",18033
-384,9216,indoor,"clean_room, dressing_room, elevator/door, discotheque, chemistry_lab",18033
-385,9240,indoor,"dressing_room, clean_room, discotheque, stage/indoor, chemistry_lab",18033
-386,9264,indoor,"dressing_room, clean_room, locker_room, art_gallery, museum/indoor",18033
-387,9288,indoor,"clean_room, dressing_room, chemistry_lab, discotheque, museum/indoor",18033
-388,9312,indoor,"iceberg, discotheque, clean_room, museum/indoor, aquarium",18033
-389,9336,indoor,"basement, archive, jail_cell, shower, clean_room",18033
-390,9360,indoor,"museum/indoor, pharmacy, natural_history_museum, hospital, drugstore",18033
-391,9384,indoor,"museum/indoor, pharmacy, drugstore, natural_history_museum, hospital",18033
-392,9408,indoor,"museum/indoor, pharmacy, booth/indoor, drugstore, hospital",18033
-393,9432,indoor,"museum/indoor, pharmacy, booth/indoor, drugstore, hospital",18033
-394,9456,indoor,"museum/indoor, booth/indoor, pharmacy, drugstore, hospital",18033
-395,9480,indoor,"museum/indoor, pharmacy, booth/indoor, drugstore, hospital",18033
-396,9504,indoor,"museum/indoor, booth/indoor, pharmacy, drugstore, cemetery",18033
-397,9528,indoor,"museum/indoor, pharmacy, booth/indoor, drugstore, cemetery",18033
-398,9552,indoor,"pharmacy, museum/indoor, booth/indoor, drugstore, hospital",18033
-399,9576,indoor,"booth/indoor, museum/indoor, pharmacy, drugstore, hospital",18033
-400,9600,indoor,"museum/indoor, booth/indoor, pharmacy, drugstore, hospital",18033
-401,9624,indoor,"clean_room, banquet_hall, jewelry_shop, museum/indoor, chemistry_lab",18033
-402,9648,indoor,"clean_room, banquet_hall, jewelry_shop, chemistry_lab, physics_laboratory",18033
-403,9672,indoor,"clean_room, banquet_hall, jewelry_shop, chemistry_lab, physics_laboratory",18033
-404,9696,indoor,"clean_room, banquet_hall, jewelry_shop, chemistry_lab, ballroom",18033
-405,9720,indoor,"clean_room, banquet_hall, jewelry_shop, chemistry_lab, physics_laboratory",18033
-406,9744,indoor,"clean_room, banquet_hall, jewelry_shop, chemistry_lab, physics_laboratory",18033
-407,9768,indoor,"living_room, office, home_office, hotel_room, dressing_room",18033
-408,9792,indoor,"living_room, office, dressing_room, hotel_room, home_office",18033
-409,9816,indoor,"living_room, home_office, office, hotel_room, dressing_room",18033
-410,9840,indoor,"living_room, office, home_office, library/indoor, office_cubicles",18033
-411,9864,indoor,"living_room, office, home_office, beauty_salon, dressing_room",18033
-412,9888,indoor,"living_room, home_office, office, hotel_room, dressing_room",18033
-413,9912,indoor,"living_room, home_office, office, beauty_salon, hotel_room",18033
-414,9936,indoor,"living_room, office, home_office, beauty_salon, office_cubicles",18033
-415,9960,indoor,"living_room, beauty_salon, office, home_office, dressing_room",18033
-416,9984,indoor,"living_room, beauty_salon, dressing_room, bow_window/indoor, bedchamber",18033
-417,10008,indoor,"living_room, beauty_salon, home_office, dressing_room, office",18033
-418,10032,indoor,"living_room, beauty_salon, office, dressing_room, hotel_room",18033
-419,10056,indoor,"living_room, beauty_salon, dressing_room, office, clean_room",18033
-420,10080,indoor,"living_room, beauty_salon, office, dressing_room, home_office",18033
-421,10104,indoor,"living_room, dressing_room, clean_room, beauty_salon, office",18033
-422,10128,indoor,"clean_room, beauty_salon, hospital_room, operating_room, dressing_room",18033
-423,10152,indoor,"dressing_room, museum/indoor, art_gallery, elevator/door, bow_window/indoor",18033
-424,10176,indoor,"clean_room, dressing_room, chemistry_lab, hospital_room, operating_room",18033
-425,10200,indoor,"clean_room, dressing_room, operating_room, chemistry_lab, hospital_room",18033
-426,10224,indoor,"clean_room, nursing_home, operating_room, dressing_room, hospital_room",18033
-427,10248,indoor,"pharmacy, drugstore, hospital, beauty_salon, cemetery",18033
-428,10272,indoor,"pharmacy, drugstore, hospital, beauty_salon, cemetery",18033
-429,10296,indoor,"pharmacy, drugstore, cemetery, hospital, booth/indoor",18033
-430,10320,indoor,"pharmacy, drugstore, hospital, beauty_salon, cemetery",18033
-431,10344,indoor,"clean_room, operating_room, nursing_home, hospital_room, chemistry_lab",18033
-432,10368,indoor,"dressing_room, museum/indoor, elevator/door, ballroom, nursing_home",18033
-433,10392,indoor,"dressing_room, museum/indoor, art_gallery, ballroom, stage/indoor",18033
-434,10416,indoor,"clean_room, operating_room, nursing_home, dressing_room, hospital_room",18033
-435,10440,indoor,"clean_room, operating_room, dressing_room, hospital_room, nursing_home",18033
-436,10464,indoor,"clean_room, operating_room, dressing_room, nursing_home, hospital_room",18033
-437,10488,indoor,"clean_room, nursing_home, dressing_room, operating_room, chemistry_lab",18033
-438,10512,indoor,"pharmacy, hospital, drugstore, cemetery, beauty_salon",18033
-439,10536,indoor,"pharmacy, hospital, drugstore, cemetery, beauty_salon",18033
-440,10560,indoor,"pharmacy, hospital, drugstore, cemetery, elevator/door",18033
-441,10584,indoor,"living_room, clean_room, beauty_salon, hotel_room, bedchamber",18033
-442,10608,indoor,"beauty_salon, living_room, clean_room, hospital_room, dressing_room",18033
-443,10632,indoor,"living_room, hotel_room, beauty_salon, bedchamber, dressing_room",18033
-444,10656,indoor,"clean_room, living_room, dressing_room, beauty_salon, bedchamber",18033
-445,10680,indoor,"clean_room, living_room, dressing_room, beauty_salon, bedchamber",18033
-446,10704,indoor,"clean_room, dressing_room, living_room, beauty_salon, hospital_room",18033
-447,10728,indoor,"dressing_room, clean_room, hospital_room, beauty_salon, hotel_room",18033
-448,10752,indoor,"clean_room, dressing_room, hospital_room, beauty_salon, operating_room",18033
-449,10776,indoor,"dressing_room, clean_room, beauty_salon, nursing_home, living_room",18033
-450,10800,indoor,"clean_room, dressing_room, music_studio, beauty_salon, archive",18033
-451,10824,indoor,"chemistry_lab, skyscraper, clean_room, industrial_area, biology_laboratory",18033
-452,10848,indoor,"clean_room, server_room, archive, jail_cell, basement",18033
-453,10872,indoor,"shower, dressing_room, basement, discotheque, bathroom",18033
-454,10896,indoor,"dressing_room, discotheque, aquarium, shower, ice_floe",18033
-455,10920,indoor,"dressing_room, clean_room, discotheque, hospital_room, shower",18033
-456,10944,indoor,"dressing_room, hospital_room, hotel_room, bedroom, clean_room",18033
-457,10968,indoor,"dressing_room, shower, bathroom, discotheque, clean_room",18033
-458,10992,indoor,"dressing_room, discotheque, shower, stage/indoor, basement",18033
-459,11016,indoor,"dressing_room, discotheque, shower, bathroom, locker_room",18033
-460,11040,indoor,"dressing_room, discotheque, shower, sauna, locker_room",18033
-461,11064,indoor,"dressing_room, shower, discotheque, bathroom, locker_room",18033
-462,11088,indoor,"dressing_room, discotheque, shower, stage/indoor, clean_room",18033
-463,11112,indoor,"dressing_room, discotheque, shower, sauna, bathroom",18033
-464,11136,outdoor,"igloo, shower, ice_floe, hot_spring, basement",18033
-465,11160,outdoor,"ocean, shower, ice_shelf, aquarium, ice_floe",18033
-466,11184,outdoor,"iceberg, clean_room, ice_floe, ice_shelf, nursery",18033
-467,11208,outdoor,"igloo, playground, iceberg, aquarium, ice_shelf",18033
-468,11232,outdoor,"shower, playground, aquarium, ocean, volleyball_court/outdoor",18033
-469,11256,indoor,"corridor, dressing_room, clean_room, shower, bowling_alley",18033
-470,11280,indoor,"dressing_room, museum/indoor, hot_spring, discotheque, shower",18033
-471,11304,indoor,"dressing_room, clean_room, operating_room, beauty_salon, locker_room",18033
-472,11328,indoor,"dressing_room, clean_room, beauty_salon, locker_room, sauna",18033
-473,11352,indoor,"dressing_room, clean_room, locker_room, shower, beauty_salon",18033
-474,11376,indoor,"dressing_room, clean_room, artists_loft, shower, bathroom",18033
-475,11400,indoor,"dressing_room, beauty_salon, bathroom, clean_room, shower",18033
-476,11424,indoor,"dressing_room, bathroom, shower, clean_room, artists_loft",18033
-477,11448,indoor,"dressing_room, dining_room, artists_loft, art_studio, clean_room",18033
-478,11472,indoor,"dressing_room, shower, bathroom, beauty_salon, clean_room",18033
-479,11496,indoor,"dressing_room, clean_room, bathroom, hospital_room, beauty_salon",18033
-480,11520,indoor,"dressing_room, clean_room, hospital_room, beauty_salon, operating_room",18033
-481,11544,indoor,"dressing_room, shower, discotheque, bathroom, sauna",18033
-482,11568,indoor,"dressing_room, shower, discotheque, locker_room, bathroom",18033
-483,11592,indoor,"dressing_room, clean_room, sauna, shower, discotheque",18033
-484,11616,indoor,"dressing_room, discotheque, chemistry_lab, sauna, shower",18033
-485,11640,indoor,"dressing_room, clean_room, hospital_room, discotheque, shower",18033
-486,11664,indoor,"dressing_room, discotheque, clothing_store, airplane_cabin, stage/indoor",18033
-487,11688,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, operating_room",18033
-488,11712,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, nursing_home",18033
-489,11736,indoor,"dressing_room, beauty_salon, clean_room, hospital_room, discotheque",18033
-490,11760,indoor,"clean_room, archive, drugstore, pharmacy, beauty_salon",18033
-491,11784,indoor,"clean_room, discotheque, nursery, shower, stage/indoor",18033
-492,11808,indoor,"discotheque, clean_room, stage/indoor, dressing_room, music_studio",18033
-493,11832,indoor,"dressing_room, clean_room, bathroom, hotel_room, beauty_salon",18033
-494,11856,indoor,"dressing_room, clean_room, hotel_room, bathroom, hospital_room",18033
-495,11880,indoor,"dressing_room, clean_room, hotel_room, hospital_room, operating_room",18033
-496,11904,indoor,"dressing_room, hospital_room, operating_room, clean_room, beauty_salon",18033
-497,11928,indoor,"beauty_salon, airplane_cabin, drugstore, pharmacy, bookstore",18033
-498,11952,indoor,"airplane_cabin, hospital_room, beauty_salon, archive, ice_cream_parlor",18033
-499,11976,indoor,"beauty_salon, drugstore, pharmacy, archive, bookstore",18033
-500,12000,indoor,"drugstore, pharmacy, beauty_salon, hospital_room, archive",18033
-501,12024,indoor,"dressing_room, clean_room, discotheque, hospital_room, shower",18033
-502,12048,indoor,"discotheque, dressing_room, stage/indoor, shower, clothing_store",18033
-503,12072,indoor,"dressing_room, discotheque, shower, stage/indoor, bathroom",18033
-504,12096,indoor,"dressing_room, discotheque, shower, stage/indoor, locker_room",18033
-505,12120,indoor,"dressing_room, discotheque, shower, stage/indoor, bathroom",18033
-506,12144,indoor,"dressing_room, discotheque, bathroom, shower, beauty_salon",18033
-507,12168,indoor,"dressing_room, discotheque, bathroom, shower, beauty_salon",18033
-508,12192,indoor,"dressing_room, discotheque, beauty_salon, shower, bathroom",18033
-509,12216,indoor,"dressing_room, discotheque, shower, bathroom, beauty_salon",18033
-510,12240,indoor,"dressing_room, clean_room, airplane_cabin, clothing_store, locker_room",18033
-511,12264,indoor,"discotheque, dressing_room, stage/indoor, bowling_alley, ballroom",18033
-512,12288,indoor,"dressing_room, discotheque, shower, locker_room, bathroom",18033
-513,12312,indoor,"dressing_room, discotheque, locker_room, shower, stage/indoor",18033
-514,12336,indoor,"dressing_room, hotel_room, clean_room, bedroom, hospital_room",18033
-515,12360,indoor,"dressing_room, clean_room, hospital_room, operating_room, beauty_salon",18033
-516,12384,indoor,"clean_room, hospital_room, operating_room, dressing_room, hotel_room",18033
-517,12408,indoor,"dressing_room, clean_room, hospital_room, operating_room, bathroom",18033
-518,12432,indoor,"dressing_room, airplane_cabin, clothing_store, nursing_home, clean_room",18033
-519,12456,indoor,"dressing_room, clean_room, operating_room, hospital_room, beauty_salon",18033
-520,12480,indoor,"dressing_room, clean_room, hospital_room, operating_room, hotel_room",18033
-521,12504,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",18033
-522,12528,indoor,"dressing_room, clean_room, hospital_room, operating_room, beauty_salon",18033
-523,12552,indoor,"clean_room, dressing_room, hospital_room, operating_room, beauty_salon",18033
-524,12576,indoor,"clean_room, operating_room, hospital_room, dressing_room, hotel_room",18033
-525,12600,indoor,"dressing_room, clean_room, hospital_room, operating_room, hotel_room",18033
-526,12624,indoor,"dressing_room, clean_room, operating_room, hospital_room, beauty_salon",18033
-527,12648,indoor,"dressing_room, bathroom, clean_room, hotel_room, shower",18033
-528,12672,indoor,"dressing_room, clean_room, operating_room, hospital_room, beauty_salon",18033
-529,12696,indoor,"dressing_room, clean_room, operating_room, hospital_room, beauty_salon",18033
-530,12720,indoor,"operating_room, hospital_room, clean_room, beauty_salon, dressing_room",18033
-531,12744,indoor,"dressing_room, discotheque, clean_room, chemistry_lab, corridor",18033
-532,12768,indoor,"dressing_room, discotheque, stage/indoor, ballroom, music_studio",18033
-533,12792,indoor,"discotheque, stage/indoor, clean_room, music_studio, dressing_room",18033
-534,12816,indoor,"dressing_room, basement, clean_room, chemistry_lab, bathroom",18033
-535,12840,indoor,"dressing_room, shower, discotheque, bathroom, igloo",18033
-536,12864,indoor,"discotheque, shower, bathroom, hot_spring, igloo",18033
-537,12888,indoor,"discotheque, stage/indoor, clean_room, chemistry_lab, dressing_room",18033
-538,12912,indoor,"clean_room, bar, basement, laundromat, bathroom",18033
-539,12936,indoor,"discotheque, stage/indoor, dressing_room, elevator/door, locker_room",18033
-540,12960,indoor,"dressing_room, clean_room, shower, art_gallery, bathroom",18033
-541,12984,indoor,"clean_room, dressing_room, operating_room, shower, bathroom",18033
-542,13008,indoor,"dressing_room, clean_room, shower, locker_room, bathroom",18033
-543,13032,indoor,"dressing_room, clean_room, bathroom, shower, art_gallery",18033
-544,13056,indoor,"dressing_room, clean_room, bathroom, shower, beauty_salon",18033
-545,13080,indoor,"dressing_room, clean_room, locker_room, bathroom, shower",18033
-546,13104,indoor,"dressing_room, clean_room, locker_room, shower, bathroom",18033
-547,13128,indoor,"dressing_room, clean_room, chemistry_lab, shower, bathroom",18033
-548,13152,indoor,"dressing_room, clean_room, shower, locker_room, bathroom",18033
-549,13176,indoor,"dressing_room, clean_room, bathroom, shower, locker_room",18033
-550,13200,indoor,"dressing_room, clean_room, locker_room, bathroom, shower",18033
-551,13224,indoor,"dressing_room, clean_room, sauna, shower, bathroom",18033
-552,13248,indoor,"dressing_room, bathroom, shower, clean_room, sauna",18033
-553,13272,indoor,"dressing_room, clean_room, chemistry_lab, bathroom, shower",18033
-554,13296,indoor,"clean_room, dressing_room, shower, bathroom, chemistry_lab",18033
-555,13320,indoor,"clean_room, dressing_room, chemistry_lab, locker_room, bathroom",18033
-556,13344,indoor,"dressing_room, sauna, clean_room, shower, locker_room",18033
-557,13368,indoor,"pharmacy, hospital, drugstore, beauty_salon, elevator/door",18033
-558,13392,indoor,"hospital, pharmacy, drugstore, beauty_salon, cemetery",18033
-559,13416,indoor,"dressing_room, clean_room, shower, sauna, locker_room",18033
-560,13440,indoor,"shower, bathroom, dressing_room, clean_room, locker_room",18033
-561,13464,indoor,"dressing_room, shower, bathroom, clean_room, art_gallery",18033
-562,13488,indoor,"dressing_room, clean_room, shower, sauna, bathroom",18033
-563,13512,indoor,"dressing_room, clean_room, clothing_store, sauna, locker_room",18033
-564,13536,indoor,"dressing_room, clean_room, chemistry_lab, ballroom, banquet_hall",18033
-565,13560,indoor,"discotheque, shower, chemistry_lab, dressing_room, clean_room",18033
-566,13584,indoor,"clean_room, shower, museum/indoor, chemistry_lab, locker_room",18033
-567,13608,indoor,"clean_room, shower, locker_room, museum/indoor, chemistry_lab",18033
-568,13632,indoor,"clean_room, locker_room, museum/indoor, shower, server_room",18033
-569,13656,indoor,"museum/indoor, stage/indoor, clean_room, locker_room, music_studio",18033
-570,13680,indoor,"clean_room, museum/indoor, stage/indoor, music_studio, shower",18033
-571,13704,indoor,"clean_room, museum/indoor, shower, discotheque, art_gallery",18033
-572,13728,indoor,"museum/indoor, clean_room, natural_history_museum, archive, science_museum",18033
-573,13752,indoor,"museum/indoor, library/indoor, archive, repair_shop, banquet_hall",18033
-574,13776,indoor,"archive, library/indoor, museum/indoor, dining_hall, banquet_hall",18033
-575,13800,indoor,"archive, library/indoor, museum/indoor, classroom, dining_hall",18033
-576,13824,indoor,"archive, museum/indoor, library/indoor, classroom, schoolhouse",18033
-577,13848,indoor,"archive, museum/indoor, classroom, stage/indoor, library/indoor",18033
-578,13872,indoor,"archive, museum/indoor, library/indoor, stage/indoor, clean_room",18033
-579,13896,indoor,"classroom, clean_room, archive, library/indoor, repair_shop",18033
-580,13920,indoor,"entrance_hall, dressing_room, corridor, ballroom, clean_room",18033
-581,13944,indoor,"entrance_hall, corridor, dressing_room, ballroom, lobby",18033
-582,13968,indoor,"dressing_room, entrance_hall, ballroom, museum/indoor, dining_room",18033
-583,13992,indoor,"dressing_room, entrance_hall, ballroom, museum/indoor, clean_room",18033
-584,14016,indoor,"dressing_room, entrance_hall, clean_room, museum/indoor, ballroom",18033
-585,14040,indoor,"dressing_room, clean_room, music_studio, museum/indoor, discotheque",18033
-586,14064,indoor,"clean_room, museum/indoor, dressing_room, operating_room, music_studio",18033
-587,14088,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, stage/indoor",18033
-588,14112,indoor,"dressing_room, museum/indoor, clean_room, martial_arts_gym, art_gallery",18033
-589,14136,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, archive",18033
-590,14160,indoor,"clean_room, dressing_room, locker_room, museum/indoor, hospital_room",18033
-591,14184,indoor,"clean_room, hospital_room, dressing_room, operating_room, beauty_salon",18033
-592,14208,indoor,"clean_room, operating_room, hospital_room, dressing_room, discotheque",18033
-593,14232,indoor,"clean_room, dressing_room, discotheque, ballroom, museum/indoor",18033
-594,14256,outdoor,"shower, sky, ice_floe, tower, igloo",18033
-595,14280,outdoor,"ice_floe, ice_shelf, iceberg, glacier, crevasse",18033
-596,14304,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, stage/indoor",18033
-597,14328,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, stage/indoor",18033
-598,14352,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, music_studio",18033
-599,14376,indoor,"dressing_room, art_gallery, museum/indoor, clean_room, art_studio",18033
-600,14400,indoor,"dressing_room, discotheque, stage/indoor, art_gallery, museum/indoor",18033
-601,14424,indoor,"museum/indoor, discotheque, stage/indoor, dressing_room, ballroom",18033
-602,14448,indoor,"museum/indoor, archive, nursery, clean_room, science_museum",18033
-603,14472,indoor,"pharmacy, hospital, drugstore, beauty_salon, hospital_room",18033
-604,14496,indoor,"pharmacy, hospital, drugstore, cemetery, beauty_salon",18033
-605,14520,indoor,"pharmacy, hospital, drugstore, cemetery, beauty_salon",18033
-606,14544,indoor,"hospital, pharmacy, drugstore, cemetery, beauty_salon",18033
-607,14568,indoor,"museum/indoor, dressing_room, locker_room, archive, clean_room",18033
-608,14592,indoor,"museum/indoor, dressing_room, art_gallery, archive, natural_history_museum",18033
-609,14616,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, natural_history_museum",18033
-610,14640,indoor,"museum/indoor, dressing_room, art_gallery, archive, locker_room",18033
-611,14664,indoor,"museum/indoor, dressing_room, clean_room, locker_room, archive",18033
-612,14688,indoor,"dressing_room, museum/indoor, art_gallery, clean_room, locker_room",18033
-613,14712,indoor,"dressing_room, museum/indoor, nursery, clean_room, art_gallery",18033
-614,14736,indoor,"bow_window/indoor, living_room, alcove, dining_room, waiting_room",18033
-615,14760,indoor,"dressing_room, ballroom, stage/indoor, shower, sauna",18033
-616,14784,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, shower",18033
-617,14808,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, art_gallery",18033
-618,14832,indoor,"clean_room, dressing_room, museum/indoor, nursing_home, locker_room",18033
-619,14856,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, martial_arts_gym",18033
-620,14880,indoor,"classroom, jail_cell, archive, sauna, dressing_room",18033
-621,14904,indoor,"classroom, lecture_room, archive, locker_room, jail_cell",18033
-622,14928,indoor,"sauna, locker_room, dressing_room, archive, classroom",18033
-623,14952,indoor,"sauna, classroom, jail_cell, locker_room, dressing_room",18033
-624,14976,indoor,"dressing_room, locker_room, sauna, ballroom, jail_cell",18033
-625,15000,indoor,"dressing_room, sauna, bow_window/indoor, locker_room, nursery",18033
-626,15024,indoor,"dressing_room, bow_window/indoor, museum/indoor, locker_room, sauna",18033
-627,15048,indoor,"museum/indoor, dressing_room, clean_room, bow_window/indoor, nursery",18033
-628,15072,indoor,"dressing_room, locker_room, sauna, ballroom, clean_room",18033
-629,15096,indoor,"gymnasium/indoor, museum/indoor, stage/indoor, bow_window/indoor, dressing_room",18033
-630,15120,indoor,"ballroom, museum/indoor, music_studio, gymnasium/indoor, bow_window/indoor",18033
-631,15144,indoor,"nursery, gymnasium/indoor, staircase, hospital_room, entrance_hall",18033
-632,15168,indoor,"nursery, gymnasium/indoor, kindergarden_classroom, entrance_hall, hospital_room",18033
-633,15192,indoor,"classroom, archive, kindergarden_classroom, lecture_room, nursery",18033
-634,15216,indoor,"classroom, archive, kindergarden_classroom, lecture_room, locker_room",18033
-635,15240,indoor,"archive, classroom, lecture_room, kindergarden_classroom, clean_room",18033
-636,15264,indoor,"discotheque, gymnasium/indoor, kindergarden_classroom, locker_room, dressing_room",18033
-637,15288,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-638,15312,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-639,15336,indoor,"banquet_hall, dining_hall, library/indoor, cafeteria, entrance_hall",18033
-640,15360,indoor,"banquet_hall, dining_hall, cafeteria, library/indoor, dining_room",18033
-641,15384,indoor,"banquet_hall, dining_hall, cafeteria, library/indoor, restaurant",18033
-642,15408,indoor,"banquet_hall, dining_hall, library/indoor, cafeteria, conference_room",18033
-643,15432,indoor,"banquet_hall, library/indoor, dining_hall, cafeteria, restaurant",18033
-644,15456,indoor,"banquet_hall, dining_hall, cafeteria, entrance_hall, ballroom",18033
-645,15480,indoor,"banquet_hall, dining_hall, cafeteria, library/indoor, restaurant",18033
-646,15504,indoor,"banquet_hall, dining_hall, cafeteria, library/indoor, entrance_hall",18033
-647,15528,indoor,"banquet_hall, conference_center, dining_hall, ballroom, lecture_room",18033
-648,15552,indoor,"shower, bathroom, beauty_salon, dressing_room, veterinarians_office",18033
-649,15576,indoor,"shower, bathroom, museum/indoor, discotheque, beauty_salon",18033
-650,15600,indoor,"shower, museum/indoor, science_museum, bathroom, natural_history_museum",18033
-651,15624,indoor,"shower, bathroom, dressing_room, beauty_salon, music_studio",18033
-652,15648,indoor,"shower, bathroom, music_studio, dressing_room, museum/indoor",18033
-653,15672,indoor,"shower, bathroom, dressing_room, museum/indoor, music_studio",18033
-654,15696,indoor,"shower, bathroom, dressing_room, sauna, museum/indoor",18033
-655,15720,indoor,"banquet_hall, dining_hall, restaurant, cafeteria, dining_room",18033
-656,15744,indoor,"discotheque, banquet_hall, restaurant, conference_center, auditorium",18033
-657,15768,indoor,"discotheque, restaurant, banquet_hall, dressing_room, bar",18033
-658,15792,indoor,"discotheque, banquet_hall, restaurant, dressing_room, bar",18033
-659,15816,indoor,"banquet_hall, restaurant, discotheque, dressing_room, dining_hall",18033
-660,15840,indoor,"shower, museum/indoor, bathroom, dressing_room, science_museum",18033
-661,15864,indoor,"shower, museum/indoor, music_studio, bathroom, dressing_room",18033
-662,15888,indoor,"shower, bathroom, dressing_room, museum/indoor, sauna",18033
-663,15912,indoor,"shower, bathroom, museum/indoor, dressing_room, ice_cream_parlor",18033
-664,15936,indoor,"clean_room, museum/indoor, ice_cream_parlor, art_gallery, veterinarians_office",18033
-665,15960,indoor,"shower, bathroom, dressing_room, museum/indoor, science_museum",18033
-666,15984,indoor,"shower, dressing_room, discotheque, stage/indoor, bathroom",18033
-667,16008,indoor,"pharmacy, cemetery, museum/indoor, hospital, drugstore",18033
-668,16032,indoor,"cemetery, pharmacy, museum/indoor, hospital, drugstore",18033
-669,16056,indoor,"cemetery, pharmacy, museum/indoor, hospital, drugstore",18033
-670,16080,indoor,"cemetery, pharmacy, museum/indoor, hospital, drugstore",18033
-671,16104,indoor,"cemetery, pharmacy, hospital, museum/indoor, drugstore",18033
-672,16128,indoor,"cemetery, pharmacy, museum/indoor, hospital, drugstore",18033
-673,16152,indoor,"dressing_room, discotheque, ballroom, stage/indoor, chemistry_lab",18033
-674,16176,indoor,"discotheque, dressing_room, ballroom, banquet_hall, stage/indoor",18033
-675,16200,indoor,"dressing_room, discotheque, ballroom, stage/indoor, shower",18033
-676,16224,indoor,"dressing_room, discotheque, ballroom, shower, banquet_hall",18033
-677,16248,indoor,"banquet_hall, ballroom, discotheque, dining_hall, dressing_room",18033
-678,16272,indoor,"banquet_hall, dining_hall, conference_center, ballroom, restaurant",18033
-679,16296,indoor,"banquet_hall, dining_hall, conference_center, classroom, lecture_room",18033
-680,16320,indoor,"banquet_hall, dining_hall, classroom, ballroom, lecture_room",18033
-681,16344,indoor,"banquet_hall, dining_hall, ballroom, dressing_room, museum/indoor",18033
-682,16368,indoor,"banquet_hall, dining_hall, conference_center, ballroom, lecture_room",18033
-683,16392,indoor,"banquet_hall, dining_hall, ballroom, cafeteria, conference_center",18033
-684,16416,indoor,"banquet_hall, dining_hall, restaurant, cafeteria, dining_room",18033
-685,16440,indoor,"banquet_hall, dining_hall, restaurant, cafeteria, dining_room",18033
-686,16464,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-687,16488,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-688,16512,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-689,16536,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-690,16560,indoor,"banquet_hall, dining_hall, ballroom, dining_room, restaurant",18033
-691,16584,indoor,"banquet_hall, dining_hall, restaurant, cafeteria, dining_room",18033
-692,16608,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-693,16632,indoor,"banquet_hall, dining_hall, restaurant, cafeteria, dining_room",18033
-694,16656,indoor,"banquet_hall, dining_hall, cafeteria, restaurant, dining_room",18033
-695,16680,indoor,"banquet_hall, dining_hall, restaurant, cafeteria, dining_room",18033
-696,16704,indoor,"discotheque, museum/indoor, stage/indoor, clean_room, nursery",18033
-697,16728,indoor,"clean_room, discotheque, nursing_home, chemistry_lab, ice_cream_parlor",18033
-698,16752,indoor,"nursing_home, clean_room, museum/indoor, dressing_room, discotheque",18033
-699,16776,indoor,"clean_room, nursing_home, museum/indoor, discotheque, chemistry_lab",18033
-700,16800,indoor,"discotheque, dressing_room, bar, pub/indoor, restaurant",18033
-701,16824,indoor,"discotheque, bar, pub/indoor, stage/indoor, bowling_alley",18033
-702,16848,indoor,"discotheque, nursery, dressing_room, playroom, stage/indoor",18033
-703,16872,indoor,"dressing_room, banquet_hall, discotheque, ballroom, nursing_home",18033
-704,16896,indoor,"dressing_room, banquet_hall, discotheque, ballroom, clean_room",18033
-705,16920,indoor,"dressing_room, discotheque, banquet_hall, ballroom, nursing_home",18033
-706,16944,indoor,"discotheque, bar, nursery, pub/indoor, stage/indoor",18033
-707,16968,indoor,"discotheque, bar, pub/indoor, dressing_room, bowling_alley",18033
-708,16992,indoor,"discotheque, bar, pub/indoor, dressing_room, ice_cream_parlor",18033
-709,17016,indoor,"discotheque, bar, dressing_room, chemistry_lab, ice_cream_parlor",18033
-710,17040,indoor,"restaurant, cafeteria, discotheque, bar, ice_cream_parlor",18033
-711,17064,indoor,"restaurant, discotheque, ice_cream_parlor, cafeteria, classroom",18033
-712,17088,indoor,"dressing_room, discotheque, beauty_salon, bar, martial_arts_gym",18033
-713,17112,indoor,"discotheque, restaurant, dressing_room, bar, classroom",18033
-714,17136,indoor,"discotheque, dressing_room, restaurant, bar, classroom",18033
-715,17160,indoor,"discotheque, dressing_room, bar, restaurant, classroom",18033
-716,17184,indoor,"museum/indoor, dressing_room, nursing_home, stage/indoor, ballroom",18033
-717,17208,indoor,"discotheque, bar, restaurant, pub/indoor, cafeteria",18033
-718,17232,indoor,"restaurant, cafeteria, bar, discotheque, pub/indoor",18033
-719,17256,indoor,"dressing_room, discotheque, classroom, bar, boxing_ring",18033
-720,17280,indoor,"discotheque, shower, dressing_room, nursery, playground",18033
-721,17304,indoor,"dressing_room, discotheque, bar, classroom, basement",18033
-722,17328,indoor,"classroom, lecture_room, discotheque, computer_room, dressing_room",18033
-723,17352,indoor,"classroom, discotheque, dressing_room, bar, lecture_room",18033
-724,17376,indoor,"archive, drugstore, pharmacy, booth/indoor, museum/indoor",18033
-725,17400,indoor,"archive, drugstore, pharmacy, booth/indoor, museum/indoor",18033
-726,17424,indoor,"archive, pharmacy, drugstore, booth/indoor, museum/indoor",18033
-727,17448,indoor,"archive, pharmacy, drugstore, booth/indoor, museum/indoor",18033
-728,17472,indoor,"archive, pharmacy, drugstore, booth/indoor, museum/indoor",18033
-729,17496,indoor,"discotheque, classroom, bar, dressing_room, pub/indoor",18033
-730,17520,indoor,"discotheque, dressing_room, bar, nursery, sauna",18033
-731,17544,indoor,"discotheque, bar, classroom, pub/indoor, restaurant",18033
-732,17568,indoor,"discotheque, restaurant, classroom, bar, cafeteria",18033
-733,17592,indoor,"restaurant, cafeteria, banquet_hall, discotheque, bar",18033
-734,17616,indoor,"classroom, restaurant, discotheque, stage/indoor, lecture_room",18033
-735,17640,indoor,"classroom, restaurant, discotheque, cafeteria, conference_center",18033
-736,17664,indoor,"discotheque, dressing_room, restaurant, bar, pub/indoor",18033
-737,17688,indoor,"discotheque, restaurant, cafeteria, pub/indoor, bar",18033
-738,17712,indoor,"discotheque, dressing_room, stage/indoor, locker_room, classroom",18033
-739,17736,indoor,"discotheque, dressing_room, restaurant, bar, pub/indoor",18033
-740,17760,indoor,"discotheque, restaurant, bar, cafeteria, pub/indoor",18033
-741,17784,indoor,"discotheque, restaurant, bar, cafeteria, music_studio",18033
-742,17808,indoor,"elevator/door, ice_shelf, hospital, pharmacy, movie_theater/indoor",18033
-743,17832,indoor,"hospital, pharmacy, ice_shelf, elevator/door, beauty_salon",18033
-744,17856,indoor,"dressing_room, bedroom, restaurant, banquet_hall, discotheque",18033
-745,17880,indoor,"dressing_room, bathroom, shower, bedroom, beauty_salon",18033
-746,17904,indoor,"dressing_room, bathroom, shower, bedroom, jacuzzi/indoor",18033
-747,17928,indoor,"dressing_room, bathroom, shower, jacuzzi/indoor, bedroom",18033
-748,17952,indoor,"dressing_room, bedroom, nursery, bathroom, shower",18033
-749,17976,indoor,"dressing_room, bathroom, beauty_salon, ice_cream_parlor, shower",18033
-750,18000,indoor,"dressing_room, restaurant, banquet_hall, ice_cream_parlor, cafeteria",18033
-751,18024,indoor,"dressing_room, shower, ice_cream_parlor, bathroom, nursery",18033
-752,18048,indoor,"dressing_room, nursery, hospital_room, clean_room, bedroom",18033
-753,18072,indoor,"nursery, ball_pit, swimming_pool/indoor, bedroom, shower",18033
-754,18096,indoor,"nursery, dressing_room, ball_pit, bedroom, childs_room",18033
-755,18120,indoor,"banquet_hall, dining_hall, dining_room, restaurant, ballroom",18033
-756,18144,indoor,"pharmacy, hospital, drugstore, beauty_salon, cemetery",18033
-757,18168,indoor,"hospital, pharmacy, drugstore, beauty_salon, cemetery",18033
-758,18192,indoor,"hospital, pharmacy, drugstore, beauty_salon, cemetery",18033
-759,18216,indoor,"dressing_room, discotheque, clean_room, banquet_hall, chemistry_lab",18033
-760,18240,indoor,"museum/indoor, dressing_room, nursing_home, banquet_hall, art_gallery",18033
-761,18264,indoor,"dressing_room, museum/indoor, banquet_hall, nursing_home, ballroom",18033
-762,18288,indoor,"museum/indoor, dressing_room, banquet_hall, nursing_home, clean_room",18033
-763,18312,indoor,"pharmacy, hospital, drugstore, beauty_salon, cemetery",18033
-764,18336,indoor,"pharmacy, hospital, drugstore, beauty_salon, cemetery",18033
-765,18360,indoor,"hospital, pharmacy, drugstore, beauty_salon, cemetery",18033
-766,18384,indoor,"banquet_hall, dining_hall, ballroom, dining_room, restaurant",18033
-767,18408,indoor,"banquet_hall, dining_hall, ballroom, dining_room, restaurant",18033
-768,18432,indoor,"banquet_hall, dining_hall, ballroom, dining_room, restaurant",18033
-769,18456,indoor,"banquet_hall, dining_hall, ballroom, dining_room, restaurant",18033
-770,18480,indoor,"banquet_hall, dining_hall, ballroom, dining_room, cafeteria",18033
-771,18504,indoor,"banquet_hall, dining_hall, ballroom, dining_room, cafeteria",18033
-772,18528,indoor,"dressing_room, hospital_room, locker_room, nursery, bedroom",18033
-773,18552,indoor,"dressing_room, nursery, clean_room, hospital_room, shower",18033
-774,18576,indoor,"nursery, dressing_room, hospital_room, banquet_hall, clean_room",18033
-775,18600,indoor,"nursery, dressing_room, hospital_room, shower, discotheque",18033
-776,18624,indoor,"hospital, pharmacy, drugstore, beauty_salon, hospital_room",18033
-777,18648,indoor,"hospital, pharmacy, drugstore, beauty_salon, hospital_room",18033
-778,18672,indoor,"dressing_room, banquet_hall, nursery, hospital_room, clean_room",18033
-779,18696,indoor,"dressing_room, banquet_hall, hospital_room, clean_room, nursery",18033
-780,18720,indoor,"dressing_room, banquet_hall, hospital_room, nursery, clean_room",18033
-781,18744,indoor,"banquet_hall, hospital_room, dressing_room, nursery, clean_room",18033
-782,18768,indoor,"cemetery, pharmacy, drugstore, hospital, museum/indoor",18033
-783,18792,indoor,"cemetery, pharmacy, museum/indoor, drugstore, hospital",18033
-784,18816,indoor,"cemetery, pharmacy, museum/indoor, drugstore, hospital",18033
-785,18840,indoor,"pharmacy, cemetery, drugstore, museum/indoor, hospital",18033
-786,18864,indoor,"cemetery, pharmacy, drugstore, hospital, museum/indoor",18033
-787,18888,indoor,"cemetery, pharmacy, museum/indoor, drugstore, hospital",18033
-788,18912,indoor,"banquet_hall, dressing_room, hospital_room, clean_room, nursery",18033
-789,18936,indoor,"dressing_room, nursery, hospital_room, clean_room, shower",18033
-790,18960,indoor,"discotheque, bar, restaurant, cafeteria, pub/indoor",18033
-791,18984,indoor,"discotheque, bar, restaurant, cafeteria, classroom",18033
-792,19008,indoor,"discotheque, bar, restaurant, pub/indoor, coffee_shop",18033
-793,19032,indoor,"discotheque, bar, restaurant, bathroom, dressing_room",18033
-794,19056,indoor,"discotheque, bar, dressing_room, restaurant, bowling_alley",18033
-795,19080,indoor,"discotheque, bar, classroom, pub/indoor, bowling_alley",18033
-796,19104,indoor,"discotheque, playground, bar, stage/indoor, boxing_ring",18033
-797,19128,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, banquet_hall",18033
-798,19152,indoor,"clean_room, banquet_hall, dressing_room, museum/indoor, nursing_home",18033
-799,19176,indoor,"dressing_room, banquet_hall, clean_room, museum/indoor, nursing_home",18033
-800,19200,indoor,"dressing_room, banquet_hall, hospital_room, dining_hall, nursery",18033
-801,19224,indoor,"banquet_hall, dressing_room, nursery, discotheque, hospital_room",18033
-802,19248,indoor,"banquet_hall, dressing_room, dining_hall, discotheque, restaurant",18033
-803,19272,indoor,"dressing_room, nursery, nursing_home, kindergarden_classroom, hospital_room",18033
-804,19296,indoor,"dressing_room, nursery, kindergarden_classroom, hospital_room, banquet_hall",18033
-805,19320,indoor,"dressing_room, nursery, hospital_room, locker_room, kindergarden_classroom",18033
-806,19344,indoor,"dressing_room, nursery, banquet_hall, hospital_room, locker_room",18033
-807,19368,indoor,"nursery, kindergarden_classroom, hospital_room, classroom, dressing_room",18033
-808,19392,indoor,"kindergarden_classroom, nursery, dressing_room, classroom, locker_room",18033
-809,19416,indoor,"nursery, locker_room, hospital_room, dressing_room, archive",18033
-810,19440,indoor,"nursery, banquet_hall, kindergarden_classroom, classroom, hospital_room",18033
-811,19464,indoor,"banquet_hall, nursery, dressing_room, nursing_home, discotheque",18033
-812,19488,indoor,"banquet_hall, nursery, dressing_room, kindergarden_classroom, hospital_room",18033
-813,19512,indoor,"banquet_hall, nursing_home, clean_room, lecture_room, hospital_room",18033
-814,19536,indoor,"banquet_hall, nursing_home, clean_room, lecture_room, dressing_room",18033
-815,19560,indoor,"banquet_hall, nursing_home, clean_room, hospital_room, dressing_room",18033
-816,19584,indoor,"banquet_hall, dressing_room, nursing_home, clean_room, hospital_room",18033
-817,19608,indoor,"banquet_hall, nursing_home, clean_room, lecture_room, hospital_room",18033
-818,19632,indoor,"pharmacy, hospital, drugstore, cemetery, elevator/door",18033
-819,19656,indoor,"pharmacy, hospital, drugstore, elevator/door, elevator_lobby",18033
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,18033,0,0,1
+1,18033,24,0,1
+2,18033,48,0,1
+3,18033,72,0,1
+4,18033,96,0,1
+5,18033,120,1,0
+6,18033,144,0,1
+7,18033,168,1,0
+8,18033,192,1,0
+9,18033,216,1,0
+10,18033,240,1,0
+11,18033,264,0,1
+12,18033,288,0,1
+13,18033,312,0,1
+14,18033,336,0,1
+15,18033,360,0,1
+16,18033,384,0,1
+17,18033,408,0,1
+18,18033,432,0,1
+19,18033,456,0,1
+20,18033,480,0,1
+21,18033,504,0,1
+22,18033,528,0,1
+23,18033,552,0,1
+24,18033,576,0,1
+25,18033,600,0,1
+26,18033,624,0,1
+27,18033,648,0,1
+28,18033,672,0,1
+29,18033,696,0,1
+30,18033,720,0,1
+31,18033,744,0,1
+32,18033,768,0,1
+33,18033,792,0,1
+34,18033,816,0,1
+35,18033,840,0,1
+36,18033,864,0,1
+37,18033,888,0,1
+38,18033,912,0,1
+39,18033,936,0,1
+40,18033,960,0,1
+41,18033,984,0,1
+42,18033,1008,0,1
+43,18033,1032,0,1
+44,18033,1056,0,1
+45,18033,1080,0,1
+46,18033,1104,0,1
+47,18033,1128,0,1
+48,18033,1152,0,1
+49,18033,1176,0,1
+50,18033,1200,0,1
+51,18033,1224,0,1
+52,18033,1248,0,1
+53,18033,1272,0,1
+54,18033,1296,0,1
+55,18033,1320,0,1
+56,18033,1344,0,1
+57,18033,1368,1,0
+58,18033,1392,0,1
+59,18033,1416,0,1
+60,18033,1440,0,1
+61,18033,1464,0,1
+62,18033,1488,0,1
+63,18033,1512,0,1
+64,18033,1536,0,1
+65,18033,1560,0,1
+66,18033,1584,0,1
+67,18033,1608,0,1
+68,18033,1632,0,1
+69,18033,1656,0,1
+70,18033,1680,0,1
+71,18033,1704,0,1
+72,18033,1728,0,1
+73,18033,1752,0,1
+74,18033,1776,0,1
+75,18033,1800,0,1
+76,18033,1824,0,1
+77,18033,1848,0,1
+78,18033,1872,0,1
+79,18033,1896,0,1
+80,18033,1920,0,1
+81,18033,1944,0,1
+82,18033,1968,0,1
+83,18033,1992,0,1
+84,18033,2016,0,1
+85,18033,2040,0,1
+86,18033,2064,0,1
+87,18033,2088,0,1
+88,18033,2112,0,1
+89,18033,2136,0,1
+90,18033,2160,0,1
+91,18033,2184,0,1
+92,18033,2208,0,1
+93,18033,2232,0,1
+94,18033,2256,0,1
+95,18033,2280,0,1
+96,18033,2304,0,1
+97,18033,2328,0,1
+98,18033,2352,0,1
+99,18033,2376,0,1
+100,18033,2400,0,1
+101,18033,2424,0,1
+102,18033,2448,0,1
+103,18033,2472,0,1
+104,18033,2496,0,1
+105,18033,2520,0,1
+106,18033,2544,0,1
+107,18033,2568,0,1
+108,18033,2592,0,1
+109,18033,2616,0,1
+110,18033,2640,0,1
+111,18033,2664,0,1
+112,18033,2688,0,1
+113,18033,2712,0,1
+114,18033,2736,0,1
+115,18033,2760,0,1
+116,18033,2784,0,1
+117,18033,2808,0,1
+118,18033,2832,0,1
+119,18033,2856,0,1
+120,18033,2880,0,1
+121,18033,2904,0,1
+122,18033,2928,0,1
+123,18033,2952,0,1
+124,18033,2976,0,1
+125,18033,3000,0,1
+126,18033,3024,0,1
+127,18033,3048,0,1
+128,18033,3072,0,1
+129,18033,3096,0,1
+130,18033,3120,0,1
+131,18033,3144,0,1
+132,18033,3168,0,1
+133,18033,3192,0,1
+134,18033,3216,0,1
+135,18033,3240,1,0
+136,18033,3264,0,1
+137,18033,3288,0,1
+138,18033,3312,0,1
+139,18033,3336,0,1
+140,18033,3360,0,1
+141,18033,3384,0,1
+142,18033,3408,0,1
+143,18033,3432,0,1
+144,18033,3456,0,1
+145,18033,3480,0,1
+146,18033,3504,0,1
+147,18033,3528,0,1
+148,18033,3552,0,1
+149,18033,3576,0,1
+150,18033,3600,0,1
+151,18033,3624,0,1
+152,18033,3648,0,1
+153,18033,3672,0,1
+154,18033,3696,0,1
+155,18033,3720,0,1
+156,18033,3744,0,1
+157,18033,3768,0,1
+158,18033,3792,0,1
+159,18033,3816,0,1
+160,18033,3840,0,1
+161,18033,3864,0,1
+162,18033,3888,0,1
+163,18033,3912,0,1
+164,18033,3936,0,1
+165,18033,3960,0,1
+166,18033,3984,0,1
+167,18033,4008,0,1
+168,18033,4032,0,1
+169,18033,4056,0,1
+170,18033,4080,0,1
+171,18033,4104,0,1
+172,18033,4128,0,1
+173,18033,4152,0,1
+174,18033,4176,0,1
+175,18033,4200,0,1
+176,18033,4224,0,1
+177,18033,4248,0,1
+178,18033,4272,0,1
+179,18033,4296,0,1
+180,18033,4320,0,1
+181,18033,4344,0,1
+182,18033,4368,0,1
+183,18033,4392,0,1
+184,18033,4416,0,1
+185,18033,4440,0,1
+186,18033,4464,0,1
+187,18033,4488,0,1
+188,18033,4512,0,1
+189,18033,4536,0,1
+190,18033,4560,0,1
+191,18033,4584,0,1
+192,18033,4608,0,1
+193,18033,4632,0,1
+194,18033,4656,0,1
+195,18033,4680,0,1
+196,18033,4704,0,1
+197,18033,4728,0,1
+198,18033,4752,0,1
+199,18033,4776,0,1
+200,18033,4800,0,1
+201,18033,4824,0,1
+202,18033,4848,0,1
+203,18033,4872,0,1
+204,18033,4896,0,1
+205,18033,4920,0,1
+206,18033,4944,0,1
+207,18033,4968,0,1
+208,18033,4992,0,1
+209,18033,5016,0,1
+210,18033,5040,0,1
+211,18033,5064,0,1
+212,18033,5088,0,1
+213,18033,5112,0,1
+214,18033,5136,0,1
+215,18033,5160,0,1
+216,18033,5184,0,1
+217,18033,5208,0,1
+218,18033,5232,0,1
+219,18033,5256,0,1
+220,18033,5280,0,1
+221,18033,5304,0,1
+222,18033,5328,0,1
+223,18033,5352,0,1
+224,18033,5376,0,1
+225,18033,5400,0,1
+226,18033,5424,0,1
+227,18033,5448,0,1
+228,18033,5472,0,1
+229,18033,5496,0,1
+230,18033,5520,0,1
+231,18033,5544,0,1
+232,18033,5568,0,1
+233,18033,5592,0,1
+234,18033,5616,0,1
+235,18033,5640,0,1
+236,18033,5664,1,0
+237,18033,5688,0,1
+238,18033,5712,0,1
+239,18033,5736,0,1
+240,18033,5760,0,1
+241,18033,5784,0,1
+242,18033,5808,0,1
+243,18033,5832,0,1
+244,18033,5856,0,1
+245,18033,5880,0,1
+246,18033,5904,0,1
+247,18033,5928,0,1
+248,18033,5952,0,1
+249,18033,5976,0,1
+250,18033,6000,0,1
+251,18033,6024,0,1
+252,18033,6048,0,1
+253,18033,6072,0,1
+254,18033,6096,0,1
+255,18033,6120,0,1
+256,18033,6144,0,1
+257,18033,6168,0,1
+258,18033,6192,0,1
+259,18033,6216,0,1
+260,18033,6240,0,1
+261,18033,6264,0,1
+262,18033,6288,0,1
+263,18033,6312,0,1
+264,18033,6336,1,0
+265,18033,6360,0,1
+266,18033,6384,0,1
+267,18033,6408,0,1
+268,18033,6432,0,1
+269,18033,6456,0,1
+270,18033,6480,0,1
+271,18033,6504,0,1
+272,18033,6528,0,1
+273,18033,6552,0,1
+274,18033,6576,0,1
+275,18033,6600,0,1
+276,18033,6624,0,1
+277,18033,6648,0,1
+278,18033,6672,0,1
+279,18033,6696,0,1
+280,18033,6720,0,1
+281,18033,6744,0,1
+282,18033,6768,0,1
+283,18033,6792,0,1
+284,18033,6816,0,1
+285,18033,6840,0,1
+286,18033,6864,0,1
+287,18033,6888,0,1
+288,18033,6912,0,1
+289,18033,6936,0,1
+290,18033,6960,0,1
+291,18033,6984,0,1
+292,18033,7008,0,1
+293,18033,7032,0,1
+294,18033,7056,0,1
+295,18033,7080,0,1
+296,18033,7104,0,1
+297,18033,7128,0,1
+298,18033,7152,0,1
+299,18033,7176,0,1
+300,18033,7200,0,1
+301,18033,7224,0,1
+302,18033,7248,0,1
+303,18033,7272,0,1
+304,18033,7296,0,1
+305,18033,7320,0,1
+306,18033,7344,0,1
+307,18033,7368,0,1
+308,18033,7392,0,1
+309,18033,7416,0,1
+310,18033,7440,0,1
+311,18033,7464,0,1
+312,18033,7488,0,1
+313,18033,7512,0,1
+314,18033,7536,0,1
+315,18033,7560,0,1
+316,18033,7584,0,1
+317,18033,7608,0,1
+318,18033,7632,0,1
+319,18033,7656,0,1
+320,18033,7680,0,1
+321,18033,7704,0,1
+322,18033,7728,0,1
+323,18033,7752,0,1
+324,18033,7776,0,1
+325,18033,7800,0,1
+326,18033,7824,0,1
+327,18033,7848,0,1
+328,18033,7872,0,1
+329,18033,7896,0,1
+330,18033,7920,0,1
+331,18033,7944,0,1
+332,18033,7968,0,1
+333,18033,7992,0,1
+334,18033,8016,0,1
+335,18033,8040,0,1
+336,18033,8064,0,1
+337,18033,8088,0,1
+338,18033,8112,0,1
+339,18033,8136,0,1
+340,18033,8160,0,1
+341,18033,8184,0,1
+342,18033,8208,0,1
+343,18033,8232,0,1
+344,18033,8256,0,1
+345,18033,8280,0,1
+346,18033,8304,0,1
+347,18033,8328,0,1
+348,18033,8352,0,1
+349,18033,8376,0,1
+350,18033,8400,0,1
+351,18033,8424,0,1
+352,18033,8448,0,1
+353,18033,8472,0,1
+354,18033,8496,0,1
+355,18033,8520,0,1
+356,18033,8544,0,1
+357,18033,8568,0,1
+358,18033,8592,0,1
+359,18033,8616,0,1
+360,18033,8640,0,1
+361,18033,8664,0,1
+362,18033,8688,0,1
+363,18033,8712,0,1
+364,18033,8736,0,1
+365,18033,8760,0,1
+366,18033,8784,0,1
+367,18033,8808,0,1
+368,18033,8832,0,1
+369,18033,8856,0,1
+370,18033,8880,0,1
+371,18033,8904,0,1
+372,18033,8928,0,1
+373,18033,8952,0,1
+374,18033,8976,0,1
+375,18033,9000,0,1
+376,18033,9024,0,1
+377,18033,9048,0,1
+378,18033,9072,0,1
+379,18033,9096,0,1
+380,18033,9120,0,1
+381,18033,9144,0,1
+382,18033,9168,0,1
+383,18033,9192,0,1
+384,18033,9216,0,1
+385,18033,9240,0,1
+386,18033,9264,0,1
+387,18033,9288,0,1
+388,18033,9312,0,1
+389,18033,9336,0,1
+390,18033,9360,0,1
+391,18033,9384,0,1
+392,18033,9408,0,1
+393,18033,9432,0,1
+394,18033,9456,0,1
+395,18033,9480,0,1
+396,18033,9504,0,1
+397,18033,9528,0,1
+398,18033,9552,0,1
+399,18033,9576,0,1
+400,18033,9600,0,1
+401,18033,9624,0,1
+402,18033,9648,0,1
+403,18033,9672,0,1
+404,18033,9696,0,1
+405,18033,9720,0,1
+406,18033,9744,0,1
+407,18033,9768,0,1
+408,18033,9792,0,1
+409,18033,9816,0,1
+410,18033,9840,0,1
+411,18033,9864,0,1
+412,18033,9888,0,1
+413,18033,9912,0,1
+414,18033,9936,0,1
+415,18033,9960,0,1
+416,18033,9984,0,1
+417,18033,10008,0,1
+418,18033,10032,0,1
+419,18033,10056,0,1
+420,18033,10080,0,1
+421,18033,10104,0,1
+422,18033,10128,0,1
+423,18033,10152,0,1
+424,18033,10176,0,1
+425,18033,10200,0,1
+426,18033,10224,0,1
+427,18033,10248,0,1
+428,18033,10272,0,1
+429,18033,10296,0,1
+430,18033,10320,0,1
+431,18033,10344,0,1
+432,18033,10368,0,1
+433,18033,10392,0,1
+434,18033,10416,0,1
+435,18033,10440,0,1
+436,18033,10464,0,1
+437,18033,10488,0,1
+438,18033,10512,0,1
+439,18033,10536,0,1
+440,18033,10560,0,1
+441,18033,10584,0,1
+442,18033,10608,0,1
+443,18033,10632,0,1
+444,18033,10656,0,1
+445,18033,10680,0,1
+446,18033,10704,0,1
+447,18033,10728,0,1
+448,18033,10752,0,1
+449,18033,10776,0,1
+450,18033,10800,0,1
+451,18033,10824,0,1
+452,18033,10848,0,1
+453,18033,10872,0,1
+454,18033,10896,0,1
+455,18033,10920,0,1
+456,18033,10944,0,1
+457,18033,10968,0,1
+458,18033,10992,0,1
+459,18033,11016,0,1
+460,18033,11040,0,1
+461,18033,11064,0,1
+462,18033,11088,0,1
+463,18033,11112,0,1
+464,18033,11136,1,0
+465,18033,11160,1,0
+466,18033,11184,1,0
+467,18033,11208,1,0
+468,18033,11232,1,0
+469,18033,11256,0,1
+470,18033,11280,0,1
+471,18033,11304,0,1
+472,18033,11328,0,1
+473,18033,11352,0,1
+474,18033,11376,0,1
+475,18033,11400,0,1
+476,18033,11424,0,1
+477,18033,11448,0,1
+478,18033,11472,0,1
+479,18033,11496,0,1
+480,18033,11520,0,1
+481,18033,11544,0,1
+482,18033,11568,0,1
+483,18033,11592,0,1
+484,18033,11616,0,1
+485,18033,11640,0,1
+486,18033,11664,0,1
+487,18033,11688,0,1
+488,18033,11712,0,1
+489,18033,11736,0,1
+490,18033,11760,0,1
+491,18033,11784,0,1
+492,18033,11808,0,1
+493,18033,11832,0,1
+494,18033,11856,0,1
+495,18033,11880,0,1
+496,18033,11904,0,1
+497,18033,11928,0,1
+498,18033,11952,0,1
+499,18033,11976,0,1
+500,18033,12000,0,1
+501,18033,12024,0,1
+502,18033,12048,0,1
+503,18033,12072,0,1
+504,18033,12096,0,1
+505,18033,12120,0,1
+506,18033,12144,0,1
+507,18033,12168,0,1
+508,18033,12192,0,1
+509,18033,12216,0,1
+510,18033,12240,0,1
+511,18033,12264,0,1
+512,18033,12288,0,1
+513,18033,12312,0,1
+514,18033,12336,0,1
+515,18033,12360,0,1
+516,18033,12384,0,1
+517,18033,12408,0,1
+518,18033,12432,0,1
+519,18033,12456,0,1
+520,18033,12480,0,1
+521,18033,12504,0,1
+522,18033,12528,0,1
+523,18033,12552,0,1
+524,18033,12576,0,1
+525,18033,12600,0,1
+526,18033,12624,0,1
+527,18033,12648,0,1
+528,18033,12672,0,1
+529,18033,12696,0,1
+530,18033,12720,0,1
+531,18033,12744,0,1
+532,18033,12768,0,1
+533,18033,12792,0,1
+534,18033,12816,0,1
+535,18033,12840,0,1
+536,18033,12864,0,1
+537,18033,12888,0,1
+538,18033,12912,0,1
+539,18033,12936,0,1
+540,18033,12960,0,1
+541,18033,12984,0,1
+542,18033,13008,0,1
+543,18033,13032,0,1
+544,18033,13056,0,1
+545,18033,13080,0,1
+546,18033,13104,0,1
+547,18033,13128,0,1
+548,18033,13152,0,1
+549,18033,13176,0,1
+550,18033,13200,0,1
+551,18033,13224,0,1
+552,18033,13248,0,1
+553,18033,13272,0,1
+554,18033,13296,0,1
+555,18033,13320,0,1
+556,18033,13344,0,1
+557,18033,13368,0,1
+558,18033,13392,0,1
+559,18033,13416,0,1
+560,18033,13440,0,1
+561,18033,13464,0,1
+562,18033,13488,0,1
+563,18033,13512,0,1
+564,18033,13536,0,1
+565,18033,13560,0,1
+566,18033,13584,0,1
+567,18033,13608,0,1
+568,18033,13632,0,1
+569,18033,13656,0,1
+570,18033,13680,0,1
+571,18033,13704,0,1
+572,18033,13728,0,1
+573,18033,13752,0,1
+574,18033,13776,0,1
+575,18033,13800,0,1
+576,18033,13824,0,1
+577,18033,13848,0,1
+578,18033,13872,0,1
+579,18033,13896,0,1
+580,18033,13920,0,1
+581,18033,13944,0,1
+582,18033,13968,0,1
+583,18033,13992,0,1
+584,18033,14016,0,1
+585,18033,14040,0,1
+586,18033,14064,0,1
+587,18033,14088,0,1
+588,18033,14112,0,1
+589,18033,14136,0,1
+590,18033,14160,0,1
+591,18033,14184,0,1
+592,18033,14208,0,1
+593,18033,14232,0,1
+594,18033,14256,1,0
+595,18033,14280,1,0
+596,18033,14304,0,1
+597,18033,14328,0,1
+598,18033,14352,0,1
+599,18033,14376,0,1
+600,18033,14400,0,1
+601,18033,14424,0,1
+602,18033,14448,0,1
+603,18033,14472,0,1
+604,18033,14496,0,1
+605,18033,14520,0,1
+606,18033,14544,0,1
+607,18033,14568,0,1
+608,18033,14592,0,1
+609,18033,14616,0,1
+610,18033,14640,0,1
+611,18033,14664,0,1
+612,18033,14688,0,1
+613,18033,14712,0,1
+614,18033,14736,0,1
+615,18033,14760,0,1
+616,18033,14784,0,1
+617,18033,14808,0,1
+618,18033,14832,0,1
+619,18033,14856,0,1
+620,18033,14880,0,1
+621,18033,14904,0,1
+622,18033,14928,0,1
+623,18033,14952,0,1
+624,18033,14976,0,1
+625,18033,15000,0,1
+626,18033,15024,0,1
+627,18033,15048,0,1
+628,18033,15072,0,1
+629,18033,15096,0,1
+630,18033,15120,0,1
+631,18033,15144,0,1
+632,18033,15168,0,1
+633,18033,15192,0,1
+634,18033,15216,0,1
+635,18033,15240,0,1
+636,18033,15264,0,1
+637,18033,15288,0,1
+638,18033,15312,0,1
+639,18033,15336,0,1
+640,18033,15360,0,1
+641,18033,15384,0,1
+642,18033,15408,0,1
+643,18033,15432,0,1
+644,18033,15456,0,1
+645,18033,15480,0,1
+646,18033,15504,0,1
+647,18033,15528,0,1
+648,18033,15552,0,1
+649,18033,15576,0,1
+650,18033,15600,0,1
+651,18033,15624,0,1
+652,18033,15648,0,1
+653,18033,15672,0,1
+654,18033,15696,0,1
+655,18033,15720,0,1
+656,18033,15744,0,1
+657,18033,15768,0,1
+658,18033,15792,0,1
+659,18033,15816,0,1
+660,18033,15840,0,1
+661,18033,15864,0,1
+662,18033,15888,0,1
+663,18033,15912,0,1
+664,18033,15936,0,1
+665,18033,15960,0,1
+666,18033,15984,0,1
+667,18033,16008,0,1
+668,18033,16032,0,1
+669,18033,16056,0,1
+670,18033,16080,0,1
+671,18033,16104,0,1
+672,18033,16128,0,1
+673,18033,16152,0,1
+674,18033,16176,0,1
+675,18033,16200,0,1
+676,18033,16224,0,1
+677,18033,16248,0,1
+678,18033,16272,0,1
+679,18033,16296,0,1
+680,18033,16320,0,1
+681,18033,16344,0,1
+682,18033,16368,0,1
+683,18033,16392,0,1
+684,18033,16416,0,1
+685,18033,16440,0,1
+686,18033,16464,0,1
+687,18033,16488,0,1
+688,18033,16512,0,1
+689,18033,16536,0,1
+690,18033,16560,0,1
+691,18033,16584,0,1
+692,18033,16608,0,1
+693,18033,16632,0,1
+694,18033,16656,0,1
+695,18033,16680,0,1
+696,18033,16704,0,1
+697,18033,16728,0,1
+698,18033,16752,0,1
+699,18033,16776,0,1
+700,18033,16800,0,1
+701,18033,16824,0,1
+702,18033,16848,0,1
+703,18033,16872,0,1
+704,18033,16896,0,1
+705,18033,16920,0,1
+706,18033,16944,0,1
+707,18033,16968,0,1
+708,18033,16992,0,1
+709,18033,17016,0,1
+710,18033,17040,0,1
+711,18033,17064,0,1
+712,18033,17088,0,1
+713,18033,17112,0,1
+714,18033,17136,0,1
+715,18033,17160,0,1
+716,18033,17184,0,1
+717,18033,17208,0,1
+718,18033,17232,0,1
+719,18033,17256,0,1
+720,18033,17280,0,1
+721,18033,17304,0,1
+722,18033,17328,0,1
+723,18033,17352,0,1
+724,18033,17376,0,1
+725,18033,17400,0,1
+726,18033,17424,0,1
+727,18033,17448,0,1
+728,18033,17472,0,1
+729,18033,17496,0,1
+730,18033,17520,0,1
+731,18033,17544,0,1
+732,18033,17568,0,1
+733,18033,17592,0,1
+734,18033,17616,0,1
+735,18033,17640,0,1
+736,18033,17664,0,1
+737,18033,17688,0,1
+738,18033,17712,0,1
+739,18033,17736,0,1
+740,18033,17760,0,1
+741,18033,17784,0,1
+742,18033,17808,0,1
+743,18033,17832,0,1
+744,18033,17856,0,1
+745,18033,17880,0,1
+746,18033,17904,0,1
+747,18033,17928,0,1
+748,18033,17952,0,1
+749,18033,17976,0,1
+750,18033,18000,0,1
+751,18033,18024,0,1
+752,18033,18048,0,1
+753,18033,18072,0,1
+754,18033,18096,0,1
+755,18033,18120,0,1
+756,18033,18144,0,1
+757,18033,18168,0,1
+758,18033,18192,0,1
+759,18033,18216,0,1
+760,18033,18240,0,1
+761,18033,18264,0,1
+762,18033,18288,0,1
+763,18033,18312,0,1
+764,18033,18336,0,1
+765,18033,18360,0,1
+766,18033,18384,0,1
+767,18033,18408,0,1
+768,18033,18432,0,1
+769,18033,18456,0,1
+770,18033,18480,0,1
+771,18033,18504,0,1
+772,18033,18528,0,1
+773,18033,18552,0,1
+774,18033,18576,0,1
+775,18033,18600,0,1
+776,18033,18624,0,1
+777,18033,18648,0,1
+778,18033,18672,0,1
+779,18033,18696,0,1
+780,18033,18720,0,1
+781,18033,18744,0,1
+782,18033,18768,0,1
+783,18033,18792,0,1
+784,18033,18816,0,1
+785,18033,18840,0,1
+786,18033,18864,0,1
+787,18033,18888,0,1
+788,18033,18912,0,1
+789,18033,18936,0,1
+790,18033,18960,0,1
+791,18033,18984,0,1
+792,18033,19008,0,1
+793,18033,19032,0,1
+794,18033,19056,0,1
+795,18033,19080,0,1
+796,18033,19104,0,1
+797,18033,19128,0,1
+798,18033,19152,0,1
+799,18033,19176,0,1
+800,18033,19200,0,1
+801,18033,19224,0,1
+802,18033,19248,0,1
+803,18033,19272,0,1
+804,18033,19296,0,1
+805,18033,19320,0,1
+806,18033,19344,0,1
+807,18033,19368,0,1
+808,18033,19392,0,1
+809,18033,19416,0,1
+810,18033,19440,0,1
+811,18033,19464,0,1
+812,18033,19488,0,1
+813,18033,19512,0,1
+814,18033,19536,0,1
+815,18033,19560,0,1
+816,18033,19584,0,1
+817,18033,19608,0,1
+818,18033,19632,0,1
+819,18033,19656,0,1

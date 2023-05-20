@@ -1,181 +1,181 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"bow_window/indoor (0.99279356), barndoor (0.0017612962), jail_cell (0.0009807957), living_room (0.0005765512), locker_room (0.0004305939)",28776
-1,24,indoor,"bow_window/indoor (0.9971253), barndoor (0.0008033975), jail_cell (0.00054524693), living_room (0.00016541961), fabric_store (9.264477e-05)",28776
-2,48,indoor,"bow_window/indoor (0.9429806), nursery (0.026997743), sauna (0.010566926), closet (0.008082317), clothing_store (0.0010715764)",28776
-3,72,indoor,"art_gallery (0.53606164), museum/indoor (0.120266005), artists_loft (0.06925442), home_theater (0.035433553), alcove (0.025923455)",28776
-4,96,indoor,"martial_arts_gym (0.58025724), ice_skating_rink/indoor (0.32215425), ice_skating_rink/outdoor (0.04051804), stage/indoor (0.018895816), boxing_ring (0.007843314)",28776
-5,120,indoor,"ice_skating_rink/indoor (0.33610576), martial_arts_gym (0.19183686), stage/indoor (0.14720684), ice_skating_rink/outdoor (0.09622927), art_gallery (0.064074524)",28776
-6,144,indoor,"martial_arts_gym (0.66131127), stage/indoor (0.18139604), ice_skating_rink/indoor (0.050695136), bullring (0.028322205), art_gallery (0.014940803)",28776
-7,168,indoor,"martial_arts_gym (0.3289699), ice_skating_rink/indoor (0.20761885), boxing_ring (0.17842631), stage/indoor (0.12760043), museum/indoor (0.029533602)",28776
-8,192,indoor,"ice_skating_rink/indoor (0.49674344), martial_arts_gym (0.27093148), ice_skating_rink/outdoor (0.08073972), stage/indoor (0.06428776), boxing_ring (0.031395238)",28776
-9,216,indoor,"martial_arts_gym (0.43095496), ice_skating_rink/indoor (0.35408366), stage/indoor (0.085947126), ice_skating_rink/outdoor (0.03339115), boxing_ring (0.027468568)",28776
-10,240,indoor,"martial_arts_gym (0.7595169), boxing_ring (0.10263653), ice_skating_rink/indoor (0.050488573), stage/indoor (0.023700602), museum/indoor (0.01361651)",28776
-11,264,indoor,"martial_arts_gym (0.531542), art_gallery (0.10259804), ice_skating_rink/indoor (0.098760776), museum/indoor (0.09030781), science_museum (0.044536583)",28776
-12,288,indoor,"martial_arts_gym (0.5530583), ice_skating_rink/indoor (0.24954718), boxing_ring (0.048175365), stage/indoor (0.04142352), ice_skating_rink/outdoor (0.039404914)",28776
-13,312,indoor,"martial_arts_gym (0.39442533), ice_skating_rink/indoor (0.26695892), art_gallery (0.061777633), science_museum (0.057142597), museum/indoor (0.054216858)",28776
-14,336,indoor,"stage/indoor (0.20663188), science_museum (0.14512804), art_gallery (0.11914721), museum/indoor (0.08299354), zen_garden (0.045390025)",28776
-15,360,indoor,"science_museum (0.22063598), boxing_ring (0.1735793), stage/indoor (0.16959344), art_gallery (0.10686845), museum/indoor (0.088414825)",28776
-16,384,outdoor,"desert/sand (0.7211506), rock_arch (0.034932192), desert_road (0.026405672), sky (0.026393121), science_museum (0.025471942)",28776
-17,408,outdoor,"desert/sand (0.8225207), iceberg (0.03239893), sky (0.026774086), valley (0.01319306), coast (0.013163756)",28776
-18,432,outdoor,"desert/sand (0.9321146), ice_skating_rink/indoor (0.016320271), sky (0.006381426), ice_skating_rink/outdoor (0.0057210648), ballroom (0.0049454607)",28776
-19,456,outdoor,"desert/sand (0.80861294), ice_skating_rink/indoor (0.06666032), ice_skating_rink/outdoor (0.038767878), ballroom (0.018056802), beach (0.008532085)",28776
-20,480,indoor,"ice_skating_rink/indoor (0.4242319), ballroom (0.23580757), ice_skating_rink/outdoor (0.14978354), desert/sand (0.09684827), stage/indoor (0.02390018)",28776
-21,504,indoor,"ice_skating_rink/indoor (0.38131142), ballroom (0.26444805), ice_skating_rink/outdoor (0.101094045), stage/indoor (0.082221255), arena/performance (0.041860957)",28776
-22,528,indoor,"ballroom (0.37654352), ice_skating_rink/indoor (0.26320085), stage/indoor (0.12845859), ice_skating_rink/outdoor (0.06349405), arena/performance (0.05973435)",28776
-23,552,indoor,"ballroom (0.34577203), ice_skating_rink/indoor (0.27704108), stage/indoor (0.13331819), ice_skating_rink/outdoor (0.08976529), arena/performance (0.031161)",28776
-24,576,indoor,"ballroom (0.43927696), stage/indoor (0.2685838), ice_skating_rink/indoor (0.09286133), arena/performance (0.05926954), desert/sand (0.026914801)",28776
-25,600,indoor,"ballroom (0.36338872), stage/indoor (0.2024398), ice_skating_rink/indoor (0.117263876), desert/sand (0.06905076), arena/performance (0.04037005)",28776
-26,624,indoor,"ballroom (0.44613013), stage/indoor (0.29635322), ice_skating_rink/indoor (0.08994504), arena/performance (0.052417118), desert/sand (0.021726944)",28776
-27,648,indoor,"ballroom (0.5634983), ice_skating_rink/indoor (0.21415168), stage/indoor (0.087055735), arena/performance (0.056877613), ice_skating_rink/outdoor (0.041728873)",28776
-28,672,indoor,"ballroom (0.46756053), ice_skating_rink/indoor (0.28549418), stage/indoor (0.1035444), arena/performance (0.065019146), ice_skating_rink/outdoor (0.046975166)",28776
-29,696,indoor,"ballroom (0.37167904), martial_arts_gym (0.2060318), ice_skating_rink/indoor (0.1266585), boxing_ring (0.059796266), stage/indoor (0.050681017)",28776
-30,720,indoor,"ballroom (0.4406089), stage/indoor (0.18390079), ice_skating_rink/indoor (0.15660447), arena/performance (0.045498457), ice_skating_rink/outdoor (0.038952354)",28776
-31,744,indoor,"ice_skating_rink/indoor (0.20121132), stage/indoor (0.14085287), sky (0.06720297), arena/performance (0.061502058), ballroom (0.05527597)",28776
-32,768,indoor,"ice_skating_rink/indoor (0.6631312), arena/performance (0.11347617), ice_skating_rink/outdoor (0.063777536), stage/indoor (0.060832407), bullring (0.031091344)",28776
-33,792,indoor,"ice_skating_rink/indoor (0.545277), stage/indoor (0.1871148), arena/performance (0.09065392), ice_skating_rink/outdoor (0.04953847), auditorium (0.027397715)",28776
-34,816,indoor,"ice_skating_rink/indoor (0.37313733), stage/indoor (0.28100875), arena/performance (0.08754832), ice_skating_rink/outdoor (0.04248598), auditorium (0.039560184)",28776
-35,840,indoor,"stage/indoor (0.4780648), ice_skating_rink/indoor (0.19195412), arena/performance (0.16492872), auditorium (0.056132212), ballroom (0.04207317)",28776
-36,864,indoor,"ice_skating_rink/indoor (0.4185947), stage/indoor (0.31797874), arena/performance (0.14046782), auditorium (0.040086582), ice_skating_rink/outdoor (0.03899568)",28776
-37,888,indoor,"ice_skating_rink/indoor (0.6778903), martial_arts_gym (0.091159016), stage/indoor (0.052931547), auditorium (0.03723649), ice_skating_rink/outdoor (0.025825702)",28776
-38,912,indoor,"ice_skating_rink/indoor (0.74777734), martial_arts_gym (0.07923901), bullring (0.03039438), arena/performance (0.023626918), ice_skating_rink/outdoor (0.02347809)",28776
-39,936,indoor,"desert/sand (0.29726687), ice_skating_rink/indoor (0.24065691), stage/indoor (0.08466499), museum/indoor (0.05482212), art_gallery (0.049494322)",28776
-40,960,indoor,"ice_skating_rink/indoor (0.34689385), martial_arts_gym (0.14593352), boxing_ring (0.1318529), stage/indoor (0.058122963), ice_skating_rink/outdoor (0.04840542)",28776
-41,984,indoor,"desert/sand (0.24181782), martial_arts_gym (0.111163385), ice_skating_rink/indoor (0.1101791), stage/indoor (0.10382082), conference_center (0.060183484)",28776
-42,1008,indoor,"ice_skating_rink/indoor (0.40644634), martial_arts_gym (0.18660414), ice_skating_rink/outdoor (0.0841309), stage/indoor (0.041520275), bowling_alley (0.038351394)",28776
-43,1032,indoor,"ice_skating_rink/indoor (0.39019388), martial_arts_gym (0.34920827), ice_skating_rink/outdoor (0.05826702), stage/indoor (0.045272063), boxing_ring (0.03834148)",28776
-44,1056,indoor,"ice_skating_rink/indoor (0.29568276), ballroom (0.23014776), stage/indoor (0.08852068), ice_skating_rink/outdoor (0.077339545), martial_arts_gym (0.07634221)",28776
-45,1080,indoor,"stage/indoor (0.1418658), berth (0.10237729), ice_skating_rink/indoor (0.09668066), desert/sand (0.085364625), conference_center (0.058984805)",28776
-46,1104,indoor,"ice_skating_rink/indoor (0.32063416), martial_arts_gym (0.16029422), berth (0.09546499), desert/sand (0.09232828), ice_skating_rink/outdoor (0.06976526)",28776
-47,1128,indoor,"ice_skating_rink/indoor (0.2541504), martial_arts_gym (0.232911), stage/indoor (0.08407071), ballroom (0.073476255), berth (0.061705384)",28776
-48,1152,indoor,"stage/indoor (0.24140179), martial_arts_gym (0.18948168), ice_skating_rink/indoor (0.16050705), ballroom (0.0703535), bullring (0.06238743)",28776
-49,1176,indoor,"stage/indoor (0.2596544), martial_arts_gym (0.16523774), berth (0.066009454), art_gallery (0.055285882), bullring (0.049191467)",28776
-50,1200,indoor,"stage/indoor (0.13033997), martial_arts_gym (0.12799767), art_gallery (0.10781763), berth (0.092047244), desert/sand (0.07353439)",28776
-51,1224,indoor,"berth (0.21133968), martial_arts_gym (0.18779363), hotel_room (0.08550455), stage/indoor (0.05091618), bedroom (0.04702313)",28776
-52,1248,indoor,"martial_arts_gym (0.57874954), bullring (0.09347406), stage/indoor (0.088494815), art_gallery (0.04185896), ice_skating_rink/indoor (0.038201477)",28776
-53,1272,indoor,"ballroom (0.5927961), ice_skating_rink/indoor (0.087796316), stage/indoor (0.073542885), ice_skating_rink/outdoor (0.047338936), hotel_room (0.040082928)",28776
-54,1296,indoor,"ballroom (0.65248924), stage/indoor (0.12363621), ice_skating_rink/indoor (0.08985406), hotel_room (0.025026355), ice_skating_rink/outdoor (0.0237091)",28776
-55,1320,indoor,"ballroom (0.28940237), hotel_room (0.1690123), berth (0.11812785), ice_skating_rink/indoor (0.10482769), stage/indoor (0.054746926)",28776
-56,1344,indoor,"hotel_room (0.33188087), bedroom (0.12806366), martial_arts_gym (0.106925406), berth (0.10149672), youth_hostel (0.09256666)",28776
-57,1368,indoor,"martial_arts_gym (0.61222595), stage/indoor (0.14821154), ice_skating_rink/indoor (0.05155123), boxing_ring (0.040651232), ballroom (0.040606786)",28776
-58,1392,indoor,"martial_arts_gym (0.16313589), stage/indoor (0.12935033), sky (0.10635128), boxing_ring (0.08399086), ballroom (0.05827417)",28776
-59,1416,indoor,"martial_arts_gym (0.7813134), ballroom (0.052318007), ice_skating_rink/indoor (0.040581867), ice_skating_rink/outdoor (0.013949087), stage/indoor (0.011923631)",28776
-60,1440,indoor,"martial_arts_gym (0.8004898), ice_skating_rink/indoor (0.08543347), stage/indoor (0.02791584), bullring (0.012489619), boxing_ring (0.011040913)",28776
-61,1464,outdoor,"desert/sand (0.73393816), sky (0.09063622), ballroom (0.039728872), ice_skating_rink/indoor (0.024700306), arch (0.010458483)",28776
-62,1488,indoor,"ice_skating_rink/indoor (0.25015876), ballroom (0.17553696), martial_arts_gym (0.16918035), bullring (0.101372816), desert/sand (0.07178685)",28776
-63,1512,indoor,"desert/sand (0.27869418), ballroom (0.16514367), ice_skating_rink/indoor (0.12556605), martial_arts_gym (0.09150496), stage/indoor (0.05514286)",28776
-64,1536,indoor,"ballroom (0.2542252), desert/sand (0.22294718), stage/indoor (0.14947994), martial_arts_gym (0.11840319), ice_skating_rink/indoor (0.09633255)",28776
-65,1560,outdoor,"desert/sand (0.90099776), sky (0.01845919), volcano (0.015133401), mountain (0.011394361), rock_arch (0.0067886715)",28776
-66,1584,indoor,"martial_arts_gym (0.8631165), ballroom (0.09992157), ice_skating_rink/indoor (0.012654364), stage/indoor (0.010705772), ice_skating_rink/outdoor (0.0032414747)",28776
-67,1608,indoor,"martial_arts_gym (0.39897278), ballroom (0.25975668), stage/indoor (0.094808005), ice_skating_rink/indoor (0.09097394), conference_center (0.04654961)",28776
-68,1632,indoor,"ballroom (0.54234266), stage/indoor (0.15616281), ice_skating_rink/indoor (0.081007086), martial_arts_gym (0.063158154), ice_skating_rink/outdoor (0.03021051)",28776
-69,1656,indoor,"martial_arts_gym (0.88577837), ballroom (0.045511615), ice_skating_rink/indoor (0.025455866), stage/indoor (0.0111384), conference_center (0.008109682)",28776
-70,1680,indoor,"martial_arts_gym (0.34244993), ballroom (0.22491142), ice_skating_rink/indoor (0.10810919), stage/indoor (0.07208699), ice_skating_rink/outdoor (0.036080964)",28776
-71,1704,indoor,"ballroom (0.59714526), martial_arts_gym (0.28339726), ice_skating_rink/indoor (0.04532259), stage/indoor (0.016457593), ice_skating_rink/outdoor (0.01400228)",28776
-72,1728,indoor,"ballroom (0.61830723), martial_arts_gym (0.19422401), ice_skating_rink/indoor (0.12319108), ice_skating_rink/outdoor (0.032371625), stage/indoor (0.0057371077)",28776
-73,1752,indoor,"ballroom (0.42899427), martial_arts_gym (0.10490392), desert/sand (0.10228675), conference_center (0.078227125), ice_skating_rink/indoor (0.073011726)",28776
-74,1776,indoor,"ballroom (0.63739115), stage/indoor (0.23256138), martial_arts_gym (0.034500606), ice_skating_rink/indoor (0.031704586), arena/performance (0.017217474)",28776
-75,1800,indoor,"ballroom (0.30600324), martial_arts_gym (0.21876554), stage/indoor (0.1643759), ice_skating_rink/indoor (0.082587525), arena/performance (0.04535972)",28776
-76,1824,indoor,"ballroom (0.37003163), stage/indoor (0.15329817), ice_skating_rink/indoor (0.15120544), martial_arts_gym (0.1426426), arena/performance (0.0742874)",28776
-77,1848,indoor,"ice_skating_rink/indoor (0.33843985), ice_skating_rink/outdoor (0.12128027), hotel_room (0.108079486), berth (0.08580094), stage/indoor (0.07336747)",28776
-78,1872,indoor,"ice_skating_rink/indoor (0.6119078), ice_skating_rink/outdoor (0.35294306), ballroom (0.0109900925), arena/performance (0.0065895002), stage/indoor (0.006198959)",28776
-79,1896,indoor,"ice_skating_rink/indoor (0.43688664), ice_skating_rink/outdoor (0.43293437), ballroom (0.08635877), stage/indoor (0.017545115), arena/performance (0.007977871)",28776
-80,1920,indoor,"ice_skating_rink/indoor (0.51837075), ice_skating_rink/outdoor (0.42604974), ballroom (0.03730803), stage/indoor (0.0072680376), arena/performance (0.0070276954)",28776
-81,1944,indoor,"ice_skating_rink/indoor (0.57788724), ice_skating_rink/outdoor (0.3185908), ballroom (0.031031394), stage/indoor (0.022013286), arena/performance (0.00700782)",28776
-82,1968,indoor,"ice_skating_rink/indoor (0.60345614), ice_skating_rink/outdoor (0.32521558), ballroom (0.044206772), stage/indoor (0.015451996), arena/performance (0.0065214694)",28776
-83,1992,indoor,"ice_skating_rink/outdoor (0.35933405), ice_skating_rink/indoor (0.25172263), ballroom (0.23953226), stage/indoor (0.04047318), desert/sand (0.017366974)",28776
-84,2016,indoor,"ice_skating_rink/indoor (0.39606133), ice_skating_rink/outdoor (0.3030652), ballroom (0.15586734), stage/indoor (0.078417264), arena/performance (0.023086315)",28776
-85,2040,indoor,"ice_skating_rink/indoor (0.5360147), ice_skating_rink/outdoor (0.31921482), ballroom (0.06430099), stage/indoor (0.03280242), arena/performance (0.030896826)",28776
-86,2064,indoor,"ice_skating_rink/indoor (0.5013353), ice_skating_rink/outdoor (0.2144159), ballroom (0.21292856), stage/indoor (0.039057866), arena/performance (0.02104628)",28776
-87,2088,indoor,"martial_arts_gym (0.6351708), ice_skating_rink/indoor (0.12377632), ballroom (0.08654637), ice_skating_rink/outdoor (0.02438686), berth (0.018284956)",28776
-88,2112,indoor,"martial_arts_gym (0.90539), ballroom (0.054912925), ice_skating_rink/indoor (0.015970547), stage/indoor (0.014700346), boxing_ring (0.0036850292)",28776
-89,2136,indoor,"martial_arts_gym (0.97892034), ballroom (0.010581362), ice_skating_rink/indoor (0.0061724535), stage/indoor (0.0017271158), ice_skating_rink/outdoor (0.001198955)",28776
-90,2160,indoor,"martial_arts_gym (0.63114), stage/indoor (0.12181905), ice_skating_rink/indoor (0.03552691), television_studio (0.03241673), ballroom (0.023129564)",28776
-91,2184,indoor,"martial_arts_gym (0.51792336), ice_skating_rink/indoor (0.15457521), stage/indoor (0.09113529), ballroom (0.08462353), ice_skating_rink/outdoor (0.026151419)",28776
-92,2208,indoor,"martial_arts_gym (0.76209724), ice_skating_rink/indoor (0.05773736), berth (0.03846046), ballroom (0.036397725), hotel_room (0.013638498)",28776
-93,2232,indoor,"berth (0.60455406), hotel_room (0.24533209), bedroom (0.018504178), arch (0.013035374), home_theater (0.012038854)",28776
-94,2256,indoor,"ice_skating_rink/indoor (0.7457101), ice_skating_rink/outdoor (0.11077767), martial_arts_gym (0.03640935), ballroom (0.019486086), bullring (0.016531697)",28776
-95,2280,indoor,"ice_skating_rink/indoor (0.4212919), airport_terminal (0.11169821), ice_skating_rink/outdoor (0.07888344), television_studio (0.06538112), stage/indoor (0.06038213)",28776
-96,2304,indoor,"ice_skating_rink/indoor (0.73900104), ice_skating_rink/outdoor (0.1542113), stage/indoor (0.065412164), ballroom (0.015967522), martial_arts_gym (0.0057246196)",28776
-97,2328,indoor,"ice_skating_rink/indoor (0.6982573), ice_skating_rink/outdoor (0.18179417), martial_arts_gym (0.08273956), auditorium (0.008689173), boxing_ring (0.0067612324)",28776
-98,2352,indoor,"ice_skating_rink/indoor (0.43726322), martial_arts_gym (0.33505613), ice_skating_rink/outdoor (0.12613492), stage/indoor (0.042350113), ballroom (0.033069294)",28776
-99,2376,indoor,"martial_arts_gym (0.64374435), ice_skating_rink/indoor (0.25403038), stage/indoor (0.034481984), ice_skating_rink/outdoor (0.02924275), ballroom (0.012191016)",28776
-100,2400,indoor,"martial_arts_gym (0.4033258), ice_skating_rink/indoor (0.30667758), ice_skating_rink/outdoor (0.08977419), stage/indoor (0.050780352), boxing_ring (0.036946457)",28776
-101,2424,indoor,"ice_skating_rink/indoor (0.6768193), ice_skating_rink/outdoor (0.25250906), martial_arts_gym (0.034720942), bullring (0.013460183), arena/hockey (0.0065603075)",28776
-102,2448,indoor,"ice_skating_rink/indoor (0.6621748), ice_skating_rink/outdoor (0.1996088), martial_arts_gym (0.05070937), stage/indoor (0.010679949), boxing_ring (0.009163396)",28776
-103,2472,outdoor,"ice_skating_rink/indoor (0.70816165), ice_skating_rink/outdoor (0.13990486), desert/sand (0.0233767), ski_slope (0.021026503), martial_arts_gym (0.020803569)",28776
-104,2496,indoor,"ice_skating_rink/indoor (0.604029), ice_skating_rink/outdoor (0.17032287), martial_arts_gym (0.121861786), stage/indoor (0.019604743), art_gallery (0.015049923)",28776
-105,2520,outdoor,"ice_skating_rink/indoor (0.6632651), ice_skating_rink/outdoor (0.15265006), ski_slope (0.025010413), bullring (0.02228196), desert/sand (0.021958174)",28776
-106,2544,indoor,"ice_skating_rink/indoor (0.51916987), martial_arts_gym (0.15575705), ice_skating_rink/outdoor (0.15511727), art_gallery (0.027408928), desert/sand (0.027231598)",28776
-107,2568,indoor,"ice_skating_rink/indoor (0.61492693), ice_skating_rink/outdoor (0.23883781), desert/sand (0.022841705), stage/indoor (0.018208008), martial_arts_gym (0.017403191)",28776
-108,2592,outdoor,"ice_skating_rink/indoor (0.13468084), ice_skating_rink/outdoor (0.11434303), ski_slope (0.08762488), ice_shelf (0.066092335), science_museum (0.047095664)",28776
-109,2616,indoor,"ice_skating_rink/indoor (0.7109714), ice_skating_rink/outdoor (0.26639518), martial_arts_gym (0.010126897), stage/indoor (0.0049971063), auditorium (0.0019044995)",28776
-110,2640,indoor,"ice_skating_rink/indoor (0.7066877), ice_skating_rink/outdoor (0.27058488), martial_arts_gym (0.008387586), stage/indoor (0.0055009183), arena/performance (0.0046899393)",28776
-111,2664,indoor,"ice_skating_rink/indoor (0.46989775), stage/indoor (0.2198218), ice_skating_rink/outdoor (0.16520716), martial_arts_gym (0.059469875), boxing_ring (0.015962107)",28776
-112,2688,indoor,"ice_skating_rink/indoor (0.6467047), ice_skating_rink/outdoor (0.18310894), arena/performance (0.06656192), stage/indoor (0.049333658), martial_arts_gym (0.032415077)",28776
-113,2712,indoor,"ice_skating_rink/indoor (0.49014282), martial_arts_gym (0.2022381), ice_skating_rink/outdoor (0.1696978), stage/indoor (0.10938307), ballroom (0.008393976)",28776
-114,2736,indoor,"ice_skating_rink/indoor (0.6745295), ice_skating_rink/outdoor (0.1542354), martial_arts_gym (0.07924706), stage/indoor (0.060794447), auditorium (0.008109529)",28776
-115,2760,indoor,"stage/indoor (0.3788584), martial_arts_gym (0.20119599), ice_skating_rink/indoor (0.1511958), art_gallery (0.094135836), ice_skating_rink/outdoor (0.056285806)",28776
-116,2784,indoor,"ice_skating_rink/indoor (0.42245564), stage/indoor (0.23484938), martial_arts_gym (0.10476504), ice_skating_rink/outdoor (0.09898637), auditorium (0.03276794)",28776
-117,2808,indoor,"ice_skating_rink/indoor (0.3992238), stage/indoor (0.15028669), ice_skating_rink/outdoor (0.14602505), art_gallery (0.08840234), martial_arts_gym (0.03182844)",28776
-118,2832,indoor,"ice_skating_rink/indoor (0.43862832), ice_skating_rink/outdoor (0.17409252), stage/indoor (0.12686789), art_gallery (0.050918255), martial_arts_gym (0.033342708)",28776
-119,2856,indoor,"ice_skating_rink/indoor (0.31960142), ice_skating_rink/outdoor (0.15184838), art_gallery (0.12172688), martial_arts_gym (0.10013572), museum/indoor (0.065953605)",28776
-120,2880,indoor,"ice_skating_rink/indoor (0.65885335), ice_skating_rink/outdoor (0.29507756), ballroom (0.022508461), martial_arts_gym (0.01610816), arena/performance (0.0036543596)",28776
-121,2904,indoor,"ice_skating_rink/indoor (0.77405113), ice_skating_rink/outdoor (0.17827946), ballroom (0.03041973), martial_arts_gym (0.0059259874), auditorium (0.0027260073)",28776
-122,2928,indoor,"ice_skating_rink/indoor (0.83152527), ice_skating_rink/outdoor (0.16437349), ballroom (0.0019691812), arena/performance (0.000631887), auditorium (0.00059140654)",28776
-123,2952,indoor,"ice_skating_rink/indoor (0.8196194), ice_skating_rink/outdoor (0.16485102), ballroom (0.008555397), martial_arts_gym (0.0053157094), arena/performance (0.0006165869)",28776
-124,2976,indoor,"ice_skating_rink/indoor (0.6677299), ice_skating_rink/outdoor (0.3196881), ballroom (0.009571349), martial_arts_gym (0.0011624405), arena/performance (0.0011197273)",28776
-125,3000,indoor,"ice_skating_rink/indoor (0.6291876), ice_skating_rink/outdoor (0.36861748), ballroom (0.0011890728), arena/performance (0.0006805543), stage/indoor (0.00013020504)",28776
-126,3024,indoor,"ice_skating_rink/indoor (0.88557845), ice_skating_rink/outdoor (0.1089533), arena/performance (0.0022764779), ballroom (0.0013179603), auditorium (0.00081222586)",28776
-127,3048,indoor,"ice_skating_rink/indoor (0.8820217), ice_skating_rink/outdoor (0.09448026), ballroom (0.013135419), martial_arts_gym (0.0058268784), arena/performance (0.0026513645)",28776
-128,3072,indoor,"ice_skating_rink/indoor (0.9331444), ice_skating_rink/outdoor (0.043629345), arena/performance (0.007917175), ballroom (0.0077300575), stage/indoor (0.0038049633)",28776
-129,3096,indoor,"ice_skating_rink/indoor (0.6747375), ballroom (0.21953788), ice_skating_rink/outdoor (0.084151976), martial_arts_gym (0.009813076), stage/indoor (0.005159876)",28776
-130,3120,indoor,"ice_skating_rink/indoor (0.78984135), ballroom (0.111686125), ice_skating_rink/outdoor (0.052420273), stage/indoor (0.018191705), arena/performance (0.011542341)",28776
-131,3144,indoor,"ice_skating_rink/indoor (0.8754192), ice_skating_rink/outdoor (0.07530563), ballroom (0.029912462), martial_arts_gym (0.0071057472), auditorium (0.0047661164)",28776
-132,3168,indoor,"ice_skating_rink/indoor (0.8853309), ice_skating_rink/outdoor (0.084816426), ballroom (0.017551148), martial_arts_gym (0.008944574), auditorium (0.0013073022)",28776
-133,3192,indoor,"ice_skating_rink/indoor (0.5568233), ice_skating_rink/outdoor (0.13517109), auditorium (0.11218598), ballroom (0.06408046), television_studio (0.042542193)",28776
-134,3216,indoor,"ice_skating_rink/indoor (0.7579604), ice_skating_rink/outdoor (0.22797762), bullring (0.004935887), auditorium (0.0015312795), ballroom (0.0011696287)",28776
-135,3240,indoor,"ice_skating_rink/indoor (0.78818184), ice_skating_rink/outdoor (0.14786592), ballroom (0.024307871), martial_arts_gym (0.014567521), auditorium (0.011940399)",28776
-136,3264,indoor,"ice_skating_rink/indoor (0.44846976), ice_skating_rink/outdoor (0.2288891), bowling_alley (0.12217773), martial_arts_gym (0.0894563), stage/indoor (0.011974873)",28776
-137,3288,indoor,"ice_skating_rink/indoor (0.7537911), ice_skating_rink/outdoor (0.2001999), martial_arts_gym (0.015853941), ballroom (0.006600824), stage/indoor (0.006400283)",28776
-138,3312,indoor,"ice_skating_rink/indoor (0.72025245), ice_skating_rink/outdoor (0.2616093), martial_arts_gym (0.004665215), ballroom (0.0033612668), stage/indoor (0.00206245)",28776
-139,3336,indoor,"ice_skating_rink/indoor (0.8411701), ice_skating_rink/outdoor (0.14403711), martial_arts_gym (0.0045439387), bullring (0.00256914), ballroom (0.0014376785)",28776
-140,3360,indoor,"ice_skating_rink/indoor (0.85503584), ice_skating_rink/outdoor (0.13462849), arena/hockey (0.004494418), martial_arts_gym (0.0013648957), bullring (0.0008473335)",28776
-141,3384,indoor,"bowling_alley (0.33148703), stage/indoor (0.17675379), ice_skating_rink/indoor (0.14230414), ice_skating_rink/outdoor (0.07146309), museum/indoor (0.049714778)",28776
-142,3408,indoor,"discotheque (0.38921085), stage/indoor (0.22574097), ballroom (0.15403919), bar (0.06299013), martial_arts_gym (0.034908153)",28776
-143,3432,indoor,"discotheque (0.22878732), desert/sand (0.13698591), stage/indoor (0.11382951), martial_arts_gym (0.09560533), bar (0.08998239)",28776
-144,3456,outdoor,"discotheque (0.31675404), stage/indoor (0.2082604), rock_arch (0.05315246), sky (0.04623926), desert/sand (0.038191292)",28776
-145,3480,outdoor,"desert/sand (0.27403808), discotheque (0.14501888), sky (0.08046986), rock_arch (0.051648345), science_museum (0.035438426)",28776
-146,3504,outdoor,"desert/sand (0.65389174), conference_center (0.04026918), sky (0.02181156), rock_arch (0.01958192), natural_history_museum (0.019043786)",28776
-147,3528,indoor,"martial_arts_gym (0.7444325), ballroom (0.13133362), hot_spring (0.024873815), discotheque (0.016141506), ice_skating_rink/indoor (0.011798649)",28776
-148,3552,outdoor,"desert/sand (0.84627146), rock_arch (0.022922598), sky (0.017309634), canyon (0.016154092), iceberg (0.014610006)",28776
-149,3576,outdoor,"desert/sand (0.55302167), sky (0.074668474), martial_arts_gym (0.066662855), rock_arch (0.055330895), canyon (0.05355111)",28776
-150,3600,outdoor,"desert/sand (0.6352168), valley (0.07461659), canyon (0.047521144), rock_arch (0.0357859), sky (0.03013114)",28776
-151,3624,outdoor,"desert/sand (0.38107935), sky (0.04820189), beach (0.040849097), martial_arts_gym (0.0360303), ocean (0.033497646)",28776
-152,3648,indoor,"martial_arts_gym (0.6217427), ballroom (0.10347655), ice_skating_rink/indoor (0.083790906), airport_terminal (0.046920925), stage/indoor (0.023368876)",28776
-153,3672,indoor,"martial_arts_gym (0.7360541), ballroom (0.097817525), ice_skating_rink/indoor (0.08129366), ice_skating_rink/outdoor (0.026758965), television_studio (0.01352871)",28776
-154,3696,indoor,"martial_arts_gym (0.7896926), ice_skating_rink/indoor (0.078225054), boxing_ring (0.03764205), ice_skating_rink/outdoor (0.025868561), ballroom (0.019850558)",28776
-155,3720,indoor,"ballroom (0.3756603), ice_skating_rink/indoor (0.26127905), martial_arts_gym (0.19688925), ice_skating_rink/outdoor (0.09733089), stage/indoor (0.019451704)",28776
-156,3744,indoor,"ballroom (0.6321706), martial_arts_gym (0.23685856), ice_skating_rink/indoor (0.061789077), stage/indoor (0.024971401), ice_skating_rink/outdoor (0.019929966)",28776
-157,3768,indoor,"ballroom (0.5913504), ice_skating_rink/indoor (0.28873318), ice_skating_rink/outdoor (0.06385932), arena/performance (0.023104463), martial_arts_gym (0.014276199)",28776
-158,3792,indoor,"ice_skating_rink/indoor (0.41296324), ballroom (0.30249187), martial_arts_gym (0.18841046), ice_skating_rink/outdoor (0.066163965), arena/performance (0.016247332)",28776
-159,3816,indoor,"ice_skating_rink/indoor (0.8456389), ice_skating_rink/outdoor (0.12320288), ballroom (0.0253112), arena/performance (0.0013726811), stage/indoor (0.0008546556)",28776
-160,3840,indoor,"ice_skating_rink/indoor (0.7572963), ice_skating_rink/outdoor (0.23856354), ballroom (0.0020243477), arena/performance (0.00076131633), auditorium (0.00040121152)",28776
-161,3864,indoor,"stage/indoor (0.41405624), ice_skating_rink/indoor (0.19294152), ballroom (0.16232854), ice_skating_rink/outdoor (0.10650488), martial_arts_gym (0.03408418)",28776
-162,3888,indoor,"martial_arts_gym (0.97333175), ballroom (0.019332586), ice_skating_rink/indoor (0.0029660885), stage/indoor (0.0020557235), gymnasium/indoor (0.0005011594)",28776
-163,3912,indoor,"martial_arts_gym (0.95884204), boxing_ring (0.0091522755), ballroom (0.0061201244), gymnasium/indoor (0.005784247), ice_skating_rink/indoor (0.0054703187)",28776
-164,3936,indoor,"martial_arts_gym (0.34262666), boxing_ring (0.16802633), stage/indoor (0.13835542), ice_skating_rink/indoor (0.12890142), ballroom (0.08921294)",28776
-165,3960,indoor,"martial_arts_gym (0.4544769), boxing_ring (0.2374978), stage/indoor (0.09852824), ballroom (0.08959462), auditorium (0.048769623)",28776
-166,3984,indoor,"martial_arts_gym (0.60855424), boxing_ring (0.103833616), ballroom (0.10212833), stage/indoor (0.06545963), arena/performance (0.025570171)",28776
-167,4008,indoor,"martial_arts_gym (0.27269328), ballroom (0.122003905), conference_center (0.10207636), auditorium (0.06790815), stage/indoor (0.062470492)",28776
-168,4032,indoor,"elevator/door (0.10037524), arena/performance (0.082901314), stage/indoor (0.06788501), television_studio (0.066062585), conference_center (0.056419924)",28776
-169,4056,indoor,"discotheque (0.5188661), ballroom (0.09084953), bar (0.06668859), conference_center (0.047835663), chemistry_lab (0.035882976)",28776
-170,4080,indoor,"television_studio (0.3929734), stage/indoor (0.11555434), conference_center (0.08270371), office (0.06766544), music_studio (0.056155987)",28776
-171,4104,indoor,"ballroom (0.53859437), discotheque (0.09143376), stage/indoor (0.07498301), arena/performance (0.05288617), stage/outdoor (0.048812643)",28776
-172,4128,indoor,"television_studio (0.48943833), ballroom (0.10055468), stage/indoor (0.073684216), martial_arts_gym (0.05301104), discotheque (0.032303326)",28776
-173,4152,indoor,"television_studio (0.18975502), conference_center (0.15128994), stage/indoor (0.12084146), music_studio (0.09384202), ballroom (0.081915125)",28776
-174,4176,indoor,"conference_center (0.22718608), television_studio (0.12277651), reception (0.07250737), stage/indoor (0.064964816), beauty_salon (0.05115066)",28776
-175,4200,indoor,"clean_room (0.42922524), stage/indoor (0.07073047), television_studio (0.06846925), elevator/door (0.057836197), conference_center (0.05384807)",28776
-176,4224,indoor,"clean_room (0.3020324), television_studio (0.15954697), stage/indoor (0.058979284), chemistry_lab (0.05882992), science_museum (0.04421317)",28776
-177,4248,indoor,"stage/indoor (0.29101017), ballroom (0.11321852), ice_skating_rink/indoor (0.107719064), auditorium (0.105470195), martial_arts_gym (0.105016045)",28776
-178,4272,indoor,"stage/indoor (0.1459483), ballroom (0.1219064), martial_arts_gym (0.11523344), auditorium (0.112096794), boxing_ring (0.05715011)",28776
-179,4296,indoor,"stage/indoor (0.19578178), discotheque (0.05596429), hot_spring (0.051833343), fountain (0.04022157), arena/performance (0.03492983)",28776
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,28776,0,0,1
+1,28776,24,0,1
+2,28776,48,0,1
+3,28776,72,0,1
+4,28776,96,0,1
+5,28776,120,0,1
+6,28776,144,0,1
+7,28776,168,0,1
+8,28776,192,0,1
+9,28776,216,0,1
+10,28776,240,0,1
+11,28776,264,0,1
+12,28776,288,0,1
+13,28776,312,0,1
+14,28776,336,0,1
+15,28776,360,0,1
+16,28776,384,1,0
+17,28776,408,1,0
+18,28776,432,1,0
+19,28776,456,1,0
+20,28776,480,0,1
+21,28776,504,0,1
+22,28776,528,0,1
+23,28776,552,0,1
+24,28776,576,0,1
+25,28776,600,0,1
+26,28776,624,0,1
+27,28776,648,0,1
+28,28776,672,0,1
+29,28776,696,0,1
+30,28776,720,0,1
+31,28776,744,0,1
+32,28776,768,0,1
+33,28776,792,0,1
+34,28776,816,0,1
+35,28776,840,0,1
+36,28776,864,0,1
+37,28776,888,0,1
+38,28776,912,0,1
+39,28776,936,0,1
+40,28776,960,0,1
+41,28776,984,0,1
+42,28776,1008,0,1
+43,28776,1032,0,1
+44,28776,1056,0,1
+45,28776,1080,0,1
+46,28776,1104,0,1
+47,28776,1128,0,1
+48,28776,1152,0,1
+49,28776,1176,0,1
+50,28776,1200,0,1
+51,28776,1224,0,1
+52,28776,1248,0,1
+53,28776,1272,0,1
+54,28776,1296,0,1
+55,28776,1320,0,1
+56,28776,1344,0,1
+57,28776,1368,0,1
+58,28776,1392,0,1
+59,28776,1416,0,1
+60,28776,1440,0,1
+61,28776,1464,1,0
+62,28776,1488,0,1
+63,28776,1512,0,1
+64,28776,1536,0,1
+65,28776,1560,1,0
+66,28776,1584,0,1
+67,28776,1608,0,1
+68,28776,1632,0,1
+69,28776,1656,0,1
+70,28776,1680,0,1
+71,28776,1704,0,1
+72,28776,1728,0,1
+73,28776,1752,0,1
+74,28776,1776,0,1
+75,28776,1800,0,1
+76,28776,1824,0,1
+77,28776,1848,0,1
+78,28776,1872,0,1
+79,28776,1896,0,1
+80,28776,1920,0,1
+81,28776,1944,0,1
+82,28776,1968,0,1
+83,28776,1992,0,1
+84,28776,2016,0,1
+85,28776,2040,0,1
+86,28776,2064,0,1
+87,28776,2088,0,1
+88,28776,2112,0,1
+89,28776,2136,0,1
+90,28776,2160,0,1
+91,28776,2184,0,1
+92,28776,2208,0,1
+93,28776,2232,0,1
+94,28776,2256,0,1
+95,28776,2280,0,1
+96,28776,2304,0,1
+97,28776,2328,0,1
+98,28776,2352,0,1
+99,28776,2376,0,1
+100,28776,2400,0,1
+101,28776,2424,0,1
+102,28776,2448,0,1
+103,28776,2472,1,0
+104,28776,2496,0,1
+105,28776,2520,1,0
+106,28776,2544,0,1
+107,28776,2568,0,1
+108,28776,2592,1,0
+109,28776,2616,0,1
+110,28776,2640,0,1
+111,28776,2664,0,1
+112,28776,2688,0,1
+113,28776,2712,0,1
+114,28776,2736,0,1
+115,28776,2760,0,1
+116,28776,2784,0,1
+117,28776,2808,0,1
+118,28776,2832,0,1
+119,28776,2856,0,1
+120,28776,2880,0,1
+121,28776,2904,0,1
+122,28776,2928,0,1
+123,28776,2952,0,1
+124,28776,2976,0,1
+125,28776,3000,0,1
+126,28776,3024,0,1
+127,28776,3048,0,1
+128,28776,3072,0,1
+129,28776,3096,0,1
+130,28776,3120,0,1
+131,28776,3144,0,1
+132,28776,3168,0,1
+133,28776,3192,0,1
+134,28776,3216,0,1
+135,28776,3240,0,1
+136,28776,3264,0,1
+137,28776,3288,0,1
+138,28776,3312,0,1
+139,28776,3336,0,1
+140,28776,3360,0,1
+141,28776,3384,0,1
+142,28776,3408,0,1
+143,28776,3432,0,1
+144,28776,3456,1,0
+145,28776,3480,1,0
+146,28776,3504,1,0
+147,28776,3528,0,1
+148,28776,3552,1,0
+149,28776,3576,1,0
+150,28776,3600,1,0
+151,28776,3624,1,0
+152,28776,3648,0,1
+153,28776,3672,0,1
+154,28776,3696,0,1
+155,28776,3720,0,1
+156,28776,3744,0,1
+157,28776,3768,0,1
+158,28776,3792,0,1
+159,28776,3816,0,1
+160,28776,3840,0,1
+161,28776,3864,0,1
+162,28776,3888,0,1
+163,28776,3912,0,1
+164,28776,3936,0,1
+165,28776,3960,0,1
+166,28776,3984,0,1
+167,28776,4008,0,1
+168,28776,4032,0,1
+169,28776,4056,0,1
+170,28776,4080,0,1
+171,28776,4104,0,1
+172,28776,4128,0,1
+173,28776,4152,0,1
+174,28776,4176,0,1
+175,28776,4200,0,1
+176,28776,4224,0,1
+177,28776,4248,0,1
+178,28776,4272,0,1
+179,28776,4296,0,1

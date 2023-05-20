@@ -1,911 +1,911 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"pharmacy, hospital, hospital_room, drugstore, reception",5722
-1,24,indoor,"pharmacy, hospital, hospital_room, drugstore, reception",5722
-2,48,indoor,"pharmacy, hospital, hospital_room, drugstore, reception",5722
-3,72,outdoor,"ski_resort, schoolhouse, porch, doorway/outdoor, ski_slope",5722
-4,96,outdoor,"ski_resort, schoolhouse, porch, inn/outdoor, yard",5722
-5,120,outdoor,"schoolhouse, ski_resort, porch, yard, inn/outdoor",5722
-6,144,outdoor,"schoolhouse, ski_resort, porch, museum/indoor, ski_slope",5722
-7,168,outdoor,"schoolhouse, museum/indoor, porch, ski_resort, clean_room",5722
-8,192,outdoor,"schoolhouse, porch, clean_room, archive, ski_resort",5722
-9,216,indoor,"schoolhouse, clean_room, martial_arts_gym, ski_resort, museum/indoor",5722
-10,240,indoor,"clean_room, elevator/door, shower, dressing_room, phone_booth",5722
-11,264,indoor,"clean_room, shower, dressing_room, elevator/door, locker_room",5722
-12,288,indoor,"clean_room, dressing_room, shower, elevator/door, clothing_store",5722
-13,312,indoor,"clean_room, dressing_room, museum/indoor, shower, clothing_store",5722
-14,336,indoor,"clean_room, dressing_room, elevator/door, locker_room, closet",5722
-15,360,indoor,"clean_room, elevator/door, doorway/outdoor, dressing_room, museum/indoor",5722
-16,384,indoor,"clean_room, doorway/outdoor, elevator/door, hospital_room, operating_room",5722
-17,408,indoor,"clean_room, jail_cell, alcove, bow_window/indoor, dressing_room",5722
-18,432,indoor,"doorway/outdoor, jail_cell, alcove, barndoor, elevator/door",5722
-19,456,indoor,"jail_cell, doorway/outdoor, alcove, clean_room, bank_vault",5722
-20,480,indoor,"bank_vault, jail_cell, elevator/door, doorway/outdoor, shower",5722
-21,504,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, biology_laboratory",5722
-22,528,indoor,"clean_room, operating_room, hospital_room, archive, chemistry_lab",5722
-23,552,indoor,"clean_room, operating_room, hospital_room, dressing_room, archive",5722
-24,576,indoor,"clean_room, operating_room, hospital_room, archive, dressing_room",5722
-25,600,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-26,624,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-27,648,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-28,672,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-29,696,indoor,"clean_room, operating_room, hospital_room, dressing_room, locker_room",5722
-30,720,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-31,744,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-32,768,indoor,"clean_room, operating_room, dressing_room, archive, hospital_room",5722
-33,792,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-34,816,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-35,840,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-36,864,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-37,888,indoor,"clean_room, operating_room, dressing_room, hospital_room, museum/indoor",5722
-38,912,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-39,936,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-40,960,indoor,"clean_room, operating_room, hospital_room, dressing_room, clothing_store",5722
-41,984,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-42,1008,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-43,1032,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-44,1056,indoor,"clean_room, beauty_salon, operating_room, hospital_room, biology_laboratory",5722
-45,1080,indoor,"clean_room, archive, operating_room, music_studio, chemistry_lab",5722
-46,1104,indoor,"clean_room, archive, operating_room, dressing_room, chemistry_lab",5722
-47,1128,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-48,1152,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-49,1176,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-50,1200,indoor,"clean_room, beauty_salon, operating_room, dressing_room, hospital_room",5722
-51,1224,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-52,1248,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-53,1272,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-54,1296,indoor,"clean_room, operating_room, hospital_room, physics_laboratory, chemistry_lab",5722
-55,1320,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-56,1344,indoor,"clean_room, beauty_salon, dressing_room, operating_room, hospital_room",5722
-57,1368,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-58,1392,indoor,"clean_room, operating_room, hospital_room, martial_arts_gym, nursing_home",5722
-59,1416,indoor,"clean_room, operating_room, beauty_salon, hospital_room, martial_arts_gym",5722
-60,1440,indoor,"clean_room, operating_room, beauty_salon, hospital_room, nursing_home",5722
-61,1464,indoor,"clean_room, martial_arts_gym, beauty_salon, biology_laboratory, hospital_room",5722
-62,1488,indoor,"clean_room, hospital_room, beauty_salon, operating_room, nursing_home",5722
-63,1512,indoor,"clean_room, beauty_salon, biology_laboratory, operating_room, chemistry_lab",5722
-64,1536,indoor,"clean_room, operating_room, beauty_salon, hospital_room, nursing_home",5722
-65,1560,indoor,"clean_room, operating_room, hospital_room, beauty_salon, biology_laboratory",5722
-66,1584,indoor,"clean_room, beauty_salon, office_cubicles, reception, hospital_room",5722
-67,1608,indoor,"clean_room, operating_room, beauty_salon, hospital_room, biology_laboratory",5722
-68,1632,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-69,1656,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-70,1680,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-71,1704,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-72,1728,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-73,1752,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-74,1776,indoor,"clean_room, operating_room, beauty_salon, dressing_room, chemistry_lab",5722
-75,1800,indoor,"clean_room, dressing_room, beauty_salon, operating_room, hospital_room",5722
-76,1824,indoor,"clean_room, dressing_room, beauty_salon, operating_room, hospital_room",5722
-77,1848,indoor,"clean_room, beauty_salon, dressing_room, nursing_home, operating_room",5722
-78,1872,indoor,"clean_room, dressing_room, beauty_salon, chemistry_lab, biology_laboratory",5722
-79,1896,indoor,"clean_room, dressing_room, beauty_salon, operating_room, biology_laboratory",5722
-80,1920,indoor,"clean_room, beauty_salon, dressing_room, nursing_home, biology_laboratory",5722
-81,1944,indoor,"dressing_room, beauty_salon, clean_room, nursing_home, chemistry_lab",5722
-82,1968,indoor,"dressing_room, clean_room, beauty_salon, biology_laboratory, chemistry_lab",5722
-83,1992,indoor,"dressing_room, beauty_salon, clean_room, hospital_room, biology_laboratory",5722
-84,2016,indoor,"clean_room, dressing_room, beauty_salon, operating_room, chemistry_lab",5722
-85,2040,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, beauty_salon",5722
-86,2064,indoor,"clean_room, operating_room, hospital_room, nursing_home, biology_laboratory",5722
-87,2088,indoor,"clean_room, hospital_room, locker_room, dressing_room, martial_arts_gym",5722
-88,2112,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-89,2136,indoor,"clean_room, operating_room, hospital_room, nursing_home, biology_laboratory",5722
-90,2160,indoor,"clean_room, hospital_room, beauty_salon, operating_room, dressing_room",5722
-91,2184,indoor,"clean_room, dressing_room, beauty_salon, biology_laboratory, locker_room",5722
-92,2208,indoor,"clean_room, beauty_salon, operating_room, hospital_room, biology_laboratory",5722
-93,2232,indoor,"clean_room, biology_laboratory, operating_room, hospital_room, chemistry_lab",5722
-94,2256,indoor,"clean_room, operating_room, beauty_salon, hospital_room, biology_laboratory",5722
-95,2280,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-96,2304,indoor,"clean_room, operating_room, hospital_room, nursing_home, biology_laboratory",5722
-97,2328,indoor,"clean_room, hospital_room, operating_room, nursing_home, biology_laboratory",5722
-98,2352,indoor,"clean_room, biology_laboratory, chemistry_lab, hospital_room, operating_room",5722
-99,2376,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-100,2400,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-101,2424,indoor,"clean_room, dressing_room, beauty_salon, biology_laboratory, chemistry_lab",5722
-102,2448,indoor,"clean_room, hospital_room, operating_room, nursing_home, beauty_salon",5722
-103,2472,indoor,"clean_room, operating_room, beauty_salon, martial_arts_gym, hospital_room",5722
-104,2496,indoor,"clean_room, biology_laboratory, beauty_salon, chemistry_lab, dressing_room",5722
-105,2520,indoor,"clean_room, martial_arts_gym, beauty_salon, operating_room, biology_laboratory",5722
-106,2544,indoor,"clean_room, dressing_room, beauty_salon, operating_room, hospital_room",5722
-107,2568,indoor,"clean_room, operating_room, hospital_room, beauty_salon, nursing_home",5722
-108,2592,indoor,"clean_room, hospital_room, operating_room, beauty_salon, nursing_home",5722
-109,2616,indoor,"clean_room, beauty_salon, hospital_room, nursing_home, biology_laboratory",5722
-110,2640,indoor,"clean_room, nursing_home, hospital_room, operating_room, martial_arts_gym",5722
-111,2664,indoor,"clean_room, operating_room, hospital_room, nursing_home, martial_arts_gym",5722
-112,2688,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-113,2712,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-114,2736,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-115,2760,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-116,2784,indoor,"clean_room, operating_room, beauty_salon, hospital_room, nursing_home",5722
-117,2808,indoor,"clean_room, beauty_salon, dressing_room, television_studio, nursing_home",5722
-118,2832,indoor,"clean_room, beauty_salon, hospital_room, nursing_home, biology_laboratory",5722
-119,2856,indoor,"clean_room, beauty_salon, chemistry_lab, hospital_room, biology_laboratory",5722
-120,2880,indoor,"clean_room, beauty_salon, dressing_room, hospital_room, biology_laboratory",5722
-121,2904,indoor,"clean_room, dressing_room, beauty_salon, hospital_room, martial_arts_gym",5722
-122,2928,indoor,"clean_room, hospital_room, beauty_salon, operating_room, nursing_home",5722
-123,2952,indoor,"clean_room, hospital_room, nursing_home, operating_room, beauty_salon",5722
-124,2976,indoor,"clean_room, dressing_room, beauty_salon, martial_arts_gym, operating_room",5722
-125,3000,indoor,"clean_room, beauty_salon, hospital_room, operating_room, biology_laboratory",5722
-126,3024,indoor,"clean_room, hospital_room, operating_room, beauty_salon, nursing_home",5722
-127,3048,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-128,3072,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",5722
-129,3096,indoor,"clean_room, beauty_salon, dressing_room, operating_room, chemistry_lab",5722
-130,3120,indoor,"clean_room, operating_room, nursing_home, hospital_room, beauty_salon",5722
-131,3144,indoor,"clean_room, beauty_salon, dressing_room, operating_room, hospital_room",5722
-132,3168,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-133,3192,indoor,"clean_room, operating_room, hospital_room, martial_arts_gym, beauty_salon",5722
-134,3216,indoor,"clean_room, beauty_salon, hospital_room, operating_room, biology_laboratory",5722
-135,3240,indoor,"clean_room, beauty_salon, hospital_room, biology_laboratory, nursing_home",5722
-136,3264,indoor,"clean_room, operating_room, beauty_salon, hospital_room, nursing_home",5722
-137,3288,indoor,"clean_room, beauty_salon, dressing_room, hospital_room, martial_arts_gym",5722
-138,3312,indoor,"clean_room, dressing_room, beauty_salon, biology_laboratory, hospital_room",5722
-139,3336,indoor,"clean_room, operating_room, beauty_salon, dressing_room, hospital_room",5722
-140,3360,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-141,3384,indoor,"clean_room, beauty_salon, operating_room, dressing_room, hospital_room",5722
-142,3408,indoor,"clean_room, operating_room, hospital_room, beauty_salon, biology_laboratory",5722
-143,3432,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, beauty_salon",5722
-144,3456,indoor,"clean_room, beauty_salon, dressing_room, operating_room, hospital_room",5722
-145,3480,indoor,"clean_room, beauty_salon, operating_room, dressing_room, biology_laboratory",5722
-146,3504,indoor,"clean_room, dressing_room, beauty_salon, operating_room, hospital_room",5722
-147,3528,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-148,3552,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-149,3576,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-150,3600,indoor,"clean_room, operating_room, hospital_room, beauty_salon, chemistry_lab",5722
-151,3624,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, biology_laboratory",5722
-152,3648,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, beauty_salon",5722
-153,3672,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",5722
-154,3696,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-155,3720,indoor,"clean_room, beauty_salon, hospital_room, chemistry_lab, operating_room",5722
-156,3744,indoor,"clean_room, museum/indoor, dressing_room, archive, operating_room",5722
-157,3768,indoor,"clean_room, dressing_room, operating_room, nursing_home, hospital_room",5722
-158,3792,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-159,3816,indoor,"clean_room, operating_room, hospital_room, nursing_home, physics_laboratory",5722
-160,3840,indoor,"clean_room, operating_room, hospital_room, nursing_home, dressing_room",5722
-161,3864,indoor,"clean_room, operating_room, physics_laboratory, hospital_room, dressing_room",5722
-162,3888,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-163,3912,indoor,"clean_room, operating_room, dressing_room, archive, hospital_room",5722
-164,3936,indoor,"clean_room, operating_room, archive, physics_laboratory, hospital_room",5722
-165,3960,indoor,"clean_room, operating_room, dressing_room, nursing_home, hospital_room",5722
-166,3984,indoor,"clean_room, operating_room, hospital_room, nursing_home, dressing_room",5722
-167,4008,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-168,4032,indoor,"clean_room, operating_room, chemistry_lab, dressing_room, hospital_room",5722
-169,4056,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-170,4080,indoor,"clean_room, dressing_room, nursery, operating_room, beauty_salon",5722
-171,4104,indoor,"clean_room, dressing_room, beauty_salon, operating_room, museum/indoor",5722
-172,4128,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-173,4152,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-174,4176,indoor,"clean_room, dressing_room, operating_room, hospital_room, clothing_store",5722
-175,4200,indoor,"clean_room, dressing_room, locker_room, clothing_store, operating_room",5722
-176,4224,indoor,"clean_room, dressing_room, operating_room, locker_room, hospital_room",5722
-177,4248,indoor,"shower, bow_window/indoor, dressing_room, sauna, alcove",5722
-178,4272,indoor,"bow_window/indoor, alcove, elevator/door, doorway/outdoor, shower",5722
-179,4296,indoor,"clean_room, operating_room, physics_laboratory, chemistry_lab, dressing_room",5722
-180,4320,indoor,"clean_room, operating_room, dressing_room, chemistry_lab, physics_laboratory",5722
-181,4344,indoor,"clean_room, operating_room, locker_room, hospital_room, dressing_room",5722
-182,4368,indoor,"clean_room, chemistry_lab, dressing_room, operating_room, locker_room",5722
-183,4392,indoor,"clean_room, chemistry_lab, operating_room, dressing_room, beauty_salon",5722
-184,4416,indoor,"clean_room, operating_room, chemistry_lab, archive, hospital_room",5722
-185,4440,indoor,"clean_room, operating_room, hospital_room, beauty_salon, chemistry_lab",5722
-186,4464,indoor,"clean_room, archive, operating_room, dressing_room, chemistry_lab",5722
-187,4488,indoor,"clean_room, dressing_room, operating_room, archive, chemistry_lab",5722
-188,4512,indoor,"dressing_room, clean_room, locker_room, chemistry_lab, beauty_salon",5722
-189,4536,indoor,"clean_room, shower, dressing_room, locker_room, bathroom",5722
-190,4560,indoor,"clean_room, locker_room, operating_room, hospital_room, chemistry_lab",5722
-191,4584,indoor,"clean_room, locker_room, shower, hospital_room, dressing_room",5722
-192,4608,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",5722
-193,4632,indoor,"clean_room, dressing_room, operating_room, beauty_salon, chemistry_lab",5722
-194,4656,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-195,4680,indoor,"clean_room, dressing_room, chemistry_lab, operating_room, beauty_salon",5722
-196,4704,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-197,4728,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",5722
-198,4752,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",5722
-199,4776,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-200,4800,indoor,"clean_room, operating_room, dressing_room, chemistry_lab, hospital_room",5722
-201,4824,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-202,4848,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-203,4872,indoor,"clean_room, operating_room, beauty_salon, hospital_room, chemistry_lab",5722
-204,4896,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-205,4920,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-206,4944,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-207,4968,indoor,"clean_room, operating_room, beauty_salon, dressing_room, hospital_room",5722
-208,4992,indoor,"doorway/outdoor, bow_window/indoor, alcove, elevator/door, jail_cell",5722
-209,5016,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-210,5040,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-211,5064,indoor,"clean_room, operating_room, hospital_room, clothing_store, dressing_room",5722
-212,5088,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-213,5112,indoor,"clean_room, operating_room, hospital_room, museum/indoor, chemistry_lab",5722
-214,5136,indoor,"clean_room, operating_room, hospital_room, beauty_salon, museum/indoor",5722
-215,5160,indoor,"clean_room, operating_room, hospital_room, gymnasium/indoor, beauty_salon",5722
-216,5184,indoor,"clean_room, operating_room, hospital_room, martial_arts_gym, nursing_home",5722
-217,5208,indoor,"clean_room, operating_room, hospital_room, beauty_salon, martial_arts_gym",5722
-218,5232,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-219,5256,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-220,5280,indoor,"clean_room, operating_room, hospital_room, nursing_home, beauty_salon",5722
-221,5304,indoor,"clean_room, operating_room, hospital_room, museum/indoor, beauty_salon",5722
-222,5328,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-223,5352,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-224,5376,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-225,5400,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-226,5424,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-227,5448,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-228,5472,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-229,5496,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-230,5520,indoor,"museum/indoor, desert/sand, art_gallery, pharmacy, hospital",5722
-231,5544,indoor,"clean_room, operating_room, hospital_room, dressing_room, archive",5722
-232,5568,indoor,"clean_room, operating_room, hospital_room, martial_arts_gym, gymnasium/indoor",5722
-233,5592,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-234,5616,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-235,5640,indoor,"clothing_store, clean_room, dressing_room, beauty_salon, operating_room",5722
-236,5664,indoor,"clean_room, operating_room, dressing_room, clothing_store, archive",5722
-237,5688,indoor,"museum/indoor, clean_room, operating_room, gymnasium/indoor, dressing_room",5722
-238,5712,indoor,"clean_room, operating_room, hospital_room, museum/indoor, dressing_room",5722
-239,5736,indoor,"clean_room, operating_room, hospital_room, museum/indoor, beauty_salon",5722
-240,5760,indoor,"clean_room, operating_room, museum/indoor, dressing_room, gymnasium/indoor",5722
-241,5784,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",5722
-242,5808,indoor,"clean_room, operating_room, hospital_room, museum/indoor, clothing_store",5722
-243,5832,indoor,"clean_room, museum/indoor, dressing_room, operating_room, gymnasium/indoor",5722
-244,5856,indoor,"clean_room, museum/indoor, operating_room, gymnasium/indoor, dressing_room",5722
-245,5880,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-246,5904,indoor,"clean_room, operating_room, archive, museum/indoor, hospital_room",5722
-247,5928,indoor,"elevator/door, clean_room, closet, clothing_store, locker_room",5722
-248,5952,indoor,"elevator/door, shower, closet, bow_window/indoor, clean_room",5722
-249,5976,indoor,"elevator/door, clean_room, shower, closet, bow_window/indoor",5722
-250,6000,indoor,"clean_room, shower, elevator/door, closet, locker_room",5722
-251,6024,indoor,"elevator/door, shower, clean_room, closet, dressing_room",5722
-252,6048,indoor,"clean_room, shower, clothing_store, closet, elevator/door",5722
-253,6072,indoor,"clean_room, elevator/door, shower, closet, greenhouse/outdoor",5722
-254,6096,indoor,"elevator/door, clean_room, doorway/outdoor, museum/indoor, shower",5722
-255,6120,indoor,"elevator/door, clean_room, shower, dressing_room, doorway/outdoor",5722
-256,6144,indoor,"clean_room, elevator/door, dressing_room, sauna, shower",5722
-257,6168,indoor,"clean_room, elevator/door, shower, dressing_room, bow_window/indoor",5722
-258,6192,indoor,"clean_room, dressing_room, elevator/door, shower, sauna",5722
-259,6216,indoor,"clean_room, dressing_room, elevator/door, locker_room, clothing_store",5722
-260,6240,indoor,"clean_room, dressing_room, clothing_store, nursery, shower",5722
-261,6264,indoor,"clean_room, dressing_room, clothing_store, museum/indoor, locker_room",5722
-262,6288,indoor,"clean_room, dressing_room, locker_room, chemistry_lab, clothing_store",5722
-263,6312,indoor,"clean_room, dressing_room, clothing_store, locker_room, closet",5722
-264,6336,indoor,"clean_room, dressing_room, clothing_store, chemistry_lab, locker_room",5722
-265,6360,indoor,"clean_room, dressing_room, locker_room, clothing_store, closet",5722
-266,6384,indoor,"clean_room, dressing_room, locker_room, shower, elevator/door",5722
-267,6408,indoor,"dressing_room, sauna, clean_room, locker_room, elevator/door",5722
-268,6432,indoor,"dressing_room, clean_room, clothing_store, shower, locker_room",5722
-269,6456,indoor,"clean_room, dressing_room, beauty_salon, locker_room, clothing_store",5722
-270,6480,indoor,"dressing_room, clean_room, locker_room, clothing_store, elevator/door",5722
-271,6504,indoor,"clean_room, dressing_room, clothing_store, closet, locker_room",5722
-272,6528,indoor,"clean_room, dressing_room, elevator/door, beauty_salon, shower",5722
-273,6552,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-274,6576,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-275,6600,indoor,"operating_room, clean_room, beauty_salon, hospital_room, dressing_room",5722
-276,6624,indoor,"clean_room, operating_room, beauty_salon, hospital_room, chemistry_lab",5722
-277,6648,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-278,6672,indoor,"clean_room, operating_room, museum/indoor, dressing_room, clothing_store",5722
-279,6696,indoor,"clean_room, operating_room, hospital_room, nursing_home, chemistry_lab",5722
-280,6720,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-281,6744,indoor,"operating_room, clean_room, hospital_room, beauty_salon, museum/indoor",5722
-282,6768,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-283,6792,indoor,"operating_room, clean_room, hospital_room, beauty_salon, dressing_room",5722
-284,6816,indoor,"operating_room, hospital_room, clean_room, beauty_salon, nursing_home",5722
-285,6840,indoor,"operating_room, hospital_room, clean_room, beauty_salon, nursing_home",5722
-286,6864,indoor,"clean_room, operating_room, beauty_salon, museum/indoor, hospital_room",5722
-287,6888,indoor,"beauty_salon, operating_room, hospital_room, clean_room, dressing_room",5722
-288,6912,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-289,6936,indoor,"clean_room, dressing_room, beauty_salon, locker_room, chemistry_lab",5722
-290,6960,indoor,"clean_room, dressing_room, locker_room, clothing_store, beauty_salon",5722
-291,6984,indoor,"dressing_room, clean_room, locker_room, beauty_salon, shower",5722
-292,7008,indoor,"dressing_room, clean_room, beauty_salon, locker_room, nursery",5722
-293,7032,indoor,"dressing_room, clean_room, locker_room, beauty_salon, shower",5722
-294,7056,indoor,"clean_room, dressing_room, locker_room, operating_room, hospital_room",5722
-295,7080,indoor,"clean_room, dressing_room, locker_room, operating_room, beauty_salon",5722
-296,7104,indoor,"dressing_room, clean_room, beauty_salon, locker_room, clothing_store",5722
-297,7128,indoor,"clean_room, dressing_room, beauty_salon, locker_room, shower",5722
-298,7152,indoor,"clean_room, dressing_room, shower, beauty_salon, locker_room",5722
-299,7176,indoor,"dressing_room, clean_room, shower, locker_room, elevator/door",5722
-300,7200,indoor,"clean_room, dressing_room, clothing_store, locker_room, beauty_salon",5722
-301,7224,indoor,"clean_room, dressing_room, clothing_store, beauty_salon, locker_room",5722
-302,7248,indoor,"dressing_room, clean_room, clothing_store, locker_room, elevator/door",5722
-303,7272,indoor,"dressing_room, clean_room, elevator/door, clothing_store, locker_room",5722
-304,7296,indoor,"operating_room, clean_room, hospital_room, beauty_salon, dressing_room",5722
-305,7320,indoor,"operating_room, clean_room, hospital_room, chemistry_lab, beauty_salon",5722
-306,7344,indoor,"operating_room, clean_room, hospital_room, beauty_salon, chemistry_lab",5722
-307,7368,indoor,"clean_room, dressing_room, clothing_store, shower, locker_room",5722
-308,7392,indoor,"clean_room, dressing_room, locker_room, shower, elevator/door",5722
-309,7416,indoor,"clean_room, dressing_room, locker_room, elevator/door, laundromat",5722
-310,7440,indoor,"clean_room, dressing_room, beauty_salon, locker_room, laundromat",5722
-311,7464,indoor,"clean_room, dressing_room, locker_room, elevator/door, shower",5722
-312,7488,indoor,"clean_room, dressing_room, locker_room, shower, elevator/door",5722
-313,7512,indoor,"clean_room, dressing_room, locker_room, shower, beauty_salon",5722
-314,7536,indoor,"clean_room, dressing_room, locker_room, chemistry_lab, beauty_salon",5722
-315,7560,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-316,7584,indoor,"operating_room, beauty_salon, clean_room, hospital_room, nursing_home",5722
-317,7608,indoor,"clean_room, dressing_room, locker_room, clothing_store, beauty_salon",5722
-318,7632,indoor,"dressing_room, clean_room, locker_room, sauna, shower",5722
-319,7656,indoor,"dressing_room, clean_room, locker_room, sauna, elevator/door",5722
-320,7680,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-321,7704,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-322,7728,indoor,"dressing_room, clean_room, beauty_salon, locker_room, sauna",5722
-323,7752,indoor,"dressing_room, clean_room, shower, locker_room, beauty_salon",5722
-324,7776,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, beauty_salon",5722
-325,7800,indoor,"clean_room, operating_room, chemistry_lab, beauty_salon, dressing_room",5722
-326,7824,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-327,7848,indoor,"clean_room, operating_room, dressing_room, beauty_salon, chemistry_lab",5722
-328,7872,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-329,7896,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-330,7920,indoor,"clean_room, dressing_room, museum/indoor, sauna, beauty_salon",5722
-331,7944,indoor,"clean_room, museum/indoor, operating_room, dressing_room, beauty_salon",5722
-332,7968,indoor,"clean_room, dressing_room, operating_room, hospital_room, shower",5722
-333,7992,indoor,"museum/indoor, clean_room, dressing_room, sauna, locker_room",5722
-334,8016,indoor,"dressing_room, clean_room, beauty_salon, operating_room, locker_room",5722
-335,8040,indoor,"clean_room, dressing_room, operating_room, clothing_store, locker_room",5722
-336,8064,indoor,"dressing_room, clean_room, sauna, museum/indoor, locker_room",5722
-337,8088,indoor,"clean_room, operating_room, dressing_room, locker_room, hospital_room",5722
-338,8112,indoor,"clean_room, dressing_room, operating_room, clothing_store, locker_room",5722
-339,8136,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-340,8160,indoor,"clean_room, dressing_room, sauna, locker_room, museum/indoor",5722
-341,8184,indoor,"clean_room, dressing_room, operating_room, clothing_store, locker_room",5722
-342,8208,indoor,"clean_room, dressing_room, clothing_store, operating_room, locker_room",5722
-343,8232,indoor,"clean_room, dressing_room, operating_room, sauna, locker_room",5722
-344,8256,indoor,"clean_room, dressing_room, operating_room, clothing_store, locker_room",5722
-345,8280,indoor,"clean_room, operating_room, locker_room, dressing_room, museum/indoor",5722
-346,8304,indoor,"clean_room, operating_room, clothing_store, dressing_room, hospital_room",5722
-347,8328,indoor,"clean_room, clothing_store, museum/indoor, dressing_room, operating_room",5722
-348,8352,indoor,"clean_room, operating_room, hospital_room, museum/indoor, dressing_room",5722
-349,8376,indoor,"clean_room, operating_room, hospital_room, physics_laboratory, dressing_room",5722
-350,8400,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, physics_laboratory",5722
-351,8424,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-352,8448,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-353,8472,indoor,"clean_room, dressing_room, gymnasium/indoor, beauty_salon, operating_room",5722
-354,8496,indoor,"elevator/door, doorway/outdoor, bow_window/indoor, greenhouse/outdoor, greenhouse/indoor",5722
-355,8520,indoor,"elevator/door, greenhouse/outdoor, bow_window/indoor, shower, doorway/outdoor",5722
-356,8544,indoor,"elevator/door, greenhouse/outdoor, bow_window/indoor, shower, greenhouse/indoor",5722
-357,8568,indoor,"elevator/door, bow_window/indoor, doorway/outdoor, greenhouse/outdoor, shower",5722
-358,8592,indoor,"bow_window/indoor, clean_room, elevator/door, doorway/outdoor, sauna",5722
-359,8616,outdoor,"bow_window/indoor, greenhouse/outdoor, fire_escape, sauna, balcony/interior",5722
-360,8640,indoor,"bow_window/indoor, greenhouse/outdoor, elevator/door, elevator_shaft, greenhouse/indoor",5722
-361,8664,indoor,"bow_window/indoor, elevator/door, greenhouse/outdoor, doorway/outdoor, clean_room",5722
-362,8688,indoor,"elevator/door, bow_window/indoor, greenhouse/indoor, shower, greenhouse/outdoor",5722
-363,8712,indoor,"museum/indoor, art_gallery, desert/sand, artists_loft, lobby",5722
-364,8736,indoor,"museum/indoor, art_gallery, desert/sand, artists_loft, lobby",5722
-365,8760,indoor,"museum/indoor, art_gallery, desert/sand, artists_loft, lobby",5722
-366,8784,indoor,"museum/indoor, art_gallery, desert/sand, artists_loft, lobby",5722
-367,8808,indoor,"museum/indoor, art_gallery, desert/sand, artists_loft, lobby",5722
-368,8832,indoor,"clean_room, dressing_room, beauty_salon, operating_room, sauna",5722
-369,8856,indoor,"dressing_room, clean_room, beauty_salon, operating_room, locker_room",5722
-370,8880,indoor,"clean_room, dressing_room, operating_room, nursery, clothing_store",5722
-371,8904,indoor,"clean_room, operating_room, hospital_room, beauty_salon, chemistry_lab",5722
-372,8928,indoor,"clean_room, dressing_room, beauty_salon, chemistry_lab, operating_room",5722
-373,8952,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-374,8976,indoor,"clean_room, dressing_room, beauty_salon, operating_room, sauna",5722
-375,9000,indoor,"clean_room, operating_room, museum/indoor, sauna, hospital_room",5722
-376,9024,indoor,"clean_room, chemistry_lab, operating_room, beauty_salon, gymnasium/indoor",5722
-377,9048,indoor,"clean_room, elevator/door, clothing_store, shower, bow_window/indoor",5722
-378,9072,indoor,"clean_room, elevator/door, bow_window/indoor, shower, locker_room",5722
-379,9096,indoor,"clean_room, elevator/door, bow_window/indoor, sauna, locker_room",5722
-380,9120,indoor,"clean_room, elevator/door, bow_window/indoor, dressing_room, locker_room",5722
-381,9144,indoor,"clean_room, shower, elevator/door, locker_room, sauna",5722
-382,9168,indoor,"clean_room, operating_room, museum/indoor, beauty_salon, hospital_room",5722
-383,9192,indoor,"clean_room, museum/indoor, dressing_room, beauty_salon, operating_room",5722
-384,9216,indoor,"dressing_room, clean_room, museum/indoor, clothing_store, sauna",5722
-385,9240,indoor,"clean_room, beauty_salon, operating_room, dressing_room, museum/indoor",5722
-386,9264,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-387,9288,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-388,9312,indoor,"clean_room, operating_room, beauty_salon, dressing_room, hospital_room",5722
-389,9336,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-390,9360,indoor,"sauna, clean_room, elevator/door, dressing_room, shower",5722
-391,9384,indoor,"clean_room, dressing_room, shower, sauna, elevator/door",5722
-392,9408,indoor,"sauna, shower, clean_room, bow_window/indoor, elevator/door",5722
-393,9432,indoor,"clean_room, museum/indoor, operating_room, dressing_room, archive",5722
-394,9456,indoor,"clean_room, dressing_room, museum/indoor, operating_room, beauty_salon",5722
-395,9480,indoor,"clean_room, dressing_room, museum/indoor, operating_room, beauty_salon",5722
-396,9504,indoor,"clean_room, elevator/door, bow_window/indoor, sauna, shower",5722
-397,9528,indoor,"clean_room, bow_window/indoor, sauna, shower, hospital_room",5722
-398,9552,indoor,"clean_room, dressing_room, sauna, elevator/door, bow_window/indoor",5722
-399,9576,indoor,"clean_room, bow_window/indoor, dressing_room, shower, elevator/door",5722
-400,9600,indoor,"clean_room, bow_window/indoor, hospital_room, shower, elevator/door",5722
-401,9624,indoor,"bow_window/indoor, clean_room, dressing_room, sauna, shower",5722
-402,9648,indoor,"beauty_salon, dressing_room, clean_room, shower, hospital_room",5722
-403,9672,indoor,"clean_room, dressing_room, beauty_salon, operating_room, shower",5722
-404,9696,indoor,"clean_room, dressing_room, beauty_salon, childs_room, chemistry_lab",5722
-405,9720,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-406,9744,indoor,"dressing_room, clean_room, sauna, locker_room, museum/indoor",5722
-407,9768,indoor,"clean_room, dressing_room, sauna, beauty_salon, operating_room",5722
-408,9792,indoor,"clean_room, sauna, shower, dressing_room, locker_room",5722
-409,9816,indoor,"dressing_room, clean_room, sauna, nursery, beauty_salon",5722
-410,9840,indoor,"bow_window/indoor, elevator/door, shower, sauna, doorway/outdoor",5722
-411,9864,indoor,"elevator/door, shower, sauna, bow_window/indoor, doorway/outdoor",5722
-412,9888,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-413,9912,indoor,"clean_room, dressing_room, beauty_salon, operating_room, hospital_room",5722
-414,9936,indoor,"clean_room, museum/indoor, operating_room, beauty_salon, dressing_room",5722
-415,9960,indoor,"clean_room, beauty_salon, shower, dressing_room, operating_room",5722
-416,9984,indoor,"clean_room, beauty_salon, dressing_room, jewelry_shop, clothing_store",5722
-417,10008,indoor,"beauty_salon, clean_room, dressing_room, shower, operating_room",5722
-418,10032,indoor,"clean_room, beauty_salon, museum/indoor, dressing_room, shower",5722
-419,10056,indoor,"beauty_salon, clean_room, dressing_room, jewelry_shop, clothing_store",5722
-420,10080,indoor,"bow_window/indoor, alcove, doorway/outdoor, jail_cell, shower",5722
-421,10104,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-422,10128,indoor,"clean_room, museum/indoor, dressing_room, operating_room, clothing_store",5722
-423,10152,indoor,"alcove, bow_window/indoor, doorway/outdoor, jail_cell, elevator/door",5722
-424,10176,indoor,"dining_room, clean_room, office, home_office, operating_room",5722
-425,10200,indoor,"dining_room, clean_room, office, home_office, operating_room",5722
-426,10224,indoor,"clean_room, dining_room, operating_room, office, hospital_room",5722
-427,10248,indoor,"clean_room, archive, dining_room, operating_room, physics_laboratory",5722
-428,10272,indoor,"clean_room, operating_room, archive, dining_room, physics_laboratory",5722
-429,10296,indoor,"clean_room, operating_room, archive, dining_room, physics_laboratory",5722
-430,10320,indoor,"clean_room, dining_room, operating_room, archive, office",5722
-431,10344,indoor,"clean_room, operating_room, dining_room, office, archive",5722
-432,10368,indoor,"clean_room, archive, dining_room, office, operating_room",5722
-433,10392,indoor,"clean_room, archive, operating_room, dining_room, office",5722
-434,10416,indoor,"operating_room, clean_room, dining_room, office, archive",5722
-435,10440,indoor,"desert/sand, pharmacy, art_gallery, hospital, museum/indoor",5722
-436,10464,indoor,"desert/sand, pharmacy, art_gallery, hospital, museum/indoor",5722
-437,10488,indoor,"desert/sand, pharmacy, art_gallery, hospital, museum/indoor",5722
-438,10512,indoor,"desert/sand, pharmacy, art_gallery, hospital, museum/indoor",5722
-439,10536,indoor,"clean_room, operating_room, archive, hospital_room, locker_room",5722
-440,10560,indoor,"operating_room, clean_room, archive, hospital_room, locker_room",5722
-441,10584,indoor,"clean_room, operating_room, hospital_room, archive, dressing_room",5722
-442,10608,indoor,"clean_room, operating_room, hospital_room, archive, dressing_room",5722
-443,10632,indoor,"clean_room, operating_room, hospital_room, archive, dressing_room",5722
-444,10656,indoor,"clean_room, operating_room, hospital_room, archive, locker_room",5722
-445,10680,indoor,"clean_room, operating_room, hospital_room, nursing_home, archive",5722
-446,10704,indoor,"clean_room, operating_room, hospital_room, archive, schoolhouse",5722
-447,10728,indoor,"clean_room, operating_room, archive, hospital_room, schoolhouse",5722
-448,10752,indoor,"clean_room, operating_room, hospital_room, archive, nursing_home",5722
-449,10776,indoor,"clean_room, operating_room, hospital_room, dressing_room, archive",5722
-450,10800,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-451,10824,indoor,"operating_room, clean_room, hospital_room, archive, chemistry_lab",5722
-452,10848,indoor,"clean_room, archive, operating_room, classroom, hospital_room",5722
-453,10872,indoor,"clean_room, operating_room, hospital_room, archive, schoolhouse",5722
-454,10896,indoor,"clean_room, operating_room, archive, hospital_room, museum/indoor",5722
-455,10920,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-456,10944,indoor,"clean_room, archive, museum/indoor, operating_room, dressing_room",5722
-457,10968,indoor,"clean_room, operating_room, museum/indoor, archive, hospital_room",5722
-458,10992,indoor,"clean_room, operating_room, archive, hospital_room, museum/indoor",5722
-459,11016,indoor,"clean_room, operating_room, hospital_room, nursing_home, archive",5722
-460,11040,indoor,"clean_room, operating_room, archive, hospital_room, museum/indoor",5722
-461,11064,indoor,"clean_room, operating_room, archive, hospital_room, dressing_room",5722
-462,11088,indoor,"clean_room, operating_room, hospital_room, museum/indoor, archive",5722
-463,11112,indoor,"clean_room, operating_room, hospital_room, archive, physics_laboratory",5722
-464,11136,indoor,"clean_room, operating_room, hospital_room, archive, museum/indoor",5722
-465,11160,indoor,"clean_room, operating_room, archive, museum/indoor, hospital_room",5722
-466,11184,indoor,"locker_room, sauna, dressing_room, clean_room, archive",5722
-467,11208,indoor,"dressing_room, locker_room, archive, museum/indoor, clean_room",5722
-468,11232,indoor,"clean_room, archive, locker_room, museum/indoor, dressing_room",5722
-469,11256,indoor,"clean_room, archive, operating_room, museum/indoor, physics_laboratory",5722
-470,11280,indoor,"clean_room, archive, locker_room, operating_room, hospital_room",5722
-471,11304,indoor,"operating_room, clean_room, hospital_room, archive, dining_room",5722
-472,11328,indoor,"operating_room, clean_room, hospital_room, archive, museum/indoor",5722
-473,11352,indoor,"clean_room, archive, operating_room, hospital_room, physics_laboratory",5722
-474,11376,indoor,"clean_room, archive, operating_room, hospital_room, locker_room",5722
-475,11400,indoor,"clean_room, operating_room, locker_room, hospital_room, archive",5722
-476,11424,indoor,"clean_room, operating_room, hospital_room, archive, dressing_room",5722
-477,11448,indoor,"clean_room, operating_room, hospital_room, archive, locker_room",5722
-478,11472,indoor,"clean_room, operating_room, archive, hospital_room, museum/indoor",5722
-479,11496,indoor,"clean_room, operating_room, archive, hospital_room, museum/indoor",5722
-480,11520,indoor,"clean_room, operating_room, chemistry_lab, archive, hospital_room",5722
-481,11544,indoor,"clean_room, beauty_salon, office, chemistry_lab, archive",5722
-482,11568,indoor,"clean_room, dining_room, operating_room, archive, beauty_salon",5722
-483,11592,indoor,"clean_room, dining_room, operating_room, dressing_room, archive",5722
-484,11616,indoor,"clean_room, archive, dining_room, office_cubicles, office",5722
-485,11640,indoor,"elevator/door, dressing_room, alcove, doorway/outdoor, closet",5722
-486,11664,indoor,"dressing_room, dining_room, banquet_hall, beauty_salon, living_room",5722
-487,11688,indoor,"dressing_room, clean_room, dining_room, banquet_hall, archive",5722
-488,11712,indoor,"dressing_room, beauty_salon, clean_room, dining_room, operating_room",5722
-489,11736,indoor,"dressing_room, beauty_salon, clean_room, chemistry_lab, hospital_room",5722
-490,11760,indoor,"dressing_room, beauty_salon, clean_room, hospital_room, living_room",5722
-491,11784,indoor,"clean_room, beauty_salon, dressing_room, hospital_room, dining_room",5722
-492,11808,indoor,"bow_window/indoor, living_room, dining_room, banquet_hall, bedchamber",5722
-493,11832,indoor,"dressing_room, living_room, bow_window/indoor, bedchamber, bedroom",5722
-494,11856,indoor,"dressing_room, banquet_hall, museum/indoor, ballroom, beauty_salon",5722
-495,11880,indoor,"dressing_room, living_room, dining_room, clean_room, hospital_room",5722
-496,11904,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-497,11928,indoor,"dressing_room, banquet_hall, dining_room, restaurant, dining_hall",5722
-498,11952,indoor,"dressing_room, beauty_salon, banquet_hall, clean_room, hospital_room",5722
-499,11976,outdoor,"ski_resort, ice_shelf, bow_window/indoor, patio, playground",5722
-500,12000,outdoor,"ski_resort, ice_shelf, schoolhouse, clean_room, yard",5722
-501,12024,outdoor,"ice_shelf, ski_resort, shed, barndoor, alley",5722
-502,12048,outdoor,"clean_room, greenhouse/outdoor, campsite, shed, ski_resort",5722
-503,12072,outdoor,"ski_resort, ice_shelf, clean_room, playground, construction_site",5722
-504,12096,outdoor,"ice_shelf, ski_resort, alley, loading_dock, bow_window/indoor",5722
-505,12120,outdoor,"ski_resort, yard, campsite, ice_shelf, slum",5722
-506,12144,outdoor,"ski_resort, schoolhouse, slum, repair_shop, clean_room",5722
-507,12168,indoor,"clean_room, butchers_shop, schoolhouse, ice_shelf, locker_room",5722
-508,12192,indoor,"clean_room, schoolhouse, ski_resort, hospital_room, butchers_shop",5722
-509,12216,outdoor,"yard, campsite, playground, schoolhouse, ski_resort",5722
-510,12240,outdoor,"clean_room, schoolhouse, ski_resort, ice_shelf, hospital_room",5722
-511,12264,outdoor,"clean_room, shed, schoolhouse, barndoor, ice_shelf",5722
-512,12288,outdoor,"schoolhouse, clean_room, ski_resort, shed, barndoor",5722
-513,12312,indoor,"desert/sand, art_gallery, museum/indoor, lobby, reception",5722
-514,12336,indoor,"desert/sand, art_gallery, museum/indoor, lobby, reception",5722
-515,12360,indoor,"desert/sand, art_gallery, museum/indoor, lobby, reception",5722
-516,12384,indoor,"desert/sand, art_gallery, museum/indoor, lobby, reception",5722
-517,12408,indoor,"clean_room, archive, operating_room, hospital_room, shower",5722
-518,12432,indoor,"dressing_room, clean_room, shower, ice_shelf, locker_room",5722
-519,12456,indoor,"dressing_room, clean_room, shower, operating_room, beauty_salon",5722
-520,12480,indoor,"clean_room, archive, dressing_room, clothing_store, operating_room",5722
-521,12504,indoor,"clean_room, dressing_room, archive, clothing_store, museum/indoor",5722
-522,12528,indoor,"clean_room, dressing_room, archive, operating_room, museum/indoor",5722
-523,12552,indoor,"dressing_room, clean_room, nursery, clothing_store, operating_room",5722
-524,12576,indoor,"dressing_room, clean_room, archive, locker_room, operating_room",5722
-525,12600,indoor,"clean_room, dressing_room, archive, nursery, operating_room",5722
-526,12624,indoor,"clean_room, dressing_room, operating_room, locker_room, archive",5722
-527,12648,indoor,"clean_room, dressing_room, operating_room, locker_room, clothing_store",5722
-528,12672,indoor,"dressing_room, clean_room, clothing_store, locker_room, operating_room",5722
-529,12696,indoor,"clean_room, locker_room, elevator/door, shower, clothing_store",5722
-530,12720,indoor,"clean_room, dressing_room, clothing_store, nursery, locker_room",5722
-531,12744,indoor,"clean_room, clothing_store, dressing_room, department_store, locker_room",5722
-532,12768,indoor,"clean_room, dressing_room, clothing_store, locker_room, closet",5722
-533,12792,indoor,"dressing_room, clothing_store, clean_room, department_store, gift_shop",5722
-534,12816,indoor,"dressing_room, clean_room, clothing_store, department_store, beauty_salon",5722
-535,12840,indoor,"desert/sand, museum/indoor, art_gallery, reception, ice_shelf",5722
-536,12864,indoor,"desert/sand, museum/indoor, art_gallery, reception, ice_shelf",5722
-537,12888,indoor,"desert/sand, museum/indoor, art_gallery, reception, ice_shelf",5722
-538,12912,indoor,"desert/sand, museum/indoor, art_gallery, reception, ice_shelf",5722
-539,12936,indoor,"clean_room, dressing_room, nursery, hospital_room, operating_room",5722
-540,12960,indoor,"clean_room, dressing_room, operating_room, hospital_room, nursery",5722
-541,12984,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-542,13008,indoor,"clean_room, nursery, dressing_room, operating_room, clothing_store",5722
-543,13032,indoor,"clean_room, nursery, hospital_room, operating_room, dressing_room",5722
-544,13056,indoor,"clean_room, dressing_room, nursery, hospital_room, operating_room",5722
-545,13080,indoor,"clean_room, nursery, dressing_room, clothing_store, operating_room",5722
-546,13104,indoor,"clean_room, dressing_room, nursery, clothing_store, operating_room",5722
-547,13128,indoor,"clean_room, dressing_room, nursery, hospital_room, operating_room",5722
-548,13152,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursery",5722
-549,13176,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",5722
-550,13200,indoor,"clean_room, operating_room, hospital_room, nursery, dressing_room",5722
-551,13224,indoor,"clean_room, operating_room, dressing_room, hospital_room, nursery",5722
-552,13248,indoor,"clean_room, operating_room, hospital_room, dressing_room, butchers_shop",5722
-553,13272,indoor,"clean_room, operating_room, dressing_room, hospital_room, nursery",5722
-554,13296,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-555,13320,indoor,"clean_room, operating_room, dressing_room, hospital_room, clothing_store",5722
-556,13344,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-557,13368,indoor,"clean_room, dressing_room, operating_room, locker_room, hospital_room",5722
-558,13392,indoor,"clean_room, nursery, operating_room, hospital_room, dressing_room",5722
-559,13416,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-560,13440,indoor,"clean_room, dressing_room, operating_room, hospital_room, nursery",5722
-561,13464,indoor,"clean_room, dressing_room, operating_room, hospital_room, nursery",5722
-562,13488,indoor,"dressing_room, clean_room, clothing_store, beauty_salon, nursery",5722
-563,13512,indoor,"dressing_room, clean_room, beauty_salon, clothing_store, locker_room",5722
-564,13536,indoor,"clean_room, dressing_room, clothing_store, locker_room, operating_room",5722
-565,13560,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-566,13584,indoor,"clean_room, dressing_room, locker_room, operating_room, hospital_room",5722
-567,13608,indoor,"clean_room, operating_room, dressing_room, locker_room, archive",5722
-568,13632,indoor,"nursery, locker_room, dressing_room, clean_room, hospital_room",5722
-569,13656,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, nursery",5722
-570,13680,indoor,"clean_room, nursery, museum/indoor, dressing_room, art_gallery",5722
-571,13704,indoor,"clean_room, nursery, dressing_room, museum/indoor, operating_room",5722
-572,13728,indoor,"clean_room, nursery, museum/indoor, dressing_room, art_gallery",5722
-573,13752,indoor,"clean_room, nursery, dressing_room, childs_room, locker_room",5722
-574,13776,indoor,"clean_room, museum/indoor, dressing_room, nursery, operating_room",5722
-575,13800,indoor,"clean_room, nursery, museum/indoor, dressing_room, childs_room",5722
-576,13824,indoor,"nursery, clean_room, childs_room, museum/indoor, schoolhouse",5722
-577,13848,indoor,"nursery, bow_window/indoor, dining_room, alcove, living_room",5722
-578,13872,indoor,"clean_room, nursery, dressing_room, bow_window/indoor, living_room",5722
-579,13896,indoor,"clean_room, nursery, bow_window/indoor, dressing_room, alcove",5722
-580,13920,indoor,"clean_room, nursery, dressing_room, bow_window/indoor, hospital_room",5722
-581,13944,indoor,"clean_room, bow_window/indoor, nursery, living_room, dressing_room",5722
-582,13968,indoor,"clean_room, bow_window/indoor, nursery, dressing_room, alcove",5722
-583,13992,indoor,"clean_room, nursery, archive, bow_window/indoor, dressing_room",5722
-584,14016,indoor,"clean_room, dressing_room, laundromat, nursery, kitchen",5722
-585,14040,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-586,14064,indoor,"clean_room, dressing_room, operating_room, nursing_home, nursery",5722
-587,14088,indoor,"clean_room, dressing_room, nursery, operating_room, bow_window/indoor",5722
-588,14112,indoor,"clean_room, dressing_room, nursery, bow_window/indoor, locker_room",5722
-589,14136,indoor,"clean_room, dressing_room, nursery, bow_window/indoor, living_room",5722
-590,14160,indoor,"clean_room, dressing_room, nursery, bow_window/indoor, office",5722
-591,14184,indoor,"clean_room, dressing_room, operating_room, nursery, archive",5722
-592,14208,indoor,"clean_room, dressing_room, operating_room, banquet_hall, dining_room",5722
-593,14232,indoor,"clean_room, dressing_room, banquet_hall, dining_room, operating_room",5722
-594,14256,indoor,"clean_room, dressing_room, operating_room, nursery, hospital_room",5722
-595,14280,indoor,"clean_room, dressing_room, operating_room, nursery, museum/indoor",5722
-596,14304,indoor,"clean_room, dressing_room, operating_room, nursery, hospital_room",5722
-597,14328,indoor,"clean_room, dressing_room, nursery, operating_room, bow_window/indoor",5722
-598,14352,indoor,"clean_room, dressing_room, operating_room, nursing_home, beauty_salon",5722
-599,14376,indoor,"clean_room, operating_room, dressing_room, hospital_room, nursing_home",5722
-600,14400,indoor,"clean_room, dressing_room, operating_room, nursery, hospital_room",5722
-601,14424,indoor,"clean_room, nursery, dressing_room, operating_room, hospital_room",5722
-602,14448,indoor,"clean_room, dressing_room, operating_room, hospital_room, archive",5722
-603,14472,indoor,"clean_room, dressing_room, operating_room, nursery, nursing_home",5722
-604,14496,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-605,14520,indoor,"locker_room, clean_room, nursery, hospital_room, dressing_room",5722
-606,14544,indoor,"locker_room, clean_room, nursery, hospital_room, dressing_room",5722
-607,14568,indoor,"clean_room, dressing_room, nursery, bow_window/indoor, sauna",5722
-608,14592,indoor,"clean_room, nursery, dressing_room, bow_window/indoor, hospital_room",5722
-609,14616,indoor,"clean_room, nursery, bow_window/indoor, dressing_room, sauna",5722
-610,14640,indoor,"bow_window/indoor, nursery, clean_room, dressing_room, sauna",5722
-611,14664,indoor,"clean_room, locker_room, nursery, hospital_room, dressing_room",5722
-612,14688,indoor,"clean_room, locker_room, nursery, dressing_room, hospital_room",5722
-613,14712,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-614,14736,indoor,"clean_room, dressing_room, dining_room, operating_room, hospital_room",5722
-615,14760,indoor,"clean_room, dressing_room, operating_room, archive, hospital_room",5722
-616,14784,indoor,"clean_room, dressing_room, operating_room, hospital_room, nursing_home",5722
-617,14808,indoor,"nursery, locker_room, clean_room, martial_arts_gym, bedroom",5722
-618,14832,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-619,14856,indoor,"clean_room, dressing_room, nursery, hospital_room, operating_room",5722
-620,14880,indoor,"clean_room, dressing_room, nursery, bow_window/indoor, hospital_room",5722
-621,14904,indoor,"clean_room, operating_room, dressing_room, hospital_room, nursing_home",5722
-622,14928,indoor,"clean_room, operating_room, dressing_room, nursing_home, hospital_room",5722
-623,14952,indoor,"clean_room, dressing_room, operating_room, martial_arts_gym, nursery",5722
-624,14976,indoor,"clean_room, dressing_room, operating_room, nursing_home, martial_arts_gym",5722
-625,15000,indoor,"clean_room, dressing_room, operating_room, martial_arts_gym, nursing_home",5722
-626,15024,indoor,"clean_room, nursery, dressing_room, bow_window/indoor, living_room",5722
-627,15048,indoor,"clean_room, dressing_room, nursery, operating_room, hospital_room",5722
-628,15072,indoor,"nursery, clean_room, dressing_room, living_room, bow_window/indoor",5722
-629,15096,indoor,"nursery, living_room, bow_window/indoor, clean_room, dressing_room",5722
-630,15120,indoor,"clean_room, living_room, nursery, dressing_room, hospital_room",5722
-631,15144,indoor,"clean_room, nursery, bow_window/indoor, alcove, dining_room",5722
-632,15168,indoor,"clean_room, bow_window/indoor, nursery, alcove, archive",5722
-633,15192,indoor,"nursery, bow_window/indoor, clean_room, living_room, alcove",5722
-634,15216,indoor,"nursery, bow_window/indoor, clean_room, living_room, alcove",5722
-635,15240,indoor,"nursery, bow_window/indoor, clean_room, living_room, dining_room",5722
-636,15264,indoor,"clean_room, nursery, locker_room, dressing_room, museum/indoor",5722
-637,15288,indoor,"nursery, museum/indoor, childs_room, clean_room, locker_room",5722
-638,15312,indoor,"clean_room, nursery, dressing_room, locker_room, hospital_room",5722
-639,15336,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-640,15360,indoor,"clean_room, operating_room, dressing_room, hospital_room, archive",5722
-641,15384,indoor,"clean_room, operating_room, dressing_room, hospital_room, locker_room",5722
-642,15408,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-643,15432,indoor,"clean_room, dressing_room, operating_room, hospital_room, locker_room",5722
-644,15456,indoor,"clean_room, dressing_room, operating_room, locker_room, beauty_salon",5722
-645,15480,indoor,"clean_room, dressing_room, museum/indoor, archive, operating_room",5722
-646,15504,indoor,"clean_room, operating_room, dressing_room, museum/indoor, hospital_room",5722
-647,15528,indoor,"clean_room, museum/indoor, operating_room, dressing_room, hospital_room",5722
-648,15552,indoor,"clean_room, museum/indoor, dressing_room, operating_room, nursery",5722
-649,15576,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-650,15600,indoor,"clean_room, dressing_room, operating_room, hospital_room, locker_room",5722
-651,15624,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",5722
-652,15648,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-653,15672,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-654,15696,indoor,"clean_room, dressing_room, operating_room, hospital_room, clothing_store",5722
-655,15720,indoor,"clean_room, operating_room, dressing_room, hospital_room, nursing_home",5722
-656,15744,indoor,"clean_room, operating_room, hospital_room, dressing_room, archive",5722
-657,15768,indoor,"clean_room, dressing_room, clothing_store, nursery, shower",5722
-658,15792,indoor,"clean_room, dressing_room, museum/indoor, nursery, clothing_store",5722
-659,15816,indoor,"clean_room, dressing_room, nursery, clothing_store, museum/indoor",5722
-660,15840,indoor,"clean_room, operating_room, hospital_room, dressing_room, martial_arts_gym",5722
-661,15864,indoor,"clean_room, dressing_room, beauty_salon, operating_room, hospital_room",5722
-662,15888,indoor,"clean_room, operating_room, hospital_room, dressing_room, archive",5722
-663,15912,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-664,15936,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-665,15960,indoor,"dressing_room, clean_room, operating_room, beauty_salon, hospital_room",5722
-666,15984,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-667,16008,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-668,16032,indoor,"clean_room, dressing_room, museum/indoor, operating_room, art_gallery",5722
-669,16056,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-670,16080,indoor,"dressing_room, dining_room, beauty_salon, clean_room, restaurant",5722
-671,16104,indoor,"clean_room, dressing_room, dining_room, beauty_salon, operating_room",5722
-672,16128,indoor,"clean_room, museum/indoor, dressing_room, operating_room, archive",5722
-673,16152,indoor,"clean_room, dressing_room, museum/indoor, archive, operating_room",5722
-674,16176,indoor,"clean_room, dressing_room, operating_room, museum/indoor, locker_room",5722
-675,16200,indoor,"clean_room, museum/indoor, operating_room, dressing_room, hospital_room",5722
-676,16224,indoor,"clean_room, museum/indoor, operating_room, archive, schoolhouse",5722
-677,16248,indoor,"clean_room, museum/indoor, dressing_room, operating_room, hospital_room",5722
-678,16272,indoor,"clean_room, museum/indoor, dressing_room, locker_room, operating_room",5722
-679,16296,outdoor,"staircase, fire_escape, archive, playground, boat_deck",5722
-680,16320,indoor,"gymnasium/indoor, playground, boxing_ring, martial_arts_gym, fire_escape",5722
-681,16344,indoor,"clean_room, operating_room, dressing_room, museum/indoor, locker_room",5722
-682,16368,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, operating_room",5722
-683,16392,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, archive",5722
-684,16416,indoor,"clean_room, museum/indoor, elevator/door, dressing_room, locker_room",5722
-685,16440,indoor,"clean_room, museum/indoor, dressing_room, archive, operating_room",5722
-686,16464,indoor,"clean_room, museum/indoor, art_gallery, operating_room, dressing_room",5722
-687,16488,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, clothing_store",5722
-688,16512,indoor,"clean_room, dressing_room, bathroom, chemistry_lab, shower",5722
-689,16536,indoor,"clean_room, operating_room, dressing_room, art_gallery, locker_room",5722
-690,16560,indoor,"clean_room, archive, operating_room, dressing_room, art_gallery",5722
-691,16584,indoor,"clean_room, dressing_room, operating_room, archive, locker_room",5722
-692,16608,indoor,"clean_room, dressing_room, beauty_salon, art_gallery, archive",5722
-693,16632,indoor,"clean_room, operating_room, dressing_room, hospital_room, archive",5722
-694,16656,indoor,"clean_room, operating_room, archive, dressing_room, hospital_room",5722
-695,16680,indoor,"clean_room, operating_room, locker_room, dressing_room, hospital_room",5722
-696,16704,indoor,"clean_room, dressing_room, operating_room, locker_room, clothing_store",5722
-697,16728,indoor,"clean_room, operating_room, dressing_room, hospital_room, chemistry_lab",5722
-698,16752,indoor,"clean_room, operating_room, dressing_room, clothing_store, locker_room",5722
-699,16776,indoor,"clean_room, dressing_room, operating_room, locker_room, museum/indoor",5722
-700,16800,indoor,"clean_room, dressing_room, clothing_store, operating_room, locker_room",5722
-701,16824,indoor,"clean_room, operating_room, dressing_room, hospital_room, clothing_store",5722
-702,16848,indoor,"clean_room, dressing_room, operating_room, locker_room, hospital_room",5722
-703,16872,indoor,"clean_room, operating_room, dressing_room, hospital_room, locker_room",5722
-704,16896,indoor,"clean_room, operating_room, dressing_room, hospital_room, museum/indoor",5722
-705,16920,indoor,"clean_room, operating_room, dressing_room, locker_room, martial_arts_gym",5722
-706,16944,indoor,"clean_room, hospital_room, archive, entrance_hall, operating_room",5722
-707,16968,indoor,"gymnasium/indoor, playground, clean_room, locker_room, dressing_room",5722
-708,16992,indoor,"gymnasium/indoor, clean_room, playground, beauty_salon, boat_deck",5722
-709,17016,indoor,"gymnasium/indoor, clean_room, archive, hospital_room, boat_deck",5722
-710,17040,indoor,"gymnasium/indoor, dressing_room, clean_room, boxing_ring, boat_deck",5722
-711,17064,indoor,"dressing_room, clean_room, clothing_store, gymnasium/indoor, martial_arts_gym",5722
-712,17088,indoor,"clean_room, operating_room, dressing_room, archive, museum/indoor",5722
-713,17112,indoor,"clean_room, dressing_room, locker_room, operating_room, art_gallery",5722
-714,17136,indoor,"clean_room, dressing_room, beauty_salon, operating_room, shower",5722
-715,17160,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-716,17184,indoor,"clean_room, operating_room, dressing_room, physics_laboratory, hospital_room",5722
-717,17208,indoor,"clean_room, dressing_room, archive, locker_room, beauty_salon",5722
-718,17232,indoor,"clean_room, bathroom, shower, dressing_room, beauty_salon",5722
-719,17256,indoor,"clean_room, dressing_room, beauty_salon, shower, bathroom",5722
-720,17280,indoor,"clean_room, operating_room, hospital_room, dressing_room, archive",5722
-721,17304,indoor,"clean_room, operating_room, archive, locker_room, hospital_room",5722
-722,17328,indoor,"clean_room, operating_room, dressing_room, hospital_room, martial_arts_gym",5722
-723,17352,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-724,17376,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-725,17400,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-726,17424,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-727,17448,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, biology_laboratory",5722
-728,17472,indoor,"clean_room, dressing_room, museum/indoor, operating_room, art_gallery",5722
-729,17496,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",5722
-730,17520,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, dressing_room",5722
-731,17544,indoor,"clean_room, locker_room, dressing_room, archive, clothing_store",5722
-732,17568,indoor,"clean_room, archive, operating_room, museum/indoor, dressing_room",5722
-733,17592,indoor,"clean_room, dressing_room, operating_room, archive, locker_room",5722
-734,17616,indoor,"clean_room, operating_room, dressing_room, shower, beauty_salon",5722
-735,17640,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-736,17664,indoor,"clean_room, dressing_room, operating_room, beauty_salon, art_gallery",5722
-737,17688,indoor,"clean_room, operating_room, dressing_room, beauty_salon, archive",5722
-738,17712,indoor,"clean_room, operating_room, museum/indoor, dressing_room, art_gallery",5722
-739,17736,indoor,"clean_room, operating_room, dining_room, archive, dressing_room",5722
-740,17760,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-741,17784,indoor,"clean_room, operating_room, dressing_room, dining_room, beauty_salon",5722
-742,17808,indoor,"clean_room, dressing_room, operating_room, art_gallery, beauty_salon",5722
-743,17832,indoor,"clean_room, operating_room, art_gallery, museum/indoor, dressing_room",5722
-744,17856,indoor,"clean_room, dressing_room, beauty_salon, art_gallery, operating_room",5722
-745,17880,indoor,"clean_room, dressing_room, operating_room, clothing_store, beauty_salon",5722
-746,17904,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-747,17928,indoor,"clean_room, operating_room, dressing_room, hospital_room, chemistry_lab",5722
-748,17952,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-749,17976,indoor,"clean_room, dressing_room, operating_room, beauty_salon, archive",5722
-750,18000,indoor,"clean_room, dressing_room, beauty_salon, clothing_store, operating_room",5722
-751,18024,indoor,"clean_room, dressing_room, operating_room, beauty_salon, clothing_store",5722
-752,18048,indoor,"clean_room, dressing_room, beauty_salon, operating_room, art_gallery",5722
-753,18072,indoor,"clean_room, dressing_room, beauty_salon, operating_room, chemistry_lab",5722
-754,18096,indoor,"clean_room, dressing_room, operating_room, beauty_salon, chemistry_lab",5722
-755,18120,indoor,"clean_room, dressing_room, operating_room, beauty_salon, archive",5722
-756,18144,indoor,"clean_room, dressing_room, operating_room, beauty_salon, shower",5722
-757,18168,indoor,"clean_room, dressing_room, clothing_store, operating_room, beauty_salon",5722
-758,18192,indoor,"dressing_room, clean_room, beauty_salon, operating_room, shower",5722
-759,18216,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-760,18240,indoor,"clean_room, dressing_room, clothing_store, operating_room, shower",5722
-761,18264,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-762,18288,indoor,"clean_room, dressing_room, beauty_salon, operating_room, biology_laboratory",5722
-763,18312,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-764,18336,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-765,18360,indoor,"clean_room, operating_room, dressing_room, archive, beauty_salon",5722
-766,18384,indoor,"clean_room, operating_room, archive, beauty_salon, hospital_room",5722
-767,18408,indoor,"clean_room, operating_room, archive, hospital_room, beauty_salon",5722
-768,18432,indoor,"archive, clean_room, library/indoor, operating_room, dining_room",5722
-769,18456,indoor,"dining_room, operating_room, clean_room, hospital_room, beauty_salon",5722
-770,18480,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-771,18504,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-772,18528,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-773,18552,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-774,18576,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-775,18600,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, beauty_salon",5722
-776,18624,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",5722
-777,18648,indoor,"clean_room, operating_room, chemistry_lab, biology_laboratory, beauty_salon",5722
-778,18672,indoor,"clean_room, operating_room, dressing_room, beauty_salon, hospital_room",5722
-779,18696,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-780,18720,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-781,18744,indoor,"clean_room, operating_room, hospital_room, biology_laboratory, chemistry_lab",5722
-782,18768,indoor,"clean_room, operating_room, beauty_salon, hospital_room, dressing_room",5722
-783,18792,indoor,"dressing_room, clothing_store, locker_room, closet, beauty_salon",5722
-784,18816,indoor,"dressing_room, locker_room, clean_room, clothing_store, closet",5722
-785,18840,indoor,"dressing_room, clean_room, ballroom, martial_arts_gym, locker_room",5722
-786,18864,indoor,"dressing_room, clean_room, hospital_room, locker_room, operating_room",5722
-787,18888,indoor,"dressing_room, locker_room, clean_room, ballroom, clothing_store",5722
-788,18912,indoor,"clean_room, dressing_room, locker_room, hospital_room, clothing_store",5722
-789,18936,indoor,"dressing_room, clean_room, clothing_store, locker_room, hospital_room",5722
-790,18960,indoor,"dressing_room, clothing_store, clean_room, locker_room, beauty_salon",5722
-791,18984,indoor,"clean_room, dressing_room, locker_room, beauty_salon, hospital_room",5722
-792,19008,indoor,"dressing_room, clean_room, beauty_salon, hospital_room, ballroom",5722
-793,19032,indoor,"dressing_room, ballroom, locker_room, beauty_salon, clothing_store",5722
-794,19056,indoor,"dressing_room, clothing_store, locker_room, ballroom, nursery",5722
-795,19080,indoor,"dressing_room, clothing_store, locker_room, beauty_salon, ballroom",5722
-796,19104,indoor,"dressing_room, locker_room, clothing_store, closet, clean_room",5722
-797,19128,indoor,"dressing_room, clean_room, clothing_store, hospital_room, locker_room",5722
-798,19152,indoor,"clean_room, dressing_room, locker_room, hospital_room, operating_room",5722
-799,19176,indoor,"dressing_room, hospital_room, locker_room, clean_room, gymnasium/indoor",5722
-800,19200,indoor,"dressing_room, hospital_room, clean_room, operating_room, locker_room",5722
-801,19224,indoor,"dressing_room, hospital_room, clean_room, operating_room, locker_room",5722
-802,19248,indoor,"clean_room, locker_room, dressing_room, clothing_store, hospital_room",5722
-803,19272,indoor,"clean_room, archive, operating_room, dressing_room, office",5722
-804,19296,indoor,"clean_room, beauty_salon, archive, chemistry_lab, operating_room",5722
-805,19320,indoor,"clean_room, archive, operating_room, beauty_salon, museum/indoor",5722
-806,19344,indoor,"clean_room, locker_room, hospital_room, dressing_room, operating_room",5722
-807,19368,indoor,"clean_room, locker_room, hospital_room, dressing_room, operating_room",5722
-808,19392,indoor,"doorway/outdoor, elevator/door, bow_window/indoor, shower, alcove",5722
-809,19416,indoor,"elevator/door, dressing_room, shower, closet, clean_room",5722
-810,19440,indoor,"dressing_room, clean_room, locker_room, closet, shower",5722
-811,19464,indoor,"dressing_room, clean_room, museum/indoor, clothing_store, locker_room",5722
-812,19488,indoor,"clean_room, dressing_room, operating_room, hospital_room, museum/indoor",5722
-813,19512,indoor,"clean_room, dressing_room, museum/indoor, operating_room, hospital_room",5722
-814,19536,indoor,"dressing_room, clean_room, museum/indoor, clothing_store, archive",5722
-815,19560,indoor,"clean_room, operating_room, archive, dressing_room, beauty_salon",5722
-816,19584,indoor,"clean_room, operating_room, dressing_room, archive, beauty_salon",5722
-817,19608,indoor,"clean_room, archive, operating_room, dressing_room, music_studio",5722
-818,19632,indoor,"clean_room, dressing_room, museum/indoor, nursery, hospital_room",5722
-819,19656,indoor,"clean_room, dressing_room, museum/indoor, nursery, hospital_room",5722
-820,19680,indoor,"clean_room, dressing_room, museum/indoor, operating_room, hospital_room",5722
-821,19704,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",5722
-822,19728,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",5722
-823,19752,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, dressing_room",5722
-824,19776,indoor,"clean_room, operating_room, chemistry_lab, dressing_room, biology_laboratory",5722
-825,19800,indoor,"clean_room, operating_room, dressing_room, hospital_room, beauty_salon",5722
-826,19824,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-827,19848,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-828,19872,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-829,19896,indoor,"clean_room, operating_room, hospital_room, beauty_salon, dressing_room",5722
-830,19920,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, dressing_room",5722
-831,19944,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, biology_laboratory",5722
-832,19968,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, dressing_room",5722
-833,19992,indoor,"clean_room, operating_room, hospital_room, dressing_room, locker_room",5722
-834,20016,indoor,"clean_room, locker_room, dressing_room, shower, operating_room",5722
-835,20040,indoor,"clean_room, dressing_room, operating_room, locker_room, hospital_room",5722
-836,20064,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-837,20088,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",5722
-838,20112,indoor,"clean_room, dressing_room, operating_room, hospital_room, locker_room",5722
-839,20136,indoor,"clean_room, dressing_room, operating_room, locker_room, clothing_store",5722
-840,20160,indoor,"clean_room, operating_room, dressing_room, martial_arts_gym, locker_room",5722
-841,20184,indoor,"clean_room, operating_room, dressing_room, hospital_room, locker_room",5722
-842,20208,indoor,"dressing_room, clean_room, locker_room, clothing_store, operating_room",5722
-843,20232,indoor,"dressing_room, clothing_store, clean_room, closet, locker_room",5722
-844,20256,indoor,"clean_room, operating_room, hospital_room, dressing_room, beauty_salon",5722
-845,20280,indoor,"clean_room, chemistry_lab, biology_laboratory, dressing_room, hospital_room",5722
-846,20304,indoor,"clean_room, dressing_room, operating_room, beauty_salon, hospital_room",5722
-847,20328,indoor,"clean_room, operating_room, beauty_salon, biology_laboratory, chemistry_lab",5722
-848,20352,indoor,"clean_room, dressing_room, museum/indoor, elevator/door, clothing_store",5722
-849,20376,indoor,"elevator/door, dressing_room, clean_room, museum/indoor, elevator_lobby",5722
-850,20400,indoor,"dressing_room, museum/indoor, clean_room, clothing_store, elevator/door",5722
-851,20424,indoor,"museum/indoor, martial_arts_gym, clean_room, dressing_room, elevator/door",5722
-852,20448,indoor,"locker_room, clean_room, dressing_room, sauna, waiting_room",5722
-853,20472,indoor,"locker_room, clean_room, archive, hospital_room, dressing_room",5722
-854,20496,indoor,"locker_room, sauna, hospital_room, dressing_room, elevator/door",5722
-855,20520,indoor,"clean_room, locker_room, entrance_hall, operating_room, hospital_room",5722
-856,20544,indoor,"locker_room, dining_room, dressing_room, sauna, waiting_room",5722
-857,20568,indoor,"locker_room, lobby, waiting_room, living_room, entrance_hall",5722
-858,20592,indoor,"dressing_room, clean_room, museum/indoor, elevator/door, locker_room",5722
-859,20616,indoor,"clean_room, dressing_room, museum/indoor, nursery, locker_room",5722
-860,20640,indoor,"clean_room, gymnasium/indoor, locker_room, hospital_room, entrance_hall",5722
-861,20664,indoor,"gymnasium/indoor, lobby, entrance_hall, clean_room, locker_room",5722
-862,20688,indoor,"gymnasium/indoor, entrance_hall, clean_room, lobby, locker_room",5722
-863,20712,indoor,"clean_room, locker_room, archive, entrance_hall, gymnasium/indoor",5722
-864,20736,indoor,"gymnasium/indoor, clean_room, locker_room, martial_arts_gym, entrance_hall",5722
-865,20760,indoor,"locker_room, clean_room, entrance_hall, lobby, elevator_lobby",5722
-866,20784,indoor,"locker_room, entrance_hall, clean_room, lobby, elevator_lobby",5722
-867,20808,indoor,"clean_room, lobby, entrance_hall, elevator_lobby, locker_room",5722
-868,20832,indoor,"clean_room, museum/indoor, martial_arts_gym, dressing_room, art_gallery",5722
-869,20856,indoor,"dressing_room, martial_arts_gym, locker_room, gymnasium/indoor, museum/indoor",5722
-870,20880,indoor,"dressing_room, elevator/door, museum/indoor, bow_window/indoor, doorway/outdoor",5722
-871,20904,indoor,"locker_room, dressing_room, clean_room, bow_window/indoor, shower",5722
-872,20928,indoor,"clean_room, dressing_room, locker_room, beauty_salon, bathroom",5722
-873,20952,indoor,"dressing_room, shower, bathroom, clean_room, locker_room",5722
-874,20976,indoor,"dressing_room, shower, clean_room, bathroom, locker_room",5722
-875,21000,indoor,"clean_room, dressing_room, bathroom, shower, beauty_salon",5722
-876,21024,indoor,"dressing_room, shower, bathroom, clean_room, locker_room",5722
-877,21048,indoor,"dressing_room, clean_room, locker_room, beauty_salon, gymnasium/indoor",5722
-878,21072,indoor,"dressing_room, locker_room, clean_room, shower, bathroom",5722
-879,21096,indoor,"locker_room, bow_window/indoor, nursery, sauna, archive",5722
-880,21120,indoor,"locker_room, bow_window/indoor, nursery, artists_loft, archive",5722
-881,21144,indoor,"dressing_room, locker_room, closet, clean_room, shower",5722
-882,21168,indoor,"dressing_room, shower, locker_room, clean_room, bathroom",5722
-883,21192,indoor,"dressing_room, clean_room, shower, locker_room, bow_window/indoor",5722
-884,21216,indoor,"bow_window/indoor, locker_room, nursery, artists_loft, sauna",5722
-885,21240,indoor,"bow_window/indoor, locker_room, nursery, archive, sauna",5722
-886,21264,indoor,"bow_window/indoor, nursery, locker_room, artists_loft, sauna",5722
-887,21288,indoor,"dressing_room, clean_room, beauty_salon, locker_room, shower",5722
-888,21312,indoor,"locker_room, nursery, bow_window/indoor, clean_room, sauna",5722
-889,21336,indoor,"bow_window/indoor, kennel/outdoor, locker_room, stable, nursery",5722
-890,21360,indoor,"dressing_room, clean_room, locker_room, beauty_salon, shower",5722
-891,21384,indoor,"dressing_room, clean_room, locker_room, nursery, beauty_salon",5722
-892,21408,indoor,"bow_window/indoor, nursery, kennel/outdoor, stable, locker_room",5722
-893,21432,outdoor,"sky, iceberg, fountain, ice_floe, ice_shelf",5722
-894,21456,outdoor,"ice_shelf, ice_floe, snowfield, glacier, ski_slope",5722
-895,21480,indoor,"dressing_room, locker_room, clean_room, closet, clothing_store",5722
-896,21504,indoor,"bow_window/indoor, locker_room, jail_cell, nursery, archive",5722
-897,21528,outdoor,"ice_shelf, ice_floe, snowfield, iceberg, glacier",5722
-898,21552,indoor,"discotheque, hot_spring, jail_cell, barndoor, shower",5722
-899,21576,indoor,"shower, discotheque, chemistry_lab, hot_spring, bathroom",5722
-900,21600,indoor,"dressing_room, clean_room, locker_room, beauty_salon, hospital_room",5722
-901,21624,indoor,"dressing_room, locker_room, clean_room, nursery, clothing_store",5722
-902,21648,indoor,"locker_room, dressing_room, clean_room, archive, nursery",5722
-903,21672,indoor,"locker_room, dressing_room, clean_room, hospital_room, operating_room",5722
-904,21696,indoor,"dressing_room, locker_room, clean_room, archive, beauty_salon",5722
-905,21720,indoor,"shower, jail_cell, discotheque, rope_bridge, bathroom",5722
-906,21744,indoor,"shower, jail_cell, bathroom, rope_bridge, playground",5722
-907,21768,indoor,"museum/indoor, desert/sand, clothing_store, gift_shop, coffee_shop",5722
-908,21792,indoor,"museum/indoor, desert/sand, clothing_store, gift_shop, bakery/shop",5722
-909,21816,indoor,"museum/indoor, desert/sand, clothing_store, gift_shop, bakery/shop",5722
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,5722,0,0,1
+1,5722,24,0,1
+2,5722,48,0,1
+3,5722,72,1,0
+4,5722,96,1,0
+5,5722,120,1,0
+6,5722,144,1,0
+7,5722,168,1,0
+8,5722,192,1,0
+9,5722,216,0,1
+10,5722,240,0,1
+11,5722,264,0,1
+12,5722,288,0,1
+13,5722,312,0,1
+14,5722,336,0,1
+15,5722,360,0,1
+16,5722,384,0,1
+17,5722,408,0,1
+18,5722,432,0,1
+19,5722,456,0,1
+20,5722,480,0,1
+21,5722,504,0,1
+22,5722,528,0,1
+23,5722,552,0,1
+24,5722,576,0,1
+25,5722,600,0,1
+26,5722,624,0,1
+27,5722,648,0,1
+28,5722,672,0,1
+29,5722,696,0,1
+30,5722,720,0,1
+31,5722,744,0,1
+32,5722,768,0,1
+33,5722,792,0,1
+34,5722,816,0,1
+35,5722,840,0,1
+36,5722,864,0,1
+37,5722,888,0,1
+38,5722,912,0,1
+39,5722,936,0,1
+40,5722,960,0,1
+41,5722,984,0,1
+42,5722,1008,0,1
+43,5722,1032,0,1
+44,5722,1056,0,1
+45,5722,1080,0,1
+46,5722,1104,0,1
+47,5722,1128,0,1
+48,5722,1152,0,1
+49,5722,1176,0,1
+50,5722,1200,0,1
+51,5722,1224,0,1
+52,5722,1248,0,1
+53,5722,1272,0,1
+54,5722,1296,0,1
+55,5722,1320,0,1
+56,5722,1344,0,1
+57,5722,1368,0,1
+58,5722,1392,0,1
+59,5722,1416,0,1
+60,5722,1440,0,1
+61,5722,1464,0,1
+62,5722,1488,0,1
+63,5722,1512,0,1
+64,5722,1536,0,1
+65,5722,1560,0,1
+66,5722,1584,0,1
+67,5722,1608,0,1
+68,5722,1632,0,1
+69,5722,1656,0,1
+70,5722,1680,0,1
+71,5722,1704,0,1
+72,5722,1728,0,1
+73,5722,1752,0,1
+74,5722,1776,0,1
+75,5722,1800,0,1
+76,5722,1824,0,1
+77,5722,1848,0,1
+78,5722,1872,0,1
+79,5722,1896,0,1
+80,5722,1920,0,1
+81,5722,1944,0,1
+82,5722,1968,0,1
+83,5722,1992,0,1
+84,5722,2016,0,1
+85,5722,2040,0,1
+86,5722,2064,0,1
+87,5722,2088,0,1
+88,5722,2112,0,1
+89,5722,2136,0,1
+90,5722,2160,0,1
+91,5722,2184,0,1
+92,5722,2208,0,1
+93,5722,2232,0,1
+94,5722,2256,0,1
+95,5722,2280,0,1
+96,5722,2304,0,1
+97,5722,2328,0,1
+98,5722,2352,0,1
+99,5722,2376,0,1
+100,5722,2400,0,1
+101,5722,2424,0,1
+102,5722,2448,0,1
+103,5722,2472,0,1
+104,5722,2496,0,1
+105,5722,2520,0,1
+106,5722,2544,0,1
+107,5722,2568,0,1
+108,5722,2592,0,1
+109,5722,2616,0,1
+110,5722,2640,0,1
+111,5722,2664,0,1
+112,5722,2688,0,1
+113,5722,2712,0,1
+114,5722,2736,0,1
+115,5722,2760,0,1
+116,5722,2784,0,1
+117,5722,2808,0,1
+118,5722,2832,0,1
+119,5722,2856,0,1
+120,5722,2880,0,1
+121,5722,2904,0,1
+122,5722,2928,0,1
+123,5722,2952,0,1
+124,5722,2976,0,1
+125,5722,3000,0,1
+126,5722,3024,0,1
+127,5722,3048,0,1
+128,5722,3072,0,1
+129,5722,3096,0,1
+130,5722,3120,0,1
+131,5722,3144,0,1
+132,5722,3168,0,1
+133,5722,3192,0,1
+134,5722,3216,0,1
+135,5722,3240,0,1
+136,5722,3264,0,1
+137,5722,3288,0,1
+138,5722,3312,0,1
+139,5722,3336,0,1
+140,5722,3360,0,1
+141,5722,3384,0,1
+142,5722,3408,0,1
+143,5722,3432,0,1
+144,5722,3456,0,1
+145,5722,3480,0,1
+146,5722,3504,0,1
+147,5722,3528,0,1
+148,5722,3552,0,1
+149,5722,3576,0,1
+150,5722,3600,0,1
+151,5722,3624,0,1
+152,5722,3648,0,1
+153,5722,3672,0,1
+154,5722,3696,0,1
+155,5722,3720,0,1
+156,5722,3744,0,1
+157,5722,3768,0,1
+158,5722,3792,0,1
+159,5722,3816,0,1
+160,5722,3840,0,1
+161,5722,3864,0,1
+162,5722,3888,0,1
+163,5722,3912,0,1
+164,5722,3936,0,1
+165,5722,3960,0,1
+166,5722,3984,0,1
+167,5722,4008,0,1
+168,5722,4032,0,1
+169,5722,4056,0,1
+170,5722,4080,0,1
+171,5722,4104,0,1
+172,5722,4128,0,1
+173,5722,4152,0,1
+174,5722,4176,0,1
+175,5722,4200,0,1
+176,5722,4224,0,1
+177,5722,4248,0,1
+178,5722,4272,0,1
+179,5722,4296,0,1
+180,5722,4320,0,1
+181,5722,4344,0,1
+182,5722,4368,0,1
+183,5722,4392,0,1
+184,5722,4416,0,1
+185,5722,4440,0,1
+186,5722,4464,0,1
+187,5722,4488,0,1
+188,5722,4512,0,1
+189,5722,4536,0,1
+190,5722,4560,0,1
+191,5722,4584,0,1
+192,5722,4608,0,1
+193,5722,4632,0,1
+194,5722,4656,0,1
+195,5722,4680,0,1
+196,5722,4704,0,1
+197,5722,4728,0,1
+198,5722,4752,0,1
+199,5722,4776,0,1
+200,5722,4800,0,1
+201,5722,4824,0,1
+202,5722,4848,0,1
+203,5722,4872,0,1
+204,5722,4896,0,1
+205,5722,4920,0,1
+206,5722,4944,0,1
+207,5722,4968,0,1
+208,5722,4992,0,1
+209,5722,5016,0,1
+210,5722,5040,0,1
+211,5722,5064,0,1
+212,5722,5088,0,1
+213,5722,5112,0,1
+214,5722,5136,0,1
+215,5722,5160,0,1
+216,5722,5184,0,1
+217,5722,5208,0,1
+218,5722,5232,0,1
+219,5722,5256,0,1
+220,5722,5280,0,1
+221,5722,5304,0,1
+222,5722,5328,0,1
+223,5722,5352,0,1
+224,5722,5376,0,1
+225,5722,5400,0,1
+226,5722,5424,0,1
+227,5722,5448,0,1
+228,5722,5472,0,1
+229,5722,5496,0,1
+230,5722,5520,0,1
+231,5722,5544,0,1
+232,5722,5568,0,1
+233,5722,5592,0,1
+234,5722,5616,0,1
+235,5722,5640,0,1
+236,5722,5664,0,1
+237,5722,5688,0,1
+238,5722,5712,0,1
+239,5722,5736,0,1
+240,5722,5760,0,1
+241,5722,5784,0,1
+242,5722,5808,0,1
+243,5722,5832,0,1
+244,5722,5856,0,1
+245,5722,5880,0,1
+246,5722,5904,0,1
+247,5722,5928,0,1
+248,5722,5952,0,1
+249,5722,5976,0,1
+250,5722,6000,0,1
+251,5722,6024,0,1
+252,5722,6048,0,1
+253,5722,6072,0,1
+254,5722,6096,0,1
+255,5722,6120,0,1
+256,5722,6144,0,1
+257,5722,6168,0,1
+258,5722,6192,0,1
+259,5722,6216,0,1
+260,5722,6240,0,1
+261,5722,6264,0,1
+262,5722,6288,0,1
+263,5722,6312,0,1
+264,5722,6336,0,1
+265,5722,6360,0,1
+266,5722,6384,0,1
+267,5722,6408,0,1
+268,5722,6432,0,1
+269,5722,6456,0,1
+270,5722,6480,0,1
+271,5722,6504,0,1
+272,5722,6528,0,1
+273,5722,6552,0,1
+274,5722,6576,0,1
+275,5722,6600,0,1
+276,5722,6624,0,1
+277,5722,6648,0,1
+278,5722,6672,0,1
+279,5722,6696,0,1
+280,5722,6720,0,1
+281,5722,6744,0,1
+282,5722,6768,0,1
+283,5722,6792,0,1
+284,5722,6816,0,1
+285,5722,6840,0,1
+286,5722,6864,0,1
+287,5722,6888,0,1
+288,5722,6912,0,1
+289,5722,6936,0,1
+290,5722,6960,0,1
+291,5722,6984,0,1
+292,5722,7008,0,1
+293,5722,7032,0,1
+294,5722,7056,0,1
+295,5722,7080,0,1
+296,5722,7104,0,1
+297,5722,7128,0,1
+298,5722,7152,0,1
+299,5722,7176,0,1
+300,5722,7200,0,1
+301,5722,7224,0,1
+302,5722,7248,0,1
+303,5722,7272,0,1
+304,5722,7296,0,1
+305,5722,7320,0,1
+306,5722,7344,0,1
+307,5722,7368,0,1
+308,5722,7392,0,1
+309,5722,7416,0,1
+310,5722,7440,0,1
+311,5722,7464,0,1
+312,5722,7488,0,1
+313,5722,7512,0,1
+314,5722,7536,0,1
+315,5722,7560,0,1
+316,5722,7584,0,1
+317,5722,7608,0,1
+318,5722,7632,0,1
+319,5722,7656,0,1
+320,5722,7680,0,1
+321,5722,7704,0,1
+322,5722,7728,0,1
+323,5722,7752,0,1
+324,5722,7776,0,1
+325,5722,7800,0,1
+326,5722,7824,0,1
+327,5722,7848,0,1
+328,5722,7872,0,1
+329,5722,7896,0,1
+330,5722,7920,0,1
+331,5722,7944,0,1
+332,5722,7968,0,1
+333,5722,7992,0,1
+334,5722,8016,0,1
+335,5722,8040,0,1
+336,5722,8064,0,1
+337,5722,8088,0,1
+338,5722,8112,0,1
+339,5722,8136,0,1
+340,5722,8160,0,1
+341,5722,8184,0,1
+342,5722,8208,0,1
+343,5722,8232,0,1
+344,5722,8256,0,1
+345,5722,8280,0,1
+346,5722,8304,0,1
+347,5722,8328,0,1
+348,5722,8352,0,1
+349,5722,8376,0,1
+350,5722,8400,0,1
+351,5722,8424,0,1
+352,5722,8448,0,1
+353,5722,8472,0,1
+354,5722,8496,0,1
+355,5722,8520,0,1
+356,5722,8544,0,1
+357,5722,8568,0,1
+358,5722,8592,0,1
+359,5722,8616,1,0
+360,5722,8640,0,1
+361,5722,8664,0,1
+362,5722,8688,0,1
+363,5722,8712,0,1
+364,5722,8736,0,1
+365,5722,8760,0,1
+366,5722,8784,0,1
+367,5722,8808,0,1
+368,5722,8832,0,1
+369,5722,8856,0,1
+370,5722,8880,0,1
+371,5722,8904,0,1
+372,5722,8928,0,1
+373,5722,8952,0,1
+374,5722,8976,0,1
+375,5722,9000,0,1
+376,5722,9024,0,1
+377,5722,9048,0,1
+378,5722,9072,0,1
+379,5722,9096,0,1
+380,5722,9120,0,1
+381,5722,9144,0,1
+382,5722,9168,0,1
+383,5722,9192,0,1
+384,5722,9216,0,1
+385,5722,9240,0,1
+386,5722,9264,0,1
+387,5722,9288,0,1
+388,5722,9312,0,1
+389,5722,9336,0,1
+390,5722,9360,0,1
+391,5722,9384,0,1
+392,5722,9408,0,1
+393,5722,9432,0,1
+394,5722,9456,0,1
+395,5722,9480,0,1
+396,5722,9504,0,1
+397,5722,9528,0,1
+398,5722,9552,0,1
+399,5722,9576,0,1
+400,5722,9600,0,1
+401,5722,9624,0,1
+402,5722,9648,0,1
+403,5722,9672,0,1
+404,5722,9696,0,1
+405,5722,9720,0,1
+406,5722,9744,0,1
+407,5722,9768,0,1
+408,5722,9792,0,1
+409,5722,9816,0,1
+410,5722,9840,0,1
+411,5722,9864,0,1
+412,5722,9888,0,1
+413,5722,9912,0,1
+414,5722,9936,0,1
+415,5722,9960,0,1
+416,5722,9984,0,1
+417,5722,10008,0,1
+418,5722,10032,0,1
+419,5722,10056,0,1
+420,5722,10080,0,1
+421,5722,10104,0,1
+422,5722,10128,0,1
+423,5722,10152,0,1
+424,5722,10176,0,1
+425,5722,10200,0,1
+426,5722,10224,0,1
+427,5722,10248,0,1
+428,5722,10272,0,1
+429,5722,10296,0,1
+430,5722,10320,0,1
+431,5722,10344,0,1
+432,5722,10368,0,1
+433,5722,10392,0,1
+434,5722,10416,0,1
+435,5722,10440,0,1
+436,5722,10464,0,1
+437,5722,10488,0,1
+438,5722,10512,0,1
+439,5722,10536,0,1
+440,5722,10560,0,1
+441,5722,10584,0,1
+442,5722,10608,0,1
+443,5722,10632,0,1
+444,5722,10656,0,1
+445,5722,10680,0,1
+446,5722,10704,0,1
+447,5722,10728,0,1
+448,5722,10752,0,1
+449,5722,10776,0,1
+450,5722,10800,0,1
+451,5722,10824,0,1
+452,5722,10848,0,1
+453,5722,10872,0,1
+454,5722,10896,0,1
+455,5722,10920,0,1
+456,5722,10944,0,1
+457,5722,10968,0,1
+458,5722,10992,0,1
+459,5722,11016,0,1
+460,5722,11040,0,1
+461,5722,11064,0,1
+462,5722,11088,0,1
+463,5722,11112,0,1
+464,5722,11136,0,1
+465,5722,11160,0,1
+466,5722,11184,0,1
+467,5722,11208,0,1
+468,5722,11232,0,1
+469,5722,11256,0,1
+470,5722,11280,0,1
+471,5722,11304,0,1
+472,5722,11328,0,1
+473,5722,11352,0,1
+474,5722,11376,0,1
+475,5722,11400,0,1
+476,5722,11424,0,1
+477,5722,11448,0,1
+478,5722,11472,0,1
+479,5722,11496,0,1
+480,5722,11520,0,1
+481,5722,11544,0,1
+482,5722,11568,0,1
+483,5722,11592,0,1
+484,5722,11616,0,1
+485,5722,11640,0,1
+486,5722,11664,0,1
+487,5722,11688,0,1
+488,5722,11712,0,1
+489,5722,11736,0,1
+490,5722,11760,0,1
+491,5722,11784,0,1
+492,5722,11808,0,1
+493,5722,11832,0,1
+494,5722,11856,0,1
+495,5722,11880,0,1
+496,5722,11904,0,1
+497,5722,11928,0,1
+498,5722,11952,0,1
+499,5722,11976,1,0
+500,5722,12000,1,0
+501,5722,12024,1,0
+502,5722,12048,1,0
+503,5722,12072,1,0
+504,5722,12096,1,0
+505,5722,12120,1,0
+506,5722,12144,1,0
+507,5722,12168,0,1
+508,5722,12192,0,1
+509,5722,12216,1,0
+510,5722,12240,1,0
+511,5722,12264,1,0
+512,5722,12288,1,0
+513,5722,12312,0,1
+514,5722,12336,0,1
+515,5722,12360,0,1
+516,5722,12384,0,1
+517,5722,12408,0,1
+518,5722,12432,0,1
+519,5722,12456,0,1
+520,5722,12480,0,1
+521,5722,12504,0,1
+522,5722,12528,0,1
+523,5722,12552,0,1
+524,5722,12576,0,1
+525,5722,12600,0,1
+526,5722,12624,0,1
+527,5722,12648,0,1
+528,5722,12672,0,1
+529,5722,12696,0,1
+530,5722,12720,0,1
+531,5722,12744,0,1
+532,5722,12768,0,1
+533,5722,12792,0,1
+534,5722,12816,0,1
+535,5722,12840,0,1
+536,5722,12864,0,1
+537,5722,12888,0,1
+538,5722,12912,0,1
+539,5722,12936,0,1
+540,5722,12960,0,1
+541,5722,12984,0,1
+542,5722,13008,0,1
+543,5722,13032,0,1
+544,5722,13056,0,1
+545,5722,13080,0,1
+546,5722,13104,0,1
+547,5722,13128,0,1
+548,5722,13152,0,1
+549,5722,13176,0,1
+550,5722,13200,0,1
+551,5722,13224,0,1
+552,5722,13248,0,1
+553,5722,13272,0,1
+554,5722,13296,0,1
+555,5722,13320,0,1
+556,5722,13344,0,1
+557,5722,13368,0,1
+558,5722,13392,0,1
+559,5722,13416,0,1
+560,5722,13440,0,1
+561,5722,13464,0,1
+562,5722,13488,0,1
+563,5722,13512,0,1
+564,5722,13536,0,1
+565,5722,13560,0,1
+566,5722,13584,0,1
+567,5722,13608,0,1
+568,5722,13632,0,1
+569,5722,13656,0,1
+570,5722,13680,0,1
+571,5722,13704,0,1
+572,5722,13728,0,1
+573,5722,13752,0,1
+574,5722,13776,0,1
+575,5722,13800,0,1
+576,5722,13824,0,1
+577,5722,13848,0,1
+578,5722,13872,0,1
+579,5722,13896,0,1
+580,5722,13920,0,1
+581,5722,13944,0,1
+582,5722,13968,0,1
+583,5722,13992,0,1
+584,5722,14016,0,1
+585,5722,14040,0,1
+586,5722,14064,0,1
+587,5722,14088,0,1
+588,5722,14112,0,1
+589,5722,14136,0,1
+590,5722,14160,0,1
+591,5722,14184,0,1
+592,5722,14208,0,1
+593,5722,14232,0,1
+594,5722,14256,0,1
+595,5722,14280,0,1
+596,5722,14304,0,1
+597,5722,14328,0,1
+598,5722,14352,0,1
+599,5722,14376,0,1
+600,5722,14400,0,1
+601,5722,14424,0,1
+602,5722,14448,0,1
+603,5722,14472,0,1
+604,5722,14496,0,1
+605,5722,14520,0,1
+606,5722,14544,0,1
+607,5722,14568,0,1
+608,5722,14592,0,1
+609,5722,14616,0,1
+610,5722,14640,0,1
+611,5722,14664,0,1
+612,5722,14688,0,1
+613,5722,14712,0,1
+614,5722,14736,0,1
+615,5722,14760,0,1
+616,5722,14784,0,1
+617,5722,14808,0,1
+618,5722,14832,0,1
+619,5722,14856,0,1
+620,5722,14880,0,1
+621,5722,14904,0,1
+622,5722,14928,0,1
+623,5722,14952,0,1
+624,5722,14976,0,1
+625,5722,15000,0,1
+626,5722,15024,0,1
+627,5722,15048,0,1
+628,5722,15072,0,1
+629,5722,15096,0,1
+630,5722,15120,0,1
+631,5722,15144,0,1
+632,5722,15168,0,1
+633,5722,15192,0,1
+634,5722,15216,0,1
+635,5722,15240,0,1
+636,5722,15264,0,1
+637,5722,15288,0,1
+638,5722,15312,0,1
+639,5722,15336,0,1
+640,5722,15360,0,1
+641,5722,15384,0,1
+642,5722,15408,0,1
+643,5722,15432,0,1
+644,5722,15456,0,1
+645,5722,15480,0,1
+646,5722,15504,0,1
+647,5722,15528,0,1
+648,5722,15552,0,1
+649,5722,15576,0,1
+650,5722,15600,0,1
+651,5722,15624,0,1
+652,5722,15648,0,1
+653,5722,15672,0,1
+654,5722,15696,0,1
+655,5722,15720,0,1
+656,5722,15744,0,1
+657,5722,15768,0,1
+658,5722,15792,0,1
+659,5722,15816,0,1
+660,5722,15840,0,1
+661,5722,15864,0,1
+662,5722,15888,0,1
+663,5722,15912,0,1
+664,5722,15936,0,1
+665,5722,15960,0,1
+666,5722,15984,0,1
+667,5722,16008,0,1
+668,5722,16032,0,1
+669,5722,16056,0,1
+670,5722,16080,0,1
+671,5722,16104,0,1
+672,5722,16128,0,1
+673,5722,16152,0,1
+674,5722,16176,0,1
+675,5722,16200,0,1
+676,5722,16224,0,1
+677,5722,16248,0,1
+678,5722,16272,0,1
+679,5722,16296,1,0
+680,5722,16320,0,1
+681,5722,16344,0,1
+682,5722,16368,0,1
+683,5722,16392,0,1
+684,5722,16416,0,1
+685,5722,16440,0,1
+686,5722,16464,0,1
+687,5722,16488,0,1
+688,5722,16512,0,1
+689,5722,16536,0,1
+690,5722,16560,0,1
+691,5722,16584,0,1
+692,5722,16608,0,1
+693,5722,16632,0,1
+694,5722,16656,0,1
+695,5722,16680,0,1
+696,5722,16704,0,1
+697,5722,16728,0,1
+698,5722,16752,0,1
+699,5722,16776,0,1
+700,5722,16800,0,1
+701,5722,16824,0,1
+702,5722,16848,0,1
+703,5722,16872,0,1
+704,5722,16896,0,1
+705,5722,16920,0,1
+706,5722,16944,0,1
+707,5722,16968,0,1
+708,5722,16992,0,1
+709,5722,17016,0,1
+710,5722,17040,0,1
+711,5722,17064,0,1
+712,5722,17088,0,1
+713,5722,17112,0,1
+714,5722,17136,0,1
+715,5722,17160,0,1
+716,5722,17184,0,1
+717,5722,17208,0,1
+718,5722,17232,0,1
+719,5722,17256,0,1
+720,5722,17280,0,1
+721,5722,17304,0,1
+722,5722,17328,0,1
+723,5722,17352,0,1
+724,5722,17376,0,1
+725,5722,17400,0,1
+726,5722,17424,0,1
+727,5722,17448,0,1
+728,5722,17472,0,1
+729,5722,17496,0,1
+730,5722,17520,0,1
+731,5722,17544,0,1
+732,5722,17568,0,1
+733,5722,17592,0,1
+734,5722,17616,0,1
+735,5722,17640,0,1
+736,5722,17664,0,1
+737,5722,17688,0,1
+738,5722,17712,0,1
+739,5722,17736,0,1
+740,5722,17760,0,1
+741,5722,17784,0,1
+742,5722,17808,0,1
+743,5722,17832,0,1
+744,5722,17856,0,1
+745,5722,17880,0,1
+746,5722,17904,0,1
+747,5722,17928,0,1
+748,5722,17952,0,1
+749,5722,17976,0,1
+750,5722,18000,0,1
+751,5722,18024,0,1
+752,5722,18048,0,1
+753,5722,18072,0,1
+754,5722,18096,0,1
+755,5722,18120,0,1
+756,5722,18144,0,1
+757,5722,18168,0,1
+758,5722,18192,0,1
+759,5722,18216,0,1
+760,5722,18240,0,1
+761,5722,18264,0,1
+762,5722,18288,0,1
+763,5722,18312,0,1
+764,5722,18336,0,1
+765,5722,18360,0,1
+766,5722,18384,0,1
+767,5722,18408,0,1
+768,5722,18432,0,1
+769,5722,18456,0,1
+770,5722,18480,0,1
+771,5722,18504,0,1
+772,5722,18528,0,1
+773,5722,18552,0,1
+774,5722,18576,0,1
+775,5722,18600,0,1
+776,5722,18624,0,1
+777,5722,18648,0,1
+778,5722,18672,0,1
+779,5722,18696,0,1
+780,5722,18720,0,1
+781,5722,18744,0,1
+782,5722,18768,0,1
+783,5722,18792,0,1
+784,5722,18816,0,1
+785,5722,18840,0,1
+786,5722,18864,0,1
+787,5722,18888,0,1
+788,5722,18912,0,1
+789,5722,18936,0,1
+790,5722,18960,0,1
+791,5722,18984,0,1
+792,5722,19008,0,1
+793,5722,19032,0,1
+794,5722,19056,0,1
+795,5722,19080,0,1
+796,5722,19104,0,1
+797,5722,19128,0,1
+798,5722,19152,0,1
+799,5722,19176,0,1
+800,5722,19200,0,1
+801,5722,19224,0,1
+802,5722,19248,0,1
+803,5722,19272,0,1
+804,5722,19296,0,1
+805,5722,19320,0,1
+806,5722,19344,0,1
+807,5722,19368,0,1
+808,5722,19392,0,1
+809,5722,19416,0,1
+810,5722,19440,0,1
+811,5722,19464,0,1
+812,5722,19488,0,1
+813,5722,19512,0,1
+814,5722,19536,0,1
+815,5722,19560,0,1
+816,5722,19584,0,1
+817,5722,19608,0,1
+818,5722,19632,0,1
+819,5722,19656,0,1
+820,5722,19680,0,1
+821,5722,19704,0,1
+822,5722,19728,0,1
+823,5722,19752,0,1
+824,5722,19776,0,1
+825,5722,19800,0,1
+826,5722,19824,0,1
+827,5722,19848,0,1
+828,5722,19872,0,1
+829,5722,19896,0,1
+830,5722,19920,0,1
+831,5722,19944,0,1
+832,5722,19968,0,1
+833,5722,19992,0,1
+834,5722,20016,0,1
+835,5722,20040,0,1
+836,5722,20064,0,1
+837,5722,20088,0,1
+838,5722,20112,0,1
+839,5722,20136,0,1
+840,5722,20160,0,1
+841,5722,20184,0,1
+842,5722,20208,0,1
+843,5722,20232,0,1
+844,5722,20256,0,1
+845,5722,20280,0,1
+846,5722,20304,0,1
+847,5722,20328,0,1
+848,5722,20352,0,1
+849,5722,20376,0,1
+850,5722,20400,0,1
+851,5722,20424,0,1
+852,5722,20448,0,1
+853,5722,20472,0,1
+854,5722,20496,0,1
+855,5722,20520,0,1
+856,5722,20544,0,1
+857,5722,20568,0,1
+858,5722,20592,0,1
+859,5722,20616,0,1
+860,5722,20640,0,1
+861,5722,20664,0,1
+862,5722,20688,0,1
+863,5722,20712,0,1
+864,5722,20736,0,1
+865,5722,20760,0,1
+866,5722,20784,0,1
+867,5722,20808,0,1
+868,5722,20832,0,1
+869,5722,20856,0,1
+870,5722,20880,0,1
+871,5722,20904,0,1
+872,5722,20928,0,1
+873,5722,20952,0,1
+874,5722,20976,0,1
+875,5722,21000,0,1
+876,5722,21024,0,1
+877,5722,21048,0,1
+878,5722,21072,0,1
+879,5722,21096,0,1
+880,5722,21120,0,1
+881,5722,21144,0,1
+882,5722,21168,0,1
+883,5722,21192,0,1
+884,5722,21216,0,1
+885,5722,21240,0,1
+886,5722,21264,0,1
+887,5722,21288,0,1
+888,5722,21312,0,1
+889,5722,21336,0,1
+890,5722,21360,0,1
+891,5722,21384,0,1
+892,5722,21408,0,1
+893,5722,21432,1,0
+894,5722,21456,1,0
+895,5722,21480,0,1
+896,5722,21504,0,1
+897,5722,21528,1,0
+898,5722,21552,0,1
+899,5722,21576,0,1
+900,5722,21600,0,1
+901,5722,21624,0,1
+902,5722,21648,0,1
+903,5722,21672,0,1
+904,5722,21696,0,1
+905,5722,21720,0,1
+906,5722,21744,0,1
+907,5722,21768,0,1
+908,5722,21792,0,1
+909,5722,21816,0,1

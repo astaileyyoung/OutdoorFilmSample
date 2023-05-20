@@ -1,94 +1,94 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"elevator/door, sky, barndoor, closet, wheat_field",21310
-1,24,indoor,"booth/indoor, ice_cream_parlor, coffee_shop, science_museum, kindergarden_classroom",21310
-2,48,indoor,"museum/indoor, booth/indoor, archive, science_museum, natural_history_museum",21310
-3,72,indoor,"museum/indoor, booth/indoor, archive, science_museum, natural_history_museum",21310
-4,96,indoor,"museum/indoor, booth/indoor, archive, science_museum, natural_history_museum",21310
-5,120,indoor,"booth/indoor, museum/indoor, archive, science_museum, ice_cream_parlor",21310
-6,144,indoor,"museum/indoor, booth/indoor, archive, science_museum, ice_cream_parlor",21310
-7,168,indoor,"museum/indoor, booth/indoor, archive, science_museum, natural_history_museum",21310
-8,192,indoor,"museum/indoor, booth/indoor, archive, science_museum, ice_cream_parlor",21310
-9,216,indoor,"museum/indoor, booth/indoor, archive, science_museum, ice_cream_parlor",21310
-10,240,outdoor,"schoolhouse, ski_resort, kindergarden_classroom, slum, bazaar/outdoor",21310
-11,264,outdoor,"schoolhouse, ski_resort, slum, bazaar/outdoor, kindergarden_classroom",21310
-12,288,outdoor,"schoolhouse, ski_resort, slum, bazaar/outdoor, campsite",21310
-13,312,outdoor,"schoolhouse, slum, kindergarden_classroom, bazaar/outdoor, ski_resort",21310
-14,336,outdoor,"schoolhouse, kindergarden_classroom, campsite, slum, volleyball_court/outdoor",21310
-15,360,outdoor,"schoolhouse, kindergarden_classroom, volleyball_court/outdoor, ski_resort, campsite",21310
-16,384,outdoor,"schoolhouse, archive, kindergarden_classroom, slum, campsite",21310
-17,408,outdoor,"schoolhouse, kindergarden_classroom, volleyball_court/outdoor, campsite, slum",21310
-18,432,outdoor,"schoolhouse, slum, campsite, kindergarden_classroom, bazaar/outdoor",21310
-19,456,indoor,"music_studio, corn_field, wheat_field, museum/indoor, stage/indoor",21310
-20,480,indoor,"wheat_field, corn_field, music_studio, museum/indoor, physics_laboratory",21310
-21,504,outdoor,"wheat_field, corn_field, museum/indoor, rice_paddy, music_studio",21310
-22,528,indoor,"museum/indoor, wheat_field, music_studio, rice_paddy, stage/indoor",21310
-23,552,indoor,"museum/indoor, wheat_field, clean_room, music_studio, stage/indoor",21310
-24,576,indoor,"clean_room, museum/indoor, wheat_field, childs_room, igloo",21310
-25,600,indoor,"clean_room, museum/indoor, operating_room, nursery, hospital_room",21310
-26,624,indoor,"clean_room, operating_room, campsite, museum/indoor, hospital_room",21310
-27,648,indoor,"clean_room, operating_room, hospital_room, museum/indoor, mosque/outdoor",21310
-28,672,outdoor,"bazaar/outdoor, art_school, archive, campsite, market/outdoor",21310
-29,696,indoor,"museum/indoor, archive, bazaar/outdoor, schoolhouse, dressing_room",21310
-30,720,outdoor,"campsite, schoolhouse, bazaar/outdoor, racecourse, art_school",21310
-31,744,outdoor,"campsite, bazaar/outdoor, schoolhouse, slum, market/outdoor",21310
-32,768,outdoor,"campsite, bazaar/outdoor, stage/outdoor, schoolhouse, market/outdoor",21310
-33,792,outdoor,"campsite, schoolhouse, bazaar/outdoor, stage/outdoor, shed",21310
-34,816,outdoor,"schoolhouse, campsite, stage/outdoor, bazaar/outdoor, shed",21310
-35,840,outdoor,"campsite, schoolhouse, stage/outdoor, shed, bazaar/outdoor",21310
-36,864,outdoor,"stage/outdoor, campsite, schoolhouse, bazaar/outdoor, shed",21310
-37,888,outdoor,"schoolhouse, stage/outdoor, campsite, hangar/outdoor, fire_station",21310
-38,912,outdoor,"schoolhouse, campsite, stage/outdoor, bazaar/outdoor, hangar/outdoor",21310
-39,936,outdoor,"schoolhouse, campsite, hangar/outdoor, stage/outdoor, shed",21310
-40,960,outdoor,"campsite, schoolhouse, shed, hangar/outdoor, bazaar/outdoor",21310
-41,984,outdoor,"schoolhouse, campsite, bazaar/outdoor, market/outdoor, stage/outdoor",21310
-42,1008,outdoor,"schoolhouse, slum, bazaar/outdoor, campsite, archive",21310
-43,1032,indoor,"operating_room, clean_room, dressing_room, hospital_room, locker_room",21310
-44,1056,indoor,"operating_room, hospital_room, dressing_room, clean_room, nursing_home",21310
-45,1080,indoor,"operating_room, hospital_room, dressing_room, clean_room, clothing_store",21310
-46,1104,indoor,"operating_room, dressing_room, hospital_room, clean_room, locker_room",21310
-47,1128,indoor,"operating_room, dressing_room, clean_room, locker_room, hospital_room",21310
-48,1152,indoor,"clean_room, repair_shop, assembly_line, archive, slum",21310
-49,1176,indoor,"clean_room, operating_room, assembly_line, auto_factory, repair_shop",21310
-50,1200,indoor,"clean_room, slum, repair_shop, auto_factory, assembly_line",21310
-51,1224,indoor,"clean_room, operating_room, auto_factory, repair_shop, assembly_line",21310
-52,1248,indoor,"clean_room, auto_factory, repair_shop, operating_room, engine_room",21310
-53,1272,indoor,"clean_room, repair_shop, slum, archive, assembly_line",21310
-54,1296,indoor,"auto_factory, museum/indoor, clean_room, engine_room, repair_shop",21310
-55,1320,indoor,"clean_room, operating_room, slum, butchers_shop, repair_shop",21310
-56,1344,indoor,"auto_factory, clean_room, slum, assembly_line, engine_room",21310
-57,1368,indoor,"clean_room, repair_shop, slum, auto_factory, museum/indoor",21310
-58,1392,indoor,"clean_room, physics_laboratory, museum/indoor, dressing_room, chemistry_lab",21310
-59,1416,indoor,"clean_room, dressing_room, museum/indoor, physics_laboratory, discotheque",21310
-60,1440,indoor,"clean_room, dressing_room, locker_room, discotheque, clothing_store",21310
-61,1464,indoor,"clean_room, locker_room, dressing_room, archive, physics_laboratory",21310
-62,1488,indoor,"clean_room, dressing_room, locker_room, discotheque, stage/indoor",21310
-63,1512,indoor,"clean_room, archive, slum, operating_room, repair_shop",21310
-64,1536,indoor,"toyshop, clean_room, gymnasium/indoor, engine_room, archive",21310
-65,1560,indoor,"clean_room, archive, kindergarden_classroom, operating_room, auto_factory",21310
-66,1584,indoor,"slum, archive, kindergarden_classroom, clean_room, repair_shop",21310
-67,1608,indoor,"jewelry_shop, dressing_room, museum/indoor, shower, bathroom",21310
-68,1632,indoor,"jewelry_shop, dressing_room, shower, museum/indoor, clothing_store",21310
-69,1656,indoor,"dressing_room, jewelry_shop, corn_field, museum/indoor, shower",21310
-70,1680,outdoor,"corn_field, bamboo_forest, jewelry_shop, dressing_room, wheat_field",21310
-71,1704,indoor,"slum, auto_factory, assembly_line, repair_shop, engine_room",21310
-72,1728,indoor,"repair_shop, assembly_line, auto_factory, clean_room, operating_room",21310
-73,1752,outdoor,"slum, campsite, bazaar/outdoor, market/outdoor, repair_shop",21310
-74,1776,indoor,"slum, assembly_line, campsite, museum/indoor, auto_factory",21310
-75,1800,indoor,"slum, assembly_line, clean_room, butchers_shop, bazaar/outdoor",21310
-76,1824,outdoor,"slum, army_base, assembly_line, campsite, auto_factory",21310
-77,1848,outdoor,"slum, campsite, clean_room, ice_shelf, army_base",21310
-78,1872,indoor,"campsite, slum, clean_room, auto_factory, assembly_line",21310
-79,1896,indoor,"slum, clean_room, auto_factory, assembly_line, repair_shop",21310
-80,1920,indoor,"clean_room, assembly_line, auto_factory, archive, operating_room",21310
-81,1944,indoor,"clean_room, assembly_line, auto_factory, operating_room, engine_room",21310
-82,1968,indoor,"clean_room, assembly_line, campsite, auto_factory, slum",21310
-83,1992,indoor,"campsite, clean_room, auto_factory, engine_room, assembly_line",21310
-84,2016,indoor,"campsite, clean_room, auto_factory, repair_shop, operating_room",21310
-85,2040,indoor,"clean_room, auto_factory, assembly_line, repair_shop, campsite",21310
-86,2064,indoor,"campsite, clean_room, auto_factory, assembly_line, repair_shop",21310
-87,2088,indoor,"auto_factory, campsite, assembly_line, clean_room, repair_shop",21310
-88,2112,indoor,"clean_room, campsite, auto_factory, assembly_line, repair_shop",21310
-89,2136,indoor,"clean_room, auto_factory, assembly_line, campsite, slum",21310
-90,2160,outdoor,"campsite, clean_room, bazaar/outdoor, market/outdoor, assembly_line",21310
-91,2184,indoor,"campsite, clean_room, auto_factory, engine_room, assembly_line",21310
-92,2208,outdoor,"elevator/door, sky, barndoor, closet, wheat_field",21310
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,21310,0,1,0
+1,21310,24,0,1
+2,21310,48,0,1
+3,21310,72,0,1
+4,21310,96,0,1
+5,21310,120,0,1
+6,21310,144,0,1
+7,21310,168,0,1
+8,21310,192,0,1
+9,21310,216,0,1
+10,21310,240,1,0
+11,21310,264,1,0
+12,21310,288,1,0
+13,21310,312,1,0
+14,21310,336,1,0
+15,21310,360,1,0
+16,21310,384,1,0
+17,21310,408,1,0
+18,21310,432,1,0
+19,21310,456,0,1
+20,21310,480,0,1
+21,21310,504,1,0
+22,21310,528,0,1
+23,21310,552,0,1
+24,21310,576,0,1
+25,21310,600,0,1
+26,21310,624,0,1
+27,21310,648,0,1
+28,21310,672,1,0
+29,21310,696,0,1
+30,21310,720,1,0
+31,21310,744,1,0
+32,21310,768,1,0
+33,21310,792,1,0
+34,21310,816,1,0
+35,21310,840,1,0
+36,21310,864,1,0
+37,21310,888,1,0
+38,21310,912,1,0
+39,21310,936,1,0
+40,21310,960,1,0
+41,21310,984,1,0
+42,21310,1008,1,0
+43,21310,1032,0,1
+44,21310,1056,0,1
+45,21310,1080,0,1
+46,21310,1104,0,1
+47,21310,1128,0,1
+48,21310,1152,0,1
+49,21310,1176,0,1
+50,21310,1200,0,1
+51,21310,1224,0,1
+52,21310,1248,0,1
+53,21310,1272,0,1
+54,21310,1296,0,1
+55,21310,1320,0,1
+56,21310,1344,0,1
+57,21310,1368,0,1
+58,21310,1392,0,1
+59,21310,1416,0,1
+60,21310,1440,0,1
+61,21310,1464,0,1
+62,21310,1488,0,1
+63,21310,1512,0,1
+64,21310,1536,0,1
+65,21310,1560,0,1
+66,21310,1584,0,1
+67,21310,1608,0,1
+68,21310,1632,0,1
+69,21310,1656,0,1
+70,21310,1680,1,0
+71,21310,1704,0,1
+72,21310,1728,0,1
+73,21310,1752,1,0
+74,21310,1776,0,1
+75,21310,1800,0,1
+76,21310,1824,1,0
+77,21310,1848,1,0
+78,21310,1872,0,1
+79,21310,1896,0,1
+80,21310,1920,0,1
+81,21310,1944,0,1
+82,21310,1968,0,1
+83,21310,1992,0,1
+84,21310,2016,0,1
+85,21310,2040,0,1
+86,21310,2064,0,1
+87,21310,2088,0,1
+88,21310,2112,0,1
+89,21310,2136,0,1
+90,21310,2160,1,0
+91,21310,2184,0,1
+92,21310,2208,1,0

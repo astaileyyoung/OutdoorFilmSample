@@ -1,1784 +1,1784 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"ocean, hospital, beach, ice_shelf, coast",3608
-1,24,outdoor,"ocean, ice_shelf, beach, coast, harbor",3608
-2,48,outdoor,"ocean, ice_shelf, beach, coast, hospital",3608
-3,72,outdoor,"hospital, reception, ice_shelf, ocean, pharmacy",3608
-4,96,indoor,"hospital, reception, ice_shelf, pharmacy, hospital_room",3608
-5,120,outdoor,"hospital, ice_shelf, reception, pharmacy, ocean",3608
-6,144,outdoor,"hospital, ice_shelf, reception, pharmacy, ocean",3608
-7,168,indoor,"hospital, reception, ice_shelf, pharmacy, drugstore",3608
-8,192,outdoor,"ocean, ice_shelf, beach, coast, hot_spring",3608
-9,216,outdoor,"ocean, ice_shelf, beach, coast, harbor",3608
-10,240,indoor,"hospital, reception, hospital_room, pharmacy, nursery",3608
-11,264,indoor,"hospital, reception, hospital_room, pharmacy, museum/indoor",3608
-12,288,indoor,"hospital, reception, hospital_room, museum/indoor, pharmacy",3608
-13,312,indoor,"hospital, reception, hospital_room, museum/indoor, pharmacy",3608
-14,336,indoor,"pharmacy, drugstore, hospital, museum/indoor, beauty_salon",3608
-15,360,indoor,"drugstore, pharmacy, museum/indoor, hospital, beauty_salon",3608
-16,384,indoor,"pharmacy, drugstore, museum/indoor, hospital, beauty_salon",3608
-17,408,indoor,"drugstore, pharmacy, museum/indoor, hospital, beauty_salon",3608
-18,432,indoor,"drugstore, pharmacy, museum/indoor, hospital, beauty_salon",3608
-19,456,indoor,"drugstore, pharmacy, museum/indoor, hospital, beauty_salon",3608
-20,480,indoor,"drugstore, pharmacy, ice_shelf, islet, museum/indoor",3608
-21,504,indoor,"drugstore, pharmacy, museum/indoor, ice_shelf, desert/sand",3608
-22,528,indoor,"drugstore, pharmacy, museum/indoor, ice_shelf, desert/sand",3608
-23,552,indoor,"drugstore, ice_shelf, pharmacy, museum/indoor, desert/sand",3608
-24,576,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, desert/sand",3608
-25,600,indoor,"drugstore, pharmacy, museum/indoor, ice_shelf, desert/sand",3608
-26,624,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, desert/sand",3608
-27,648,indoor,"drugstore, pharmacy, childs_room, hospital, museum/indoor",3608
-28,672,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, hospital",3608
-29,696,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, hospital",3608
-30,720,indoor,"pharmacy, drugstore, ice_shelf, museum/indoor, hospital",3608
-31,744,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, hospital",3608
-32,768,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, hospital",3608
-33,792,indoor,"pharmacy, drugstore, ice_shelf, museum/indoor, hospital",3608
-34,816,indoor,"drugstore, pharmacy, ice_shelf, museum/indoor, hospital",3608
-35,840,outdoor,"ocean, ice_shelf, beach, coast, harbor",3608
-36,864,outdoor,"ocean, beach, coast, ice_shelf, sky",3608
-37,888,indoor,"pharmacy, hospital, hospital_room, ticket_booth, drugstore",3608
-38,912,indoor,"pharmacy, hospital, hospital_room, ticket_booth, drugstore",3608
-39,936,indoor,"pharmacy, hospital, hospital_room, ticket_booth, drugstore",3608
-40,960,indoor,"stage/indoor, discotheque, field/cultivated, corn_field, museum/indoor",3608
-41,984,outdoor,"field/cultivated, discotheque, stage/indoor, wheat_field, orchard",3608
-42,1008,outdoor,"stage/indoor, field/cultivated, discotheque, corn_field, wheat_field",3608
-43,1032,outdoor,"discotheque, field/cultivated, stage/indoor, orchard, wheat_field",3608
-44,1056,outdoor,"field/cultivated, discotheque, stage/indoor, wheat_field, corn_field",3608
-45,1080,outdoor,"discotheque, field/cultivated, stage/indoor, wheat_field, orchard",3608
-46,1104,indoor,"stage/indoor, discotheque, field/cultivated, museum/indoor, wheat_field",3608
-47,1128,indoor,"discotheque, stage/indoor, arena/performance, museum/indoor, field/cultivated",3608
-48,1152,indoor,"stage/indoor, discotheque, cemetery, arena/performance, museum/indoor",3608
-49,1176,indoor,"stage/indoor, discotheque, cemetery, museum/indoor, field/cultivated",3608
-50,1200,indoor,"stage/indoor, discotheque, stage/outdoor, art_studio, museum/indoor",3608
-51,1224,outdoor,"canyon, desert/sand, butte, mountain, valley",3608
-52,1248,outdoor,"canyon, butte, mountain, desert/sand, valley",3608
-53,1272,outdoor,"canyon, butte, mountain, valley, desert/sand",3608
-54,1296,outdoor,"canyon, butte, mountain, valley, desert/sand",3608
-55,1320,outdoor,"canyon, mountain, butte, desert/sand, valley",3608
-56,1344,outdoor,"canyon, mountain, butte, desert/sand, valley",3608
-57,1368,outdoor,"canyon, butte, mountain, cliff, desert/sand",3608
-58,1392,outdoor,"orchard, tree_farm, ice_shelf, canyon, vineyard",3608
-59,1416,outdoor,"orchard, tree_farm, ice_shelf, cemetery, greenhouse/indoor",3608
-60,1440,outdoor,"canyon, orchard, tree_farm, ice_shelf, kasbah",3608
-61,1464,outdoor,"canyon, tree_farm, kasbah, orchard, cemetery",3608
-62,1488,outdoor,"orchard, tree_farm, greenhouse/indoor, vineyard, field/cultivated",3608
-63,1512,outdoor,"ice_shelf, orchard, cemetery, canyon, tree_farm",3608
-64,1536,outdoor,"orchard, canyon, ice_shelf, cemetery, tree_farm",3608
-65,1560,outdoor,"orchard, ice_shelf, cemetery, yard, tree_farm",3608
-66,1584,outdoor,"orchard, cemetery, tree_farm, ice_shelf, field/cultivated",3608
-67,1608,outdoor,"orchard, cemetery, ice_shelf, tree_farm, field/cultivated",3608
-68,1632,outdoor,"ice_shelf, orchard, canyon, cemetery, yard",3608
-69,1656,outdoor,"orchard, cemetery, tree_farm, ice_shelf, field/cultivated",3608
-70,1680,outdoor,"cemetery, orchard, kasbah, hospital, discotheque",3608
-71,1704,outdoor,"canyon, ice_shelf, volcano, orchard, discotheque",3608
-72,1728,outdoor,"ice_shelf, orchard, tree_farm, swamp, canyon",3608
-73,1752,outdoor,"ice_shelf, forest/broadleaf, tree_farm, orchard, swamp",3608
-74,1776,outdoor,"ice_shelf, swamp, forest/broadleaf, corn_field, orchard",3608
-75,1800,outdoor,"ice_shelf, orchard, tree_farm, forest/broadleaf, cemetery",3608
-76,1824,outdoor,"ice_shelf, wind_farm, tree_farm, cemetery, orchard",3608
-77,1848,outdoor,"canyon, butte, mountain, desert/sand, kasbah",3608
-78,1872,outdoor,"canyon, desert/sand, butte, mountain, valley",3608
-79,1896,outdoor,"canyon, butte, desert/sand, mountain, valley",3608
-80,1920,outdoor,"canyon, desert/sand, butte, mountain, valley",3608
-81,1944,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-82,1968,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-83,1992,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-84,2016,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-85,2040,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-86,2064,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-87,2088,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-88,2112,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-89,2136,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-90,2160,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-91,2184,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-92,2208,outdoor,"canyon, volcano, ice_shelf, discotheque, cliff",3608
-93,2232,outdoor,"canyon, volcano, ice_shelf, cliff, discotheque",3608
-94,2256,outdoor,"canyon, cliff, volcano, discotheque, basement",3608
-95,2280,outdoor,"discotheque, basement, campsite, canyon, igloo",3608
-96,2304,outdoor,"discotheque, volcano, hot_spring, stage/indoor, igloo",3608
-97,2328,outdoor,"discotheque, ice_shelf, igloo, bar, volcano",3608
-98,2352,outdoor,"discotheque, campsite, igloo, volcano, canyon",3608
-99,2376,indoor,"discotheque, campsite, stage/indoor, canyon, basement",3608
-100,2400,outdoor,"discotheque, canyon, volcano, stage/indoor, ice_shelf",3608
-101,2424,outdoor,"discotheque, volcano, stage/indoor, canyon, ice_shelf",3608
-102,2448,indoor,"discotheque, stage/indoor, basement, canyon, art_studio",3608
-103,2472,outdoor,"discotheque, stage/indoor, canyon, ice_shelf, volcano",3608
-104,2496,indoor,"discotheque, stage/indoor, volcano, canyon, bar",3608
-105,2520,indoor,"discotheque, volcano, canyon, stage/indoor, bar",3608
-106,2544,indoor,"discotheque, volcano, stage/indoor, bar, canyon",3608
-107,2568,outdoor,"discotheque, volcano, canyon, medina, stage/indoor",3608
-108,2592,outdoor,"discotheque, canyon, volcano, ice_shelf, iceberg",3608
-109,2616,outdoor,"discotheque, canyon, volcano, butte, cliff",3608
-110,2640,outdoor,"discotheque, canyon, volcano, ice_shelf, iceberg",3608
-111,2664,outdoor,"discotheque, canyon, volcano, basement, ice_shelf",3608
-112,2688,outdoor,"discotheque, canyon, medina, basement, igloo",3608
-113,2712,outdoor,"canyon, discotheque, ice_shelf, volcano, cliff",3608
-114,2736,outdoor,"canyon, ice_shelf, discotheque, cliff, iceberg",3608
-115,2760,outdoor,"discotheque, ice_shelf, volcano, canyon, iceberg",3608
-116,2784,outdoor,"discotheque, canyon, volcano, ice_shelf, iceberg",3608
-117,2808,outdoor,"discotheque, canyon, ice_shelf, volcano, iceberg",3608
-118,2832,outdoor,"discotheque, canyon, basement, ice_shelf, crevasse",3608
-119,2856,indoor,"discotheque, basement, canyon, igloo, bar",3608
-120,2880,outdoor,"ice_shelf, discotheque, volcano, canyon, iceberg",3608
-121,2904,outdoor,"canyon, ice_shelf, volcano, butte, cliff",3608
-122,2928,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, amusement_arcade, pharmacy",3608
-123,2952,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, reception",3608
-124,2976,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, reception",3608
-125,3000,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, reception",3608
-126,3024,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, shopfront",3608
-127,3048,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, shopfront",3608
-128,3072,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, reception",3608
-129,3096,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, reception",3608
-130,3120,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, shopfront",3608
-131,3144,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, shopfront",3608
-132,3168,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, shopfront",3608
-133,3192,indoor,"staircase, entrance_hall, basement, throne_room, elevator_lobby",3608
-134,3216,indoor,"staircase, entrance_hall, basement, throne_room, escalator/indoor",3608
-135,3240,indoor,"staircase, entrance_hall, basement, throne_room, lobby",3608
-136,3264,indoor,"staircase, entrance_hall, escalator/indoor, lobby, basement",3608
-137,3288,indoor,"staircase, entrance_hall, throne_room, lobby, ballroom",3608
-138,3312,indoor,"staircase, throne_room, entrance_hall, childs_room, ballroom",3608
-139,3336,indoor,"staircase, entrance_hall, throne_room, ballroom, lobby",3608
-140,3360,indoor,"staircase, entrance_hall, throne_room, lobby, escalator/indoor",3608
-141,3384,indoor,"staircase, entrance_hall, throne_room, lobby, ballroom",3608
-142,3408,indoor,"staircase, entrance_hall, throne_room, lobby, escalator/indoor",3608
-143,3432,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, lobby",3608
-144,3456,indoor,"staircase, entrance_hall, throne_room, ballroom, lobby",3608
-145,3480,indoor,"staircase, entrance_hall, basement, escalator/indoor, lobby",3608
-146,3504,indoor,"staircase, entrance_hall, throne_room, lobby, escalator/indoor",3608
-147,3528,indoor,"staircase, entrance_hall, throne_room, lobby, escalator/indoor",3608
-148,3552,indoor,"staircase, entrance_hall, throne_room, basement, lobby",3608
-149,3576,indoor,"staircase, entrance_hall, throne_room, mezzanine, lobby",3608
-150,3600,indoor,"staircase, entrance_hall, throne_room, lobby, mezzanine",3608
-151,3624,indoor,"staircase, entrance_hall, basement, throne_room, mezzanine",3608
-152,3648,indoor,"staircase, throne_room, entrance_hall, bedchamber, pagoda",3608
-153,3672,indoor,"staircase, throne_room, entrance_hall, bedchamber, stage/indoor",3608
-154,3696,indoor,"staircase, entrance_hall, throne_room, ballroom, stage/indoor",3608
-155,3720,indoor,"staircase, entrance_hall, throne_room, mezzanine, bedchamber",3608
-156,3744,indoor,"staircase, entrance_hall, throne_room, basement, lobby",3608
-157,3768,indoor,"staircase, entrance_hall, throne_room, lobby, basement",3608
-158,3792,indoor,"staircase, entrance_hall, throne_room, basement, bedchamber",3608
-159,3816,indoor,"staircase, entrance_hall, throne_room, basement, stage/indoor",3608
-160,3840,indoor,"staircase, entrance_hall, throne_room, lobby, ballroom",3608
-161,3864,indoor,"staircase, entrance_hall, throne_room, stage/indoor, ballroom",3608
-162,3888,indoor,"staircase, butchers_shop, entrance_hall, throne_room, basement",3608
-163,3912,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, basement",3608
-164,3936,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, lobby",3608
-165,3960,indoor,"staircase, entrance_hall, escalator/indoor, lobby, mezzanine",3608
-166,3984,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, lobby",3608
-167,4008,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, lobby",3608
-168,4032,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, lobby",3608
-169,4056,indoor,"butchers_shop, staircase, throne_room, entrance_hall, bedchamber",3608
-170,4080,indoor,"staircase, entrance_hall, escalator/indoor, throne_room, lobby",3608
-171,4104,indoor,"staircase, entrance_hall, escalator/indoor, lobby, throne_room",3608
-172,4128,indoor,"staircase, entrance_hall, throne_room, lobby, ballroom",3608
-173,4152,indoor,"staircase, entrance_hall, throne_room, lobby, escalator/indoor",3608
-174,4176,indoor,"staircase, entrance_hall, escalator/indoor, basement, lobby",3608
-175,4200,indoor,"staircase, entrance_hall, escalator/indoor, lobby, throne_room",3608
-176,4224,indoor,"staircase, entrance_hall, throne_room, escalator/indoor, lobby",3608
-177,4248,indoor,"staircase, entrance_hall, throne_room, lobby, escalator/indoor",3608
-178,4272,indoor,"staircase, throne_room, entrance_hall, ballroom, stage/indoor",3608
-179,4296,indoor,"staircase, entrance_hall, throne_room, basement, butchers_shop",3608
-180,4320,indoor,"staircase, entrance_hall, throne_room, basement, ballroom",3608
-181,4344,indoor,"staircase, entrance_hall, throne_room, basement, ballroom",3608
-182,4368,indoor,"staircase, entrance_hall, throne_room, medina, basement",3608
-183,4392,indoor,"staircase, entrance_hall, throne_room, ballroom, basement",3608
-184,4416,indoor,"butchers_shop, staircase, basement, discotheque, stage/indoor",3608
-185,4440,indoor,"staircase, entrance_hall, throne_room, stage/indoor, ballroom",3608
-186,4464,indoor,"staircase, entrance_hall, throne_room, ballroom, stage/indoor",3608
-187,4488,indoor,"staircase, entrance_hall, throne_room, ballroom, stage/indoor",3608
-188,4512,indoor,"staircase, throne_room, entrance_hall, ballroom, stage/indoor",3608
-189,4536,indoor,"staircase, entrance_hall, throne_room, ballroom, stage/indoor",3608
-190,4560,indoor,"staircase, childs_room, throne_room, discotheque, entrance_hall",3608
-191,4584,indoor,"butchers_shop, throne_room, discotheque, ballroom, staircase",3608
-192,4608,indoor,"staircase, throne_room, entrance_hall, stage/indoor, lobby",3608
-193,4632,indoor,"staircase, throne_room, entrance_hall, stage/indoor, escalator/indoor",3608
-194,4656,indoor,"staircase, entrance_hall, throne_room, alley, medina",3608
-195,4680,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-196,4704,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-197,4728,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-198,4752,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-199,4776,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-200,4800,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-201,4824,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-202,4848,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-203,4872,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-204,4896,outdoor,"alley, slum, medina, ice_shelf, burial_chamber",3608
-205,4920,outdoor,"slum, ice_shelf, alley, fountain, shower",3608
-206,4944,outdoor,"alley, slum, fountain, ice_shelf, shower",3608
-207,4968,outdoor,"ice_shelf, alley, burial_chamber, slum, medina",3608
-208,4992,outdoor,"slum, shower, alley, fountain, medina",3608
-209,5016,outdoor,"fountain, porch, engine_room, amusement_park, boat_deck",3608
-210,5040,outdoor,"slum, medina, bazaar/outdoor, fountain, amusement_park",3608
-211,5064,outdoor,"fountain, slum, amusement_park, shower, plaza",3608
-212,5088,outdoor,"slum, alley, ice_shelf, shower, porch",3608
-213,5112,outdoor,"slum, alley, landfill, ice_shelf, medina",3608
-214,5136,outdoor,"slum, ice_shelf, medina, boat_deck, campsite",3608
-215,5160,outdoor,"slum, medina, boat_deck, porch, ice_shelf",3608
-216,5184,outdoor,"slum, medina, shower, alley, fountain",3608
-217,5208,outdoor,"slum, fountain, ice_shelf, shower, wave",3608
-218,5232,outdoor,"slum, alley, shower, medina, stable",3608
-219,5256,outdoor,"slum, medina, alley, landfill, campsite",3608
-220,5280,outdoor,"slum, alley, shower, medina, wave",3608
-221,5304,outdoor,"fountain, shower, ice_shelf, ocean, slum",3608
-222,5328,outdoor,"slum, fountain, boat_deck, shower, porch",3608
-223,5352,outdoor,"slum, boat_deck, porch, fountain, ocean",3608
-224,5376,outdoor,"slum, fountain, medina, boat_deck, porch",3608
-225,5400,outdoor,"slum, shower, boat_deck, hospital_room, ice_shelf",3608
-226,5424,outdoor,"slum, shower, ice_shelf, fountain, wave",3608
-227,5448,outdoor,"fountain, slum, shower, wave, ocean",3608
-228,5472,outdoor,"slum, ice_shelf, fountain, shower, boat_deck",3608
-229,5496,outdoor,"shower, ice_shelf, slum, fountain, ocean",3608
-230,5520,outdoor,"fountain, shower, ice_shelf, dam, slum",3608
-231,5544,outdoor,"fountain, shower, ice_shelf, slum, boat_deck",3608
-232,5568,outdoor,"fountain, ice_shelf, shower, dam, wave",3608
-233,5592,outdoor,"slum, medina, burial_chamber, stable, alley",3608
-234,5616,outdoor,"ice_shelf, shower, igloo, medina, wave",3608
-235,5640,outdoor,"medina, ice_shelf, slum, fountain, alley",3608
-236,5664,outdoor,"fountain, amusement_park, shower, boat_deck, porch",3608
-237,5688,outdoor,"slum, fountain, shower, wave, ocean",3608
-238,5712,outdoor,"slum, stable, alley, porch, medina",3608
-239,5736,outdoor,"porch, slum, shower, ice_shelf, fountain",3608
-240,5760,outdoor,"slum, stable, landfill, porch, medina",3608
-241,5784,outdoor,"slum, ice_shelf, shower, stable, fountain",3608
-242,5808,outdoor,"slum, porch, fountain, landfill, ice_shelf",3608
-243,5832,outdoor,"slum, campsite, porch, pavilion, ice_shelf",3608
-244,5856,outdoor,"slum, ice_shelf, boat_deck, campsite, shower",3608
-245,5880,outdoor,"porch, slum, fountain, shower, alley",3608
-246,5904,outdoor,"slum, porch, stable, medina, alley",3608
-247,5928,outdoor,"ice_shelf, slum, medina, stable, campsite",3608
-248,5952,outdoor,"slum, ice_shelf, medina, campsite, stable",3608
-249,5976,outdoor,"shower, ice_shelf, engine_room, slum, boat_deck",3608
-250,6000,outdoor,"medina, slum, ice_shelf, clean_room, alley",3608
-251,6024,outdoor,"ice_shelf, medina, slum, iceberg, shower",3608
-252,6048,outdoor,"slum, ice_shelf, campsite, porch, medina",3608
-253,6072,outdoor,"slum, medina, alley, campsite, bazaar/outdoor",3608
-254,6096,indoor,"ticket_booth, fastfood_restaurant, pharmacy, diner/outdoor, drugstore",3608
-255,6120,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, diner/outdoor",3608
-256,6144,indoor,"ticket_booth, fastfood_restaurant, pharmacy, diner/outdoor, booth/indoor",3608
-257,6168,indoor,"ticket_booth, fastfood_restaurant, pharmacy, diner/outdoor, drugstore",3608
-258,6192,indoor,"ticket_booth, fastfood_restaurant, pharmacy, diner/outdoor, drugstore",3608
-259,6216,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-260,6240,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-261,6264,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-262,6288,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-263,6312,indoor,"ticket_booth, fastfood_restaurant, pharmacy, diner/outdoor, booth/indoor",3608
-264,6336,outdoor,"boat_deck, ice_shelf, slum, arena/rodeo, ocean",3608
-265,6360,outdoor,"ocean, boat_deck, museum/indoor, ice_shelf, volleyball_court/outdoor",3608
-266,6384,indoor,"museum/indoor, ballroom, dressing_room, bow_window/indoor, schoolhouse",3608
-267,6408,indoor,"museum/indoor, discotheque, dressing_room, martial_arts_gym, ballroom",3608
-268,6432,indoor,"ice_shelf, discotheque, museum/indoor, ice_floe, ballroom",3608
-269,6456,outdoor,"racecourse, schoolhouse, museum/indoor, arena/rodeo, volleyball_court/outdoor",3608
-270,6480,outdoor,"museum/indoor, ice_shelf, archive, racecourse, ice_floe",3608
-271,6504,indoor,"museum/indoor, shower, discotheque, ice_shelf, aquarium",3608
-272,6528,indoor,"museum/indoor, discotheque, beauty_salon, shower, dressing_room",3608
-273,6552,indoor,"museum/indoor, dressing_room, beauty_salon, discotheque, clean_room",3608
-274,6576,indoor,"museum/indoor, ice_shelf, archive, dressing_room, discotheque",3608
-275,6600,indoor,"museum/indoor, discotheque, shower, stage/indoor, nursery",3608
-276,6624,outdoor,"museum/indoor, shower, ice_shelf, ice_floe, ocean",3608
-277,6648,indoor,"museum/indoor, ice_shelf, archive, shower, ice_floe",3608
-278,6672,indoor,"museum/indoor, dressing_room, archive, shower, discotheque",3608
-279,6696,indoor,"museum/indoor, dressing_room, shower, ice_shelf, ice_floe",3608
-280,6720,indoor,"museum/indoor, dressing_room, shower, nursery, discotheque",3608
-281,6744,outdoor,"museum/indoor, ocean, ice_floe, shower, ice_shelf",3608
-282,6768,indoor,"museum/indoor, dressing_room, beauty_salon, shower, archive",3608
-283,6792,indoor,"museum/indoor, shower, dressing_room, beauty_salon, mosque/outdoor",3608
-284,6816,outdoor,"museum/indoor, ice_shelf, ice_floe, ocean, shower",3608
-285,6840,indoor,"museum/indoor, shower, archive, ocean, dressing_room",3608
-286,6864,indoor,"museum/indoor, shower, archive, beauty_salon, ocean",3608
-287,6888,indoor,"museum/indoor, shower, dressing_room, ice_shelf, ice_floe",3608
-288,6912,outdoor,"museum/indoor, ice_shelf, ice_floe, mosque/outdoor, shower",3608
-289,6936,indoor,"museum/indoor, dressing_room, beauty_salon, shower, mosque/outdoor",3608
-290,6960,indoor,"museum/indoor, mosque/outdoor, shower, archive, clean_room",3608
-291,6984,indoor,"museum/indoor, shower, beauty_salon, mosque/outdoor, dressing_room",3608
-292,7008,indoor,"museum/indoor, shower, mosque/outdoor, beauty_salon, dressing_room",3608
-293,7032,outdoor,"museum/indoor, mosque/outdoor, shower, ocean, fountain",3608
-294,7056,outdoor,"museum/indoor, ocean, discotheque, ice_shelf, ice_floe",3608
-295,7080,indoor,"museum/indoor, dressing_room, discotheque, shower, clean_room",3608
-296,7104,indoor,"museum/indoor, dressing_room, discotheque, beauty_salon, ballroom",3608
-297,7128,indoor,"museum/indoor, dressing_room, ballroom, nursery, discotheque",3608
-298,7152,outdoor,"museum/indoor, discotheque, ice_floe, ice_shelf, igloo",3608
-299,7176,indoor,"dressing_room, discotheque, bar, museum/indoor, beauty_salon",3608
-300,7200,indoor,"museum/indoor, schoolhouse, stage/indoor, discotheque, ice_shelf",3608
-301,7224,indoor,"museum/indoor, discotheque, ice_shelf, stage/indoor, dressing_room",3608
-302,7248,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-303,7272,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-304,7296,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-305,7320,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-306,7344,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-307,7368,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-308,7392,indoor,"ticket_booth, reception, fastfood_restaurant, booth/indoor, amusement_arcade",3608
-309,7416,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, ice_shelf",3608
-310,7440,indoor,"clean_room, museum/indoor, stage/indoor, archive, ice_shelf",3608
-311,7464,indoor,"shower, chemistry_lab, bathroom, beauty_salon, clean_room",3608
-312,7488,indoor,"archive, nursery, physics_laboratory, classroom, music_studio",3608
-313,7512,indoor,"archive, museum/indoor, classroom, kindergarden_classroom, nursery",3608
-314,7536,indoor,"nursery, music_studio, barndoor, archive, bookstore",3608
-315,7560,indoor,"basement, staircase, engine_room, assembly_line, clean_room",3608
-316,7584,indoor,"staircase, basement, entrance_hall, escalator/indoor, alley",3608
-317,7608,indoor,"staircase, entrance_hall, basement, alley, escalator/indoor",3608
-318,7632,indoor,"staircase, entrance_hall, alley, basement, medina",3608
-319,7656,indoor,"staircase, entrance_hall, alley, medina, basement",3608
-320,7680,indoor,"staircase, basement, entrance_hall, alley, medina",3608
-321,7704,indoor,"staircase, basement, entrance_hall, escalator/indoor, fire_escape",3608
-322,7728,indoor,"staircase, entrance_hall, museum/indoor, basement, escalator/indoor",3608
-323,7752,indoor,"staircase, escalator/indoor, entrance_hall, museum/indoor, fire_escape",3608
-324,7776,indoor,"staircase, entrance_hall, basement, museum/indoor, escalator/indoor",3608
-325,7800,indoor,"staircase, entrance_hall, museum/indoor, escalator/indoor, basement",3608
-326,7824,indoor,"staircase, entrance_hall, basement, escalator/indoor, alley",3608
-327,7848,indoor,"staircase, entrance_hall, basement, escalator/indoor, museum/indoor",3608
-328,7872,indoor,"staircase, entrance_hall, escalator/indoor, fire_escape, basement",3608
-329,7896,indoor,"staircase, entrance_hall, basement, escalator/indoor, museum/indoor",3608
-330,7920,indoor,"staircase, entrance_hall, basement, escalator/indoor, museum/indoor",3608
-331,7944,indoor,"staircase, basement, entrance_hall, fire_escape, porch",3608
-332,7968,indoor,"staircase, basement, escalator/indoor, entrance_hall, alley",3608
-333,7992,indoor,"staircase, basement, entrance_hall, fire_escape, alley",3608
-334,8016,indoor,"staircase, entrance_hall, basement, escalator/indoor, lobby",3608
-335,8040,indoor,"staircase, escalator/indoor, basement, entrance_hall, archive",3608
-336,8064,indoor,"staircase, basement, entrance_hall, fire_escape, escalator/indoor",3608
-337,8088,indoor,"staircase, entrance_hall, basement, escalator/indoor, fire_escape",3608
-338,8112,indoor,"staircase, basement, escalator/indoor, entrance_hall, lobby",3608
-339,8136,indoor,"staircase, basement, escalator/indoor, fire_escape, entrance_hall",3608
-340,8160,indoor,"staircase, basement, escalator/indoor, elevator_shaft, entrance_hall",3608
-341,8184,indoor,"staircase, alley, basement, elevator_shaft, fire_escape",3608
-342,8208,indoor,"staircase, basement, atrium/public, lobby, alley",3608
-343,8232,indoor,"staircase, escalator/indoor, alley, basement, atrium/public",3608
-344,8256,indoor,"staircase, basement, escalator/indoor, atrium/public, discotheque",3608
-345,8280,indoor,"atrium/public, staircase, lobby, greenhouse/indoor, basement",3608
-346,8304,indoor,"staircase, atrium/public, greenhouse/indoor, shopping_mall/indoor, lobby",3608
-347,8328,indoor,"staircase, escalator/indoor, entrance_hall, mezzanine, fire_escape",3608
-348,8352,indoor,"staircase, escalator/indoor, entrance_hall, lobby, mezzanine",3608
-349,8376,indoor,"staircase, mezzanine, entrance_hall, fire_escape, escalator/indoor",3608
-350,8400,indoor,"staircase, escalator/indoor, mezzanine, entrance_hall, atrium/public",3608
-351,8424,indoor,"staircase, basement, entrance_hall, escalator/indoor, alley",3608
-352,8448,indoor,"staircase, basement, entrance_hall, escalator/indoor, alley",3608
-353,8472,indoor,"staircase, entrance_hall, medina, corridor, basement",3608
-354,8496,indoor,"staircase, entrance_hall, escalator/indoor, basement, lobby",3608
-355,8520,indoor,"staircase, escalator/indoor, entrance_hall, fire_escape, basement",3608
-356,8544,indoor,"staircase, entrance_hall, escalator/indoor, basement, mezzanine",3608
-357,8568,indoor,"staircase, entrance_hall, basement, escalator/indoor, fire_escape",3608
-358,8592,indoor,"staircase, entrance_hall, basement, corridor, fire_escape",3608
-359,8616,indoor,"staircase, entrance_hall, museum/indoor, fire_escape, mezzanine",3608
-360,8640,indoor,"staircase, entrance_hall, mezzanine, fire_escape, escalator/indoor",3608
-361,8664,indoor,"staircase, entrance_hall, lobby, elevator_lobby, atrium/public",3608
-362,8688,indoor,"entrance_hall, staircase, mezzanine, basement, escalator/indoor",3608
-363,8712,indoor,"booth/indoor, pharmacy, ticket_booth, fastfood_restaurant, ice_cream_parlor",3608
-364,8736,indoor,"booth/indoor, pharmacy, ticket_booth, fastfood_restaurant, ice_cream_parlor",3608
-365,8760,indoor,"booth/indoor, ticket_booth, pharmacy, fastfood_restaurant, ice_cream_parlor",3608
-366,8784,indoor,"booth/indoor, pharmacy, ticket_booth, fastfood_restaurant, ice_cream_parlor",3608
-367,8808,indoor,"booth/indoor, pharmacy, ticket_booth, fastfood_restaurant, ice_cream_parlor",3608
-368,8832,indoor,"booth/indoor, ticket_booth, pharmacy, drugstore, hospital",3608
-369,8856,indoor,"booth/indoor, ticket_booth, pharmacy, hospital, drugstore",3608
-370,8880,indoor,"booth/indoor, ticket_booth, pharmacy, hospital, ice_cream_parlor",3608
-371,8904,indoor,"booth/indoor, pharmacy, ticket_booth, hospital, ice_cream_parlor",3608
-372,8928,indoor,"booth/indoor, pharmacy, ticket_booth, hospital, ice_cream_parlor",3608
-373,8952,indoor,"booth/indoor, pharmacy, ticket_booth, hospital, fastfood_restaurant",3608
-374,8976,indoor,"booth/indoor, pharmacy, ticket_booth, fastfood_restaurant, ice_cream_parlor",3608
-375,9000,indoor,"booth/indoor, ticket_booth, pharmacy, fastfood_restaurant, ice_cream_parlor",3608
-376,9024,indoor,"locker_room, clean_room, bathroom, jail_cell, shower",3608
-377,9048,indoor,"classroom, jail_cell, lecture_room, locker_room, kindergarden_classroom",3608
-378,9072,indoor,"classroom, lecture_room, martial_arts_gym, clean_room, locker_room",3608
-379,9096,indoor,"music_studio, museum/indoor, television_studio, discotheque, stage/indoor",3608
-380,9120,indoor,"classroom, martial_arts_gym, locker_room, lecture_room, museum/indoor",3608
-381,9144,indoor,"martial_arts_gym, locker_room, gymnasium/indoor, classroom, kindergarden_classroom",3608
-382,9168,indoor,"classroom, martial_arts_gym, kindergarden_classroom, lecture_room, stage/indoor",3608
-383,9192,indoor,"martial_arts_gym, museum/indoor, classroom, locker_room, gymnasium/indoor",3608
-384,9216,indoor,"classroom, lecture_room, martial_arts_gym, locker_room, conference_center",3608
-385,9240,indoor,"classroom, lecture_room, conference_center, stage/indoor, ballroom",3608
-386,9264,indoor,"classroom, lecture_room, locker_room, ballroom, discotheque",3608
-387,9288,indoor,"classroom, locker_room, lecture_room, clean_room, museum/indoor",3608
-388,9312,indoor,"locker_room, martial_arts_gym, classroom, museum/indoor, dressing_room",3608
-389,9336,indoor,"museum/indoor, locker_room, classroom, clean_room, gymnasium/indoor",3608
-390,9360,indoor,"classroom, clean_room, locker_room, dressing_room, lecture_room",3608
-391,9384,indoor,"locker_room, classroom, clean_room, dressing_room, martial_arts_gym",3608
-392,9408,indoor,"classroom, museum/indoor, lecture_room, locker_room, kindergarden_classroom",3608
-393,9432,indoor,"classroom, lecture_room, locker_room, martial_arts_gym, museum/indoor",3608
-394,9456,indoor,"classroom, lecture_room, kindergarden_classroom, locker_room, museum/indoor",3608
-395,9480,indoor,"classroom, kindergarden_classroom, locker_room, gymnasium/indoor, martial_arts_gym",3608
-396,9504,indoor,"classroom, locker_room, lecture_room, clean_room, martial_arts_gym",3608
-397,9528,indoor,"classroom, clean_room, lecture_room, archive, chemistry_lab",3608
-398,9552,indoor,"classroom, clean_room, lecture_room, nursery, hospital_room",3608
-399,9576,indoor,"clean_room, classroom, lecture_room, operating_room, hospital_room",3608
-400,9600,indoor,"classroom, clean_room, lecture_room, hospital_room, chemistry_lab",3608
-401,9624,indoor,"classroom, clean_room, lecture_room, museum/indoor, chemistry_lab",3608
-402,9648,indoor,"classroom, lecture_room, kindergarden_classroom, clean_room, martial_arts_gym",3608
-403,9672,indoor,"classroom, clean_room, lecture_room, martial_arts_gym, kindergarden_classroom",3608
-404,9696,indoor,"classroom, lecture_room, kindergarden_classroom, martial_arts_gym, clean_room",3608
-405,9720,indoor,"classroom, lecture_room, kindergarden_classroom, clean_room, martial_arts_gym",3608
-406,9744,indoor,"classroom, lecture_room, clean_room, kindergarden_classroom, chemistry_lab",3608
-407,9768,indoor,"classroom, lecture_room, clean_room, kindergarden_classroom, martial_arts_gym",3608
-408,9792,indoor,"classroom, lecture_room, clean_room, archive, locker_room",3608
-409,9816,indoor,"classroom, lecture_room, clean_room, nursery, chemistry_lab",3608
-410,9840,indoor,"classroom, lecture_room, clean_room, nursery, hospital_room",3608
-411,9864,indoor,"classroom, clean_room, lecture_room, nursery, archive",3608
-412,9888,indoor,"classroom, lecture_room, martial_arts_gym, nursery, clean_room",3608
-413,9912,indoor,"classroom, locker_room, kindergarden_classroom, clean_room, lecture_room",3608
-414,9936,indoor,"classroom, clean_room, locker_room, jail_cell, operating_room",3608
-415,9960,indoor,"classroom, clean_room, artists_loft, locker_room, art_studio",3608
-416,9984,indoor,"classroom, locker_room, lecture_room, art_studio, clean_room",3608
-417,10008,indoor,"classroom, locker_room, museum/indoor, artists_loft, jail_cell",3608
-418,10032,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-419,10056,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-420,10080,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-421,10104,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-422,10128,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-423,10152,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-424,10176,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-425,10200,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-426,10224,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-427,10248,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-428,10272,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-429,10296,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-430,10320,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-431,10344,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-432,10368,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-433,10392,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, kindergarden_classroom, shopfront",3608
-434,10416,indoor,"jewelry_shop, aquarium, science_museum, beauty_salon, swimming_pool/indoor",3608
-435,10440,indoor,"jewelry_shop, aquarium, clothing_store, discotheque, museum/indoor",3608
-436,10464,indoor,"jewelry_shop, museum/indoor, gift_shop, aquarium, clothing_store",3608
-437,10488,indoor,"jewelry_shop, aquarium, discotheque, museum/indoor, science_museum",3608
-438,10512,indoor,"jewelry_shop, museum/indoor, aquarium, science_museum, natural_history_museum",3608
-439,10536,indoor,"jewelry_shop, museum/indoor, natural_history_museum, science_museum, clothing_store",3608
-440,10560,indoor,"museum/indoor, jewelry_shop, clothing_store, nursery, science_museum",3608
-441,10584,indoor,"jewelry_shop, museum/indoor, aquarium, gift_shop, nursery",3608
-442,10608,indoor,"jewelry_shop, museum/indoor, clothing_store, science_museum, gift_shop",3608
-443,10632,indoor,"museum/indoor, jewelry_shop, clothing_store, clean_room, science_museum",3608
-444,10656,indoor,"jewelry_shop, museum/indoor, clothing_store, clean_room, science_museum",3608
-445,10680,indoor,"jewelry_shop, beauty_salon, museum/indoor, clothing_store, science_museum",3608
-446,10704,indoor,"jewelry_shop, beauty_salon, museum/indoor, discotheque, gift_shop",3608
-447,10728,indoor,"jewelry_shop, museum/indoor, beauty_salon, gift_shop, aquarium",3608
-448,10752,indoor,"jewelry_shop, beauty_salon, museum/indoor, gift_shop, flea_market/indoor",3608
-449,10776,indoor,"jewelry_shop, museum/indoor, beauty_salon, gift_shop, clothing_store",3608
-450,10800,indoor,"jewelry_shop, museum/indoor, clothing_store, beauty_salon, gift_shop",3608
-451,10824,indoor,"jewelry_shop, museum/indoor, flea_market/indoor, gift_shop, clothing_store",3608
-452,10848,indoor,"jewelry_shop, museum/indoor, clothing_store, gift_shop, beauty_salon",3608
-453,10872,indoor,"jewelry_shop, museum/indoor, gift_shop, clothing_store, beauty_salon",3608
-454,10896,indoor,"jewelry_shop, clean_room, museum/indoor, beauty_salon, chemistry_lab",3608
-455,10920,indoor,"jewelry_shop, clean_room, museum/indoor, beauty_salon, gift_shop",3608
-456,10944,indoor,"jewelry_shop, clean_room, museum/indoor, beauty_salon, gift_shop",3608
-457,10968,indoor,"jewelry_shop, museum/indoor, gift_shop, beauty_salon, clean_room",3608
-458,10992,indoor,"jewelry_shop, museum/indoor, clean_room, gift_shop, beauty_salon",3608
-459,11016,indoor,"jewelry_shop, museum/indoor, clean_room, beauty_salon, gift_shop",3608
-460,11040,indoor,"jewelry_shop, museum/indoor, beauty_salon, gift_shop, clean_room",3608
-461,11064,indoor,"jewelry_shop, beauty_salon, museum/indoor, gift_shop, discotheque",3608
-462,11088,indoor,"jewelry_shop, museum/indoor, beauty_salon, clothing_store, gift_shop",3608
-463,11112,indoor,"jewelry_shop, museum/indoor, beauty_salon, clothing_store, clean_room",3608
-464,11136,indoor,"jewelry_shop, museum/indoor, clean_room, beauty_salon, ballroom",3608
-465,11160,indoor,"jewelry_shop, museum/indoor, clothing_store, gift_shop, clean_room",3608
-466,11184,indoor,"jewelry_shop, museum/indoor, clean_room, clothing_store, beauty_salon",3608
-467,11208,indoor,"jewelry_shop, museum/indoor, gift_shop, shoe_shop, clean_room",3608
-468,11232,indoor,"jewelry_shop, museum/indoor, clean_room, gift_shop, clothing_store",3608
-469,11256,indoor,"museum/indoor, jewelry_shop, clean_room, gift_shop, science_museum",3608
-470,11280,indoor,"jewelry_shop, museum/indoor, clean_room, beauty_salon, science_museum",3608
-471,11304,indoor,"jewelry_shop, museum/indoor, beauty_salon, discotheque, gift_shop",3608
-472,11328,indoor,"jewelry_shop, museum/indoor, beauty_salon, swimming_pool/indoor, ballroom",3608
-473,11352,indoor,"jewelry_shop, museum/indoor, swimming_pool/indoor, beauty_salon, clothing_store",3608
-474,11376,indoor,"museum/indoor, clothing_store, discotheque, jewelry_shop, ballroom",3608
-475,11400,indoor,"jewelry_shop, beauty_salon, museum/indoor, swimming_pool/indoor, ballroom",3608
-476,11424,indoor,"jewelry_shop, beauty_salon, museum/indoor, discotheque, aquarium",3608
-477,11448,indoor,"jewelry_shop, museum/indoor, beauty_salon, gift_shop, swimming_pool/indoor",3608
-478,11472,indoor,"museum/indoor, jewelry_shop, clothing_store, clean_room, stage/indoor",3608
-479,11496,indoor,"museum/indoor, jewelry_shop, clean_room, ballroom, science_museum",3608
-480,11520,indoor,"jewelry_shop, museum/indoor, clothing_store, beauty_salon, stage/indoor",3608
-481,11544,indoor,"jewelry_shop, museum/indoor, clothing_store, lobby, swimming_pool/indoor",3608
-482,11568,indoor,"jewelry_shop, museum/indoor, beauty_salon, clothing_store, gift_shop",3608
-483,11592,indoor,"jewelry_shop, beauty_salon, clothing_store, museum/indoor, ballroom",3608
-484,11616,indoor,"jewelry_shop, museum/indoor, clothing_store, beauty_salon, clean_room",3608
-485,11640,indoor,"museum/indoor, jewelry_shop, clothing_store, beauty_salon, ballroom",3608
-486,11664,indoor,"jewelry_shop, museum/indoor, clothing_store, beauty_salon, science_museum",3608
-487,11688,indoor,"museum/indoor, jewelry_shop, clothing_store, clean_room, science_museum",3608
-488,11712,indoor,"museum/indoor, jewelry_shop, clothing_store, childs_room, nursery",3608
-489,11736,indoor,"jewelry_shop, museum/indoor, ballroom, beauty_salon, clothing_store",3608
-490,11760,indoor,"jewelry_shop, beauty_salon, museum/indoor, clothing_store, discotheque",3608
-491,11784,indoor,"museum/indoor, jewelry_shop, clothing_store, science_museum, beauty_salon",3608
-492,11808,indoor,"beauty_salon, jewelry_shop, swimming_pool/indoor, discotheque, chemistry_lab",3608
-493,11832,indoor,"swimming_pool/indoor, staircase, beauty_salon, escalator/indoor, discotheque",3608
-494,11856,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-495,11880,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-496,11904,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-497,11928,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-498,11952,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-499,11976,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-500,12000,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-501,12024,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, reception",3608
-502,12048,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-503,12072,indoor,"museum/indoor, bow_window/indoor, aquarium, jewelry_shop, natural_history_museum",3608
-504,12096,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, aquarium, natural_history_museum",3608
-505,12120,indoor,"museum/indoor, bow_window/indoor, aquarium, natural_history_museum, jewelry_shop",3608
-506,12144,indoor,"museum/indoor, bow_window/indoor, jewelry_shop, natural_history_museum, gift_shop",3608
-507,12168,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, aquarium, natural_history_museum",3608
-508,12192,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, science_museum",3608
-509,12216,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, aquarium, jewelry_shop",3608
-510,12240,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, aquarium, natural_history_museum",3608
-511,12264,indoor,"museum/indoor, bow_window/indoor, aquarium, natural_history_museum, greenhouse/outdoor",3608
-512,12288,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, natural_history_museum, shower",3608
-513,12312,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, natural_history_museum, aquarium",3608
-514,12336,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, aquarium, science_museum",3608
-515,12360,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, greenhouse/outdoor, aquarium",3608
-516,12384,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, aquarium, jewelry_shop",3608
-517,12408,indoor,"museum/indoor, bow_window/indoor, greenhouse/outdoor, natural_history_museum, aquarium",3608
-518,12432,indoor,"museum/indoor, natural_history_museum, bow_window/indoor, science_museum, aquarium",3608
-519,12456,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, science_museum, aquarium",3608
-520,12480,indoor,"museum/indoor, bow_window/indoor, greenhouse/outdoor, natural_history_museum, science_museum",3608
-521,12504,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, natural_history_museum, gift_shop",3608
-522,12528,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, jewelry_shop, science_museum",3608
-523,12552,indoor,"bow_window/indoor, museum/indoor, jewelry_shop, natural_history_museum, gift_shop",3608
-524,12576,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, jewelry_shop, gift_shop",3608
-525,12600,indoor,"museum/indoor, jewelry_shop, natural_history_museum, bow_window/indoor, gift_shop",3608
-526,12624,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, gift_shop",3608
-527,12648,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, gift_shop",3608
-528,12672,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, science_museum",3608
-529,12696,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, gift_shop",3608
-530,12720,indoor,"museum/indoor, natural_history_museum, jewelry_shop, science_museum, gift_shop",3608
-531,12744,indoor,"museum/indoor, natural_history_museum, bow_window/indoor, jewelry_shop, science_museum",3608
-532,12768,indoor,"museum/indoor, jewelry_shop, bow_window/indoor, natural_history_museum, gift_shop",3608
-533,12792,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, greenhouse/outdoor, greenhouse/indoor",3608
-534,12816,indoor,"museum/indoor, natural_history_museum, jewelry_shop, bow_window/indoor, gift_shop",3608
-535,12840,indoor,"jewelry_shop, museum/indoor, bow_window/indoor, gift_shop, clean_room",3608
-536,12864,indoor,"jewelry_shop, museum/indoor, bow_window/indoor, gift_shop, natural_history_museum",3608
-537,12888,indoor,"museum/indoor, jewelry_shop, bow_window/indoor, gift_shop, natural_history_museum",3608
-538,12912,indoor,"museum/indoor, bow_window/indoor, jewelry_shop, natural_history_museum, gift_shop",3608
-539,12936,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, science_museum, gift_shop",3608
-540,12960,indoor,"bow_window/indoor, museum/indoor, natural_history_museum, jewelry_shop, gift_shop",3608
-541,12984,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, science_museum",3608
-542,13008,indoor,"beauty_salon, jewelry_shop, department_store, gift_shop, museum/indoor",3608
-543,13032,indoor,"jewelry_shop, beauty_salon, museum/indoor, shoe_shop, clothing_store",3608
-544,13056,indoor,"jewelry_shop, museum/indoor, underwater/ocean_deep, beauty_salon, aquarium",3608
-545,13080,indoor,"underwater/ocean_deep, aquarium, jewelry_shop, beauty_salon, shoe_shop",3608
-546,13104,indoor,"jewelry_shop, beauty_salon, underwater/ocean_deep, gift_shop, chemistry_lab",3608
-547,13128,indoor,"jewelry_shop, beauty_salon, gift_shop, candy_store, chemistry_lab",3608
-548,13152,indoor,"museum/indoor, beauty_salon, jewelry_shop, gift_shop, aquarium",3608
-549,13176,indoor,"jewelry_shop, beauty_salon, museum/indoor, gift_shop, science_museum",3608
-550,13200,indoor,"museum/indoor, beauty_salon, science_museum, ballroom, natural_history_museum",3608
-551,13224,indoor,"museum/indoor, science_museum, natural_history_museum, bow_window/indoor, jewelry_shop",3608
-552,13248,indoor,"museum/indoor, natural_history_museum, clean_room, science_museum, engine_room",3608
-553,13272,indoor,"jewelry_shop, museum/indoor, clean_room, gift_shop, engine_room",3608
-554,13296,indoor,"museum/indoor, clean_room, jewelry_shop, science_museum, natural_history_museum",3608
-555,13320,indoor,"clean_room, museum/indoor, engine_room, aquarium, jewelry_shop",3608
-556,13344,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, science_museum",3608
-557,13368,indoor,"jewelry_shop, museum/indoor, clean_room, gift_shop, science_museum",3608
-558,13392,indoor,"museum/indoor, natural_history_museum, jewelry_shop, clean_room, science_museum",3608
-559,13416,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, jewelry_shop",3608
-560,13440,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, science_museum, jewelry_shop",3608
-561,13464,indoor,"museum/indoor, bow_window/indoor, natural_history_museum, jewelry_shop, science_museum",3608
-562,13488,indoor,"museum/indoor, natural_history_museum, science_museum, jewelry_shop, bow_window/indoor",3608
-563,13512,indoor,"museum/indoor, natural_history_museum, bow_window/indoor, jewelry_shop, science_museum",3608
-564,13536,indoor,"museum/indoor, jewelry_shop, bow_window/indoor, natural_history_museum, gift_shop",3608
-565,13560,indoor,"jewelry_shop, museum/indoor, clean_room, hardware_store, gift_shop",3608
-566,13584,indoor,"jewelry_shop, museum/indoor, clean_room, toyshop, gift_shop",3608
-567,13608,indoor,"jewelry_shop, museum/indoor, gift_shop, clean_room, science_museum",3608
-568,13632,indoor,"jewelry_shop, clean_room, museum/indoor, chemistry_lab, science_museum",3608
-569,13656,indoor,"jewelry_shop, museum/indoor, clean_room, science_museum, aquarium",3608
-570,13680,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, jewelry_shop",3608
-571,13704,indoor,"clean_room, museum/indoor, jewelry_shop, science_museum, natural_history_museum",3608
-572,13728,indoor,"clean_room, museum/indoor, jewelry_shop, science_museum, natural_history_museum",3608
-573,13752,indoor,"clean_room, museum/indoor, jewelry_shop, toyshop, science_museum",3608
-574,13776,indoor,"museum/indoor, clean_room, jewelry_shop, aquarium, toyshop",3608
-575,13800,indoor,"clean_room, museum/indoor, natural_history_museum, engine_room, science_museum",3608
-576,13824,indoor,"clean_room, aquarium, museum/indoor, natural_history_museum, jewelry_shop",3608
-577,13848,indoor,"aquarium, clean_room, museum/indoor, natural_history_museum, underwater/ocean_deep",3608
-578,13872,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, aquarium",3608
-579,13896,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, aquarium",3608
-580,13920,indoor,"clean_room, museum/indoor, aquarium, science_museum, natural_history_museum",3608
-581,13944,indoor,"clean_room, engine_room, science_museum, museum/indoor, natural_history_museum",3608
-582,13968,indoor,"clean_room, engine_room, aquarium, underwater/ocean_deep, operating_room",3608
-583,13992,indoor,"museum/indoor, clean_room, natural_history_museum, jewelry_shop, engine_room",3608
-584,14016,indoor,"museum/indoor, natural_history_museum, science_museum, aquarium, clean_room",3608
-585,14040,indoor,"bow_window/indoor, museum/indoor, chemistry_lab, shower, science_museum",3608
-586,14064,indoor,"museum/indoor, bow_window/indoor, science_museum, shower, aquarium",3608
-587,14088,indoor,"museum/indoor, natural_history_museum, bow_window/indoor, science_museum, aquarium",3608
-588,14112,indoor,"aquarium, museum/indoor, underwater/ocean_deep, science_museum, natural_history_museum",3608
-589,14136,indoor,"clean_room, aquarium, chemistry_lab, engine_room, museum/indoor",3608
-590,14160,indoor,"museum/indoor, science_museum, natural_history_museum, aquarium, bow_window/indoor",3608
-591,14184,indoor,"bow_window/indoor, museum/indoor, aquarium, natural_history_museum, science_museum",3608
-592,14208,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, pharmacy",3608
-593,14232,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, pharmacy",3608
-594,14256,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-595,14280,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, pharmacy",3608
-596,14304,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, pharmacy",3608
-597,14328,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, pharmacy",3608
-598,14352,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, pharmacy",3608
-599,14376,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, pharmacy",3608
-600,14400,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, kindergarden_classroom, pharmacy",3608
-601,14424,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, pharmacy",3608
-602,14448,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, pharmacy",3608
-603,14472,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-604,14496,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, kindergarden_classroom, ice_cream_parlor",3608
-605,14520,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, kindergarden_classroom, pharmacy",3608
-606,14544,indoor,"fastfood_restaurant, booth/indoor, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-607,14568,indoor,"booth/indoor, kindergarden_classroom, ticket_booth, fastfood_restaurant, ice_cream_parlor",3608
-608,14592,indoor,"swimming_pool/indoor, jacuzzi/indoor, bathroom, shower, clean_room",3608
-609,14616,indoor,"jacuzzi/indoor, swimming_pool/indoor, bathroom, shower, recreation_room",3608
-610,14640,indoor,"jacuzzi/indoor, swimming_pool/indoor, bathroom, shower, patio",3608
-611,14664,indoor,"jacuzzi/indoor, swimming_pool/indoor, bathroom, shower, patio",3608
-612,14688,indoor,"jacuzzi/indoor, bathroom, swimming_pool/indoor, dining_room, shower",3608
-613,14712,indoor,"bathroom, jacuzzi/indoor, swimming_pool/indoor, dining_room, shower",3608
-614,14736,indoor,"dining_room, bathroom, nursery, waiting_room, bow_window/indoor",3608
-615,14760,indoor,"bathroom, shower, museum/indoor, beauty_salon, dining_room",3608
-616,14784,indoor,"bathroom, jail_cell, shower, nursery, clean_room",3608
-617,14808,indoor,"bathroom, clean_room, museum/indoor, beauty_salon, nursery",3608
-618,14832,indoor,"bathroom, nursery, clean_room, shower, patio",3608
-619,14856,indoor,"museum/indoor, bathroom, throne_room, nursery, swimming_pool/indoor",3608
-620,14880,indoor,"bathroom, jacuzzi/indoor, shower, swimming_pool/indoor, museum/indoor",3608
-621,14904,indoor,"jacuzzi/indoor, swimming_pool/indoor, bathroom, museum/indoor, recreation_room",3608
-622,14928,indoor,"jacuzzi/indoor, bathroom, swimming_pool/indoor, shower, museum/indoor",3608
-623,14952,indoor,"jacuzzi/indoor, bathroom, swimming_pool/indoor, shower, recreation_room",3608
-624,14976,indoor,"jacuzzi/indoor, bathroom, swimming_pool/indoor, shower, bow_window/indoor",3608
-625,15000,indoor,"bathroom, shower, jacuzzi/indoor, swimming_pool/indoor, museum/indoor",3608
-626,15024,indoor,"bathroom, museum/indoor, jail_cell, beauty_salon, nursery",3608
-627,15048,indoor,"nursery, bathroom, clean_room, shower, museum/indoor",3608
-628,15072,indoor,"jacuzzi/indoor, bathroom, swimming_pool/indoor, shower, recreation_room",3608
-629,15096,indoor,"jacuzzi/indoor, bathroom, swimming_pool/indoor, shower, recreation_room",3608
-630,15120,indoor,"bathroom, shower, jacuzzi/indoor, swimming_pool/indoor, bow_window/indoor",3608
-631,15144,indoor,"bathroom, shower, jacuzzi/indoor, swimming_pool/indoor, beauty_salon",3608
-632,15168,indoor,"jacuzzi/indoor, swimming_pool/indoor, bathroom, shower, bow_window/indoor",3608
-633,15192,indoor,"bathroom, jacuzzi/indoor, swimming_pool/indoor, shower, television_studio",3608
-634,15216,indoor,"bathroom, jacuzzi/indoor, television_studio, clean_room, shower",3608
-635,15240,indoor,"museum/indoor, dining_room, beauty_salon, dressing_room, waiting_room",3608
-636,15264,indoor,"museum/indoor, clean_room, beauty_salon, nursery, dressing_room",3608
-637,15288,indoor,"museum/indoor, bow_window/indoor, waiting_room, dining_room, coffee_shop",3608
-638,15312,indoor,"jewelry_shop, shoe_shop, clean_room, museum/indoor, television_studio",3608
-639,15336,indoor,"swimming_pool/indoor, museum/indoor, clean_room, television_studio, jewelry_shop",3608
-640,15360,indoor,"museum/indoor, natural_history_museum, science_museum, clean_room, television_studio",3608
-641,15384,indoor,"clean_room, museum/indoor, natural_history_museum, science_museum, jewelry_shop",3608
-642,15408,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, bathroom",3608
-643,15432,indoor,"museum/indoor, beauty_salon, television_studio, clean_room, dressing_room",3608
-644,15456,indoor,"clean_room, beauty_salon, museum/indoor, kindergarden_classroom, television_studio",3608
-645,15480,indoor,"museum/indoor, television_studio, science_museum, clean_room, natural_history_museum",3608
-646,15504,indoor,"museum/indoor, science_museum, clean_room, natural_history_museum, jewelry_shop",3608
-647,15528,indoor,"museum/indoor, natural_history_museum, science_museum, jewelry_shop, shoe_shop",3608
-648,15552,indoor,"shower, bathroom, swimming_pool/indoor, jacuzzi/indoor, jewelry_shop",3608
-649,15576,indoor,"bathroom, shower, clean_room, jewelry_shop, beauty_salon",3608
-650,15600,indoor,"shower, bathroom, museum/indoor, clean_room, natural_history_museum",3608
-651,15624,indoor,"beauty_salon, clean_room, bathroom, dressing_room, shower",3608
-652,15648,indoor,"bathroom, clean_room, dining_room, nursery, office",3608
-653,15672,indoor,"bow_window/indoor, bathroom, lobby, reception, jacuzzi/indoor",3608
-654,15696,indoor,"museum/indoor, jacuzzi/indoor, swimming_pool/indoor, bathroom, natural_history_museum",3608
-655,15720,indoor,"swimming_pool/indoor, bathroom, clean_room, jacuzzi/indoor, museum/indoor",3608
-656,15744,indoor,"bow_window/indoor, clean_room, swimming_pool/indoor, bathroom, museum/indoor",3608
-657,15768,indoor,"clean_room, museum/indoor, office, shoe_shop, beauty_salon",3608
-658,15792,indoor,"beauty_salon, clean_room, museum/indoor, nursery, bathroom",3608
-659,15816,indoor,"clean_room, beauty_salon, bathroom, shower, nursery",3608
-660,15840,indoor,"clean_room, jewelry_shop, museum/indoor, shopfront, beauty_salon",3608
-661,15864,indoor,"clean_room, jewelry_shop, museum/indoor, bathroom, bow_window/indoor",3608
-662,15888,indoor,"jewelry_shop, science_museum, museum/indoor, clean_room, jacuzzi/indoor",3608
-663,15912,indoor,"jewelry_shop, museum/indoor, jacuzzi/indoor, natural_history_museum, science_museum",3608
-664,15936,indoor,"museum/indoor, jewelry_shop, clean_room, natural_history_museum, shoe_shop",3608
-665,15960,outdoor,"underwater/ocean_deep, hot_spring, aquarium, ice_shelf, iceberg",3608
-666,15984,outdoor,"underwater/ocean_deep, aquarium, hot_spring, iceberg, ocean",3608
-667,16008,indoor,"underwater/ocean_deep, aquarium, landfill, swimming_pool/indoor, arena/rodeo",3608
-668,16032,outdoor,"underwater/ocean_deep, aquarium, hot_spring, discotheque, ocean",3608
-669,16056,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, landfill",3608
-670,16080,outdoor,"underwater/ocean_deep, aquarium, landfill, ice_shelf, ocean",3608
-671,16104,outdoor,"underwater/ocean_deep, aquarium, ocean, discotheque, hot_spring",3608
-672,16128,outdoor,"underwater/ocean_deep, aquarium, landfill, slum, ice_shelf",3608
-673,16152,outdoor,"underwater/ocean_deep, aquarium, kindergarden_classroom, landfill, hot_spring",3608
-674,16176,outdoor,"underwater/ocean_deep, aquarium, landfill, hot_spring, slum",3608
-675,16200,indoor,"underwater/ocean_deep, aquarium, discotheque, hot_spring, swimming_pool/indoor",3608
-676,16224,outdoor,"underwater/ocean_deep, hot_spring, discotheque, aquarium, ocean",3608
-677,16248,outdoor,"underwater/ocean_deep, aquarium, ocean, discotheque, hot_spring",3608
-678,16272,outdoor,"underwater/ocean_deep, aquarium, landfill, hot_spring, arena/rodeo",3608
-679,16296,indoor,"underwater/ocean_deep, aquarium, hot_spring, swimming_pool/indoor, discotheque",3608
-680,16320,indoor,"underwater/ocean_deep, aquarium, discotheque, hot_spring, swimming_pool/indoor",3608
-681,16344,outdoor,"underwater/ocean_deep, hot_spring, discotheque, aquarium, ocean",3608
-682,16368,indoor,"underwater/ocean_deep, aquarium, swimming_pool/indoor, hot_spring, discotheque",3608
-683,16392,indoor,"aquarium, underwater/ocean_deep, swimming_pool/indoor, discotheque, ocean",3608
-684,16416,outdoor,"underwater/ocean_deep, aquarium, hot_spring, ocean, swimming_pool/indoor",3608
-685,16440,outdoor,"underwater/ocean_deep, aquarium, swimming_pool/indoor, ice_shelf, iceberg",3608
-686,16464,outdoor,"underwater/ocean_deep, aquarium, hot_spring, crevasse, discotheque",3608
-687,16488,outdoor,"underwater/ocean_deep, aquarium, swimming_pool/indoor, hot_spring, ocean",3608
-688,16512,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, hot_spring",3608
-689,16536,outdoor,"underwater/ocean_deep, aquarium, hot_spring, ocean, discotheque",3608
-690,16560,indoor,"bathroom, shower, clean_room, office, reception",3608
-691,16584,indoor,"bathroom, clean_room, locker_room, underwater/ocean_deep, jail_cell",3608
-692,16608,indoor,"bathroom, shower, jacuzzi/indoor, clean_room, swimming_pool/indoor",3608
-693,16632,indoor,"bathroom, shower, jacuzzi/indoor, swimming_pool/indoor, aquarium",3608
-694,16656,indoor,"bathroom, shower, clean_room, jacuzzi/indoor, beauty_salon",3608
-695,16680,indoor,"bathroom, clean_room, beauty_salon, nursery, museum/indoor",3608
-696,16704,indoor,"bathroom, clean_room, beauty_salon, shower, nursery",3608
-697,16728,indoor,"bathroom, reception, office, lobby, beauty_salon",3608
-698,16752,indoor,"bathroom, clean_room, beauty_salon, swimming_pool/indoor, shower",3608
-699,16776,indoor,"bathroom, beauty_salon, shower, lobby, dining_room",3608
-700,16800,indoor,"clean_room, beauty_salon, museum/indoor, bathroom, hospital_room",3608
-701,16824,indoor,"clean_room, beauty_salon, museum/indoor, nursery, operating_room",3608
-702,16848,indoor,"bathroom, shower, bow_window/indoor, jacuzzi/indoor, swimming_pool/indoor",3608
-703,16872,indoor,"bathroom, shower, swimming_pool/indoor, jacuzzi/indoor, beauty_salon",3608
-704,16896,indoor,"shower, jacuzzi/indoor, bathroom, swimming_pool/indoor, aquarium",3608
-705,16920,indoor,"beauty_salon, bathroom, underwater/ocean_deep, shower, clean_room",3608
-706,16944,indoor,"bathroom, shower, jewelry_shop, shoe_shop, clean_room",3608
-707,16968,indoor,"bathroom, jacuzzi/indoor, swimming_pool/indoor, shower, aquarium",3608
-708,16992,indoor,"clean_room, shoe_shop, beauty_salon, porch, bow_window/indoor",3608
-709,17016,indoor,"beauty_salon, bathroom, clean_room, shower, jail_cell",3608
-710,17040,indoor,"swimming_pool/indoor, shoe_shop, bathroom, beauty_salon, shower",3608
-711,17064,indoor,"bathroom, swimming_pool/indoor, shower, jacuzzi/indoor, bow_window/indoor",3608
-712,17088,indoor,"shoe_shop, clean_room, beauty_salon, jewelry_shop, museum/indoor",3608
-713,17112,indoor,"beauty_salon, dressing_room, bathroom, discotheque, museum/indoor",3608
-714,17136,indoor,"bathroom, shower, office, clean_room, beauty_salon",3608
-715,17160,indoor,"shoe_shop, bathroom, jewelry_shop, shower, beauty_salon",3608
-716,17184,indoor,"bathroom, lobby, beauty_salon, swimming_pool/indoor, jewelry_shop",3608
-717,17208,indoor,"beauty_salon, bathroom, underwater/ocean_deep, shower, clean_room",3608
-718,17232,indoor,"bow_window/indoor, bathroom, lobby, jewelry_shop, shower",3608
-719,17256,indoor,"bathroom, shower, swimming_pool/indoor, lobby, bow_window/indoor",3608
-720,17280,indoor,"bathroom, shower, beauty_salon, bow_window/indoor, shoe_shop",3608
-721,17304,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-722,17328,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-723,17352,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-724,17376,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-725,17400,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-726,17424,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-727,17448,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-728,17472,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-729,17496,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-730,17520,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-731,17544,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-732,17568,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-733,17592,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-734,17616,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-735,17640,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-736,17664,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-737,17688,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-738,17712,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-739,17736,indoor,"ticket_booth, fastfood_restaurant, reception, booth/indoor, pharmacy",3608
-740,17760,outdoor,"underwater/ocean_deep, aquarium, hot_spring, ice_shelf, ocean",3608
-741,17784,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, hot_spring",3608
-742,17808,indoor,"underwater/ocean_deep, aquarium, discotheque, ocean, swimming_pool/indoor",3608
-743,17832,indoor,"discotheque, aquarium, underwater/ocean_deep, swimming_pool/indoor, hot_spring",3608
-744,17856,indoor,"underwater/ocean_deep, discotheque, aquarium, slum, swimming_pool/indoor",3608
-745,17880,outdoor,"underwater/ocean_deep, discotheque, hot_spring, aquarium, ocean",3608
-746,17904,indoor,"aquarium, underwater/ocean_deep, swimming_pool/indoor, discotheque, hot_spring",3608
-747,17928,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, slum",3608
-748,17952,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, slum",3608
-749,17976,outdoor,"underwater/ocean_deep, discotheque, ocean, hot_spring, aquarium",3608
-750,18000,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, ocean",3608
-751,18024,outdoor,"aquarium, underwater/ocean_deep, discotheque, ocean, landfill",3608
-752,18048,outdoor,"underwater/ocean_deep, ocean, aquarium, ice_shelf, discotheque",3608
-753,18072,indoor,"underwater/ocean_deep, aquarium, discotheque, ocean, swimming_pool/indoor",3608
-754,18096,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, ice_shelf",3608
-755,18120,indoor,"underwater/ocean_deep, aquarium, discotheque, landfill, swimming_pool/indoor",3608
-756,18144,outdoor,"underwater/ocean_deep, aquarium, iceberg, crevasse, ice_shelf",3608
-757,18168,outdoor,"underwater/ocean_deep, aquarium, hot_spring, iceberg, ice_shelf",3608
-758,18192,outdoor,"underwater/ocean_deep, aquarium, discotheque, landfill, slum",3608
-759,18216,outdoor,"aquarium, underwater/ocean_deep, discotheque, iceberg, ice_shelf",3608
-760,18240,outdoor,"underwater/ocean_deep, ocean, hot_spring, ice_floe, ice_shelf",3608
-761,18264,indoor,"ticket_booth, reception, booth/indoor, amusement_arcade, pharmacy",3608
-762,18288,indoor,"ticket_booth, reception, amusement_arcade, booth/indoor, gas_station",3608
-763,18312,indoor,"reception, ticket_booth, booth/indoor, amusement_arcade, elevator/door",3608
-764,18336,indoor,"ticket_booth, reception, amusement_arcade, booth/indoor, elevator/door",3608
-765,18360,indoor,"ticket_booth, reception, amusement_arcade, booth/indoor, elevator/door",3608
-766,18384,indoor,"reception, ticket_booth, booth/indoor, amusement_arcade, playroom",3608
-767,18408,outdoor,"iceberg, aquarium, ice_shelf, underwater/ocean_deep, ice_floe",3608
-768,18432,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, aquarium, ice_floe",3608
-769,18456,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, aquarium, ice_floe",3608
-770,18480,outdoor,"iceberg, underwater/ocean_deep, ice_shelf, aquarium, ocean",3608
-771,18504,outdoor,"iceberg, underwater/ocean_deep, ice_shelf, ocean, aquarium",3608
-772,18528,outdoor,"iceberg, ocean, ice_shelf, underwater/ocean_deep, wave",3608
-773,18552,outdoor,"underwater/ocean_deep, iceberg, ice_shelf, aquarium, ocean",3608
-774,18576,outdoor,"underwater/ocean_deep, iceberg, aquarium, ice_shelf, ice_floe",3608
-775,18600,indoor,"booth/indoor, reception, pharmacy, ticket_booth, hospital",3608
-776,18624,indoor,"booth/indoor, reception, pharmacy, ticket_booth, hospital",3608
-777,18648,indoor,"booth/indoor, reception, ticket_booth, pharmacy, hospital",3608
-778,18672,indoor,"booth/indoor, reception, ticket_booth, pharmacy, hospital",3608
-779,18696,indoor,"booth/indoor, reception, ticket_booth, pharmacy, hospital",3608
-780,18720,indoor,"booth/indoor, reception, ticket_booth, pharmacy, hospital",3608
-781,18744,indoor,"booth/indoor, reception, ticket_booth, pharmacy, hospital",3608
-782,18768,indoor,"booth/indoor, reception, ticket_booth, pharmacy, hospital",3608
-783,18792,indoor,"discotheque, aquarium, arena/performance, beauty_salon, stage/indoor",3608
-784,18816,indoor,"underwater/ocean_deep, aquarium, discotheque, beauty_salon, nursery",3608
-785,18840,indoor,"aquarium, underwater/ocean_deep, natural_history_museum, swimming_pool/indoor, beauty_salon",3608
-786,18864,indoor,"aquarium, underwater/ocean_deep, natural_history_museum, shower, swimming_pool/indoor",3608
-787,18888,indoor,"aquarium, underwater/ocean_deep, natural_history_museum, pet_shop, science_museum",3608
-788,18912,indoor,"jewelry_shop, aquarium, beauty_salon, underwater/ocean_deep, natural_history_museum",3608
-789,18936,indoor,"jewelry_shop, aquarium, gift_shop, underwater/ocean_deep, beauty_salon",3608
-790,18960,indoor,"jewelry_shop, aquarium, beauty_salon, underwater/ocean_deep, shower",3608
-791,18984,indoor,"jewelry_shop, museum/indoor, gift_shop, beauty_salon, natural_history_museum",3608
-792,19008,indoor,"aquarium, underwater/ocean_deep, natural_history_museum, discotheque, museum/indoor",3608
-793,19032,indoor,"aquarium, underwater/ocean_deep, shower, discotheque, natural_history_museum",3608
-794,19056,indoor,"aquarium, underwater/ocean_deep, shower, science_museum, natural_history_museum",3608
-795,19080,indoor,"aquarium, underwater/ocean_deep, shower, museum/indoor, science_museum",3608
-796,19104,indoor,"aquarium, beauty_salon, underwater/ocean_deep, shower, discotheque",3608
-797,19128,indoor,"aquarium, underwater/ocean_deep, science_museum, natural_history_museum, jewelry_shop",3608
-798,19152,indoor,"aquarium, underwater/ocean_deep, jewelry_shop, natural_history_museum, science_museum",3608
-799,19176,indoor,"aquarium, underwater/ocean_deep, discotheque, beauty_salon, jewelry_shop",3608
-800,19200,indoor,"aquarium, underwater/ocean_deep, natural_history_museum, discotheque, jewelry_shop",3608
-801,19224,indoor,"underwater/ocean_deep, discotheque, aquarium, stage/indoor, bamboo_forest",3608
-802,19248,outdoor,"aquarium, underwater/ocean_deep, iceberg, ice_shelf, ocean",3608
-803,19272,outdoor,"iceberg, ice_shelf, ice_floe, aquarium, underwater/ocean_deep",3608
-804,19296,outdoor,"iceberg, ice_shelf, ice_floe, underwater/ocean_deep, aquarium",3608
-805,19320,outdoor,"iceberg, underwater/ocean_deep, ice_shelf, aquarium, ice_floe",3608
-806,19344,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, ice_floe, aquarium",3608
-807,19368,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, wave, ice_floe",3608
-808,19392,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, aquarium, ice_floe",3608
-809,19416,outdoor,"iceberg, aquarium, underwater/ocean_deep, ice_shelf, ice_floe",3608
-810,19440,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, aquarium, ice_floe",3608
-811,19464,outdoor,"iceberg, underwater/ocean_deep, ice_shelf, aquarium, ice_floe",3608
-812,19488,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, aquarium, ice_floe",3608
-813,19512,outdoor,"iceberg, ice_shelf, ice_floe, underwater/ocean_deep, ocean",3608
-814,19536,outdoor,"iceberg, ice_shelf, ice_floe, underwater/ocean_deep, aquarium",3608
-815,19560,outdoor,"iceberg, ice_shelf, ice_floe, underwater/ocean_deep, aquarium",3608
-816,19584,outdoor,"iceberg, ice_shelf, aquarium, underwater/ocean_deep, ice_floe",3608
-817,19608,outdoor,"iceberg, aquarium, underwater/ocean_deep, ice_shelf, ice_floe",3608
-818,19632,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, aquarium, ice_floe",3608
-819,19656,outdoor,"iceberg, ice_shelf, ice_floe, aquarium, underwater/ocean_deep",3608
-820,19680,outdoor,"iceberg, ice_shelf, ice_floe, underwater/ocean_deep, aquarium",3608
-821,19704,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-822,19728,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-823,19752,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-824,19776,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-825,19800,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-826,19824,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-827,19848,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-828,19872,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-829,19896,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-830,19920,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-831,19944,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, pharmacy",3608
-832,19968,indoor,"staircase, entrance_hall, museum/indoor, archive, clean_room",3608
-833,19992,indoor,"clean_room, museum/indoor, archive, entrance_hall, schoolhouse",3608
-834,20016,indoor,"staircase, escalator/indoor, museum/indoor, entrance_hall, clean_room",3608
-835,20040,indoor,"staircase, museum/indoor, clean_room, escalator/indoor, archive",3608
-836,20064,indoor,"staircase, escalator/indoor, entrance_hall, museum/indoor, boat_deck",3608
-837,20088,indoor,"staircase, entrance_hall, escalator/indoor, porch, museum/indoor",3608
-838,20112,indoor,"staircase, entrance_hall, porch, escalator/indoor, assembly_line",3608
-839,20136,indoor,"staircase, clean_room, entrance_hall, archive, assembly_line",3608
-840,20160,indoor,"clean_room, museum/indoor, boat_deck, schoolhouse, assembly_line",3608
-841,20184,indoor,"clean_room, museum/indoor, porch, assembly_line, archive",3608
-842,20208,indoor,"clean_room, museum/indoor, stage/indoor, schoolhouse, archive",3608
-843,20232,indoor,"museum/indoor, clean_room, entrance_hall, archive, porch",3608
-844,20256,indoor,"museum/indoor, clean_room, archive, entrance_hall, burial_chamber",3608
-845,20280,indoor,"clean_room, museum/indoor, archive, entrance_hall, clothing_store",3608
-846,20304,indoor,"clean_room, museum/indoor, archive, entrance_hall, assembly_line",3608
-847,20328,indoor,"nursery, staircase, clean_room, porch, childs_room",3608
-848,20352,indoor,"staircase, nursery, porch, clean_room, childs_room",3608
-849,20376,indoor,"clean_room, staircase, museum/indoor, nursery, igloo",3608
-850,20400,indoor,"staircase, nursery, museum/indoor, porch, clean_room",3608
-851,20424,indoor,"staircase, medina, slum, museum/indoor, archive",3608
-852,20448,indoor,"pharmacy, reception, drugstore, hospital, hospital_room",3608
-853,20472,indoor,"ticket_booth, reception, booth/indoor, fastfood_restaurant, pharmacy",3608
-854,20496,indoor,"ticket_booth, reception, booth/indoor, pharmacy, fastfood_restaurant",3608
-855,20520,indoor,"ticket_booth, reception, booth/indoor, pharmacy, fastfood_restaurant",3608
-856,20544,indoor,"ticket_booth, reception, fastfood_restaurant, pharmacy, booth/indoor",3608
-857,20568,indoor,"ticket_booth, reception, booth/indoor, pharmacy, fastfood_restaurant",3608
-858,20592,indoor,"stage/indoor, clean_room, museum/indoor, discotheque, martial_arts_gym",3608
-859,20616,indoor,"stage/indoor, discotheque, music_studio, clean_room, dressing_room",3608
-860,20640,indoor,"stage/indoor, clean_room, museum/indoor, discotheque, music_studio",3608
-861,20664,indoor,"discotheque, stage/indoor, music_studio, clean_room, dressing_room",3608
-862,20688,indoor,"stage/indoor, clothing_store, discotheque, museum/indoor, dressing_room",3608
-863,20712,indoor,"martial_arts_gym, clean_room, stage/indoor, museum/indoor, locker_room",3608
-864,20736,indoor,"clean_room, stage/indoor, locker_room, discotheque, museum/indoor",3608
-865,20760,indoor,"stage/indoor, museum/indoor, clean_room, discotheque, clothing_store",3608
-866,20784,indoor,"stage/indoor, boxing_ring, martial_arts_gym, discotheque, ballroom",3608
-867,20808,indoor,"clean_room, martial_arts_gym, archive, dressing_room, nursery",3608
-868,20832,indoor,"clean_room, museum/indoor, entrance_hall, staircase, nursery",3608
-869,20856,indoor,"museum/indoor, clean_room, staircase, porch, entrance_hall",3608
-870,20880,indoor,"museum/indoor, clean_room, staircase, entrance_hall, archive",3608
-871,20904,indoor,"museum/indoor, staircase, clean_room, entrance_hall, archive",3608
-872,20928,indoor,"clean_room, porch, museum/indoor, nursery, entrance_hall",3608
-873,20952,indoor,"clean_room, museum/indoor, clothing_store, archive, nursery",3608
-874,20976,indoor,"museum/indoor, clean_room, schoolhouse, archive, porch",3608
-875,21000,indoor,"museum/indoor, clean_room, archive, porch, clothing_store",3608
-876,21024,indoor,"museum/indoor, clean_room, archive, clothing_store, porch",3608
-877,21048,indoor,"museum/indoor, archive, clean_room, porch, clothing_store",3608
-878,21072,indoor,"museum/indoor, clean_room, archive, porch, staircase",3608
-879,21096,indoor,"booth/indoor, ticket_booth, hospital, pharmacy, fastfood_restaurant",3608
-880,21120,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-881,21144,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-882,21168,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-883,21192,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-884,21216,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-885,21240,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-886,21264,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-887,21288,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-888,21312,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-889,21336,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-890,21360,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-891,21384,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, pharmacy",3608
-892,21408,indoor,"booth/indoor, ticket_booth, hospital, fastfood_restaurant, kindergarden_classroom",3608
-893,21432,outdoor,"underwater/ocean_deep, ocean, aquarium, wave, beach",3608
-894,21456,outdoor,"underwater/ocean_deep, aquarium, ocean, beach, wave",3608
-895,21480,outdoor,"underwater/ocean_deep, ocean, aquarium, swimming_pool/indoor, wave",3608
-896,21504,outdoor,"underwater/ocean_deep, ocean, aquarium, discotheque, hot_spring",3608
-897,21528,outdoor,"underwater/ocean_deep, ocean, aquarium, oilrig, wave",3608
-898,21552,outdoor,"underwater/ocean_deep, ocean, aquarium, wave, beach",3608
-899,21576,outdoor,"underwater/ocean_deep, aquarium, ocean, discotheque, wave",3608
-900,21600,outdoor,"underwater/ocean_deep, aquarium, ocean, discotheque, landfill",3608
-901,21624,outdoor,"underwater/ocean_deep, aquarium, ocean, hot_spring, swimming_pool/indoor",3608
-902,21648,indoor,"underwater/ocean_deep, aquarium, ocean, discotheque, swimming_pool/indoor",3608
-903,21672,outdoor,"underwater/ocean_deep, aquarium, ocean, discotheque, hot_spring",3608
-904,21696,outdoor,"underwater/ocean_deep, aquarium, ocean, discotheque, hot_spring",3608
-905,21720,indoor,"aquarium, underwater/ocean_deep, swimming_pool/indoor, ocean, discotheque",3608
-906,21744,indoor,"aquarium, underwater/ocean_deep, swimming_pool/indoor, discotheque, classroom",3608
-907,21768,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, ocean",3608
-908,21792,indoor,"underwater/ocean_deep, discotheque, aquarium, swimming_pool/indoor, hot_spring",3608
-909,21816,indoor,"underwater/ocean_deep, aquarium, discotheque, ocean, swimming_pool/indoor",3608
-910,21840,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, ocean",3608
-911,21864,indoor,"underwater/ocean_deep, aquarium, discotheque, kindergarden_classroom, natural_history_museum",3608
-912,21888,outdoor,"underwater/ocean_deep, aquarium, discotheque, ocean, ice_shelf",3608
-913,21912,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, igloo",3608
-914,21936,indoor,"aquarium, discotheque, underwater/ocean_deep, swimming_pool/indoor, museum/indoor",3608
-915,21960,indoor,"aquarium, discotheque, underwater/ocean_deep, swimming_pool/indoor, museum/indoor",3608
-916,21984,indoor,"aquarium, underwater/ocean_deep, swimming_pool/indoor, discotheque, kindergarden_classroom",3608
-917,22008,indoor,"aquarium, discotheque, underwater/ocean_deep, swimming_pool/indoor, kindergarden_classroom",3608
-918,22032,indoor,"aquarium, underwater/ocean_deep, classroom, discotheque, kindergarden_classroom",3608
-919,22056,indoor,"aquarium, discotheque, swimming_pool/indoor, jacuzzi/indoor, shower",3608
-920,22080,indoor,"discotheque, aquarium, swimming_pool/indoor, shower, jacuzzi/indoor",3608
-921,22104,indoor,"discotheque, swimming_pool/indoor, shower, jacuzzi/indoor, aquarium",3608
-922,22128,indoor,"discotheque, aquarium, swimming_pool/indoor, jacuzzi/indoor, shower",3608
-923,22152,indoor,"discotheque, swimming_pool/indoor, aquarium, jacuzzi/indoor, shower",3608
-924,22176,indoor,"discotheque, stage/indoor, aquarium, bar, swimming_pool/indoor",3608
-925,22200,indoor,"lobby, beauty_salon, nursery, jewelry_shop, museum/indoor",3608
-926,22224,indoor,"museum/indoor, elevator_lobby, shower, lobby, bow_window/indoor",3608
-927,22248,indoor,"discotheque, beauty_salon, museum/indoor, swimming_pool/indoor, jewelry_shop",3608
-928,22272,indoor,"jewelry_shop, beauty_salon, nursery, museum/indoor, gift_shop",3608
-929,22296,indoor,"beauty_salon, discotheque, jewelry_shop, museum/indoor, lobby",3608
-930,22320,indoor,"beauty_salon, discotheque, museum/indoor, swimming_pool/indoor, clean_room",3608
-931,22344,indoor,"beauty_salon, museum/indoor, elevator_lobby, jewelry_shop, clean_room",3608
-932,22368,indoor,"beauty_salon, reception, museum/indoor, nursery, jewelry_shop",3608
-933,22392,indoor,"jewelry_shop, beauty_salon, lobby, swimming_pool/indoor, reception",3608
-934,22416,indoor,"reception, lobby, beauty_salon, bow_window/indoor, jewelry_shop",3608
-935,22440,indoor,"nursery, museum/indoor, lobby, jewelry_shop, bow_window/indoor",3608
-936,22464,indoor,"elevator_lobby, lobby, museum/indoor, nursery, beauty_salon",3608
-937,22488,indoor,"swimming_pool/indoor, laundromat, aquarium, jacuzzi/indoor, discotheque",3608
-938,22512,indoor,"swimming_pool/indoor, laundromat, jacuzzi/indoor, aquarium, arch",3608
-939,22536,indoor,"swimming_pool/indoor, jacuzzi/indoor, laundromat, aquarium, mosque/outdoor",3608
-940,22560,indoor,"swimming_pool/indoor, mosque/outdoor, laundromat, aquarium, museum/indoor",3608
-941,22584,indoor,"swimming_pool/indoor, discotheque, aquarium, conference_center, laundromat",3608
-942,22608,indoor,"swimming_pool/indoor, laundromat, discotheque, aquarium, jacuzzi/indoor",3608
-943,22632,indoor,"swimming_pool/indoor, discotheque, aquarium, laundromat, conference_center",3608
-944,22656,indoor,"swimming_pool/indoor, laundromat, aquarium, jacuzzi/indoor, mosque/outdoor",3608
-945,22680,indoor,"swimming_pool/indoor, conference_room, mosque/outdoor, aquarium, conference_center",3608
-946,22704,indoor,"discotheque, aquarium, swimming_pool/indoor, underwater/ocean_deep, conference_center",3608
-947,22728,indoor,"discotheque, aquarium, stage/indoor, swimming_pool/indoor, conference_center",3608
-948,22752,indoor,"swimming_pool/indoor, discotheque, aquarium, jacuzzi/indoor, waiting_room",3608
-949,22776,indoor,"swimming_pool/indoor, discotheque, aquarium, jacuzzi/indoor, waiting_room",3608
-950,22800,indoor,"swimming_pool/indoor, jacuzzi/indoor, discotheque, aquarium, laundromat",3608
-951,22824,indoor,"swimming_pool/indoor, laundromat, waiting_room, arch, conference_room",3608
-952,22848,indoor,"swimming_pool/indoor, laundromat, arch, waiting_room, conference_room",3608
-953,22872,indoor,"swimming_pool/indoor, laundromat, arch, conference_room, aqueduct",3608
-954,22896,indoor,"arch, laundromat, swimming_pool/indoor, mosque/outdoor, waiting_room",3608
-955,22920,indoor,"swimming_pool/indoor, conference_room, laundromat, arch, mosque/outdoor",3608
-956,22944,indoor,"swimming_pool/indoor, laundromat, waiting_room, arch, jacuzzi/indoor",3608
-957,22968,indoor,"swimming_pool/indoor, laundromat, arch, jacuzzi/indoor, waiting_room",3608
-958,22992,indoor,"swimming_pool/indoor, laundromat, arch, conference_room, waiting_room",3608
-959,23016,indoor,"swimming_pool/indoor, waiting_room, laundromat, conference_room, lobby",3608
-960,23040,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-961,23064,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-962,23088,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-963,23112,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-964,23136,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-965,23160,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-966,23184,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-967,23208,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-968,23232,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-969,23256,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-970,23280,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-971,23304,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-972,23328,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, drugstore",3608
-973,23352,indoor,"staircase, stage/indoor, swimming_pool/indoor, escalator/indoor, ballroom",3608
-974,23376,indoor,"staircase, swimming_pool/indoor, escalator/indoor, stage/indoor, discotheque",3608
-975,23400,indoor,"swimming_pool/indoor, staircase, discotheque, childs_room, ballroom",3608
-976,23424,indoor,"swimming_pool/indoor, staircase, escalator/indoor, lobby, discotheque",3608
-977,23448,indoor,"clean_room, swimming_pool/indoor, discotheque, museum/indoor, aquarium",3608
-978,23472,indoor,"clean_room, staircase, swimming_pool/indoor, museum/indoor, escalator/indoor",3608
-979,23496,indoor,"swimming_pool/indoor, childs_room, staircase, jewelry_shop, lobby",3608
-980,23520,indoor,"swimming_pool/indoor, staircase, childs_room, jacuzzi/indoor, lobby",3608
-981,23544,indoor,"swimming_pool/indoor, childs_room, jacuzzi/indoor, staircase, museum/indoor",3608
-982,23568,indoor,"swimming_pool/indoor, museum/indoor, stage/indoor, staircase, clean_room",3608
-983,23592,indoor,"museum/indoor, staircase, lobby, entrance_hall, jewelry_shop",3608
-984,23616,indoor,"jewelry_shop, museum/indoor, childs_room, lobby, beauty_salon",3608
-985,23640,indoor,"museum/indoor, stage/indoor, discotheque, swimming_pool/indoor, lobby",3608
-986,23664,indoor,"swimming_pool/indoor, staircase, clean_room, museum/indoor, entrance_hall",3608
-987,23688,indoor,"swimming_pool/indoor, lobby, entrance_hall, staircase, reception",3608
-988,23712,indoor,"staircase, swimming_pool/indoor, reception, jewelry_shop, lobby",3608
-989,23736,indoor,"staircase, childs_room, entrance_hall, swimming_pool/indoor, lobby",3608
-990,23760,indoor,"childs_room, staircase, swimming_pool/indoor, lobby, reception",3608
-991,23784,indoor,"childs_room, swimming_pool/indoor, lobby, staircase, reception",3608
-992,23808,indoor,"staircase, swimming_pool/indoor, lobby, entrance_hall, childs_room",3608
-993,23832,indoor,"swimming_pool/indoor, staircase, entrance_hall, lobby, discotheque",3608
-994,23856,indoor,"staircase, clean_room, entrance_hall, swimming_pool/indoor, lobby",3608
-995,23880,indoor,"childs_room, staircase, lobby, swimming_pool/indoor, jewelry_shop",3608
-996,23904,indoor,"staircase, lobby, childs_room, entrance_hall, swimming_pool/indoor",3608
-997,23928,indoor,"childs_room, swimming_pool/indoor, staircase, lobby, museum/indoor",3608
-998,23952,indoor,"childs_room, swimming_pool/indoor, lobby, museum/indoor, staircase",3608
-999,23976,indoor,"swimming_pool/indoor, lobby, staircase, aquarium, childs_room",3608
-1000,24000,indoor,"staircase, aquarium, swimming_pool/indoor, underwater/ocean_deep, childs_room",3608
-1001,24024,indoor,"aquarium, underwater/ocean_deep, swimming_pool/indoor, staircase, clean_room",3608
-1002,24048,indoor,"swimming_pool/indoor, lobby, childs_room, staircase, escalator/indoor",3608
-1003,24072,indoor,"swimming_pool/indoor, childs_room, lobby, staircase, escalator/indoor",3608
-1004,24096,indoor,"swimming_pool/indoor, childs_room, staircase, lobby, escalator/indoor",3608
-1005,24120,indoor,"swimming_pool/indoor, escalator/indoor, staircase, lobby, childs_room",3608
-1006,24144,indoor,"swimming_pool/indoor, childs_room, escalator/indoor, shoe_shop, lobby",3608
-1007,24168,indoor,"swimming_pool/indoor, escalator/indoor, lobby, staircase, jacuzzi/indoor",3608
-1008,24192,indoor,"underwater/ocean_deep, aquarium, discotheque, swimming_pool/indoor, childs_room",3608
-1009,24216,indoor,"swimming_pool/indoor, childs_room, museum/indoor, aquarium, jewelry_shop",3608
-1010,24240,indoor,"swimming_pool/indoor, childs_room, aquarium, jewelry_shop, shoe_shop",3608
-1011,24264,indoor,"swimming_pool/indoor, aquarium, jewelry_shop, childs_room, shoe_shop",3608
-1012,24288,indoor,"swimming_pool/indoor, aquarium, childs_room, jewelry_shop, shoe_shop",3608
-1013,24312,indoor,"swimming_pool/indoor, staircase, escalator/indoor, lobby, aquarium",3608
-1014,24336,indoor,"discotheque, aquarium, clean_room, underwater/ocean_deep, science_museum",3608
-1015,24360,indoor,"swimming_pool/indoor, ballroom, childs_room, discotheque, banquet_hall",3608
-1016,24384,indoor,"ballroom, childs_room, discotheque, banquet_hall, swimming_pool/indoor",3608
-1017,24408,indoor,"discotheque, swimming_pool/indoor, ballroom, lobby, aquarium",3608
-1018,24432,indoor,"swimming_pool/indoor, discotheque, jewelry_shop, reception, lobby",3608
-1019,24456,indoor,"discotheque, aquarium, swimming_pool/indoor, underwater/ocean_deep, stage/indoor",3608
-1020,24480,indoor,"swimming_pool/indoor, aquarium, staircase, discotheque, lobby",3608
-1021,24504,indoor,"swimming_pool/indoor, discotheque, aquarium, bar, beauty_salon",3608
-1022,24528,indoor,"swimming_pool/indoor, lobby, reception, discotheque, escalator/indoor",3608
-1023,24552,indoor,"swimming_pool/indoor, jewelry_shop, reception, childs_room, discotheque",3608
-1024,24576,indoor,"swimming_pool/indoor, staircase, jacuzzi/indoor, mezzanine, lobby",3608
-1025,24600,indoor,"swimming_pool/indoor, jacuzzi/indoor, staircase, corridor, discotheque",3608
-1026,24624,indoor,"swimming_pool/indoor, staircase, corridor, escalator/indoor, entrance_hall",3608
-1027,24648,indoor,"swimming_pool/indoor, staircase, jacuzzi/indoor, entrance_hall, lobby",3608
-1028,24672,indoor,"staircase, childs_room, swimming_pool/indoor, escalator/indoor, entrance_hall",3608
-1029,24696,indoor,"swimming_pool/indoor, staircase, childs_room, discotheque, museum/indoor",3608
-1030,24720,indoor,"swimming_pool/indoor, childs_room, staircase, jacuzzi/indoor, lobby",3608
-1031,24744,indoor,"staircase, swimming_pool/indoor, entrance_hall, museum/indoor, escalator/indoor",3608
-1032,24768,indoor,"staircase, childs_room, swimming_pool/indoor, entrance_hall, nursery",3608
-1033,24792,indoor,"swimming_pool/indoor, staircase, lobby, entrance_hall, reception",3608
-1034,24816,indoor,"discotheque, aquarium, stage/indoor, swimming_pool/indoor, museum/indoor",3608
-1035,24840,indoor,"swimming_pool/indoor, staircase, lobby, museum/indoor, entrance_hall",3608
-1036,24864,indoor,"staircase, swimming_pool/indoor, lobby, museum/indoor, childs_room",3608
-1037,24888,indoor,"childs_room, jewelry_shop, swimming_pool/indoor, clean_room, museum/indoor",3608
-1038,24912,indoor,"swimming_pool/indoor, staircase, throne_room, childs_room, lobby",3608
-1039,24936,indoor,"swimming_pool/indoor, discotheque, clean_room, locker_room, corridor",3608
-1040,24960,indoor,"swimming_pool/indoor, jewelry_shop, childs_room, jacuzzi/indoor, lobby",3608
-1041,24984,indoor,"swimming_pool/indoor, jewelry_shop, lobby, childs_room, jacuzzi/indoor",3608
-1042,25008,indoor,"swimming_pool/indoor, lobby, jewelry_shop, beauty_salon, childs_room",3608
-1043,25032,indoor,"swimming_pool/indoor, corridor, airport_terminal, subway_station/platform, entrance_hall",3608
-1044,25056,indoor,"swimming_pool/indoor, lobby, reception, clean_room, jacuzzi/indoor",3608
-1045,25080,indoor,"swimming_pool/indoor, childs_room, jewelry_shop, jacuzzi/indoor, staircase",3608
-1046,25104,indoor,"swimming_pool/indoor, lobby, staircase, jacuzzi/indoor, entrance_hall",3608
-1047,25128,indoor,"swimming_pool/indoor, jacuzzi/indoor, staircase, childs_room, jewelry_shop",3608
-1048,25152,indoor,"reception, ticket_booth, booth/indoor, pharmacy, fastfood_restaurant",3608
-1049,25176,indoor,"ticket_booth, reception, booth/indoor, pharmacy, elevator/door",3608
-1050,25200,indoor,"ticket_booth, reception, booth/indoor, pharmacy, fastfood_restaurant",3608
-1051,25224,indoor,"reception, ticket_booth, booth/indoor, pharmacy, elevator/door",3608
-1052,25248,indoor,"reception, ticket_booth, booth/indoor, pharmacy, elevator/door",3608
-1053,25272,indoor,"ticket_booth, reception, booth/indoor, pharmacy, elevator/door",3608
-1054,25296,indoor,"ticket_booth, reception, booth/indoor, pharmacy, elevator/door",3608
-1055,25320,indoor,"ticket_booth, reception, booth/indoor, pharmacy, elevator/door",3608
-1056,25344,indoor,"reception, ticket_booth, fastfood_restaurant, booth/indoor, pharmacy",3608
-1057,25368,indoor,"discotheque, shower, clean_room, nursery, iceberg",3608
-1058,25392,indoor,"discotheque, shower, iceberg, chemistry_lab, science_museum",3608
-1059,25416,outdoor,"hot_spring, discotheque, underwater/ocean_deep, ocean, aquarium",3608
-1060,25440,outdoor,"discotheque, iceberg, hot_spring, ocean, ice_shelf",3608
-1061,25464,outdoor,"discotheque, iceberg, ocean, hot_spring, ice_shelf",3608
-1062,25488,indoor,"discotheque, iceberg, aquarium, underwater/ocean_deep, shower",3608
-1063,25512,outdoor,"hot_spring, discotheque, ocean, underwater/ocean_deep, sky",3608
-1064,25536,outdoor,"discotheque, iceberg, hot_spring, ice_floe, childs_room",3608
-1065,25560,outdoor,"iceberg, discotheque, ice_shelf, ocean, hot_spring",3608
-1066,25584,indoor,"crosswalk, discotheque, staircase, hot_spring, shower",3608
-1067,25608,outdoor,"hot_spring, ocean, discotheque, lake/natural, pier",3608
-1068,25632,outdoor,"ocean, ice_shelf, hot_spring, iceberg, ice_floe",3608
-1069,25656,outdoor,"ocean, hot_spring, staircase, ice_shelf, iceberg",3608
-1070,25680,outdoor,"ocean, ice_shelf, hot_spring, crosswalk, lake/natural",3608
-1071,25704,indoor,"shower, aquarium, underwater/ocean_deep, jail_cell, bathroom",3608
-1072,25728,indoor,"shower, aquarium, jacuzzi/indoor, swimming_pool/indoor, bathroom",3608
-1073,25752,indoor,"shower, aquarium, jacuzzi/indoor, swimming_pool/indoor, bow_window/indoor",3608
-1074,25776,indoor,"aquarium, shower, jewelry_shop, museum/indoor, jacuzzi/indoor",3608
-1075,25800,indoor,"aquarium, shower, underwater/ocean_deep, jail_cell, museum/indoor",3608
-1076,25824,indoor,"aquarium, shower, underwater/ocean_deep, museum/indoor, ice_shelf",3608
-1077,25848,indoor,"aquarium, shower, underwater/ocean_deep, ice_shelf, museum/indoor",3608
-1078,25872,indoor,"aquarium, shower, underwater/ocean_deep, museum/indoor, jewelry_shop",3608
-1079,25896,indoor,"shower, aquarium, underwater/ocean_deep, hot_spring, discotheque",3608
-1080,25920,indoor,"aquarium, shower, underwater/ocean_deep, ice_shelf, museum/indoor",3608
-1081,25944,indoor,"aquarium, shower, underwater/ocean_deep, museum/indoor, ice_shelf",3608
-1082,25968,indoor,"aquarium, underwater/ocean_deep, shower, museum/indoor, science_museum",3608
-1083,25992,indoor,"aquarium, shower, underwater/ocean_deep, museum/indoor, science_museum",3608
-1084,26016,indoor,"aquarium, underwater/ocean_deep, shower, science_museum, museum/indoor",3608
-1085,26040,indoor,"aquarium, jewelry_shop, underwater/ocean_deep, ice_shelf, shower",3608
-1086,26064,indoor,"shower, aquarium, bathroom, underwater/ocean_deep, jail_cell",3608
-1087,26088,indoor,"shower, aquarium, bathroom, jacuzzi/indoor, swimming_pool/indoor",3608
-1088,26112,indoor,"shower, aquarium, museum/indoor, jacuzzi/indoor, bow_window/indoor",3608
-1089,26136,indoor,"aquarium, shower, underwater/ocean_deep, museum/indoor, jacuzzi/indoor",3608
-1090,26160,indoor,"aquarium, shower, underwater/ocean_deep, bathroom, ice_shelf",3608
-1091,26184,indoor,"shower, aquarium, underwater/ocean_deep, jewelry_shop, museum/indoor",3608
-1092,26208,indoor,"aquarium, underwater/ocean_deep, shower, museum/indoor, ice_shelf",3608
-1093,26232,indoor,"aquarium, underwater/ocean_deep, shower, science_museum, museum/indoor",3608
-1094,26256,indoor,"aquarium, shower, museum/indoor, bathroom, underwater/ocean_deep",3608
-1095,26280,outdoor,"aquarium, shower, underwater/ocean_deep, ocean, ice_shelf",3608
-1096,26304,indoor,"museum/indoor, shower, aquarium, jewelry_shop, art_gallery",3608
-1097,26328,indoor,"aquarium, underwater/ocean_deep, shower, science_museum, museum/indoor",3608
-1098,26352,indoor,"aquarium, ice_shelf, underwater/ocean_deep, shower, museum/indoor",3608
-1099,26376,indoor,"shower, aquarium, museum/indoor, underwater/ocean_deep, jacuzzi/indoor",3608
-1100,26400,indoor,"shower, aquarium, museum/indoor, bathroom, underwater/ocean_deep",3608
-1101,26424,indoor,"aquarium, shower, museum/indoor, jewelry_shop, bathroom",3608
-1102,26448,indoor,"shower, aquarium, underwater/ocean_deep, museum/indoor, jewelry_shop",3608
-1103,26472,indoor,"shower, aquarium, underwater/ocean_deep, bathroom, museum/indoor",3608
-1104,26496,indoor,"aquarium, shower, underwater/ocean_deep, museum/indoor, ice_shelf",3608
-1105,26520,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, hospital",3608
-1106,26544,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-1107,26568,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-1108,26592,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-1109,26616,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-1110,26640,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1111,26664,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, hospital",3608
-1112,26688,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, hospital",3608
-1113,26712,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, hospital, pharmacy",3608
-1114,26736,indoor,"aquarium, discotheque, underwater/ocean_deep, swimming_pool/indoor, jewelry_shop",3608
-1115,26760,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, pond",3608
-1116,26784,outdoor,"underwater/ocean_deep, aquarium, pond, swimming_hole, lake/natural",3608
-1117,26808,outdoor,"underwater/ocean_deep, aquarium, forest/broadleaf, pond, swimming_hole",3608
-1118,26832,outdoor,"underwater/ocean_deep, aquarium, forest/broadleaf, bamboo_forest, rainforest",3608
-1119,26856,outdoor,"underwater/ocean_deep, aquarium, forest/broadleaf, pond, rainforest",3608
-1120,26880,outdoor,"underwater/ocean_deep, aquarium, shower, forest/broadleaf, pond",3608
-1121,26904,outdoor,"underwater/ocean_deep, swimming_hole, pond, forest/broadleaf, lake/natural",3608
-1122,26928,outdoor,"swimming_hole, forest/broadleaf, pond, underwater/ocean_deep, rainforest",3608
-1123,26952,outdoor,"swimming_hole, pond, forest/broadleaf, hot_spring, underwater/ocean_deep",3608
-1124,26976,outdoor,"forest/broadleaf, rainforest, bamboo_forest, swimming_hole, pond",3608
-1125,27000,outdoor,"forest/broadleaf, underwater/ocean_deep, swimming_hole, rainforest, pond",3608
-1126,27024,outdoor,"forest/broadleaf, underwater/ocean_deep, bamboo_forest, rainforest, swamp",3608
-1127,27048,outdoor,"underwater/ocean_deep, aquarium, forest/broadleaf, rainforest, bamboo_forest",3608
-1128,27072,outdoor,"underwater/ocean_deep, forest/broadleaf, rainforest, swimming_hole, pond",3608
-1129,27096,outdoor,"underwater/ocean_deep, forest/broadleaf, swimming_hole, rainforest, bamboo_forest",3608
-1130,27120,outdoor,"underwater/ocean_deep, forest/broadleaf, aquarium, rainforest, bamboo_forest",3608
-1131,27144,indoor,"discotheque, ice_shelf, chemistry_lab, engine_room, museum/indoor",3608
-1132,27168,indoor,"discotheque, shower, museum/indoor, ocean, stage/indoor",3608
-1133,27192,indoor,"museum/indoor, discotheque, stage/indoor, shower, dressing_room",3608
-1134,27216,indoor,"museum/indoor, discotheque, shower, dressing_room, stage/indoor",3608
-1135,27240,indoor,"shower, museum/indoor, discotheque, dressing_room, aquarium",3608
-1136,27264,indoor,"shower, museum/indoor, dressing_room, discotheque, aquarium",3608
-1137,27288,indoor,"shower, museum/indoor, aquarium, discotheque, fountain",3608
-1138,27312,indoor,"shower, aquarium, bathroom, museum/indoor, discotheque",3608
-1139,27336,outdoor,"shower, ice_shelf, discotheque, ice_floe, ocean",3608
-1140,27360,indoor,"shower, discotheque, bathroom, fountain, museum/indoor",3608
-1141,27384,indoor,"discotheque, shower, slum, aquarium, museum/indoor",3608
-1142,27408,indoor,"discotheque, shower, ice_shelf, chemistry_lab, museum/indoor",3608
-1143,27432,outdoor,"shower, ice_shelf, ice_floe, hot_spring, discotheque",3608
-1144,27456,outdoor,"discotheque, ice_shelf, shower, ice_floe, igloo",3608
-1145,27480,outdoor,"ice_shelf, discotheque, ice_floe, iceberg, igloo",3608
-1146,27504,outdoor,"ice_shelf, iceberg, igloo, ice_floe, discotheque",3608
-1147,27528,outdoor,"igloo, ice_shelf, cemetery, discotheque, iceberg",3608
-1148,27552,outdoor,"ice_shelf, iceberg, ice_floe, igloo, slum",3608
-1149,27576,outdoor,"ice_shelf, crevasse, glacier, slum, ice_floe",3608
-1150,27600,outdoor,"ice_shelf, crevasse, glacier, jail_cell, ice_floe",3608
-1151,27624,outdoor,"ice_shelf, crevasse, glacier, iceberg, slum",3608
-1152,27648,indoor,"reception, pharmacy, ticket_booth, fastfood_restaurant, drugstore",3608
-1153,27672,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1154,27696,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1155,27720,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1156,27744,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1157,27768,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1158,27792,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1159,27816,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1160,27840,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, reception, pharmacy",3608
-1161,27864,indoor,"clean_room, downtown, chemistry_lab, skyscraper, drugstore",3608
-1162,27888,outdoor,"shower, discotheque, fountain, alley, ice_shelf",3608
-1163,27912,outdoor,"shower, fountain, alley, ice_shelf, slum",3608
-1164,27936,outdoor,"fountain, shower, alley, slum, ice_shelf",3608
-1165,27960,outdoor,"shower, fountain, discotheque, slum, ice_shelf",3608
-1166,27984,indoor,"fountain, discotheque, ice_shelf, shower, bar",3608
-1167,28008,outdoor,"discotheque, slum, ice_shelf, bar, alley",3608
-1168,28032,outdoor,"discotheque, bar, slum, alley, ice_shelf",3608
-1169,28056,indoor,"discotheque, bar, chemistry_lab, beauty_salon, dressing_room",3608
-1170,28080,indoor,"discotheque, bar, archive, chemistry_lab, stage/indoor",3608
-1171,28104,indoor,"discotheque, bar, archive, chemistry_lab, beauty_salon",3608
-1172,28128,indoor,"discotheque, archive, museum/indoor, bar, dressing_room",3608
-1173,28152,indoor,"discotheque, bar, dressing_room, archive, chemistry_lab",3608
-1174,28176,indoor,"discotheque, dressing_room, beauty_salon, museum/indoor, archive",3608
-1175,28200,indoor,"discotheque, bar, beauty_salon, dressing_room, shower",3608
-1176,28224,indoor,"discotheque, shower, ice_shelf, fountain, beauty_salon",3608
-1177,28248,indoor,"shower, discotheque, fountain, bar, ice_shelf",3608
-1178,28272,indoor,"fountain, discotheque, shower, bar, swimming_pool/indoor",3608
-1179,28296,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1180,28320,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1181,28344,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1182,28368,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1183,28392,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1184,28416,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1185,28440,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1186,28464,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1187,28488,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1188,28512,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1189,28536,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1190,28560,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1191,28584,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1192,28608,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, kindergarden_classroom, hospital",3608
-1193,28632,indoor,"shower, discotheque, ice_shelf, ice_floe, museum/indoor",3608
-1194,28656,outdoor,"ice_shelf, ice_floe, shower, iceberg, hot_spring",3608
-1195,28680,indoor,"shower, discotheque, museum/indoor, kindergarden_classroom, ice_shelf",3608
-1196,28704,indoor,"museum/indoor, discotheque, shower, fountain, ice_shelf",3608
-1197,28728,indoor,"ice_shelf, discotheque, ice_floe, museum/indoor, shower",3608
-1198,28752,indoor,"shower, ballroom, discotheque, dressing_room, stage/indoor",3608
-1199,28776,indoor,"discotheque, museum/indoor, ice_shelf, shower, stage/indoor",3608
-1200,28800,indoor,"shower, discotheque, ice_shelf, slum, dressing_room",3608
-1201,28824,indoor,"discotheque, shower, locker_room, ballroom, dressing_room",3608
-1202,28848,indoor,"shower, discotheque, locker_room, dressing_room, stage/indoor",3608
-1203,28872,indoor,"shower, locker_room, discotheque, dressing_room, slum",3608
-1204,28896,indoor,"shower, locker_room, discotheque, ice_shelf, dressing_room",3608
-1205,28920,indoor,"shower, locker_room, discotheque, dressing_room, slum",3608
-1206,28944,indoor,"shower, discotheque, locker_room, dressing_room, ballroom",3608
-1207,28968,indoor,"shower, ice_shelf, dressing_room, discotheque, locker_room",3608
-1208,28992,indoor,"discotheque, shower, dressing_room, museum/indoor, locker_room",3608
-1209,29016,indoor,"discotheque, museum/indoor, shower, ballroom, stage/indoor",3608
-1210,29040,indoor,"museum/indoor, discotheque, dressing_room, shower, stage/indoor",3608
-1211,29064,indoor,"museum/indoor, discotheque, slum, stage/indoor, shower",3608
-1212,29088,indoor,"discotheque, stage/indoor, shower, ballroom, music_studio",3608
-1213,29112,indoor,"discotheque, shower, stage/indoor, ballroom, ice_shelf",3608
-1214,29136,indoor,"discotheque, shower, slum, stage/indoor, dressing_room",3608
-1215,29160,indoor,"discotheque, stage/indoor, shower, dressing_room, slum",3608
-1216,29184,indoor,"dressing_room, shower, slum, locker_room, discotheque",3608
-1217,29208,indoor,"slum, dressing_room, shower, ice_shelf, locker_room",3608
-1218,29232,outdoor,"ice_shelf, ice_floe, discotheque, iceberg, stage/indoor",3608
-1219,29256,indoor,"discotheque, dressing_room, shower, museum/indoor, locker_room",3608
-1220,29280,indoor,"museum/indoor, shower, stage/indoor, clean_room, discotheque",3608
-1221,29304,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1222,29328,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1223,29352,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1224,29376,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1225,29400,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1226,29424,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1227,29448,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1228,29472,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1229,29496,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1230,29520,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1231,29544,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1232,29568,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1233,29592,outdoor,"ice_shelf, discotheque, ice_floe, iceberg, martial_arts_gym",3608
-1234,29616,outdoor,"ice_shelf, ice_floe, iceberg, martial_arts_gym, clean_room",3608
-1235,29640,indoor,"ice_shelf, museum/indoor, ice_floe, clean_room, martial_arts_gym",3608
-1236,29664,indoor,"museum/indoor, ice_shelf, clean_room, ice_floe, locker_room",3608
-1237,29688,outdoor,"slum, ice_shelf, martial_arts_gym, museum/indoor, ice_floe",3608
-1238,29712,outdoor,"slum, ice_shelf, ice_floe, museum/indoor, locker_room",3608
-1239,29736,outdoor,"ice_shelf, ice_floe, slum, iceberg, museum/indoor",3608
-1240,29760,outdoor,"ice_shelf, ice_floe, slum, museum/indoor, clean_room",3608
-1241,29784,outdoor,"ice_shelf, ice_floe, museum/indoor, archive, slum",3608
-1242,29808,indoor,"ice_floe, ice_shelf, dressing_room, clean_room, museum/indoor",3608
-1243,29832,indoor,"dressing_room, slum, ice_shelf, museum/indoor, clean_room",3608
-1244,29856,indoor,"ice_shelf, museum/indoor, dressing_room, ice_floe, discotheque",3608
-1245,29880,indoor,"museum/indoor, discotheque, martial_arts_gym, boxing_ring, dressing_room",3608
-1246,29904,indoor,"discotheque, dressing_room, martial_arts_gym, shower, ice_shelf",3608
-1247,29928,indoor,"discotheque, dressing_room, martial_arts_gym, nursery, shower",3608
-1248,29952,indoor,"discotheque, ice_shelf, shower, dressing_room, museum/indoor",3608
-1249,29976,indoor,"ice_shelf, discotheque, museum/indoor, ice_floe, kindergarden_classroom",3608
-1250,30000,indoor,"clean_room, museum/indoor, nursery, ice_shelf, locker_room",3608
-1251,30024,indoor,"museum/indoor, ice_shelf, discotheque, nursery, stage/indoor",3608
-1252,30048,indoor,"museum/indoor, ice_shelf, nursery, discotheque, ice_floe",3608
-1253,30072,indoor,"museum/indoor, burial_chamber, discotheque, ice_shelf, stage/indoor",3608
-1254,30096,indoor,"museum/indoor, nursery, discotheque, ice_shelf, martial_arts_gym",3608
-1255,30120,indoor,"martial_arts_gym, ice_floe, nursery, ice_shelf, discotheque",3608
-1256,30144,indoor,"dressing_room, ice_shelf, museum/indoor, clean_room, ice_floe",3608
-1257,30168,indoor,"dressing_room, museum/indoor, martial_arts_gym, archive, nursery",3608
-1258,30192,indoor,"martial_arts_gym, locker_room, dressing_room, kindergarden_classroom, discotheque",3608
-1259,30216,indoor,"martial_arts_gym, discotheque, museum/indoor, dressing_room, ballroom",3608
-1260,30240,indoor,"museum/indoor, dressing_room, martial_arts_gym, discotheque, shower",3608
-1261,30264,indoor,"museum/indoor, dressing_room, ice_shelf, discotheque, shower",3608
-1262,30288,indoor,"museum/indoor, clean_room, dressing_room, shower, discotheque",3608
-1263,30312,indoor,"clean_room, museum/indoor, dressing_room, martial_arts_gym, locker_room",3608
-1264,30336,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1265,30360,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, shopfront",3608
-1266,30384,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, shopfront",3608
-1267,30408,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1268,30432,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1269,30456,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1270,30480,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1271,30504,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, shopfront",3608
-1272,30528,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, shopfront",3608
-1273,30552,indoor,"discotheque, stage/indoor, bar, music_studio, basement",3608
-1274,30576,indoor,"discotheque, stage/indoor, bar, volcano, music_studio",3608
-1275,30600,indoor,"discotheque, stage/indoor, bar, ball_pit, volcano",3608
-1276,30624,indoor,"discotheque, volcano, bar, stage/indoor, hot_spring",3608
-1277,30648,indoor,"discotheque, bar, stage/indoor, volcano, hot_spring",3608
-1278,30672,indoor,"discotheque, volcano, bar, stage/indoor, hot_spring",3608
-1279,30696,indoor,"discotheque, bar, volcano, hot_spring, wet_bar",3608
-1280,30720,indoor,"discotheque, bar, stage/indoor, ball_pit, music_studio",3608
-1281,30744,indoor,"discotheque, bar, stage/indoor, volcano, hot_spring",3608
-1282,30768,indoor,"discotheque, bar, volcano, stage/indoor, hot_spring",3608
-1283,30792,indoor,"discotheque, bar, volcano, stage/indoor, hot_spring",3608
-1284,30816,indoor,"discotheque, bar, volcano, stage/indoor, hot_spring",3608
-1285,30840,indoor,"discotheque, bar, volcano, stage/indoor, hot_spring",3608
-1286,30864,indoor,"discotheque, bar, stage/indoor, volcano, hot_spring",3608
-1287,30888,indoor,"discotheque, bar, stage/indoor, music_studio, volcano",3608
-1288,30912,indoor,"discotheque, stage/indoor, bar, ball_pit, playroom",3608
-1289,30936,indoor,"discotheque, stage/indoor, bar, ball_pit, playroom",3608
-1290,30960,indoor,"discotheque, stage/indoor, bar, ball_pit, playroom",3608
-1291,30984,indoor,"discotheque, bar, stage/indoor, volcano, hot_spring",3608
-1292,31008,indoor,"discotheque, bar, stage/indoor, volcano, hot_spring",3608
-1293,31032,indoor,"discotheque, stage/indoor, bar, music_studio, basement",3608
-1294,31056,indoor,"discotheque, stage/indoor, bar, playroom, basement",3608
-1295,31080,indoor,"discotheque, bar, stage/indoor, hot_spring, volcano",3608
-1296,31104,indoor,"discotheque, stage/indoor, bar, playroom, music_studio",3608
-1297,31128,indoor,"discotheque, stage/indoor, bar, music_studio, basement",3608
-1298,31152,outdoor,"shower, igloo, playground, dressing_room, ice_shelf",3608
-1299,31176,indoor,"dressing_room, shower, discotheque, bar, beauty_salon",3608
-1300,31200,indoor,"museum/indoor, discotheque, shower, bar, dressing_room",3608
-1301,31224,indoor,"discotheque, shower, chemistry_lab, martial_arts_gym, dressing_room",3608
-1302,31248,indoor,"shower, dressing_room, discotheque, clothing_store, beauty_salon",3608
-1303,31272,indoor,"dressing_room, discotheque, bar, beauty_salon, shower",3608
-1304,31296,indoor,"discotheque, dressing_room, bar, beauty_salon, shower",3608
-1305,31320,indoor,"dressing_room, discotheque, bar, beauty_salon, shower",3608
-1306,31344,indoor,"discotheque, dressing_room, bar, shower, chemistry_lab",3608
-1307,31368,indoor,"clean_room, discotheque, chemistry_lab, dressing_room, biology_laboratory",3608
-1308,31392,indoor,"dressing_room, chemistry_lab, beauty_salon, biology_laboratory, shower",3608
-1309,31416,indoor,"dressing_room, shower, chemistry_lab, clean_room, biology_laboratory",3608
-1310,31440,indoor,"dressing_room, shower, discotheque, clothing_store, bar",3608
-1311,31464,indoor,"dressing_room, shower, bar, chemistry_lab, ice_shelf",3608
-1312,31488,indoor,"dressing_room, slum, discotheque, bar, ice_shelf",3608
-1313,31512,indoor,"dressing_room, shower, bar, clothing_store, discotheque",3608
-1314,31536,indoor,"dressing_room, discotheque, shower, bar, chemistry_lab",3608
-1315,31560,indoor,"dressing_room, shower, slum, bar, discotheque",3608
-1316,31584,indoor,"dressing_room, shower, slum, beauty_salon, bathroom",3608
-1317,31608,indoor,"dressing_room, discotheque, clothing_store, ice_shelf, clean_room",3608
-1318,31632,indoor,"dressing_room, clothing_store, ice_shelf, clean_room, jewelry_shop",3608
-1319,31656,indoor,"dressing_room, beauty_salon, clean_room, locker_room, clothing_store",3608
-1320,31680,indoor,"dressing_room, beauty_salon, clean_room, drugstore, chemistry_lab",3608
-1321,31704,indoor,"dressing_room, beauty_salon, bar, discotheque, clean_room",3608
-1322,31728,indoor,"dressing_room, beauty_salon, bar, clean_room, archive",3608
-1323,31752,indoor,"dressing_room, beauty_salon, discotheque, ice_shelf, classroom",3608
-1324,31776,indoor,"dressing_room, beauty_salon, ice_shelf, bar, biology_laboratory",3608
-1325,31800,indoor,"dressing_room, beauty_salon, bar, discotheque, ice_shelf",3608
-1326,31824,indoor,"dressing_room, ice_shelf, beauty_salon, bar, ice_floe",3608
-1327,31848,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1328,31872,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, pharmacy, drugstore",3608
-1329,31896,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1330,31920,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1331,31944,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1332,31968,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1333,31992,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1334,32016,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1335,32040,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1336,32064,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1337,32088,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1338,32112,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1339,32136,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1340,32160,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1341,32184,indoor,"fastfood_restaurant, ticket_booth, booth/indoor, pharmacy, drugstore",3608
-1342,32208,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1343,32232,indoor,"basement, staircase, alley, discotheque, corridor",3608
-1344,32256,indoor,"staircase, corridor, atrium/public, jail_cell, entrance_hall",3608
-1345,32280,indoor,"staircase, entrance_hall, basement, corridor, jail_cell",3608
-1346,32304,indoor,"staircase, entrance_hall, jail_cell, corridor, basement",3608
-1347,32328,indoor,"staircase, entrance_hall, jail_cell, corridor, escalator/indoor",3608
-1348,32352,indoor,"staircase, entrance_hall, corridor, escalator/indoor, jail_cell",3608
-1349,32376,indoor,"staircase, entrance_hall, corridor, escalator/indoor, alley",3608
-1350,32400,indoor,"staircase, entrance_hall, escalator/indoor, corridor, crosswalk",3608
-1351,32424,indoor,"playground, staircase, crosswalk, escalator/indoor, train_station/platform",3608
-1352,32448,indoor,"escalator/indoor, staircase, playground, entrance_hall, crosswalk",3608
-1353,32472,indoor,"staircase, escalator/indoor, entrance_hall, corridor, alley",3608
-1354,32496,outdoor,"staircase, playground, escalator/indoor, alley, crosswalk",3608
-1355,32520,indoor,"staircase, playground, crosswalk, escalator/indoor, train_station/platform",3608
-1356,32544,indoor,"staircase, alley, escalator/indoor, entrance_hall, corridor",3608
-1357,32568,indoor,"staircase, entrance_hall, alley, playground, corridor",3608
-1358,32592,indoor,"staircase, entrance_hall, escalator/indoor, fire_escape, corridor",3608
-1359,32616,indoor,"staircase, playground, escalator/indoor, entrance_hall, rope_bridge",3608
-1360,32640,outdoor,"playground, staircase, crosswalk, escalator/indoor, igloo",3608
-1361,32664,indoor,"staircase, escalator/indoor, alley, entrance_hall, rope_bridge",3608
-1362,32688,indoor,"staircase, playground, crosswalk, escalator/indoor, entrance_hall",3608
-1363,32712,indoor,"staircase, entrance_hall, escalator/indoor, crosswalk, playground",3608
-1364,32736,indoor,"staircase, escalator/indoor, entrance_hall, corridor, boat_deck",3608
-1365,32760,indoor,"staircase, entrance_hall, escalator/indoor, stable, jail_cell",3608
-1366,32784,indoor,"staircase, jail_cell, entrance_hall, atrium/public, basement",3608
-1367,32808,indoor,"staircase, entrance_hall, corridor, basement, jail_cell",3608
-1368,32832,indoor,"staircase, jail_cell, basement, corridor, fire_escape",3608
-1369,32856,indoor,"staircase, basement, jail_cell, corridor, entrance_hall",3608
-1370,32880,indoor,"burial_chamber, jail_cell, sauna, attic, basement",3608
-1371,32904,indoor,"jail_cell, burial_chamber, archive, sauna, basement",3608
-1372,32928,indoor,"nursery, archive, igloo, burial_chamber, bar",3608
-1373,32952,indoor,"archive, nursery, burial_chamber, jail_cell, clothing_store",3608
-1374,32976,indoor,"burial_chamber, igloo, clean_room, basement, archive",3608
-1375,33000,indoor,"igloo, burial_chamber, archive, ice_shelf, discotheque",3608
-1376,33024,indoor,"igloo, burial_chamber, archive, schoolhouse, nursery",3608
-1377,33048,indoor,"igloo, phone_booth, jail_cell, burial_chamber, clean_room",3608
-1378,33072,indoor,"burial_chamber, igloo, jail_cell, porch, alcove",3608
-1379,33096,indoor,"martial_arts_gym, boxing_ring, burial_chamber, igloo, sauna",3608
-1380,33120,indoor,"martial_arts_gym, dressing_room, discotheque, sauna, archive",3608
-1381,33144,indoor,"discotheque, igloo, archive, ice_shelf, clean_room",3608
-1382,33168,indoor,"dressing_room, sauna, discotheque, shower, burial_chamber",3608
-1383,33192,indoor,"dressing_room, sauna, burial_chamber, shower, museum/indoor",3608
-1384,33216,indoor,"dressing_room, discotheque, sauna, bar, locker_room",3608
-1385,33240,indoor,"sauna, dressing_room, jail_cell, discotheque, locker_room",3608
-1386,33264,indoor,"burial_chamber, museum/indoor, sauna, dressing_room, bathroom",3608
-1387,33288,indoor,"shower, burial_chamber, jail_cell, sauna, discotheque",3608
-1388,33312,indoor,"discotheque, jail_cell, dressing_room, shower, burial_chamber",3608
-1389,33336,indoor,"discotheque, clean_room, shower, jail_cell, bar",3608
-1390,33360,indoor,"igloo, burial_chamber, jail_cell, nursery, clean_room",3608
-1391,33384,indoor,"nursery, dressing_room, discotheque, burial_chamber, igloo",3608
-1392,33408,indoor,"igloo, discotheque, bar, nursery, dressing_room",3608
-1393,33432,indoor,"igloo, discotheque, nursery, bar, dressing_room",3608
-1394,33456,indoor,"igloo, discotheque, martial_arts_gym, nursery, burial_chamber",3608
-1395,33480,indoor,"discotheque, igloo, archive, nursery, sauna",3608
-1396,33504,indoor,"jail_cell, burial_chamber, archive, discotheque, bar",3608
-1397,33528,indoor,"archive, clean_room, jail_cell, igloo, nursery",3608
-1398,33552,indoor,"clean_room, burial_chamber, igloo, jail_cell, archive",3608
-1399,33576,indoor,"igloo, archive, schoolhouse, martial_arts_gym, burial_chamber",3608
-1400,33600,indoor,"igloo, nursery, clean_room, archive, ice_shelf",3608
-1401,33624,indoor,"clean_room, igloo, discotheque, operating_room, nursery",3608
-1402,33648,indoor,"dressing_room, nursery, archive, clean_room, hospital_room",3608
-1403,33672,indoor,"dressing_room, igloo, jail_cell, alcove, burial_chamber",3608
-1404,33696,indoor,"dressing_room, shower, nursery, locker_room, jail_cell",3608
-1405,33720,indoor,"boxing_ring, dressing_room, martial_arts_gym, shower, museum/indoor",3608
-1406,33744,indoor,"martial_arts_gym, museum/indoor, boxing_ring, clothing_store, clean_room",3608
-1407,33768,indoor,"boxing_ring, discotheque, shower, martial_arts_gym, archive",3608
-1408,33792,indoor,"clean_room, archive, museum/indoor, burial_chamber, locker_room",3608
-1409,33816,indoor,"igloo, burial_chamber, nursery, archive, clean_room",3608
-1410,33840,indoor,"igloo, dressing_room, nursery, discotheque, hospital_room",3608
-1411,33864,indoor,"igloo, archive, kindergarden_classroom, nursery, schoolhouse",3608
-1412,33888,outdoor,"igloo, jail_cell, schoolhouse, archive, phone_booth",3608
-1413,33912,indoor,"igloo, schoolhouse, nursery, kindergarden_classroom, archive",3608
-1414,33936,indoor,"igloo, schoolhouse, clean_room, jail_cell, hospital_room",3608
-1415,33960,indoor,"igloo, discotheque, nursery, ice_shelf, kindergarden_classroom",3608
-1416,33984,indoor,"igloo, schoolhouse, kindergarden_classroom, nursery, archive",3608
-1417,34008,indoor,"schoolhouse, igloo, kindergarden_classroom, nursery, discotheque",3608
-1418,34032,indoor,"igloo, archive, schoolhouse, burial_chamber, nursery",3608
-1419,34056,indoor,"schoolhouse, archive, martial_arts_gym, kindergarden_classroom, sauna",3608
-1420,34080,indoor,"igloo, burial_chamber, schoolhouse, jail_cell, alcove",3608
-1421,34104,indoor,"igloo, schoolhouse, burial_chamber, hospital_room, archive",3608
-1422,34128,outdoor,"igloo, schoolhouse, archive, ice_shelf, jail_cell",3608
-1423,34152,indoor,"igloo, schoolhouse, archive, clean_room, jail_cell",3608
-1424,34176,indoor,"sauna, jail_cell, dressing_room, burial_chamber, clean_room",3608
-1425,34200,indoor,"igloo, jail_cell, burial_chamber, schoolhouse, alcove",3608
-1426,34224,indoor,"igloo, jail_cell, schoolhouse, archive, clean_room",3608
-1427,34248,indoor,"igloo, nursery, archive, hospital_room, schoolhouse",3608
-1428,34272,indoor,"igloo, archive, burial_chamber, schoolhouse, jail_cell",3608
-1429,34296,indoor,"igloo, archive, clean_room, martial_arts_gym, jail_cell",3608
-1430,34320,indoor,"igloo, jail_cell, archive, schoolhouse, burial_chamber",3608
-1431,34344,indoor,"archive, clean_room, igloo, schoolhouse, museum/indoor",3608
-1432,34368,indoor,"archive, schoolhouse, clean_room, museum/indoor, igloo",3608
-1433,34392,indoor,"archive, clean_room, schoolhouse, museum/indoor, igloo",3608
-1434,34416,indoor,"igloo, archive, schoolhouse, jail_cell, museum/indoor",3608
-1435,34440,indoor,"igloo, archive, schoolhouse, alcove, jail_cell",3608
-1436,34464,indoor,"igloo, archive, jail_cell, clean_room, schoolhouse",3608
-1437,34488,indoor,"igloo, jail_cell, schoolhouse, archive, alcove",3608
-1438,34512,indoor,"jail_cell, archive, schoolhouse, dressing_room, sauna",3608
-1439,34536,indoor,"archive, schoolhouse, jail_cell, clean_room, igloo",3608
-1440,34560,indoor,"igloo, jail_cell, alcove, archive, schoolhouse",3608
-1441,34584,indoor,"jail_cell, igloo, alcove, burial_chamber, archive",3608
-1442,34608,indoor,"archive, igloo, clean_room, nursery, jail_cell",3608
-1443,34632,indoor,"clean_room, archive, igloo, nursery, museum/indoor",3608
-1444,34656,indoor,"clean_room, archive, museum/indoor, butchers_shop, burial_chamber",3608
-1445,34680,indoor,"clean_room, archive, operating_room, hospital_room, museum/indoor",3608
-1446,34704,indoor,"clean_room, igloo, shower, nursery, dressing_room",3608
-1447,34728,indoor,"discotheque, igloo, clean_room, ice_shelf, jail_cell",3608
-1448,34752,indoor,"jail_cell, igloo, shower, ice_shelf, bathroom",3608
-1449,34776,indoor,"jail_cell, sauna, igloo, shower, phone_booth",3608
-1450,34800,indoor,"jail_cell, shower, bathroom, igloo, phone_booth",3608
-1451,34824,outdoor,"jail_cell, shower, phone_booth, hot_spring, shed",3608
-1452,34848,indoor,"jail_cell, shower, phone_booth, bathroom, hot_spring",3608
-1453,34872,outdoor,"hot_spring, jail_cell, shower, shed, barndoor",3608
-1454,34896,outdoor,"hot_spring, shower, ice_shelf, ocean, discotheque",3608
-1455,34920,outdoor,"discotheque, fountain, ice_shelf, hot_spring, shower",3608
-1456,34944,outdoor,"hot_spring, shower, ice_shelf, discotheque, sky",3608
-1457,34968,outdoor,"discotheque, igloo, shower, hot_spring, ice_shelf",3608
-1458,34992,outdoor,"discotheque, ice_shelf, mosque/outdoor, ice_floe, chemistry_lab",3608
-1459,35016,outdoor,"discotheque, ice_shelf, ice_floe, iceberg, igloo",3608
-1460,35040,outdoor,"discotheque, ice_shelf, ice_floe, iceberg, igloo",3608
-1461,35064,outdoor,"discotheque, slum, hot_spring, hospital, shower",3608
-1462,35088,indoor,"shower, discotheque, volleyball_court/outdoor, museum/indoor, hot_spring",3608
-1463,35112,outdoor,"shower, ice_shelf, hot_spring, igloo, fountain",3608
-1464,35136,outdoor,"hot_spring, shower, ice_shelf, ocean, ice_floe",3608
-1465,35160,indoor,"shower, ocean, discotheque, hot_spring, swimming_pool/indoor",3608
-1466,35184,outdoor,"ice_floe, ice_shelf, discotheque, igloo, hot_spring",3608
-1467,35208,outdoor,"hot_spring, discotheque, ice_shelf, iceberg, kindergarden_classroom",3608
-1468,35232,indoor,"discotheque, nursery, kindergarden_classroom, stage/indoor, playroom",3608
-1469,35256,indoor,"discotheque, ballroom, martial_arts_gym, nursery, ice_shelf",3608
-1470,35280,indoor,"discotheque, martial_arts_gym, hospital_room, gymnasium/indoor, ballroom",3608
-1471,35304,indoor,"discotheque, nursery, clean_room, martial_arts_gym, chemistry_lab",3608
-1472,35328,indoor,"discotheque, nursery, martial_arts_gym, hospital_room, kindergarden_classroom",3608
-1473,35352,indoor,"kindergarden_classroom, discotheque, nursery, classroom, martial_arts_gym",3608
-1474,35376,indoor,"kindergarden_classroom, nursery, classroom, playroom, ice_floe",3608
-1475,35400,indoor,"discotheque, kindergarden_classroom, martial_arts_gym, ballroom, nursery",3608
-1476,35424,indoor,"martial_arts_gym, discotheque, kindergarden_classroom, museum/indoor, science_museum",3608
-1477,35448,indoor,"discotheque, martial_arts_gym, kindergarden_classroom, nursery, playroom",3608
-1478,35472,indoor,"discotheque, jail_cell, locker_room, classroom, bar",3608
-1479,35496,indoor,"discotheque, dressing_room, jail_cell, shower, locker_room",3608
-1480,35520,indoor,"shower, dressing_room, jail_cell, discotheque, museum/indoor",3608
-1481,35544,indoor,"jail_cell, nursery, shower, barndoor, doorway/outdoor",3608
-1482,35568,indoor,"jail_cell, bow_window/indoor, barndoor, doorway/outdoor, shower",3608
-1483,35592,indoor,"archive, bookstore, schoolhouse, bar, slum",3608
-1484,35616,indoor,"pharmacy, bar, drugstore, archive, schoolhouse",3608
-1485,35640,outdoor,"slum, alley, cemetery, archive, plaza",3608
-1486,35664,indoor,"archive, bar, slum, bookstore, museum/indoor",3608
-1487,35688,indoor,"pharmacy, drugstore, bar, archive, bookstore",3608
-1488,35712,indoor,"archive, bookstore, drugstore, pharmacy, bar",3608
-1489,35736,indoor,"discotheque, bar, archive, museum/indoor, stage/indoor",3608
-1490,35760,indoor,"discotheque, bar, archive, slum, pharmacy",3608
-1491,35784,indoor,"discotheque, stage/indoor, bar, kindergarden_classroom, archive",3608
-1492,35808,indoor,"bar, discotheque, kindergarden_classroom, archive, museum/indoor",3608
-1493,35832,indoor,"museum/indoor, discotheque, stage/indoor, archive, slum",3608
-1494,35856,indoor,"discotheque, stage/indoor, museum/indoor, bar, ballroom",3608
-1495,35880,indoor,"discotheque, bar, stage/indoor, ice_shelf, shower",3608
-1496,35904,indoor,"discotheque, shower, ice_shelf, slum, museum/indoor",3608
-1497,35928,indoor,"museum/indoor, discotheque, bar, stage/indoor, chemistry_lab",3608
-1498,35952,indoor,"gymnasium/indoor, martial_arts_gym, boxing_ring, stage/indoor, discotheque",3608
-1499,35976,indoor,"discotheque, gymnasium/indoor, shower, museum/indoor, locker_room",3608
-1500,36000,indoor,"discotheque, shower, gymnasium/indoor, dressing_room, ballroom",3608
-1501,36024,indoor,"discotheque, shower, dressing_room, clothing_store, bar",3608
-1502,36048,indoor,"museum/indoor, shower, archive, dressing_room, bar",3608
-1503,36072,indoor,"shower, archive, bar, discotheque, museum/indoor",3608
-1504,36096,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, ice_cream_parlor, pharmacy",3608
-1505,36120,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, ice_cream_parlor, pharmacy",3608
-1506,36144,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, ice_cream_parlor, pharmacy",3608
-1507,36168,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1508,36192,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1509,36216,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1510,36240,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1511,36264,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1512,36288,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1513,36312,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1514,36336,indoor,"ticket_booth, booth/indoor, fastfood_restaurant, ice_cream_parlor, pharmacy",3608
-1515,36360,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1516,36384,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, ice_cream_parlor, pharmacy",3608
-1517,36408,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, hospital",3608
-1518,36432,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, hospital",3608
-1519,36456,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, hospital",3608
-1520,36480,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, hospital",3608
-1521,36504,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, hospital",3608
-1522,36528,indoor,"booth/indoor, ticket_booth, reception, fastfood_restaurant, hospital",3608
-1523,36552,outdoor,"ice_shelf, ice_floe, ocean, discotheque, iceberg",3608
-1524,36576,outdoor,"discotheque, ice_shelf, ice_floe, martial_arts_gym, iceberg",3608
-1525,36600,indoor,"discotheque, ice_shelf, nursery, dressing_room, clean_room",3608
-1526,36624,indoor,"discotheque, ice_shelf, museum/indoor, ballroom, ice_floe",3608
-1527,36648,indoor,"discotheque, archive, museum/indoor, shower, clean_room",3608
-1528,36672,indoor,"discotheque, museum/indoor, archive, ice_shelf, clean_room",3608
-1529,36696,indoor,"discotheque, clean_room, archive, dressing_room, stage/indoor",3608
-1530,36720,indoor,"martial_arts_gym, museum/indoor, classroom, igloo, archive",3608
-1531,36744,indoor,"museum/indoor, discotheque, archive, classroom, martial_arts_gym",3608
-1532,36768,outdoor,"museum/indoor, ice_shelf, archive, igloo, ice_floe",3608
-1533,36792,outdoor,"ice_shelf, ice_floe, museum/indoor, iceberg, igloo",3608
-1534,36816,indoor,"ice_shelf, museum/indoor, igloo, discotheque, archive",3608
-1535,36840,indoor,"archive, discotheque, museum/indoor, ice_shelf, igloo",3608
-1536,36864,indoor,"archive, discotheque, museum/indoor, stage/indoor, clean_room",3608
-1537,36888,indoor,"discotheque, museum/indoor, nursery, dressing_room, archive",3608
-1538,36912,indoor,"discotheque, stage/indoor, museum/indoor, archive, boxing_ring",3608
-1539,36936,indoor,"discotheque, shower, museum/indoor, stage/indoor, gymnasium/indoor",3608
-1540,36960,indoor,"museum/indoor, martial_arts_gym, archive, classroom, kindergarden_classroom",3608
-1541,36984,indoor,"discotheque, gymnasium/indoor, martial_arts_gym, ballroom, nursery",3608
-1542,37008,indoor,"discotheque, classroom, kindergarden_classroom, nursery, martial_arts_gym",3608
-1543,37032,indoor,"discotheque, dressing_room, archive, shower, gymnasium/indoor",3608
-1544,37056,indoor,"discotheque, stage/indoor, ice_shelf, music_studio, museum/indoor",3608
-1545,37080,indoor,"discotheque, stage/indoor, igloo, ice_shelf, archive",3608
-1546,37104,indoor,"discotheque, stage/indoor, classroom, kindergarden_classroom, archive",3608
-1547,37128,indoor,"ice_shelf, ice_floe, museum/indoor, discotheque, archive",3608
-1548,37152,indoor,"discotheque, stage/indoor, martial_arts_gym, gymnasium/indoor, museum/indoor",3608
-1549,37176,indoor,"discotheque, boxing_ring, ice_shelf, stage/indoor, martial_arts_gym",3608
-1550,37200,indoor,"discotheque, stage/indoor, bar, ballroom, classroom",3608
-1551,37224,indoor,"discotheque, ice_shelf, museum/indoor, boxing_ring, stage/indoor",3608
-1552,37248,indoor,"discotheque, museum/indoor, ice_shelf, ice_floe, archive",3608
-1553,37272,outdoor,"ice_shelf, ice_floe, chemistry_lab, discotheque, igloo",3608
-1554,37296,indoor,"shower, ice_shelf, discotheque, igloo, jail_cell",3608
-1555,37320,outdoor,"shower, slum, discotheque, ice_shelf, ice_floe",3608
-1556,37344,indoor,"shower, discotheque, museum/indoor, stage/indoor, slum",3608
-1557,37368,indoor,"discotheque, shower, ice_shelf, museum/indoor, stage/indoor",3608
-1558,37392,indoor,"discotheque, shower, stage/indoor, cemetery, slum",3608
-1559,37416,indoor,"discotheque, stage/indoor, slum, shower, museum/indoor",3608
-1560,37440,indoor,"ice_shelf, museum/indoor, archive, clean_room, clothing_store",3608
-1561,37464,indoor,"discotheque, shower, museum/indoor, stage/indoor, archive",3608
-1562,37488,indoor,"discotheque, dressing_room, museum/indoor, stage/indoor, shower",3608
-1563,37512,indoor,"clean_room, shower, discotheque, locker_room, dressing_room",3608
-1564,37536,indoor,"discotheque, ice_shelf, clean_room, shower, dressing_room",3608
-1565,37560,outdoor,"ice_shelf, ice_floe, igloo, iceberg, aquarium",3608
-1566,37584,indoor,"museum/indoor, shower, discotheque, clean_room, archive",3608
-1567,37608,indoor,"discotheque, shower, stage/indoor, igloo, fountain",3608
-1568,37632,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1569,37656,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1570,37680,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1571,37704,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1572,37728,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1573,37752,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1574,37776,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, hospital",3608
-1575,37800,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1576,37824,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1577,37848,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1578,37872,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, drugstore",3608
-1579,37896,indoor,"booth/indoor, ticket_booth, fastfood_restaurant, pharmacy, hospital",3608
-1580,37920,outdoor,"aquarium, water_tower, underwater/ocean_deep, shower, fountain",3608
-1581,37944,indoor,"aquarium, underwater/ocean_deep, discotheque, water_tower, science_museum",3608
-1582,37968,outdoor,"aquarium, underwater/ocean_deep, ocean, iceberg, discotheque",3608
-1583,37992,indoor,"aquarium, underwater/ocean_deep, stage/indoor, discotheque, arena/performance",3608
-1584,38016,indoor,"aquarium, underwater/ocean_deep, museum/indoor, science_museum, discotheque",3608
-1585,38040,outdoor,"aquarium, underwater/ocean_deep, water_tower, iceberg, swimming_pool/indoor",3608
-1586,38064,outdoor,"aquarium, underwater/ocean_deep, water_tower, ocean, discotheque",3608
-1587,38088,outdoor,"aquarium, underwater/ocean_deep, discotheque, iceberg, ocean",3608
-1588,38112,outdoor,"aquarium, underwater/ocean_deep, water_tower, discotheque, iceberg",3608
-1589,38136,outdoor,"aquarium, underwater/ocean_deep, iceberg, water_tower, discotheque",3608
-1590,38160,outdoor,"aquarium, underwater/ocean_deep, water_tower, discotheque, ocean",3608
-1591,38184,outdoor,"aquarium, underwater/ocean_deep, discotheque, water_tower, iceberg",3608
-1592,38208,outdoor,"aquarium, underwater/ocean_deep, water_tower, iceberg, ocean",3608
-1593,38232,outdoor,"aquarium, underwater/ocean_deep, discotheque, iceberg, ocean",3608
-1594,38256,outdoor,"aquarium, underwater/ocean_deep, fountain, iceberg, discotheque",3608
-1595,38280,outdoor,"aquarium, underwater/ocean_deep, fountain, water_tower, discotheque",3608
-1596,38304,indoor,"aquarium, underwater/ocean_deep, science_museum, museum/indoor, discotheque",3608
-1597,38328,outdoor,"aquarium, underwater/ocean_deep, discotheque, iceberg, water_tower",3608
-1598,38352,indoor,"aquarium, underwater/ocean_deep, water_tower, science_museum, discotheque",3608
-1599,38376,outdoor,"aquarium, underwater/ocean_deep, discotheque, water_tower, iceberg",3608
-1600,38400,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, water_tower",3608
-1601,38424,indoor,"aquarium, underwater/ocean_deep, discotheque, water_tower, swimming_pool/indoor",3608
-1602,38448,indoor,"aquarium, underwater/ocean_deep, water_tower, shower, chemistry_lab",3608
-1603,38472,outdoor,"aquarium, underwater/ocean_deep, water_tower, iceberg, ocean",3608
-1604,38496,outdoor,"aquarium, underwater/ocean_deep, water_tower, iceberg, ocean",3608
-1605,38520,outdoor,"aquarium, underwater/ocean_deep, water_tower, discotheque, iceberg",3608
-1606,38544,indoor,"aquarium, water_tower, underwater/ocean_deep, discotheque, swimming_pool/indoor",3608
-1607,38568,outdoor,"aquarium, underwater/ocean_deep, water_tower, discotheque, iceberg",3608
-1608,38592,outdoor,"aquarium, underwater/ocean_deep, iceberg, ocean, ice_shelf",3608
-1609,38616,outdoor,"aquarium, underwater/ocean_deep, discotheque, ocean, fountain",3608
-1610,38640,outdoor,"aquarium, underwater/ocean_deep, water_tower, discotheque, ocean",3608
-1611,38664,indoor,"aquarium, underwater/ocean_deep, discotheque, swimming_pool/indoor, fountain",3608
-1612,38688,indoor,"aquarium, underwater/ocean_deep, discotheque, water_tower, swimming_pool/indoor",3608
-1613,38712,indoor,"aquarium, underwater/ocean_deep, discotheque, water_tower, chemistry_lab",3608
-1614,38736,outdoor,"aquarium, water_tower, underwater/ocean_deep, shower, iceberg",3608
-1615,38760,indoor,"aquarium, water_tower, underwater/ocean_deep, discotheque, shower",3608
-1616,38784,outdoor,"water_tower, aquarium, underwater/ocean_deep, shower, fountain",3608
-1617,38808,outdoor,"water_tower, aquarium, underwater/ocean_deep, fountain, industrial_area",3608
-1618,38832,outdoor,"water_tower, aquarium, hot_spring, underwater/ocean_deep, fountain",3608
-1619,38856,outdoor,"water_tower, aquarium, underwater/ocean_deep, industrial_area, slum",3608
-1620,38880,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1621,38904,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1622,38928,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1623,38952,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1624,38976,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1625,39000,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1626,39024,indoor,"booth/indoor, reception, ticket_booth, hospital, pharmacy",3608
-1627,39048,outdoor,"swimming_pool/indoor, underwater/ocean_deep, ocean, beach, swimming_pool/outdoor",3608
-1628,39072,outdoor,"underwater/ocean_deep, swimming_pool/indoor, ocean, beach, coast",3608
-1629,39096,outdoor,"ocean, beach, underwater/ocean_deep, swimming_pool/indoor, coast",3608
-1630,39120,outdoor,"swimming_pool/indoor, ocean, beach, underwater/ocean_deep, coast",3608
-1631,39144,outdoor,"ocean, underwater/ocean_deep, beach, swimming_pool/indoor, wave",3608
-1632,39168,outdoor,"swimming_pool/indoor, ocean, beach, wave, underwater/ocean_deep",3608
-1633,39192,outdoor,"swimming_pool/indoor, ocean, beach, underwater/ocean_deep, coast",3608
-1634,39216,outdoor,"valley, ocean, ice_floe, swimming_pool/indoor, ski_slope",3608
-1635,39240,outdoor,"swimming_pool/indoor, ocean, beach, underwater/ocean_deep, coast",3608
-1636,39264,outdoor,"ocean, swimming_pool/indoor, underwater/ocean_deep, beach, valley",3608
-1637,39288,outdoor,"swimming_pool/indoor, ocean, underwater/ocean_deep, beach, coast",3608
-1638,39312,outdoor,"ocean, underwater/ocean_deep, swimming_pool/indoor, beach, coast",3608
-1639,39336,outdoor,"ocean, valley, underwater/ocean_deep, corn_field, coast",3608
-1640,39360,outdoor,"underwater/ocean_deep, ocean, beach, valley, swimming_pool/indoor",3608
-1641,39384,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1642,39408,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1643,39432,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1644,39456,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1645,39480,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1646,39504,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1647,39528,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1648,39552,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1649,39576,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, pharmacy, drugstore",3608
-1650,39600,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1651,39624,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1652,39648,indoor,"ticket_booth, fastfood_restaurant, pharmacy, booth/indoor, drugstore",3608
-1653,39672,indoor,"aquarium, swimming_pool/indoor, pet_shop, underwater/ocean_deep, science_museum",3608
-1654,39696,indoor,"aquarium, swimming_pool/indoor, jacuzzi/indoor, shower, underwater/ocean_deep",3608
-1655,39720,indoor,"jacuzzi/indoor, aquarium, swimming_pool/indoor, shower, bathroom",3608
-1656,39744,indoor,"swimming_pool/indoor, aquarium, jacuzzi/indoor, shower, bathroom",3608
-1657,39768,indoor,"swimming_pool/indoor, jacuzzi/indoor, aquarium, shower, bathroom",3608
-1658,39792,indoor,"swimming_pool/indoor, jacuzzi/indoor, aquarium, shower, bathroom",3608
-1659,39816,indoor,"shower, swimming_pool/indoor, aquarium, jacuzzi/indoor, barndoor",3608
-1660,39840,indoor,"shower, swimming_pool/indoor, jacuzzi/indoor, bathroom, aquarium",3608
-1661,39864,indoor,"shower, jacuzzi/indoor, swimming_pool/indoor, aquarium, bathroom",3608
-1662,39888,indoor,"aquarium, swimming_pool/indoor, jacuzzi/indoor, shower, bathroom",3608
-1663,39912,indoor,"swimming_pool/indoor, shower, jacuzzi/indoor, aquarium, bathroom",3608
-1664,39936,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1665,39960,indoor,"swimming_pool/indoor, shower, jacuzzi/indoor, aquarium, bathroom",3608
-1666,39984,indoor,"swimming_pool/indoor, aquarium, shower, jacuzzi/indoor, bathroom",3608
-1667,40008,indoor,"aquarium, swimming_pool/indoor, shower, jacuzzi/indoor, bathroom",3608
-1668,40032,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1669,40056,indoor,"swimming_pool/indoor, shower, jacuzzi/indoor, aquarium, bathroom",3608
-1670,40080,indoor,"swimming_pool/indoor, aquarium, jacuzzi/indoor, shower, bathroom",3608
-1671,40104,indoor,"swimming_pool/indoor, aquarium, shower, jacuzzi/indoor, bathroom",3608
-1672,40128,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1673,40152,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1674,40176,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1675,40200,indoor,"swimming_pool/indoor, shower, jacuzzi/indoor, aquarium, bathroom",3608
-1676,40224,indoor,"swimming_pool/indoor, jacuzzi/indoor, aquarium, shower, bathroom",3608
-1677,40248,indoor,"aquarium, swimming_pool/indoor, jacuzzi/indoor, shower, chemistry_lab",3608
-1678,40272,indoor,"aquarium, swimming_pool/indoor, jacuzzi/indoor, shower, underwater/ocean_deep",3608
-1679,40296,indoor,"swimming_pool/indoor, aquarium, jacuzzi/indoor, shower, bathroom",3608
-1680,40320,indoor,"swimming_pool/indoor, aquarium, shower, jacuzzi/indoor, bathroom",3608
-1681,40344,indoor,"swimming_pool/indoor, aquarium, shower, jacuzzi/indoor, bathroom",3608
-1682,40368,indoor,"swimming_pool/indoor, aquarium, jacuzzi/indoor, shower, bathroom",3608
-1683,40392,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1684,40416,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1685,40440,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1686,40464,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, bathroom",3608
-1687,40488,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1688,40512,indoor,"swimming_pool/indoor, aquarium, shower, bar, discotheque",3608
-1689,40536,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1690,40560,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1691,40584,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1692,40608,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, bathroom",3608
-1693,40632,indoor,"swimming_pool/indoor, jacuzzi/indoor, aquarium, shower, bathroom",3608
-1694,40656,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, aquarium, chemistry_lab",3608
-1695,40680,indoor,"reception, elevator/door, ticket_booth, gas_station, fastfood_restaurant",3608
-1696,40704,indoor,"reception, elevator/door, ticket_booth, gas_station, playroom",3608
-1697,40728,indoor,"reception, elevator/door, ticket_booth, playroom, gas_station",3608
-1698,40752,indoor,"discotheque, aquarium, underwater/ocean_deep, arena/performance, stage/indoor",3608
-1699,40776,indoor,"discotheque, aquarium, underwater/ocean_deep, arena/performance, stage/indoor",3608
-1700,40800,indoor,"aquarium, underwater/ocean_deep, discotheque, science_museum, shower",3608
-1701,40824,indoor,"discotheque, aquarium, stage/indoor, arena/performance, underwater/ocean_deep",3608
-1702,40848,indoor,"discotheque, aquarium, arena/performance, stage/indoor, underwater/ocean_deep",3608
-1703,40872,indoor,"discotheque, aquarium, underwater/ocean_deep, arena/performance, stage/indoor",3608
-1704,40896,indoor,"aquarium, discotheque, underwater/ocean_deep, stage/indoor, natural_history_museum",3608
-1705,40920,indoor,"aquarium, underwater/ocean_deep, discotheque, science_museum, natural_history_museum",3608
-1706,40944,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1707,40968,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1708,40992,indoor,"fastfood_restaurant, booth/indoor, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1709,41016,indoor,"fastfood_restaurant, booth/indoor, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1710,41040,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1711,41064,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1712,41088,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1713,41112,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1714,41136,indoor,"fastfood_restaurant, booth/indoor, kindergarden_classroom, ticket_booth, ice_cream_parlor",3608
-1715,41160,indoor,"booth/indoor, fastfood_restaurant, kindergarden_classroom, ticket_booth, ice_cream_parlor",3608
-1716,41184,indoor,"booth/indoor, fastfood_restaurant, kindergarden_classroom, ticket_booth, ice_cream_parlor",3608
-1717,41208,indoor,"booth/indoor, fastfood_restaurant, kindergarden_classroom, ticket_booth, ice_cream_parlor",3608
-1718,41232,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1719,41256,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1720,41280,indoor,"fastfood_restaurant, booth/indoor, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1721,41304,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1722,41328,indoor,"booth/indoor, fastfood_restaurant, ticket_booth, kindergarden_classroom, ice_cream_parlor",3608
-1723,41352,indoor,"museum/indoor, swimming_pool/indoor, shower, discotheque, aquarium",3608
-1724,41376,indoor,"aquarium, swimming_pool/indoor, museum/indoor, shower, underwater/ocean_deep",3608
-1725,41400,indoor,"museum/indoor, swimming_pool/indoor, aquarium, shower, science_museum",3608
-1726,41424,indoor,"aquarium, swimming_pool/indoor, museum/indoor, shower, underwater/ocean_deep",3608
-1727,41448,indoor,"swimming_pool/indoor, aquarium, museum/indoor, shower, science_museum",3608
-1728,41472,indoor,"swimming_pool/indoor, shower, museum/indoor, beauty_salon, jacuzzi/indoor",3608
-1729,41496,indoor,"shower, swimming_pool/indoor, beauty_salon, museum/indoor, bathroom",3608
-1730,41520,indoor,"shower, swimming_pool/indoor, beauty_salon, museum/indoor, chemistry_lab",3608
-1731,41544,indoor,"swimming_pool/indoor, shower, chemistry_lab, beauty_salon, museum/indoor",3608
-1732,41568,indoor,"swimming_pool/indoor, jacuzzi/indoor, aquarium, museum/indoor, shower",3608
-1733,41592,indoor,"swimming_pool/indoor, shower, jacuzzi/indoor, chemistry_lab, beauty_salon",3608
-1734,41616,indoor,"swimming_pool/indoor, museum/indoor, jacuzzi/indoor, shower, chemistry_lab",3608
-1735,41640,indoor,"swimming_pool/indoor, jacuzzi/indoor, aquarium, shower, chemistry_lab",3608
-1736,41664,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, beauty_salon, bathroom",3608
-1737,41688,indoor,"swimming_pool/indoor, jacuzzi/indoor, shower, beauty_salon, museum/indoor",3608
-1738,41712,indoor,"swimming_pool/indoor, shower, museum/indoor, jacuzzi/indoor, aquarium",3608
-1739,41736,indoor,"swimming_pool/indoor, shower, beauty_salon, jacuzzi/indoor, museum/indoor",3608
-1740,41760,indoor,"swimming_pool/indoor, shower, aquarium, jacuzzi/indoor, museum/indoor",3608
-1741,41784,indoor,"swimming_pool/indoor, shower, jacuzzi/indoor, museum/indoor, aquarium",3608
-1742,41808,indoor,"shower, museum/indoor, swimming_pool/indoor, bathroom, clean_room",3608
-1743,41832,indoor,"shower, bathroom, locker_room, swimming_pool/indoor, museum/indoor",3608
-1744,41856,indoor,"shower, museum/indoor, nursery, bathroom, locker_room",3608
-1745,41880,indoor,"shower, museum/indoor, nursery, science_museum, bathroom",3608
-1746,41904,indoor,"shower, museum/indoor, bathroom, nursery, swimming_pool/indoor",3608
-1747,41928,indoor,"shower, swimming_pool/indoor, museum/indoor, bathroom, nursery",3608
-1748,41952,indoor,"shower, swimming_pool/indoor, bathroom, jacuzzi/indoor, museum/indoor",3608
-1749,41976,indoor,"shower, bathroom, swimming_pool/indoor, jacuzzi/indoor, locker_room",3608
-1750,42000,indoor,"shower, bathroom, swimming_pool/indoor, jacuzzi/indoor, nursery",3608
-1751,42024,indoor,"shower, swimming_pool/indoor, bathroom, jacuzzi/indoor, locker_room",3608
-1752,42048,indoor,"shower, bathroom, swimming_pool/indoor, locker_room, jacuzzi/indoor",3608
-1753,42072,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1754,42096,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1755,42120,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, hospital",3608
-1756,42144,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1757,42168,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1758,42192,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1759,42216,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1760,42240,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, hospital",3608
-1761,42264,indoor,"ticket_booth, fastfood_restaurant, booth/indoor, reception, pharmacy",3608
-1762,42288,indoor,"science_museum, aquarium, jewelry_shop, clean_room, chemistry_lab",3608
-1763,42312,indoor,"science_museum, clean_room, jewelry_shop, swimming_pool/indoor, lobby",3608
-1764,42336,indoor,"science_museum, clean_room, jewelry_shop, beauty_salon, chemistry_lab",3608
-1765,42360,indoor,"clean_room, science_museum, jewelry_shop, chemistry_lab, beauty_salon",3608
-1766,42384,indoor,"jewelry_shop, clean_room, beauty_salon, science_museum, chemistry_lab",3608
-1767,42408,indoor,"jewelry_shop, clean_room, science_museum, museum/indoor, swimming_pool/indoor",3608
-1768,42432,indoor,"jewelry_shop, swimming_pool/indoor, jacuzzi/indoor, science_museum, aquarium",3608
-1769,42456,indoor,"chemistry_lab, jewelry_shop, swimming_pool/indoor, science_museum, jacuzzi/indoor",3608
-1770,42480,indoor,"jewelry_shop, swimming_pool/indoor, banquet_hall, chemistry_lab, jacuzzi/indoor",3608
-1771,42504,indoor,"jewelry_shop, swimming_pool/indoor, jacuzzi/indoor, science_museum, beauty_salon",3608
-1772,42528,indoor,"jewelry_shop, science_museum, beauty_salon, lobby, swimming_pool/indoor",3608
-1773,42552,indoor,"clean_room, jewelry_shop, beauty_salon, science_museum, chemistry_lab",3608
-1774,42576,indoor,"discotheque, aquarium, clean_room, swimming_pool/indoor, science_museum",3608
-1775,42600,indoor,"clean_room, science_museum, museum/indoor, aquarium, jewelry_shop",3608
-1776,42624,indoor,"clean_room, science_museum, museum/indoor, jewelry_shop, natural_history_museum",3608
-1777,42648,indoor,"science_museum, clean_room, museum/indoor, jewelry_shop, natural_history_museum",3608
-1778,42672,indoor,"clean_room, museum/indoor, science_museum, aquarium, jewelry_shop",3608
-1779,42696,indoor,"beauty_salon, jewelry_shop, clean_room, science_museum, discotheque",3608
-1780,42720,indoor,"gas_station, fastfood_restaurant, playroom, amusement_arcade, ticket_booth",3608
-1781,42744,indoor,"gas_station, fastfood_restaurant, playroom, amusement_arcade, ticket_booth",3608
-1782,42768,outdoor,"ocean, ice_shelf, nursery, beach, locker_room",3608
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,3608,0,1,0
+1,3608,24,1,0
+2,3608,48,1,0
+3,3608,72,1,0
+4,3608,96,0,1
+5,3608,120,1,0
+6,3608,144,1,0
+7,3608,168,0,1
+8,3608,192,1,0
+9,3608,216,1,0
+10,3608,240,0,1
+11,3608,264,0,1
+12,3608,288,0,1
+13,3608,312,0,1
+14,3608,336,0,1
+15,3608,360,0,1
+16,3608,384,0,1
+17,3608,408,0,1
+18,3608,432,0,1
+19,3608,456,0,1
+20,3608,480,0,1
+21,3608,504,0,1
+22,3608,528,0,1
+23,3608,552,0,1
+24,3608,576,0,1
+25,3608,600,0,1
+26,3608,624,0,1
+27,3608,648,0,1
+28,3608,672,0,1
+29,3608,696,0,1
+30,3608,720,0,1
+31,3608,744,0,1
+32,3608,768,0,1
+33,3608,792,0,1
+34,3608,816,0,1
+35,3608,840,1,0
+36,3608,864,1,0
+37,3608,888,0,1
+38,3608,912,0,1
+39,3608,936,0,1
+40,3608,960,0,1
+41,3608,984,1,0
+42,3608,1008,1,0
+43,3608,1032,1,0
+44,3608,1056,1,0
+45,3608,1080,1,0
+46,3608,1104,0,1
+47,3608,1128,0,1
+48,3608,1152,0,1
+49,3608,1176,0,1
+50,3608,1200,0,1
+51,3608,1224,1,0
+52,3608,1248,1,0
+53,3608,1272,1,0
+54,3608,1296,1,0
+55,3608,1320,1,0
+56,3608,1344,1,0
+57,3608,1368,1,0
+58,3608,1392,1,0
+59,3608,1416,1,0
+60,3608,1440,1,0
+61,3608,1464,1,0
+62,3608,1488,1,0
+63,3608,1512,1,0
+64,3608,1536,1,0
+65,3608,1560,1,0
+66,3608,1584,1,0
+67,3608,1608,1,0
+68,3608,1632,1,0
+69,3608,1656,1,0
+70,3608,1680,1,0
+71,3608,1704,1,0
+72,3608,1728,1,0
+73,3608,1752,1,0
+74,3608,1776,1,0
+75,3608,1800,1,0
+76,3608,1824,1,0
+77,3608,1848,1,0
+78,3608,1872,1,0
+79,3608,1896,1,0
+80,3608,1920,1,0
+81,3608,1944,0,1
+82,3608,1968,0,1
+83,3608,1992,0,1
+84,3608,2016,0,1
+85,3608,2040,0,1
+86,3608,2064,0,1
+87,3608,2088,0,1
+88,3608,2112,0,1
+89,3608,2136,0,1
+90,3608,2160,0,1
+91,3608,2184,0,1
+92,3608,2208,1,0
+93,3608,2232,1,0
+94,3608,2256,1,0
+95,3608,2280,1,0
+96,3608,2304,1,0
+97,3608,2328,1,0
+98,3608,2352,1,0
+99,3608,2376,0,1
+100,3608,2400,1,0
+101,3608,2424,1,0
+102,3608,2448,0,1
+103,3608,2472,1,0
+104,3608,2496,0,1
+105,3608,2520,0,1
+106,3608,2544,0,1
+107,3608,2568,1,0
+108,3608,2592,1,0
+109,3608,2616,1,0
+110,3608,2640,1,0
+111,3608,2664,1,0
+112,3608,2688,1,0
+113,3608,2712,1,0
+114,3608,2736,1,0
+115,3608,2760,1,0
+116,3608,2784,1,0
+117,3608,2808,1,0
+118,3608,2832,1,0
+119,3608,2856,0,1
+120,3608,2880,1,0
+121,3608,2904,1,0
+122,3608,2928,0,1
+123,3608,2952,0,1
+124,3608,2976,0,1
+125,3608,3000,0,1
+126,3608,3024,0,1
+127,3608,3048,0,1
+128,3608,3072,0,1
+129,3608,3096,0,1
+130,3608,3120,0,1
+131,3608,3144,0,1
+132,3608,3168,0,1
+133,3608,3192,0,1
+134,3608,3216,0,1
+135,3608,3240,0,1
+136,3608,3264,0,1
+137,3608,3288,0,1
+138,3608,3312,0,1
+139,3608,3336,0,1
+140,3608,3360,0,1
+141,3608,3384,0,1
+142,3608,3408,0,1
+143,3608,3432,0,1
+144,3608,3456,0,1
+145,3608,3480,0,1
+146,3608,3504,0,1
+147,3608,3528,0,1
+148,3608,3552,0,1
+149,3608,3576,0,1
+150,3608,3600,0,1
+151,3608,3624,0,1
+152,3608,3648,0,1
+153,3608,3672,0,1
+154,3608,3696,0,1
+155,3608,3720,0,1
+156,3608,3744,0,1
+157,3608,3768,0,1
+158,3608,3792,0,1
+159,3608,3816,0,1
+160,3608,3840,0,1
+161,3608,3864,0,1
+162,3608,3888,0,1
+163,3608,3912,0,1
+164,3608,3936,0,1
+165,3608,3960,0,1
+166,3608,3984,0,1
+167,3608,4008,0,1
+168,3608,4032,0,1
+169,3608,4056,0,1
+170,3608,4080,0,1
+171,3608,4104,0,1
+172,3608,4128,0,1
+173,3608,4152,0,1
+174,3608,4176,0,1
+175,3608,4200,0,1
+176,3608,4224,0,1
+177,3608,4248,0,1
+178,3608,4272,0,1
+179,3608,4296,0,1
+180,3608,4320,0,1
+181,3608,4344,0,1
+182,3608,4368,0,1
+183,3608,4392,0,1
+184,3608,4416,0,1
+185,3608,4440,0,1
+186,3608,4464,0,1
+187,3608,4488,0,1
+188,3608,4512,0,1
+189,3608,4536,0,1
+190,3608,4560,0,1
+191,3608,4584,0,1
+192,3608,4608,0,1
+193,3608,4632,0,1
+194,3608,4656,0,1
+195,3608,4680,0,1
+196,3608,4704,0,1
+197,3608,4728,0,1
+198,3608,4752,0,1
+199,3608,4776,0,1
+200,3608,4800,0,1
+201,3608,4824,0,1
+202,3608,4848,0,1
+203,3608,4872,0,1
+204,3608,4896,1,0
+205,3608,4920,1,0
+206,3608,4944,1,0
+207,3608,4968,1,0
+208,3608,4992,1,0
+209,3608,5016,1,0
+210,3608,5040,1,0
+211,3608,5064,1,0
+212,3608,5088,1,0
+213,3608,5112,1,0
+214,3608,5136,1,0
+215,3608,5160,1,0
+216,3608,5184,1,0
+217,3608,5208,1,0
+218,3608,5232,1,0
+219,3608,5256,1,0
+220,3608,5280,1,0
+221,3608,5304,1,0
+222,3608,5328,1,0
+223,3608,5352,1,0
+224,3608,5376,1,0
+225,3608,5400,1,0
+226,3608,5424,1,0
+227,3608,5448,1,0
+228,3608,5472,1,0
+229,3608,5496,1,0
+230,3608,5520,1,0
+231,3608,5544,1,0
+232,3608,5568,1,0
+233,3608,5592,1,0
+234,3608,5616,1,0
+235,3608,5640,1,0
+236,3608,5664,1,0
+237,3608,5688,1,0
+238,3608,5712,1,0
+239,3608,5736,1,0
+240,3608,5760,1,0
+241,3608,5784,1,0
+242,3608,5808,1,0
+243,3608,5832,1,0
+244,3608,5856,1,0
+245,3608,5880,1,0
+246,3608,5904,1,0
+247,3608,5928,1,0
+248,3608,5952,1,0
+249,3608,5976,1,0
+250,3608,6000,1,0
+251,3608,6024,1,0
+252,3608,6048,1,0
+253,3608,6072,1,0
+254,3608,6096,0,1
+255,3608,6120,0,1
+256,3608,6144,0,1
+257,3608,6168,0,1
+258,3608,6192,0,1
+259,3608,6216,0,1
+260,3608,6240,0,1
+261,3608,6264,0,1
+262,3608,6288,0,1
+263,3608,6312,0,1
+264,3608,6336,1,0
+265,3608,6360,1,0
+266,3608,6384,0,1
+267,3608,6408,0,1
+268,3608,6432,0,1
+269,3608,6456,1,0
+270,3608,6480,1,0
+271,3608,6504,0,1
+272,3608,6528,0,1
+273,3608,6552,0,1
+274,3608,6576,0,1
+275,3608,6600,0,1
+276,3608,6624,1,0
+277,3608,6648,0,1
+278,3608,6672,0,1
+279,3608,6696,0,1
+280,3608,6720,0,1
+281,3608,6744,1,0
+282,3608,6768,0,1
+283,3608,6792,0,1
+284,3608,6816,1,0
+285,3608,6840,0,1
+286,3608,6864,0,1
+287,3608,6888,0,1
+288,3608,6912,1,0
+289,3608,6936,0,1
+290,3608,6960,0,1
+291,3608,6984,0,1
+292,3608,7008,0,1
+293,3608,7032,1,0
+294,3608,7056,1,0
+295,3608,7080,0,1
+296,3608,7104,0,1
+297,3608,7128,0,1
+298,3608,7152,1,0
+299,3608,7176,0,1
+300,3608,7200,0,1
+301,3608,7224,0,1
+302,3608,7248,0,1
+303,3608,7272,0,1
+304,3608,7296,0,1
+305,3608,7320,0,1
+306,3608,7344,0,1
+307,3608,7368,0,1
+308,3608,7392,0,1
+309,3608,7416,0,1
+310,3608,7440,0,1
+311,3608,7464,0,1
+312,3608,7488,0,1
+313,3608,7512,0,1
+314,3608,7536,0,1
+315,3608,7560,0,1
+316,3608,7584,0,1
+317,3608,7608,0,1
+318,3608,7632,0,1
+319,3608,7656,0,1
+320,3608,7680,0,1
+321,3608,7704,0,1
+322,3608,7728,0,1
+323,3608,7752,0,1
+324,3608,7776,0,1
+325,3608,7800,0,1
+326,3608,7824,0,1
+327,3608,7848,0,1
+328,3608,7872,0,1
+329,3608,7896,0,1
+330,3608,7920,0,1
+331,3608,7944,0,1
+332,3608,7968,0,1
+333,3608,7992,0,1
+334,3608,8016,0,1
+335,3608,8040,0,1
+336,3608,8064,0,1
+337,3608,8088,0,1
+338,3608,8112,0,1
+339,3608,8136,0,1
+340,3608,8160,0,1
+341,3608,8184,0,1
+342,3608,8208,0,1
+343,3608,8232,0,1
+344,3608,8256,0,1
+345,3608,8280,0,1
+346,3608,8304,0,1
+347,3608,8328,0,1
+348,3608,8352,0,1
+349,3608,8376,0,1
+350,3608,8400,0,1
+351,3608,8424,0,1
+352,3608,8448,0,1
+353,3608,8472,0,1
+354,3608,8496,0,1
+355,3608,8520,0,1
+356,3608,8544,0,1
+357,3608,8568,0,1
+358,3608,8592,0,1
+359,3608,8616,0,1
+360,3608,8640,0,1
+361,3608,8664,0,1
+362,3608,8688,0,1
+363,3608,8712,0,1
+364,3608,8736,0,1
+365,3608,8760,0,1
+366,3608,8784,0,1
+367,3608,8808,0,1
+368,3608,8832,0,1
+369,3608,8856,0,1
+370,3608,8880,0,1
+371,3608,8904,0,1
+372,3608,8928,0,1
+373,3608,8952,0,1
+374,3608,8976,0,1
+375,3608,9000,0,1
+376,3608,9024,0,1
+377,3608,9048,0,1
+378,3608,9072,0,1
+379,3608,9096,0,1
+380,3608,9120,0,1
+381,3608,9144,0,1
+382,3608,9168,0,1
+383,3608,9192,0,1
+384,3608,9216,0,1
+385,3608,9240,0,1
+386,3608,9264,0,1
+387,3608,9288,0,1
+388,3608,9312,0,1
+389,3608,9336,0,1
+390,3608,9360,0,1
+391,3608,9384,0,1
+392,3608,9408,0,1
+393,3608,9432,0,1
+394,3608,9456,0,1
+395,3608,9480,0,1
+396,3608,9504,0,1
+397,3608,9528,0,1
+398,3608,9552,0,1
+399,3608,9576,0,1
+400,3608,9600,0,1
+401,3608,9624,0,1
+402,3608,9648,0,1
+403,3608,9672,0,1
+404,3608,9696,0,1
+405,3608,9720,0,1
+406,3608,9744,0,1
+407,3608,9768,0,1
+408,3608,9792,0,1
+409,3608,9816,0,1
+410,3608,9840,0,1
+411,3608,9864,0,1
+412,3608,9888,0,1
+413,3608,9912,0,1
+414,3608,9936,0,1
+415,3608,9960,0,1
+416,3608,9984,0,1
+417,3608,10008,0,1
+418,3608,10032,0,1
+419,3608,10056,0,1
+420,3608,10080,0,1
+421,3608,10104,0,1
+422,3608,10128,0,1
+423,3608,10152,0,1
+424,3608,10176,0,1
+425,3608,10200,0,1
+426,3608,10224,0,1
+427,3608,10248,0,1
+428,3608,10272,0,1
+429,3608,10296,0,1
+430,3608,10320,0,1
+431,3608,10344,0,1
+432,3608,10368,0,1
+433,3608,10392,0,1
+434,3608,10416,0,1
+435,3608,10440,0,1
+436,3608,10464,0,1
+437,3608,10488,0,1
+438,3608,10512,0,1
+439,3608,10536,0,1
+440,3608,10560,0,1
+441,3608,10584,0,1
+442,3608,10608,0,1
+443,3608,10632,0,1
+444,3608,10656,0,1
+445,3608,10680,0,1
+446,3608,10704,0,1
+447,3608,10728,0,1
+448,3608,10752,0,1
+449,3608,10776,0,1
+450,3608,10800,0,1
+451,3608,10824,0,1
+452,3608,10848,0,1
+453,3608,10872,0,1
+454,3608,10896,0,1
+455,3608,10920,0,1
+456,3608,10944,0,1
+457,3608,10968,0,1
+458,3608,10992,0,1
+459,3608,11016,0,1
+460,3608,11040,0,1
+461,3608,11064,0,1
+462,3608,11088,0,1
+463,3608,11112,0,1
+464,3608,11136,0,1
+465,3608,11160,0,1
+466,3608,11184,0,1
+467,3608,11208,0,1
+468,3608,11232,0,1
+469,3608,11256,0,1
+470,3608,11280,0,1
+471,3608,11304,0,1
+472,3608,11328,0,1
+473,3608,11352,0,1
+474,3608,11376,0,1
+475,3608,11400,0,1
+476,3608,11424,0,1
+477,3608,11448,0,1
+478,3608,11472,0,1
+479,3608,11496,0,1
+480,3608,11520,0,1
+481,3608,11544,0,1
+482,3608,11568,0,1
+483,3608,11592,0,1
+484,3608,11616,0,1
+485,3608,11640,0,1
+486,3608,11664,0,1
+487,3608,11688,0,1
+488,3608,11712,0,1
+489,3608,11736,0,1
+490,3608,11760,0,1
+491,3608,11784,0,1
+492,3608,11808,0,1
+493,3608,11832,0,1
+494,3608,11856,0,1
+495,3608,11880,0,1
+496,3608,11904,0,1
+497,3608,11928,0,1
+498,3608,11952,0,1
+499,3608,11976,0,1
+500,3608,12000,0,1
+501,3608,12024,0,1
+502,3608,12048,0,1
+503,3608,12072,0,1
+504,3608,12096,0,1
+505,3608,12120,0,1
+506,3608,12144,0,1
+507,3608,12168,0,1
+508,3608,12192,0,1
+509,3608,12216,0,1
+510,3608,12240,0,1
+511,3608,12264,0,1
+512,3608,12288,0,1
+513,3608,12312,0,1
+514,3608,12336,0,1
+515,3608,12360,0,1
+516,3608,12384,0,1
+517,3608,12408,0,1
+518,3608,12432,0,1
+519,3608,12456,0,1
+520,3608,12480,0,1
+521,3608,12504,0,1
+522,3608,12528,0,1
+523,3608,12552,0,1
+524,3608,12576,0,1
+525,3608,12600,0,1
+526,3608,12624,0,1
+527,3608,12648,0,1
+528,3608,12672,0,1
+529,3608,12696,0,1
+530,3608,12720,0,1
+531,3608,12744,0,1
+532,3608,12768,0,1
+533,3608,12792,0,1
+534,3608,12816,0,1
+535,3608,12840,0,1
+536,3608,12864,0,1
+537,3608,12888,0,1
+538,3608,12912,0,1
+539,3608,12936,0,1
+540,3608,12960,0,1
+541,3608,12984,0,1
+542,3608,13008,0,1
+543,3608,13032,0,1
+544,3608,13056,0,1
+545,3608,13080,0,1
+546,3608,13104,0,1
+547,3608,13128,0,1
+548,3608,13152,0,1
+549,3608,13176,0,1
+550,3608,13200,0,1
+551,3608,13224,0,1
+552,3608,13248,0,1
+553,3608,13272,0,1
+554,3608,13296,0,1
+555,3608,13320,0,1
+556,3608,13344,0,1
+557,3608,13368,0,1
+558,3608,13392,0,1
+559,3608,13416,0,1
+560,3608,13440,0,1
+561,3608,13464,0,1
+562,3608,13488,0,1
+563,3608,13512,0,1
+564,3608,13536,0,1
+565,3608,13560,0,1
+566,3608,13584,0,1
+567,3608,13608,0,1
+568,3608,13632,0,1
+569,3608,13656,0,1
+570,3608,13680,0,1
+571,3608,13704,0,1
+572,3608,13728,0,1
+573,3608,13752,0,1
+574,3608,13776,0,1
+575,3608,13800,0,1
+576,3608,13824,0,1
+577,3608,13848,0,1
+578,3608,13872,0,1
+579,3608,13896,0,1
+580,3608,13920,0,1
+581,3608,13944,0,1
+582,3608,13968,0,1
+583,3608,13992,0,1
+584,3608,14016,0,1
+585,3608,14040,0,1
+586,3608,14064,0,1
+587,3608,14088,0,1
+588,3608,14112,0,1
+589,3608,14136,0,1
+590,3608,14160,0,1
+591,3608,14184,0,1
+592,3608,14208,0,1
+593,3608,14232,0,1
+594,3608,14256,0,1
+595,3608,14280,0,1
+596,3608,14304,0,1
+597,3608,14328,0,1
+598,3608,14352,0,1
+599,3608,14376,0,1
+600,3608,14400,0,1
+601,3608,14424,0,1
+602,3608,14448,0,1
+603,3608,14472,0,1
+604,3608,14496,0,1
+605,3608,14520,0,1
+606,3608,14544,0,1
+607,3608,14568,0,1
+608,3608,14592,0,1
+609,3608,14616,0,1
+610,3608,14640,0,1
+611,3608,14664,0,1
+612,3608,14688,0,1
+613,3608,14712,0,1
+614,3608,14736,0,1
+615,3608,14760,0,1
+616,3608,14784,0,1
+617,3608,14808,0,1
+618,3608,14832,0,1
+619,3608,14856,0,1
+620,3608,14880,0,1
+621,3608,14904,0,1
+622,3608,14928,0,1
+623,3608,14952,0,1
+624,3608,14976,0,1
+625,3608,15000,0,1
+626,3608,15024,0,1
+627,3608,15048,0,1
+628,3608,15072,0,1
+629,3608,15096,0,1
+630,3608,15120,0,1
+631,3608,15144,0,1
+632,3608,15168,0,1
+633,3608,15192,0,1
+634,3608,15216,0,1
+635,3608,15240,0,1
+636,3608,15264,0,1
+637,3608,15288,0,1
+638,3608,15312,0,1
+639,3608,15336,0,1
+640,3608,15360,0,1
+641,3608,15384,0,1
+642,3608,15408,0,1
+643,3608,15432,0,1
+644,3608,15456,0,1
+645,3608,15480,0,1
+646,3608,15504,0,1
+647,3608,15528,0,1
+648,3608,15552,0,1
+649,3608,15576,0,1
+650,3608,15600,0,1
+651,3608,15624,0,1
+652,3608,15648,0,1
+653,3608,15672,0,1
+654,3608,15696,0,1
+655,3608,15720,0,1
+656,3608,15744,0,1
+657,3608,15768,0,1
+658,3608,15792,0,1
+659,3608,15816,0,1
+660,3608,15840,0,1
+661,3608,15864,0,1
+662,3608,15888,0,1
+663,3608,15912,0,1
+664,3608,15936,0,1
+665,3608,15960,1,0
+666,3608,15984,1,0
+667,3608,16008,0,1
+668,3608,16032,1,0
+669,3608,16056,0,1
+670,3608,16080,1,0
+671,3608,16104,1,0
+672,3608,16128,1,0
+673,3608,16152,1,0
+674,3608,16176,1,0
+675,3608,16200,0,1
+676,3608,16224,1,0
+677,3608,16248,1,0
+678,3608,16272,1,0
+679,3608,16296,0,1
+680,3608,16320,0,1
+681,3608,16344,1,0
+682,3608,16368,0,1
+683,3608,16392,0,1
+684,3608,16416,1,0
+685,3608,16440,1,0
+686,3608,16464,1,0
+687,3608,16488,1,0
+688,3608,16512,0,1
+689,3608,16536,1,0
+690,3608,16560,0,1
+691,3608,16584,0,1
+692,3608,16608,0,1
+693,3608,16632,0,1
+694,3608,16656,0,1
+695,3608,16680,0,1
+696,3608,16704,0,1
+697,3608,16728,0,1
+698,3608,16752,0,1
+699,3608,16776,0,1
+700,3608,16800,0,1
+701,3608,16824,0,1
+702,3608,16848,0,1
+703,3608,16872,0,1
+704,3608,16896,0,1
+705,3608,16920,0,1
+706,3608,16944,0,1
+707,3608,16968,0,1
+708,3608,16992,0,1
+709,3608,17016,0,1
+710,3608,17040,0,1
+711,3608,17064,0,1
+712,3608,17088,0,1
+713,3608,17112,0,1
+714,3608,17136,0,1
+715,3608,17160,0,1
+716,3608,17184,0,1
+717,3608,17208,0,1
+718,3608,17232,0,1
+719,3608,17256,0,1
+720,3608,17280,0,1
+721,3608,17304,0,1
+722,3608,17328,0,1
+723,3608,17352,0,1
+724,3608,17376,0,1
+725,3608,17400,0,1
+726,3608,17424,0,1
+727,3608,17448,0,1
+728,3608,17472,0,1
+729,3608,17496,0,1
+730,3608,17520,0,1
+731,3608,17544,0,1
+732,3608,17568,0,1
+733,3608,17592,0,1
+734,3608,17616,0,1
+735,3608,17640,0,1
+736,3608,17664,0,1
+737,3608,17688,0,1
+738,3608,17712,0,1
+739,3608,17736,0,1
+740,3608,17760,1,0
+741,3608,17784,0,1
+742,3608,17808,0,1
+743,3608,17832,0,1
+744,3608,17856,0,1
+745,3608,17880,1,0
+746,3608,17904,0,1
+747,3608,17928,0,1
+748,3608,17952,0,1
+749,3608,17976,1,0
+750,3608,18000,0,1
+751,3608,18024,1,0
+752,3608,18048,1,0
+753,3608,18072,0,1
+754,3608,18096,0,1
+755,3608,18120,0,1
+756,3608,18144,1,0
+757,3608,18168,1,0
+758,3608,18192,1,0
+759,3608,18216,1,0
+760,3608,18240,1,0
+761,3608,18264,0,1
+762,3608,18288,0,1
+763,3608,18312,0,1
+764,3608,18336,0,1
+765,3608,18360,0,1
+766,3608,18384,0,1
+767,3608,18408,1,0
+768,3608,18432,1,0
+769,3608,18456,1,0
+770,3608,18480,1,0
+771,3608,18504,1,0
+772,3608,18528,1,0
+773,3608,18552,1,0
+774,3608,18576,1,0
+775,3608,18600,0,1
+776,3608,18624,0,1
+777,3608,18648,0,1
+778,3608,18672,0,1
+779,3608,18696,0,1
+780,3608,18720,0,1
+781,3608,18744,0,1
+782,3608,18768,0,1
+783,3608,18792,0,1
+784,3608,18816,0,1
+785,3608,18840,0,1
+786,3608,18864,0,1
+787,3608,18888,0,1
+788,3608,18912,0,1
+789,3608,18936,0,1
+790,3608,18960,0,1
+791,3608,18984,0,1
+792,3608,19008,0,1
+793,3608,19032,0,1
+794,3608,19056,0,1
+795,3608,19080,0,1
+796,3608,19104,0,1
+797,3608,19128,0,1
+798,3608,19152,0,1
+799,3608,19176,0,1
+800,3608,19200,0,1
+801,3608,19224,0,1
+802,3608,19248,1,0
+803,3608,19272,1,0
+804,3608,19296,1,0
+805,3608,19320,1,0
+806,3608,19344,1,0
+807,3608,19368,1,0
+808,3608,19392,1,0
+809,3608,19416,1,0
+810,3608,19440,1,0
+811,3608,19464,1,0
+812,3608,19488,1,0
+813,3608,19512,1,0
+814,3608,19536,1,0
+815,3608,19560,1,0
+816,3608,19584,1,0
+817,3608,19608,1,0
+818,3608,19632,1,0
+819,3608,19656,1,0
+820,3608,19680,1,0
+821,3608,19704,0,1
+822,3608,19728,0,1
+823,3608,19752,0,1
+824,3608,19776,0,1
+825,3608,19800,0,1
+826,3608,19824,0,1
+827,3608,19848,0,1
+828,3608,19872,0,1
+829,3608,19896,0,1
+830,3608,19920,0,1
+831,3608,19944,0,1
+832,3608,19968,0,1
+833,3608,19992,0,1
+834,3608,20016,0,1
+835,3608,20040,0,1
+836,3608,20064,0,1
+837,3608,20088,0,1
+838,3608,20112,0,1
+839,3608,20136,0,1
+840,3608,20160,0,1
+841,3608,20184,0,1
+842,3608,20208,0,1
+843,3608,20232,0,1
+844,3608,20256,0,1
+845,3608,20280,0,1
+846,3608,20304,0,1
+847,3608,20328,0,1
+848,3608,20352,0,1
+849,3608,20376,0,1
+850,3608,20400,0,1
+851,3608,20424,0,1
+852,3608,20448,0,1
+853,3608,20472,0,1
+854,3608,20496,0,1
+855,3608,20520,0,1
+856,3608,20544,0,1
+857,3608,20568,0,1
+858,3608,20592,0,1
+859,3608,20616,0,1
+860,3608,20640,0,1
+861,3608,20664,0,1
+862,3608,20688,0,1
+863,3608,20712,0,1
+864,3608,20736,0,1
+865,3608,20760,0,1
+866,3608,20784,0,1
+867,3608,20808,0,1
+868,3608,20832,0,1
+869,3608,20856,0,1
+870,3608,20880,0,1
+871,3608,20904,0,1
+872,3608,20928,0,1
+873,3608,20952,0,1
+874,3608,20976,0,1
+875,3608,21000,0,1
+876,3608,21024,0,1
+877,3608,21048,0,1
+878,3608,21072,0,1
+879,3608,21096,0,1
+880,3608,21120,0,1
+881,3608,21144,0,1
+882,3608,21168,0,1
+883,3608,21192,0,1
+884,3608,21216,0,1
+885,3608,21240,0,1
+886,3608,21264,0,1
+887,3608,21288,0,1
+888,3608,21312,0,1
+889,3608,21336,0,1
+890,3608,21360,0,1
+891,3608,21384,0,1
+892,3608,21408,0,1
+893,3608,21432,1,0
+894,3608,21456,1,0
+895,3608,21480,1,0
+896,3608,21504,1,0
+897,3608,21528,1,0
+898,3608,21552,1,0
+899,3608,21576,1,0
+900,3608,21600,1,0
+901,3608,21624,1,0
+902,3608,21648,0,1
+903,3608,21672,1,0
+904,3608,21696,1,0
+905,3608,21720,0,1
+906,3608,21744,0,1
+907,3608,21768,0,1
+908,3608,21792,0,1
+909,3608,21816,0,1
+910,3608,21840,0,1
+911,3608,21864,0,1
+912,3608,21888,1,0
+913,3608,21912,0,1
+914,3608,21936,0,1
+915,3608,21960,0,1
+916,3608,21984,0,1
+917,3608,22008,0,1
+918,3608,22032,0,1
+919,3608,22056,0,1
+920,3608,22080,0,1
+921,3608,22104,0,1
+922,3608,22128,0,1
+923,3608,22152,0,1
+924,3608,22176,0,1
+925,3608,22200,0,1
+926,3608,22224,0,1
+927,3608,22248,0,1
+928,3608,22272,0,1
+929,3608,22296,0,1
+930,3608,22320,0,1
+931,3608,22344,0,1
+932,3608,22368,0,1
+933,3608,22392,0,1
+934,3608,22416,0,1
+935,3608,22440,0,1
+936,3608,22464,0,1
+937,3608,22488,0,1
+938,3608,22512,0,1
+939,3608,22536,0,1
+940,3608,22560,0,1
+941,3608,22584,0,1
+942,3608,22608,0,1
+943,3608,22632,0,1
+944,3608,22656,0,1
+945,3608,22680,0,1
+946,3608,22704,0,1
+947,3608,22728,0,1
+948,3608,22752,0,1
+949,3608,22776,0,1
+950,3608,22800,0,1
+951,3608,22824,0,1
+952,3608,22848,0,1
+953,3608,22872,0,1
+954,3608,22896,0,1
+955,3608,22920,0,1
+956,3608,22944,0,1
+957,3608,22968,0,1
+958,3608,22992,0,1
+959,3608,23016,0,1
+960,3608,23040,0,1
+961,3608,23064,0,1
+962,3608,23088,0,1
+963,3608,23112,0,1
+964,3608,23136,0,1
+965,3608,23160,0,1
+966,3608,23184,0,1
+967,3608,23208,0,1
+968,3608,23232,0,1
+969,3608,23256,0,1
+970,3608,23280,0,1
+971,3608,23304,0,1
+972,3608,23328,0,1
+973,3608,23352,0,1
+974,3608,23376,0,1
+975,3608,23400,0,1
+976,3608,23424,0,1
+977,3608,23448,0,1
+978,3608,23472,0,1
+979,3608,23496,0,1
+980,3608,23520,0,1
+981,3608,23544,0,1
+982,3608,23568,0,1
+983,3608,23592,0,1
+984,3608,23616,0,1
+985,3608,23640,0,1
+986,3608,23664,0,1
+987,3608,23688,0,1
+988,3608,23712,0,1
+989,3608,23736,0,1
+990,3608,23760,0,1
+991,3608,23784,0,1
+992,3608,23808,0,1
+993,3608,23832,0,1
+994,3608,23856,0,1
+995,3608,23880,0,1
+996,3608,23904,0,1
+997,3608,23928,0,1
+998,3608,23952,0,1
+999,3608,23976,0,1
+1000,3608,24000,0,1
+1001,3608,24024,0,1
+1002,3608,24048,0,1
+1003,3608,24072,0,1
+1004,3608,24096,0,1
+1005,3608,24120,0,1
+1006,3608,24144,0,1
+1007,3608,24168,0,1
+1008,3608,24192,0,1
+1009,3608,24216,0,1
+1010,3608,24240,0,1
+1011,3608,24264,0,1
+1012,3608,24288,0,1
+1013,3608,24312,0,1
+1014,3608,24336,0,1
+1015,3608,24360,0,1
+1016,3608,24384,0,1
+1017,3608,24408,0,1
+1018,3608,24432,0,1
+1019,3608,24456,0,1
+1020,3608,24480,0,1
+1021,3608,24504,0,1
+1022,3608,24528,0,1
+1023,3608,24552,0,1
+1024,3608,24576,0,1
+1025,3608,24600,0,1
+1026,3608,24624,0,1
+1027,3608,24648,0,1
+1028,3608,24672,0,1
+1029,3608,24696,0,1
+1030,3608,24720,0,1
+1031,3608,24744,0,1
+1032,3608,24768,0,1
+1033,3608,24792,0,1
+1034,3608,24816,0,1
+1035,3608,24840,0,1
+1036,3608,24864,0,1
+1037,3608,24888,0,1
+1038,3608,24912,0,1
+1039,3608,24936,0,1
+1040,3608,24960,0,1
+1041,3608,24984,0,1
+1042,3608,25008,0,1
+1043,3608,25032,0,1
+1044,3608,25056,0,1
+1045,3608,25080,0,1
+1046,3608,25104,0,1
+1047,3608,25128,0,1
+1048,3608,25152,0,1
+1049,3608,25176,0,1
+1050,3608,25200,0,1
+1051,3608,25224,0,1
+1052,3608,25248,0,1
+1053,3608,25272,0,1
+1054,3608,25296,0,1
+1055,3608,25320,0,1
+1056,3608,25344,0,1
+1057,3608,25368,0,1
+1058,3608,25392,0,1
+1059,3608,25416,1,0
+1060,3608,25440,1,0
+1061,3608,25464,1,0
+1062,3608,25488,0,1
+1063,3608,25512,1,0
+1064,3608,25536,1,0
+1065,3608,25560,1,0
+1066,3608,25584,0,1
+1067,3608,25608,1,0
+1068,3608,25632,1,0
+1069,3608,25656,1,0
+1070,3608,25680,1,0
+1071,3608,25704,0,1
+1072,3608,25728,0,1
+1073,3608,25752,0,1
+1074,3608,25776,0,1
+1075,3608,25800,0,1
+1076,3608,25824,0,1
+1077,3608,25848,0,1
+1078,3608,25872,0,1
+1079,3608,25896,0,1
+1080,3608,25920,0,1
+1081,3608,25944,0,1
+1082,3608,25968,0,1
+1083,3608,25992,0,1
+1084,3608,26016,0,1
+1085,3608,26040,0,1
+1086,3608,26064,0,1
+1087,3608,26088,0,1
+1088,3608,26112,0,1
+1089,3608,26136,0,1
+1090,3608,26160,0,1
+1091,3608,26184,0,1
+1092,3608,26208,0,1
+1093,3608,26232,0,1
+1094,3608,26256,0,1
+1095,3608,26280,1,0
+1096,3608,26304,0,1
+1097,3608,26328,0,1
+1098,3608,26352,0,1
+1099,3608,26376,0,1
+1100,3608,26400,0,1
+1101,3608,26424,0,1
+1102,3608,26448,0,1
+1103,3608,26472,0,1
+1104,3608,26496,0,1
+1105,3608,26520,0,1
+1106,3608,26544,0,1
+1107,3608,26568,0,1
+1108,3608,26592,0,1
+1109,3608,26616,0,1
+1110,3608,26640,0,1
+1111,3608,26664,0,1
+1112,3608,26688,0,1
+1113,3608,26712,0,1
+1114,3608,26736,0,1
+1115,3608,26760,0,1
+1116,3608,26784,1,0
+1117,3608,26808,1,0
+1118,3608,26832,1,0
+1119,3608,26856,1,0
+1120,3608,26880,1,0
+1121,3608,26904,1,0
+1122,3608,26928,1,0
+1123,3608,26952,1,0
+1124,3608,26976,1,0
+1125,3608,27000,1,0
+1126,3608,27024,1,0
+1127,3608,27048,1,0
+1128,3608,27072,1,0
+1129,3608,27096,1,0
+1130,3608,27120,1,0
+1131,3608,27144,0,1
+1132,3608,27168,0,1
+1133,3608,27192,0,1
+1134,3608,27216,0,1
+1135,3608,27240,0,1
+1136,3608,27264,0,1
+1137,3608,27288,0,1
+1138,3608,27312,0,1
+1139,3608,27336,1,0
+1140,3608,27360,0,1
+1141,3608,27384,0,1
+1142,3608,27408,0,1
+1143,3608,27432,1,0
+1144,3608,27456,1,0
+1145,3608,27480,1,0
+1146,3608,27504,1,0
+1147,3608,27528,1,0
+1148,3608,27552,1,0
+1149,3608,27576,1,0
+1150,3608,27600,1,0
+1151,3608,27624,1,0
+1152,3608,27648,0,1
+1153,3608,27672,0,1
+1154,3608,27696,0,1
+1155,3608,27720,0,1
+1156,3608,27744,0,1
+1157,3608,27768,0,1
+1158,3608,27792,0,1
+1159,3608,27816,0,1
+1160,3608,27840,0,1
+1161,3608,27864,0,1
+1162,3608,27888,1,0
+1163,3608,27912,1,0
+1164,3608,27936,1,0
+1165,3608,27960,1,0
+1166,3608,27984,0,1
+1167,3608,28008,1,0
+1168,3608,28032,1,0
+1169,3608,28056,0,1
+1170,3608,28080,0,1
+1171,3608,28104,0,1
+1172,3608,28128,0,1
+1173,3608,28152,0,1
+1174,3608,28176,0,1
+1175,3608,28200,0,1
+1176,3608,28224,0,1
+1177,3608,28248,0,1
+1178,3608,28272,0,1
+1179,3608,28296,0,1
+1180,3608,28320,0,1
+1181,3608,28344,0,1
+1182,3608,28368,0,1
+1183,3608,28392,0,1
+1184,3608,28416,0,1
+1185,3608,28440,0,1
+1186,3608,28464,0,1
+1187,3608,28488,0,1
+1188,3608,28512,0,1
+1189,3608,28536,0,1
+1190,3608,28560,0,1
+1191,3608,28584,0,1
+1192,3608,28608,0,1
+1193,3608,28632,0,1
+1194,3608,28656,1,0
+1195,3608,28680,0,1
+1196,3608,28704,0,1
+1197,3608,28728,0,1
+1198,3608,28752,0,1
+1199,3608,28776,0,1
+1200,3608,28800,0,1
+1201,3608,28824,0,1
+1202,3608,28848,0,1
+1203,3608,28872,0,1
+1204,3608,28896,0,1
+1205,3608,28920,0,1
+1206,3608,28944,0,1
+1207,3608,28968,0,1
+1208,3608,28992,0,1
+1209,3608,29016,0,1
+1210,3608,29040,0,1
+1211,3608,29064,0,1
+1212,3608,29088,0,1
+1213,3608,29112,0,1
+1214,3608,29136,0,1
+1215,3608,29160,0,1
+1216,3608,29184,0,1
+1217,3608,29208,0,1
+1218,3608,29232,1,0
+1219,3608,29256,0,1
+1220,3608,29280,0,1
+1221,3608,29304,0,1
+1222,3608,29328,0,1
+1223,3608,29352,0,1
+1224,3608,29376,0,1
+1225,3608,29400,0,1
+1226,3608,29424,0,1
+1227,3608,29448,0,1
+1228,3608,29472,0,1
+1229,3608,29496,0,1
+1230,3608,29520,0,1
+1231,3608,29544,0,1
+1232,3608,29568,0,1
+1233,3608,29592,1,0
+1234,3608,29616,1,0
+1235,3608,29640,0,1
+1236,3608,29664,0,1
+1237,3608,29688,1,0
+1238,3608,29712,1,0
+1239,3608,29736,1,0
+1240,3608,29760,1,0
+1241,3608,29784,1,0
+1242,3608,29808,0,1
+1243,3608,29832,0,1
+1244,3608,29856,0,1
+1245,3608,29880,0,1
+1246,3608,29904,0,1
+1247,3608,29928,0,1
+1248,3608,29952,0,1
+1249,3608,29976,0,1
+1250,3608,30000,0,1
+1251,3608,30024,0,1
+1252,3608,30048,0,1
+1253,3608,30072,0,1
+1254,3608,30096,0,1
+1255,3608,30120,0,1
+1256,3608,30144,0,1
+1257,3608,30168,0,1
+1258,3608,30192,0,1
+1259,3608,30216,0,1
+1260,3608,30240,0,1
+1261,3608,30264,0,1
+1262,3608,30288,0,1
+1263,3608,30312,0,1
+1264,3608,30336,0,1
+1265,3608,30360,0,1
+1266,3608,30384,0,1
+1267,3608,30408,0,1
+1268,3608,30432,0,1
+1269,3608,30456,0,1
+1270,3608,30480,0,1
+1271,3608,30504,0,1
+1272,3608,30528,0,1
+1273,3608,30552,0,1
+1274,3608,30576,0,1
+1275,3608,30600,0,1
+1276,3608,30624,0,1
+1277,3608,30648,0,1
+1278,3608,30672,0,1
+1279,3608,30696,0,1
+1280,3608,30720,0,1
+1281,3608,30744,0,1
+1282,3608,30768,0,1
+1283,3608,30792,0,1
+1284,3608,30816,0,1
+1285,3608,30840,0,1
+1286,3608,30864,0,1
+1287,3608,30888,0,1
+1288,3608,30912,0,1
+1289,3608,30936,0,1
+1290,3608,30960,0,1
+1291,3608,30984,0,1
+1292,3608,31008,0,1
+1293,3608,31032,0,1
+1294,3608,31056,0,1
+1295,3608,31080,0,1
+1296,3608,31104,0,1
+1297,3608,31128,0,1
+1298,3608,31152,1,0
+1299,3608,31176,0,1
+1300,3608,31200,0,1
+1301,3608,31224,0,1
+1302,3608,31248,0,1
+1303,3608,31272,0,1
+1304,3608,31296,0,1
+1305,3608,31320,0,1
+1306,3608,31344,0,1
+1307,3608,31368,0,1
+1308,3608,31392,0,1
+1309,3608,31416,0,1
+1310,3608,31440,0,1
+1311,3608,31464,0,1
+1312,3608,31488,0,1
+1313,3608,31512,0,1
+1314,3608,31536,0,1
+1315,3608,31560,0,1
+1316,3608,31584,0,1
+1317,3608,31608,0,1
+1318,3608,31632,0,1
+1319,3608,31656,0,1
+1320,3608,31680,0,1
+1321,3608,31704,0,1
+1322,3608,31728,0,1
+1323,3608,31752,0,1
+1324,3608,31776,0,1
+1325,3608,31800,0,1
+1326,3608,31824,0,1
+1327,3608,31848,0,1
+1328,3608,31872,0,1
+1329,3608,31896,0,1
+1330,3608,31920,0,1
+1331,3608,31944,0,1
+1332,3608,31968,0,1
+1333,3608,31992,0,1
+1334,3608,32016,0,1
+1335,3608,32040,0,1
+1336,3608,32064,0,1
+1337,3608,32088,0,1
+1338,3608,32112,0,1
+1339,3608,32136,0,1
+1340,3608,32160,0,1
+1341,3608,32184,0,1
+1342,3608,32208,0,1
+1343,3608,32232,0,1
+1344,3608,32256,0,1
+1345,3608,32280,0,1
+1346,3608,32304,0,1
+1347,3608,32328,0,1
+1348,3608,32352,0,1
+1349,3608,32376,0,1
+1350,3608,32400,0,1
+1351,3608,32424,0,1
+1352,3608,32448,0,1
+1353,3608,32472,0,1
+1354,3608,32496,1,0
+1355,3608,32520,0,1
+1356,3608,32544,0,1
+1357,3608,32568,0,1
+1358,3608,32592,0,1
+1359,3608,32616,0,1
+1360,3608,32640,1,0
+1361,3608,32664,0,1
+1362,3608,32688,0,1
+1363,3608,32712,0,1
+1364,3608,32736,0,1
+1365,3608,32760,0,1
+1366,3608,32784,0,1
+1367,3608,32808,0,1
+1368,3608,32832,0,1
+1369,3608,32856,0,1
+1370,3608,32880,0,1
+1371,3608,32904,0,1
+1372,3608,32928,0,1
+1373,3608,32952,0,1
+1374,3608,32976,0,1
+1375,3608,33000,0,1
+1376,3608,33024,0,1
+1377,3608,33048,0,1
+1378,3608,33072,0,1
+1379,3608,33096,0,1
+1380,3608,33120,0,1
+1381,3608,33144,0,1
+1382,3608,33168,0,1
+1383,3608,33192,0,1
+1384,3608,33216,0,1
+1385,3608,33240,0,1
+1386,3608,33264,0,1
+1387,3608,33288,0,1
+1388,3608,33312,0,1
+1389,3608,33336,0,1
+1390,3608,33360,0,1
+1391,3608,33384,0,1
+1392,3608,33408,0,1
+1393,3608,33432,0,1
+1394,3608,33456,0,1
+1395,3608,33480,0,1
+1396,3608,33504,0,1
+1397,3608,33528,0,1
+1398,3608,33552,0,1
+1399,3608,33576,0,1
+1400,3608,33600,0,1
+1401,3608,33624,0,1
+1402,3608,33648,0,1
+1403,3608,33672,0,1
+1404,3608,33696,0,1
+1405,3608,33720,0,1
+1406,3608,33744,0,1
+1407,3608,33768,0,1
+1408,3608,33792,0,1
+1409,3608,33816,0,1
+1410,3608,33840,0,1
+1411,3608,33864,0,1
+1412,3608,33888,1,0
+1413,3608,33912,0,1
+1414,3608,33936,0,1
+1415,3608,33960,0,1
+1416,3608,33984,0,1
+1417,3608,34008,0,1
+1418,3608,34032,0,1
+1419,3608,34056,0,1
+1420,3608,34080,0,1
+1421,3608,34104,0,1
+1422,3608,34128,1,0
+1423,3608,34152,0,1
+1424,3608,34176,0,1
+1425,3608,34200,0,1
+1426,3608,34224,0,1
+1427,3608,34248,0,1
+1428,3608,34272,0,1
+1429,3608,34296,0,1
+1430,3608,34320,0,1
+1431,3608,34344,0,1
+1432,3608,34368,0,1
+1433,3608,34392,0,1
+1434,3608,34416,0,1
+1435,3608,34440,0,1
+1436,3608,34464,0,1
+1437,3608,34488,0,1
+1438,3608,34512,0,1
+1439,3608,34536,0,1
+1440,3608,34560,0,1
+1441,3608,34584,0,1
+1442,3608,34608,0,1
+1443,3608,34632,0,1
+1444,3608,34656,0,1
+1445,3608,34680,0,1
+1446,3608,34704,0,1
+1447,3608,34728,0,1
+1448,3608,34752,0,1
+1449,3608,34776,0,1
+1450,3608,34800,0,1
+1451,3608,34824,1,0
+1452,3608,34848,0,1
+1453,3608,34872,1,0
+1454,3608,34896,1,0
+1455,3608,34920,1,0
+1456,3608,34944,1,0
+1457,3608,34968,1,0
+1458,3608,34992,1,0
+1459,3608,35016,1,0
+1460,3608,35040,1,0
+1461,3608,35064,1,0
+1462,3608,35088,0,1
+1463,3608,35112,1,0
+1464,3608,35136,1,0
+1465,3608,35160,0,1
+1466,3608,35184,1,0
+1467,3608,35208,1,0
+1468,3608,35232,0,1
+1469,3608,35256,0,1
+1470,3608,35280,0,1
+1471,3608,35304,0,1
+1472,3608,35328,0,1
+1473,3608,35352,0,1
+1474,3608,35376,0,1
+1475,3608,35400,0,1
+1476,3608,35424,0,1
+1477,3608,35448,0,1
+1478,3608,35472,0,1
+1479,3608,35496,0,1
+1480,3608,35520,0,1
+1481,3608,35544,0,1
+1482,3608,35568,0,1
+1483,3608,35592,0,1
+1484,3608,35616,0,1
+1485,3608,35640,1,0
+1486,3608,35664,0,1
+1487,3608,35688,0,1
+1488,3608,35712,0,1
+1489,3608,35736,0,1
+1490,3608,35760,0,1
+1491,3608,35784,0,1
+1492,3608,35808,0,1
+1493,3608,35832,0,1
+1494,3608,35856,0,1
+1495,3608,35880,0,1
+1496,3608,35904,0,1
+1497,3608,35928,0,1
+1498,3608,35952,0,1
+1499,3608,35976,0,1
+1500,3608,36000,0,1
+1501,3608,36024,0,1
+1502,3608,36048,0,1
+1503,3608,36072,0,1
+1504,3608,36096,0,1
+1505,3608,36120,0,1
+1506,3608,36144,0,1
+1507,3608,36168,0,1
+1508,3608,36192,0,1
+1509,3608,36216,0,1
+1510,3608,36240,0,1
+1511,3608,36264,0,1
+1512,3608,36288,0,1
+1513,3608,36312,0,1
+1514,3608,36336,0,1
+1515,3608,36360,0,1
+1516,3608,36384,0,1
+1517,3608,36408,0,1
+1518,3608,36432,0,1
+1519,3608,36456,0,1
+1520,3608,36480,0,1
+1521,3608,36504,0,1
+1522,3608,36528,0,1
+1523,3608,36552,1,0
+1524,3608,36576,1,0
+1525,3608,36600,0,1
+1526,3608,36624,0,1
+1527,3608,36648,0,1
+1528,3608,36672,0,1
+1529,3608,36696,0,1
+1530,3608,36720,0,1
+1531,3608,36744,0,1
+1532,3608,36768,1,0
+1533,3608,36792,1,0
+1534,3608,36816,0,1
+1535,3608,36840,0,1
+1536,3608,36864,0,1
+1537,3608,36888,0,1
+1538,3608,36912,0,1
+1539,3608,36936,0,1
+1540,3608,36960,0,1
+1541,3608,36984,0,1
+1542,3608,37008,0,1
+1543,3608,37032,0,1
+1544,3608,37056,0,1
+1545,3608,37080,0,1
+1546,3608,37104,0,1
+1547,3608,37128,0,1
+1548,3608,37152,0,1
+1549,3608,37176,0,1
+1550,3608,37200,0,1
+1551,3608,37224,0,1
+1552,3608,37248,0,1
+1553,3608,37272,1,0
+1554,3608,37296,0,1
+1555,3608,37320,1,0
+1556,3608,37344,0,1
+1557,3608,37368,0,1
+1558,3608,37392,0,1
+1559,3608,37416,0,1
+1560,3608,37440,0,1
+1561,3608,37464,0,1
+1562,3608,37488,0,1
+1563,3608,37512,0,1
+1564,3608,37536,0,1
+1565,3608,37560,1,0
+1566,3608,37584,0,1
+1567,3608,37608,0,1
+1568,3608,37632,0,1
+1569,3608,37656,0,1
+1570,3608,37680,0,1
+1571,3608,37704,0,1
+1572,3608,37728,0,1
+1573,3608,37752,0,1
+1574,3608,37776,0,1
+1575,3608,37800,0,1
+1576,3608,37824,0,1
+1577,3608,37848,0,1
+1578,3608,37872,0,1
+1579,3608,37896,0,1
+1580,3608,37920,1,0
+1581,3608,37944,0,1
+1582,3608,37968,1,0
+1583,3608,37992,0,1
+1584,3608,38016,0,1
+1585,3608,38040,1,0
+1586,3608,38064,1,0
+1587,3608,38088,1,0
+1588,3608,38112,1,0
+1589,3608,38136,1,0
+1590,3608,38160,1,0
+1591,3608,38184,1,0
+1592,3608,38208,1,0
+1593,3608,38232,1,0
+1594,3608,38256,1,0
+1595,3608,38280,1,0
+1596,3608,38304,0,1
+1597,3608,38328,1,0
+1598,3608,38352,0,1
+1599,3608,38376,1,0
+1600,3608,38400,0,1
+1601,3608,38424,0,1
+1602,3608,38448,0,1
+1603,3608,38472,1,0
+1604,3608,38496,1,0
+1605,3608,38520,1,0
+1606,3608,38544,0,1
+1607,3608,38568,1,0
+1608,3608,38592,1,0
+1609,3608,38616,1,0
+1610,3608,38640,1,0
+1611,3608,38664,0,1
+1612,3608,38688,0,1
+1613,3608,38712,0,1
+1614,3608,38736,1,0
+1615,3608,38760,0,1
+1616,3608,38784,1,0
+1617,3608,38808,1,0
+1618,3608,38832,1,0
+1619,3608,38856,1,0
+1620,3608,38880,0,1
+1621,3608,38904,0,1
+1622,3608,38928,0,1
+1623,3608,38952,0,1
+1624,3608,38976,0,1
+1625,3608,39000,0,1
+1626,3608,39024,0,1
+1627,3608,39048,1,0
+1628,3608,39072,1,0
+1629,3608,39096,1,0
+1630,3608,39120,1,0
+1631,3608,39144,1,0
+1632,3608,39168,1,0
+1633,3608,39192,1,0
+1634,3608,39216,1,0
+1635,3608,39240,1,0
+1636,3608,39264,1,0
+1637,3608,39288,1,0
+1638,3608,39312,1,0
+1639,3608,39336,1,0
+1640,3608,39360,1,0
+1641,3608,39384,0,1
+1642,3608,39408,0,1
+1643,3608,39432,0,1
+1644,3608,39456,0,1
+1645,3608,39480,0,1
+1646,3608,39504,0,1
+1647,3608,39528,0,1
+1648,3608,39552,0,1
+1649,3608,39576,0,1
+1650,3608,39600,0,1
+1651,3608,39624,0,1
+1652,3608,39648,0,1
+1653,3608,39672,0,1
+1654,3608,39696,0,1
+1655,3608,39720,0,1
+1656,3608,39744,0,1
+1657,3608,39768,0,1
+1658,3608,39792,0,1
+1659,3608,39816,0,1
+1660,3608,39840,0,1
+1661,3608,39864,0,1
+1662,3608,39888,0,1
+1663,3608,39912,0,1
+1664,3608,39936,0,1
+1665,3608,39960,0,1
+1666,3608,39984,0,1
+1667,3608,40008,0,1
+1668,3608,40032,0,1
+1669,3608,40056,0,1
+1670,3608,40080,0,1
+1671,3608,40104,0,1
+1672,3608,40128,0,1
+1673,3608,40152,0,1
+1674,3608,40176,0,1
+1675,3608,40200,0,1
+1676,3608,40224,0,1
+1677,3608,40248,0,1
+1678,3608,40272,0,1
+1679,3608,40296,0,1
+1680,3608,40320,0,1
+1681,3608,40344,0,1
+1682,3608,40368,0,1
+1683,3608,40392,0,1
+1684,3608,40416,0,1
+1685,3608,40440,0,1
+1686,3608,40464,0,1
+1687,3608,40488,0,1
+1688,3608,40512,0,1
+1689,3608,40536,0,1
+1690,3608,40560,0,1
+1691,3608,40584,0,1
+1692,3608,40608,0,1
+1693,3608,40632,0,1
+1694,3608,40656,0,1
+1695,3608,40680,0,1
+1696,3608,40704,0,1
+1697,3608,40728,0,1
+1698,3608,40752,0,1
+1699,3608,40776,0,1
+1700,3608,40800,0,1
+1701,3608,40824,0,1
+1702,3608,40848,0,1
+1703,3608,40872,0,1
+1704,3608,40896,0,1
+1705,3608,40920,0,1
+1706,3608,40944,0,1
+1707,3608,40968,0,1
+1708,3608,40992,0,1
+1709,3608,41016,0,1
+1710,3608,41040,0,1
+1711,3608,41064,0,1
+1712,3608,41088,0,1
+1713,3608,41112,0,1
+1714,3608,41136,0,1
+1715,3608,41160,0,1
+1716,3608,41184,0,1
+1717,3608,41208,0,1
+1718,3608,41232,0,1
+1719,3608,41256,0,1
+1720,3608,41280,0,1
+1721,3608,41304,0,1
+1722,3608,41328,0,1
+1723,3608,41352,0,1
+1724,3608,41376,0,1
+1725,3608,41400,0,1
+1726,3608,41424,0,1
+1727,3608,41448,0,1
+1728,3608,41472,0,1
+1729,3608,41496,0,1
+1730,3608,41520,0,1
+1731,3608,41544,0,1
+1732,3608,41568,0,1
+1733,3608,41592,0,1
+1734,3608,41616,0,1
+1735,3608,41640,0,1
+1736,3608,41664,0,1
+1737,3608,41688,0,1
+1738,3608,41712,0,1
+1739,3608,41736,0,1
+1740,3608,41760,0,1
+1741,3608,41784,0,1
+1742,3608,41808,0,1
+1743,3608,41832,0,1
+1744,3608,41856,0,1
+1745,3608,41880,0,1
+1746,3608,41904,0,1
+1747,3608,41928,0,1
+1748,3608,41952,0,1
+1749,3608,41976,0,1
+1750,3608,42000,0,1
+1751,3608,42024,0,1
+1752,3608,42048,0,1
+1753,3608,42072,0,1
+1754,3608,42096,0,1
+1755,3608,42120,0,1
+1756,3608,42144,0,1
+1757,3608,42168,0,1
+1758,3608,42192,0,1
+1759,3608,42216,0,1
+1760,3608,42240,0,1
+1761,3608,42264,0,1
+1762,3608,42288,0,1
+1763,3608,42312,0,1
+1764,3608,42336,0,1
+1765,3608,42360,0,1
+1766,3608,42384,0,1
+1767,3608,42408,0,1
+1768,3608,42432,0,1
+1769,3608,42456,0,1
+1770,3608,42480,0,1
+1771,3608,42504,0,1
+1772,3608,42528,0,1
+1773,3608,42552,0,1
+1774,3608,42576,0,1
+1775,3608,42600,0,1
+1776,3608,42624,0,1
+1777,3608,42648,0,1
+1778,3608,42672,0,1
+1779,3608,42696,0,1
+1780,3608,42720,0,1
+1781,3608,42744,0,1
+1782,3608,42768,1,0

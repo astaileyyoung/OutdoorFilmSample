@@ -1,189 +1,189 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"hospital, archive, hospital_room, pharmacy, kindergarden_classroom",6687
-1,24,indoor,"clothing_store, drugstore, coffee_shop, pharmacy, beauty_salon",6687
-2,48,indoor,"clothing_store, drugstore, coffee_shop, pharmacy, beauty_salon",6687
-3,72,indoor,"clothing_store, drugstore, coffee_shop, pharmacy, beauty_salon",6687
-4,96,indoor,"clothing_store, drugstore, coffee_shop, pharmacy, beauty_salon",6687
-5,120,indoor,"clothing_store, coffee_shop, drugstore, pharmacy, beauty_salon",6687
-6,144,indoor,"clothing_store, drugstore, coffee_shop, pharmacy, beauty_salon",6687
-7,168,indoor,"drugstore, pharmacy, clothing_store, hospital_room, beauty_salon",6687
-8,192,indoor,"beauty_salon, drugstore, pharmacy, hospital_room, booth/indoor",6687
-9,216,indoor,"drugstore, beauty_salon, pharmacy, hospital_room, natural_history_museum",6687
-10,240,indoor,"drugstore, beauty_salon, pharmacy, hospital_room, jewelry_shop",6687
-11,264,indoor,"drugstore, beauty_salon, pharmacy, natural_history_museum, hospital_room",6687
-12,288,indoor,"beauty_salon, drugstore, pharmacy, natural_history_museum, hospital_room",6687
-13,312,indoor,"art_studio, art_gallery, museum/indoor, archive, art_school",6687
-14,336,indoor,"art_studio, art_gallery, archive, bank_vault, museum/indoor",6687
-15,360,indoor,"museum/indoor, art_gallery, childs_room, art_studio, archive",6687
-16,384,indoor,"art_gallery, museum/indoor, art_studio, archive, art_school",6687
-17,408,indoor,"museum/indoor, archive, art_gallery, art_studio, science_museum",6687
-18,432,indoor,"clean_room, archive, music_studio, physics_laboratory, museum/indoor",6687
-19,456,indoor,"archive, clean_room, museum/indoor, rice_paddy, schoolhouse",6687
-20,480,indoor,"archive, ice_floe, jewelry_shop, clean_room, ice_shelf",6687
-21,504,indoor,"archive, museum/indoor, jewelry_shop, boxing_ring, department_store",6687
-22,528,indoor,"archive, music_studio, clean_room, stage/indoor, auditorium",6687
-23,552,indoor,"archive, music_studio, clean_room, physics_laboratory, jewelry_shop",6687
-24,576,indoor,"music_studio, archive, physics_laboratory, museum/indoor, science_museum",6687
-25,600,indoor,"museum/indoor, archive, boxing_ring, natural_history_museum, corral",6687
-26,624,indoor,"clean_room, operating_room, hospital_room, attic, archive",6687
-27,648,indoor,"clean_room, server_room, archive, physics_laboratory, museum/indoor",6687
-28,672,indoor,"jewelry_shop, office, physics_laboratory, hospital_room, clean_room",6687
-29,696,indoor,"operating_room, hospital_room, archive, clean_room, music_studio",6687
-30,720,indoor,"locker_room, jewelry_shop, dressing_room, clean_room, natural_history_museum",6687
-31,744,indoor,"dressing_room, locker_room, jewelry_shop, nursery, clean_room",6687
-32,768,outdoor,"ice_shelf, ice_floe, museum/indoor, nursery, iceberg",6687
-33,792,indoor,"clean_room, jewelry_shop, chemistry_lab, hospital_room, biology_laboratory",6687
-34,816,indoor,"dressing_room, locker_room, jewelry_shop, nursery, museum/indoor",6687
-35,840,indoor,"museum/indoor, locker_room, jewelry_shop, natural_history_museum, dressing_room",6687
-36,864,indoor,"jewelry_shop, natural_history_museum, museum/indoor, dressing_room, locker_room",6687
-37,888,indoor,"dressing_room, locker_room, jewelry_shop, museum/indoor, nursery",6687
-38,912,indoor,"jewelry_shop, dressing_room, locker_room, museum/indoor, natural_history_museum",6687
-39,936,indoor,"archive, museum/indoor, clean_room, jewelry_shop, department_store",6687
-40,960,indoor,"clean_room, museum/indoor, archive, schoolhouse, art_gallery",6687
-41,984,indoor,"clean_room, operating_room, banquet_hall, chemistry_lab, hospital_room",6687
-42,1008,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",6687
-43,1032,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",6687
-44,1056,indoor,"dressing_room, clean_room, operating_room, hospital_room, banquet_hall",6687
-45,1080,indoor,"clean_room, operating_room, hospital_room, nursery, nursing_home",6687
-46,1104,indoor,"operating_room, clean_room, nursing_home, hospital_room, music_studio",6687
-47,1128,indoor,"clean_room, operating_room, hospital_room, dressing_room, museum/indoor",6687
-48,1152,indoor,"clean_room, operating_room, hospital_room, nursing_home, dressing_room",6687
-49,1176,indoor,"clean_room, operating_room, dressing_room, nursing_home, hospital_room",6687
-50,1200,indoor,"clean_room, operating_room, hospital_room, dressing_room, ballroom",6687
-51,1224,indoor,"ballroom, nursing_home, clean_room, operating_room, hospital_room",6687
-52,1248,indoor,"clean_room, operating_room, hospital_room, dressing_room, nursing_home",6687
-53,1272,indoor,"operating_room, dining_hall, hospital_room, clean_room, banquet_hall",6687
-54,1296,indoor,"nursing_home, clean_room, archive, operating_room, hospital_room",6687
-55,1320,indoor,"banquet_hall, dining_hall, dining_room, restaurant, nursing_home",6687
-56,1344,indoor,"banquet_hall, nursing_home, dining_hall, dressing_room, clean_room",6687
-57,1368,indoor,"operating_room, hospital_room, clean_room, nursing_home, banquet_hall",6687
-58,1392,indoor,"banquet_hall, operating_room, nursing_home, clean_room, hospital_room",6687
-59,1416,indoor,"operating_room, hospital_room, banquet_hall, clean_room, nursing_home",6687
-60,1440,indoor,"operating_room, clean_room, hospital_room, chemistry_lab, archive",6687
-61,1464,indoor,"operating_room, clean_room, nursing_home, hospital_room, chemistry_lab",6687
-62,1488,indoor,"pharmacy, booth/indoor, drugstore, hospital_room, natural_history_museum",6687
-63,1512,indoor,"pharmacy, hospital_room, booth/indoor, drugstore, natural_history_museum",6687
-64,1536,indoor,"pharmacy, hospital_room, drugstore, booth/indoor, natural_history_museum",6687
-65,1560,indoor,"pharmacy, hospital_room, booth/indoor, drugstore, natural_history_museum",6687
-66,1584,indoor,"pharmacy, hospital_room, drugstore, booth/indoor, natural_history_museum",6687
-67,1608,indoor,"pharmacy, hospital_room, booth/indoor, drugstore, natural_history_museum",6687
-68,1632,indoor,"pharmacy, hospital_room, drugstore, booth/indoor, natural_history_museum",6687
-69,1656,indoor,"pharmacy, hospital_room, drugstore, natural_history_museum, booth/indoor",6687
-70,1680,indoor,"jewelry_shop, museum/indoor, science_museum, banquet_hall, art_gallery",6687
-71,1704,indoor,"museum/indoor, jewelry_shop, clean_room, science_museum, art_gallery",6687
-72,1728,outdoor,"ice_floe, lake/natural, pond, ice_shelf, iceberg",6687
-73,1752,indoor,"museum/indoor, art_gallery, clean_room, science_museum, jewelry_shop",6687
-74,1776,indoor,"museum/indoor, science_museum, clean_room, jewelry_shop, music_studio",6687
-75,1800,indoor,"airplane_cabin, car_interior, train_interior, hospital_room, laundromat",6687
-76,1824,indoor,"airplane_cabin, car_interior, train_interior, laundromat, hospital_room",6687
-77,1848,indoor,"airplane_cabin, car_interior, train_interior, laundromat, hospital_room",6687
-78,1872,indoor,"airplane_cabin, car_interior, train_interior, laundromat, hospital_room",6687
-79,1896,indoor,"banquet_hall, dining_room, conference_room, dining_hall, nursing_home",6687
-80,1920,indoor,"dressing_room, clean_room, operating_room, nursing_home, dining_room",6687
-81,1944,indoor,"banquet_hall, dining_hall, dining_room, conference_room, archive",6687
-82,1968,indoor,"museum/indoor, archive, natural_history_museum, art_gallery, music_studio",6687
-83,1992,indoor,"museum/indoor, archive, banquet_hall, ballroom, schoolhouse",6687
-84,2016,indoor,"archive, operating_room, clean_room, banquet_hall, nursing_home",6687
-85,2040,indoor,"ballroom, museum/indoor, banquet_hall, martial_arts_gym, entrance_hall",6687
-86,2064,indoor,"ballroom, museum/indoor, nursing_home, banquet_hall, martial_arts_gym",6687
-87,2088,indoor,"ballroom, nursing_home, dressing_room, museum/indoor, beauty_salon",6687
-88,2112,indoor,"banquet_hall, ballroom, dining_hall, museum/indoor, dining_room",6687
-89,2136,indoor,"nursing_home, dining_room, banquet_hall, dining_hall, ballroom",6687
-90,2160,indoor,"ballroom, banquet_hall, clean_room, museum/indoor, operating_room",6687
-91,2184,indoor,"clean_room, museum/indoor, nursing_home, dressing_room, operating_room",6687
-92,2208,indoor,"clean_room, ballroom, nursing_home, martial_arts_gym, dressing_room",6687
-93,2232,indoor,"museum/indoor, ballroom, nursing_home, dressing_room, dining_room",6687
-94,2256,indoor,"museum/indoor, clean_room, ballroom, music_studio, nursing_home",6687
-95,2280,indoor,"airplane_cabin, car_interior, server_room, computer_room, cockpit",6687
-96,2304,indoor,"airplane_cabin, car_interior, laundromat, bank_vault, server_room",6687
-97,2328,indoor,"museum/indoor, nursing_home, dining_room, conference_room, banquet_hall",6687
-98,2352,indoor,"banquet_hall, archive, ballroom, dining_hall, dining_room",6687
-99,2376,indoor,"banquet_hall, archive, dining_hall, dining_room, nursing_home",6687
-100,2400,indoor,"banquet_hall, dining_room, dining_hall, conference_room, nursing_home",6687
-101,2424,indoor,"dining_room, museum/indoor, banquet_hall, dining_hall, conference_room",6687
-102,2448,indoor,"dining_room, banquet_hall, conference_room, dining_hall, archive",6687
-103,2472,indoor,"banquet_hall, dining_room, dining_hall, conference_room, restaurant",6687
-104,2496,indoor,"nursery, attic, alcove, bow_window/indoor, archive",6687
-105,2520,indoor,"museum/indoor, archive, clean_room, natural_history_museum, science_museum",6687
-106,2544,indoor,"dressing_room, museum/indoor, jewelry_shop, clean_room, ice_cream_parlor",6687
-107,2568,indoor,"dining_room, museum/indoor, banquet_hall, dining_hall, dressing_room",6687
-108,2592,indoor,"clean_room, operating_room, chemistry_lab, banquet_hall, physics_laboratory",6687
-109,2616,indoor,"dressing_room, museum/indoor, clean_room, dining_hall, banquet_hall",6687
-110,2640,indoor,"clean_room, museum/indoor, archive, operating_room, physics_laboratory",6687
-111,2664,indoor,"dressing_room, clean_room, music_studio, science_museum, locker_room",6687
-112,2688,indoor,"dressing_room, clothing_store, clean_room, locker_room, nursery",6687
-113,2712,indoor,"operating_room, clean_room, banquet_hall, hospital_room, dining_room",6687
-114,2736,indoor,"banquet_hall, dining_room, dressing_room, dining_hall, clean_room",6687
-115,2760,indoor,"clean_room, dining_room, banquet_hall, operating_room, museum/indoor",6687
-116,2784,indoor,"clean_room, dressing_room, operating_room, hospital_room, archive",6687
-117,2808,indoor,"clean_room, archive, clothing_store, office, museum/indoor",6687
-118,2832,indoor,"dressing_room, museum/indoor, beauty_salon, clean_room, music_studio",6687
-119,2856,indoor,"museum/indoor, archive, dressing_room, clean_room, music_studio",6687
-120,2880,indoor,"dressing_room, clean_room, music_studio, physics_laboratory, dining_room",6687
-121,2904,indoor,"archive, museum/indoor, locker_room, clothing_store, barndoor",6687
-122,2928,indoor,"clean_room, museum/indoor, clothing_store, shoe_shop, department_store",6687
-123,2952,indoor,"clean_room, stage/indoor, beauty_salon, discotheque, archive",6687
-124,2976,indoor,"museum/indoor, stage/indoor, arena/performance, art_gallery, auditorium",6687
-125,3000,indoor,"museum/indoor, science_museum, archive, natural_history_museum, art_gallery",6687
-126,3024,indoor,"museum/indoor, archive, office, dressing_room, music_studio",6687
-127,3048,indoor,"ballroom, chemistry_lab, museum/indoor, dressing_room, banquet_hall",6687
-128,3072,indoor,"airplane_cabin, car_interior, computer_room, train_interior, office",6687
-129,3096,indoor,"clean_room, chemistry_lab, physics_laboratory, operating_room, museum/indoor",6687
-130,3120,indoor,"chemistry_lab, physics_laboratory, music_studio, archive, clean_room",6687
-131,3144,indoor,"dining_room, nursing_home, dining_hall, banquet_hall, office",6687
-132,3168,indoor,"ballroom, music_studio, dressing_room, dining_room, nursing_home",6687
-133,3192,indoor,"nursery, archive, nursing_home, music_studio, museum/indoor",6687
-134,3216,indoor,"dining_room, banquet_hall, archive, dining_hall, chemistry_lab",6687
-135,3240,indoor,"archive, dining_room, classroom, banquet_hall, chemistry_lab",6687
-136,3264,indoor,"banquet_hall, dining_room, dining_hall, archive, restaurant",6687
-137,3288,indoor,"chemistry_lab, archive, classroom, clean_room, hospital_room",6687
-138,3312,indoor,"banquet_hall, dining_room, archive, dining_hall, chemistry_lab",6687
-139,3336,indoor,"airplane_cabin, car_interior, train_interior, laundromat, office",6687
-140,3360,indoor,"airplane_cabin, car_interior, train_interior, laundromat, server_room",6687
-141,3384,indoor,"airplane_cabin, car_interior, train_interior, laundromat, hospital_room",6687
-142,3408,indoor,"clean_room, chemistry_lab, music_studio, science_museum, locker_room",6687
-143,3432,indoor,"archive, clean_room, locker_room, chemistry_lab, dressing_room",6687
-144,3456,indoor,"archive, clean_room, operating_room, dressing_room, locker_room",6687
-145,3480,indoor,"archive, museum/indoor, locker_room, dressing_room, nursery",6687
-146,3504,indoor,"clean_room, dressing_room, archive, jewelry_shop, locker_room",6687
-147,3528,indoor,"archive, museum/indoor, jewelry_shop, clean_room, dressing_room",6687
-148,3552,indoor,"archive, museum/indoor, jewelry_shop, reception, office_cubicles",6687
-149,3576,indoor,"archive, jewelry_shop, museum/indoor, locker_room, reception",6687
-150,3600,indoor,"locker_room, archive, dressing_room, jewelry_shop, museum/indoor",6687
-151,3624,indoor,"clean_room, locker_room, art_gallery, museum/indoor, archive",6687
-152,3648,indoor,"archive, art_studio, dressing_room, art_school, bow_window/indoor",6687
-153,3672,indoor,"dressing_room, locker_room, art_studio, clean_room, museum/indoor",6687
-154,3696,indoor,"archive, clean_room, locker_room, museum/indoor, art_studio",6687
-155,3720,indoor,"airplane_cabin, car_interior, train_interior, laundromat, bank_vault",6687
-156,3744,indoor,"airplane_cabin, car_interior, train_interior, laundromat, beauty_salon",6687
-157,3768,indoor,"airplane_cabin, car_interior, train_interior, laundromat, bank_vault",6687
-158,3792,indoor,"archive, museum/indoor, nursery, jewelry_shop, clean_room",6687
-159,3816,indoor,"museum/indoor, archive, jewelry_shop, natural_history_museum, clean_room",6687
-160,3840,indoor,"archive, museum/indoor, jewelry_shop, natural_history_museum, clean_room",6687
-161,3864,indoor,"archive, locker_room, nursery, dressing_room, jewelry_shop",6687
-162,3888,indoor,"archive, locker_room, dressing_room, clean_room, museum/indoor",6687
-163,3912,indoor,"clean_room, archive, dressing_room, locker_room, operating_room",6687
-164,3936,indoor,"clean_room, operating_room, nursery, hospital_room, museum/indoor",6687
-165,3960,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",6687
-166,3984,indoor,"clean_room, hospital_room, dressing_room, veterinarians_office, operating_room",6687
-167,4008,indoor,"clean_room, operating_room, hospital_room, nursery, veterinarians_office",6687
-168,4032,indoor,"clean_room, chemistry_lab, operating_room, hospital_room, biology_laboratory",6687
-169,4056,indoor,"archive, museum/indoor, library/indoor, science_museum, natural_history_museum",6687
-170,4080,indoor,"archive, clean_room, operating_room, classroom, chemistry_lab",6687
-171,4104,indoor,"airplane_cabin, car_interior, train_interior, laundromat, server_room",6687
-172,4128,indoor,"airplane_cabin, car_interior, train_interior, laundromat, server_room",6687
-173,4152,indoor,"airplane_cabin, car_interior, train_interior, laundromat, server_room",6687
-174,4176,indoor,"art_gallery, museum/indoor, artists_loft, archive, clean_room",6687
-175,4200,indoor,"clean_room, clothing_store, server_room, archive, museum/indoor",6687
-176,4224,indoor,"clean_room, locker_room, music_studio, basement, classroom",6687
-177,4248,indoor,"clean_room, archive, museum/indoor, art_gallery, science_museum",6687
-178,4272,indoor,"museum/indoor, clean_room, operating_room, archive, art_gallery",6687
-179,4296,indoor,"clean_room, archive, museum/indoor, operating_room, clothing_store",6687
-180,4320,indoor,"clothing_store, museum/indoor, archive, department_store, clean_room",6687
-181,4344,indoor,"clean_room, museum/indoor, archive, art_gallery, art_studio",6687
-182,4368,indoor,"clean_room, classroom, kindergarden_classroom, chemistry_lab, lecture_room",6687
-183,4392,indoor,"airplane_cabin, car_interior, computer_room, server_room, cockpit",6687
-184,4416,indoor,"airplane_cabin, car_interior, computer_room, server_room, cockpit",6687
-185,4440,indoor,"airplane_cabin, car_interior, computer_room, cockpit, server_room",6687
-186,4464,indoor,"airplane_cabin, car_interior, computer_room, server_room, television_room",6687
-187,4488,indoor,"hospital, hospital_room, nursery, archive, desert/sand",6687
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,6687,0,0,1
+1,6687,24,0,1
+2,6687,48,0,1
+3,6687,72,0,1
+4,6687,96,0,1
+5,6687,120,0,1
+6,6687,144,0,1
+7,6687,168,0,1
+8,6687,192,0,1
+9,6687,216,0,1
+10,6687,240,0,1
+11,6687,264,0,1
+12,6687,288,0,1
+13,6687,312,0,1
+14,6687,336,0,1
+15,6687,360,0,1
+16,6687,384,0,1
+17,6687,408,0,1
+18,6687,432,0,1
+19,6687,456,0,1
+20,6687,480,0,1
+21,6687,504,0,1
+22,6687,528,0,1
+23,6687,552,0,1
+24,6687,576,0,1
+25,6687,600,0,1
+26,6687,624,0,1
+27,6687,648,0,1
+28,6687,672,0,1
+29,6687,696,0,1
+30,6687,720,0,1
+31,6687,744,0,1
+32,6687,768,1,0
+33,6687,792,0,1
+34,6687,816,0,1
+35,6687,840,0,1
+36,6687,864,0,1
+37,6687,888,0,1
+38,6687,912,0,1
+39,6687,936,0,1
+40,6687,960,0,1
+41,6687,984,0,1
+42,6687,1008,0,1
+43,6687,1032,0,1
+44,6687,1056,0,1
+45,6687,1080,0,1
+46,6687,1104,0,1
+47,6687,1128,0,1
+48,6687,1152,0,1
+49,6687,1176,0,1
+50,6687,1200,0,1
+51,6687,1224,0,1
+52,6687,1248,0,1
+53,6687,1272,0,1
+54,6687,1296,0,1
+55,6687,1320,0,1
+56,6687,1344,0,1
+57,6687,1368,0,1
+58,6687,1392,0,1
+59,6687,1416,0,1
+60,6687,1440,0,1
+61,6687,1464,0,1
+62,6687,1488,0,1
+63,6687,1512,0,1
+64,6687,1536,0,1
+65,6687,1560,0,1
+66,6687,1584,0,1
+67,6687,1608,0,1
+68,6687,1632,0,1
+69,6687,1656,0,1
+70,6687,1680,0,1
+71,6687,1704,0,1
+72,6687,1728,1,0
+73,6687,1752,0,1
+74,6687,1776,0,1
+75,6687,1800,0,1
+76,6687,1824,0,1
+77,6687,1848,0,1
+78,6687,1872,0,1
+79,6687,1896,0,1
+80,6687,1920,0,1
+81,6687,1944,0,1
+82,6687,1968,0,1
+83,6687,1992,0,1
+84,6687,2016,0,1
+85,6687,2040,0,1
+86,6687,2064,0,1
+87,6687,2088,0,1
+88,6687,2112,0,1
+89,6687,2136,0,1
+90,6687,2160,0,1
+91,6687,2184,0,1
+92,6687,2208,0,1
+93,6687,2232,0,1
+94,6687,2256,0,1
+95,6687,2280,0,1
+96,6687,2304,0,1
+97,6687,2328,0,1
+98,6687,2352,0,1
+99,6687,2376,0,1
+100,6687,2400,0,1
+101,6687,2424,0,1
+102,6687,2448,0,1
+103,6687,2472,0,1
+104,6687,2496,0,1
+105,6687,2520,0,1
+106,6687,2544,0,1
+107,6687,2568,0,1
+108,6687,2592,0,1
+109,6687,2616,0,1
+110,6687,2640,0,1
+111,6687,2664,0,1
+112,6687,2688,0,1
+113,6687,2712,0,1
+114,6687,2736,0,1
+115,6687,2760,0,1
+116,6687,2784,0,1
+117,6687,2808,0,1
+118,6687,2832,0,1
+119,6687,2856,0,1
+120,6687,2880,0,1
+121,6687,2904,0,1
+122,6687,2928,0,1
+123,6687,2952,0,1
+124,6687,2976,0,1
+125,6687,3000,0,1
+126,6687,3024,0,1
+127,6687,3048,0,1
+128,6687,3072,0,1
+129,6687,3096,0,1
+130,6687,3120,0,1
+131,6687,3144,0,1
+132,6687,3168,0,1
+133,6687,3192,0,1
+134,6687,3216,0,1
+135,6687,3240,0,1
+136,6687,3264,0,1
+137,6687,3288,0,1
+138,6687,3312,0,1
+139,6687,3336,0,1
+140,6687,3360,0,1
+141,6687,3384,0,1
+142,6687,3408,0,1
+143,6687,3432,0,1
+144,6687,3456,0,1
+145,6687,3480,0,1
+146,6687,3504,0,1
+147,6687,3528,0,1
+148,6687,3552,0,1
+149,6687,3576,0,1
+150,6687,3600,0,1
+151,6687,3624,0,1
+152,6687,3648,0,1
+153,6687,3672,0,1
+154,6687,3696,0,1
+155,6687,3720,0,1
+156,6687,3744,0,1
+157,6687,3768,0,1
+158,6687,3792,0,1
+159,6687,3816,0,1
+160,6687,3840,0,1
+161,6687,3864,0,1
+162,6687,3888,0,1
+163,6687,3912,0,1
+164,6687,3936,0,1
+165,6687,3960,0,1
+166,6687,3984,0,1
+167,6687,4008,0,1
+168,6687,4032,0,1
+169,6687,4056,0,1
+170,6687,4080,0,1
+171,6687,4104,0,1
+172,6687,4128,0,1
+173,6687,4152,0,1
+174,6687,4176,0,1
+175,6687,4200,0,1
+176,6687,4224,0,1
+177,6687,4248,0,1
+178,6687,4272,0,1
+179,6687,4296,0,1
+180,6687,4320,0,1
+181,6687,4344,0,1
+182,6687,4368,0,1
+183,6687,4392,0,1
+184,6687,4416,0,1
+185,6687,4440,0,1
+186,6687,4464,0,1
+187,6687,4488,0,1

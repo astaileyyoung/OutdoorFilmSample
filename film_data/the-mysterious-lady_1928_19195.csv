@@ -1,1203 +1,1203 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-1,24,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-2,48,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-3,72,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-4,96,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-5,120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-6,144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-7,168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-8,192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-9,216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-10,240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-11,264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-12,288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-13,312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-14,336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-15,360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-16,384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-17,408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-18,432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-19,456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-20,480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-21,504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-22,528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-23,552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-24,576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-25,600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-26,624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-27,648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-28,672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-29,696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-30,720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-31,744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-32,768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-33,792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-34,816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-35,840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-36,864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-37,888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-38,912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-39,936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-40,960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-41,984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-42,1008,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-43,1032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-44,1056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-45,1080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-46,1104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-47,1128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-48,1152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-49,1176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-50,1200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-51,1224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-52,1248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-53,1272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-54,1296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-55,1320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-56,1344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-57,1368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-58,1392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-59,1416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-60,1440,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-61,1464,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-62,1488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-63,1512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-64,1536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-65,1560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-66,1584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-67,1608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-68,1632,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-69,1656,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-70,1680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-71,1704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-72,1728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-73,1752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-74,1776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-75,1800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-76,1824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-77,1848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-78,1872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-79,1896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-80,1920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-81,1944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-82,1968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-83,1992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-84,2016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-85,2040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-86,2064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-87,2088,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-88,2112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-89,2136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-90,2160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-91,2184,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-92,2208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-93,2232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-94,2256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-95,2280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-96,2304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-97,2328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-98,2352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-99,2376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-100,2400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-101,2424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-102,2448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-103,2472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-104,2496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-105,2520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-106,2544,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-107,2568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-108,2592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-109,2616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-110,2640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-111,2664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-112,2688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-113,2712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-114,2736,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-115,2760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-116,2784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-117,2808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-118,2832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-119,2856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-120,2880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-121,2904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-122,2928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-123,2952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-124,2976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-125,3000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-126,3024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-127,3048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-128,3072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-129,3096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-130,3120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-131,3144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-132,3168,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-133,3192,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-134,3216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-135,3240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-136,3264,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-137,3288,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-138,3312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-139,3336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-140,3360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-141,3384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-142,3408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-143,3432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-144,3456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-145,3480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-146,3504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-147,3528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-148,3552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-149,3576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-150,3600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-151,3624,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-152,3648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-153,3672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-154,3696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-155,3720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-156,3744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-157,3768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-158,3792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-159,3816,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-160,3840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-161,3864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-162,3888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-163,3912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-164,3936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-165,3960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-166,3984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-167,4008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-168,4032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-169,4056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-170,4080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-171,4104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-172,4128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-173,4152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-174,4176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-175,4200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-176,4224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-177,4248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-178,4272,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-179,4296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-180,4320,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-181,4344,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-182,4368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-183,4392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-184,4416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-185,4440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-186,4464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-187,4488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-188,4512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-189,4536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-190,4560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-191,4584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-192,4608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-193,4632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-194,4656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-195,4680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-196,4704,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-197,4728,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-198,4752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-199,4776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-200,4800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-201,4824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-202,4848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-203,4872,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-204,4896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-205,4920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-206,4944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-207,4968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-208,4992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-209,5016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-210,5040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-211,5064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-212,5088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-213,5112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-214,5136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-215,5160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-216,5184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-217,5208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-218,5232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-219,5256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-220,5280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-221,5304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-222,5328,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-223,5352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-224,5376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-225,5400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-226,5424,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-227,5448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-228,5472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-229,5496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-230,5520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-231,5544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-232,5568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-233,5592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-234,5616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-235,5640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-236,5664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-237,5688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-238,5712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-239,5736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-240,5760,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-241,5784,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-242,5808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-243,5832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-244,5856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-245,5880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-246,5904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-247,5928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-248,5952,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-249,5976,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-250,6000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-251,6024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-252,6048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-253,6072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-254,6096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-255,6120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-256,6144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-257,6168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-258,6192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-259,6216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-260,6240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-261,6264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-262,6288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-263,6312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-264,6336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-265,6360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-266,6384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-267,6408,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-268,6432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-269,6456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-270,6480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-271,6504,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-272,6528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-273,6552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-274,6576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-275,6600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-276,6624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-277,6648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-278,6672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-279,6696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-280,6720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-281,6744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-282,6768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-283,6792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-284,6816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-285,6840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-286,6864,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-287,6888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-288,6912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-289,6936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-290,6960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-291,6984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-292,7008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-293,7032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-294,7056,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-295,7080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-296,7104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-297,7128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-298,7152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-299,7176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-300,7200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-301,7224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-302,7248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-303,7272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-304,7296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-305,7320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-306,7344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-307,7368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-308,7392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-309,7416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-310,7440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-311,7464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-312,7488,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-313,7512,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-314,7536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-315,7560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-316,7584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-317,7608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-318,7632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-319,7656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-320,7680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-321,7704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-322,7728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-323,7752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-324,7776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-325,7800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-326,7824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-327,7848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-328,7872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-329,7896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-330,7920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-331,7944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-332,7968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-333,7992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-334,8016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-335,8040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-336,8064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-337,8088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-338,8112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-339,8136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-340,8160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-341,8184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-342,8208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-343,8232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-344,8256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-345,8280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-346,8304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-347,8328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-348,8352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-349,8376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-350,8400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-351,8424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-352,8448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-353,8472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-354,8496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-355,8520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-356,8544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-357,8568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-358,8592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-359,8616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-360,8640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-361,8664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-362,8688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-363,8712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-364,8736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-365,8760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-366,8784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-367,8808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-368,8832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-369,8856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-370,8880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-371,8904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-372,8928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-373,8952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-374,8976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-375,9000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-376,9024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-377,9048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-378,9072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-379,9096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-380,9120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-381,9144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-382,9168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-383,9192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-384,9216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-385,9240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-386,9264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-387,9288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-388,9312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-389,9336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-390,9360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-391,9384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-392,9408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-393,9432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-394,9456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-395,9480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-396,9504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-397,9528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-398,9552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-399,9576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-400,9600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-401,9624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-402,9648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-403,9672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-404,9696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-405,9720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-406,9744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-407,9768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-408,9792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-409,9816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-410,9840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-411,9864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-412,9888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-413,9912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-414,9936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-415,9960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-416,9984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-417,10008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-418,10032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-419,10056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-420,10080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-421,10104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-422,10128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-423,10152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-424,10176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-425,10200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-426,10224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-427,10248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-428,10272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-429,10296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-430,10320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-431,10344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-432,10368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-433,10392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-434,10416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-435,10440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-436,10464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-437,10488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-438,10512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-439,10536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-440,10560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-441,10584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-442,10608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-443,10632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-444,10656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-445,10680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-446,10704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-447,10728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-448,10752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-449,10776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-450,10800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-451,10824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-452,10848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-453,10872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-454,10896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-455,10920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-456,10944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-457,10968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-458,10992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-459,11016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-460,11040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-461,11064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-462,11088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-463,11112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-464,11136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-465,11160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-466,11184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-467,11208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-468,11232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-469,11256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-470,11280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-471,11304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-472,11328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-473,11352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-474,11376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-475,11400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-476,11424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-477,11448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-478,11472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-479,11496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-480,11520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-481,11544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-482,11568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-483,11592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-484,11616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-485,11640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-486,11664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-487,11688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-488,11712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-489,11736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-490,11760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-491,11784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-492,11808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-493,11832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-494,11856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-495,11880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-496,11904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-497,11928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-498,11952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-499,11976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-500,12000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-501,12024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-502,12048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-503,12072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-504,12096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-505,12120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-506,12144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-507,12168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-508,12192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-509,12216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-510,12240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-511,12264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-512,12288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-513,12312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-514,12336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-515,12360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-516,12384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-517,12408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-518,12432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-519,12456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-520,12480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-521,12504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-522,12528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-523,12552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-524,12576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-525,12600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-526,12624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-527,12648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-528,12672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-529,12696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-530,12720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-531,12744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-532,12768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-533,12792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-534,12816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-535,12840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-536,12864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-537,12888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-538,12912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-539,12936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-540,12960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-541,12984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-542,13008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-543,13032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-544,13056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-545,13080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-546,13104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-547,13128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-548,13152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-549,13176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-550,13200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-551,13224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-552,13248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-553,13272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-554,13296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-555,13320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-556,13344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-557,13368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-558,13392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-559,13416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-560,13440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-561,13464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-562,13488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-563,13512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-564,13536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-565,13560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-566,13584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-567,13608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-568,13632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-569,13656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-570,13680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-571,13704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-572,13728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-573,13752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-574,13776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-575,13800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-576,13824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-577,13848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-578,13872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-579,13896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-580,13920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-581,13944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-582,13968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-583,13992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-584,14016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-585,14040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-586,14064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-587,14088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-588,14112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-589,14136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-590,14160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-591,14184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-592,14208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-593,14232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-594,14256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-595,14280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-596,14304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-597,14328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-598,14352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-599,14376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-600,14400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-601,14424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-602,14448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-603,14472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-604,14496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-605,14520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-606,14544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-607,14568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-608,14592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-609,14616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-610,14640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-611,14664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-612,14688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-613,14712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-614,14736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-615,14760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-616,14784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-617,14808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-618,14832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-619,14856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-620,14880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-621,14904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-622,14928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-623,14952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-624,14976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-625,15000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-626,15024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-627,15048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-628,15072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-629,15096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-630,15120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-631,15144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-632,15168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-633,15192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-634,15216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-635,15240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-636,15264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-637,15288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-638,15312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-639,15336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-640,15360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-641,15384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-642,15408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-643,15432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-644,15456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-645,15480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-646,15504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-647,15528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-648,15552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-649,15576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-650,15600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-651,15624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-652,15648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-653,15672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-654,15696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-655,15720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-656,15744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-657,15768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-658,15792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-659,15816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-660,15840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-661,15864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-662,15888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-663,15912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-664,15936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-665,15960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-666,15984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-667,16008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-668,16032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-669,16056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-670,16080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-671,16104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-672,16128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-673,16152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-674,16176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-675,16200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-676,16224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-677,16248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-678,16272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-679,16296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-680,16320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-681,16344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-682,16368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-683,16392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-684,16416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-685,16440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-686,16464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-687,16488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-688,16512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-689,16536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-690,16560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-691,16584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-692,16608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-693,16632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-694,16656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-695,16680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-696,16704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-697,16728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-698,16752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-699,16776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-700,16800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-701,16824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-702,16848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-703,16872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-704,16896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-705,16920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-706,16944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-707,16968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-708,16992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-709,17016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-710,17040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-711,17064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-712,17088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-713,17112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-714,17136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-715,17160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-716,17184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-717,17208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-718,17232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-719,17256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-720,17280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-721,17304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-722,17328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-723,17352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-724,17376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-725,17400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-726,17424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-727,17448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-728,17472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-729,17496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-730,17520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-731,17544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-732,17568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-733,17592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-734,17616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-735,17640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-736,17664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-737,17688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-738,17712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-739,17736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-740,17760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-741,17784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-742,17808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-743,17832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-744,17856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-745,17880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-746,17904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-747,17928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-748,17952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-749,17976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-750,18000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-751,18024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-752,18048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-753,18072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-754,18096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-755,18120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-756,18144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-757,18168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-758,18192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-759,18216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-760,18240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-761,18264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-762,18288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-763,18312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-764,18336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-765,18360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-766,18384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-767,18408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-768,18432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-769,18456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-770,18480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-771,18504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-772,18528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-773,18552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-774,18576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-775,18600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-776,18624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-777,18648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-778,18672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-779,18696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-780,18720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-781,18744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-782,18768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-783,18792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-784,18816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-785,18840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-786,18864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-787,18888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-788,18912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-789,18936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-790,18960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-791,18984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-792,19008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-793,19032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-794,19056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-795,19080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-796,19104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-797,19128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-798,19152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-799,19176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-800,19200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-801,19224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-802,19248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-803,19272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-804,19296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-805,19320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-806,19344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-807,19368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-808,19392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-809,19416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-810,19440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-811,19464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-812,19488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-813,19512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-814,19536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-815,19560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-816,19584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-817,19608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-818,19632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-819,19656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-820,19680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-821,19704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-822,19728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-823,19752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-824,19776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-825,19800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-826,19824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-827,19848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-828,19872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-829,19896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-830,19920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-831,19944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-832,19968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-833,19992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-834,20016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-835,20040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-836,20064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-837,20088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-838,20112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-839,20136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-840,20160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-841,20184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-842,20208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-843,20232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-844,20256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-845,20280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-846,20304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-847,20328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-848,20352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-849,20376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-850,20400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-851,20424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-852,20448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-853,20472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-854,20496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-855,20520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-856,20544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-857,20568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-858,20592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-859,20616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-860,20640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-861,20664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-862,20688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-863,20712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-864,20736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-865,20760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-866,20784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-867,20808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-868,20832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-869,20856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-870,20880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-871,20904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-872,20928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-873,20952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-874,20976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-875,21000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-876,21024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-877,21048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-878,21072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-879,21096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-880,21120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-881,21144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-882,21168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-883,21192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-884,21216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-885,21240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-886,21264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-887,21288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-888,21312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-889,21336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-890,21360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-891,21384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-892,21408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-893,21432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-894,21456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-895,21480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-896,21504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-897,21528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-898,21552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-899,21576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-900,21600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-901,21624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-902,21648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-903,21672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-904,21696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-905,21720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-906,21744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-907,21768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-908,21792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-909,21816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-910,21840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-911,21864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-912,21888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-913,21912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-914,21936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-915,21960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-916,21984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-917,22008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-918,22032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-919,22056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-920,22080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-921,22104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-922,22128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-923,22152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-924,22176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-925,22200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-926,22224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-927,22248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-928,22272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-929,22296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-930,22320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-931,22344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-932,22368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-933,22392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-934,22416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-935,22440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-936,22464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-937,22488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-938,22512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-939,22536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-940,22560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-941,22584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, elevator_lobby",19195
-942,22608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-943,22632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-944,22656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-945,22680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-946,22704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-947,22728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-948,22752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-949,22776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-950,22800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-951,22824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-952,22848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-953,22872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-954,22896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-955,22920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-956,22944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-957,22968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-958,22992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-959,23016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-960,23040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-961,23064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-962,23088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-963,23112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-964,23136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-965,23160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-966,23184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-967,23208,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-968,23232,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-969,23256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-970,23280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-971,23304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-972,23328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-973,23352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-974,23376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-975,23400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-976,23424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-977,23448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-978,23472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-979,23496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-980,23520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-981,23544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-982,23568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-983,23592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-984,23616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-985,23640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-986,23664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-987,23688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-988,23712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-989,23736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-990,23760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-991,23784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-992,23808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-993,23832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-994,23856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-995,23880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-996,23904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-997,23928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-998,23952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-999,23976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1000,24000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1001,24024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1002,24048,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-1003,24072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1004,24096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1005,24120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1006,24144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1007,24168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1008,24192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1009,24216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1010,24240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1011,24264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1012,24288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1013,24312,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1014,24336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1015,24360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1016,24384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1017,24408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1018,24432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1019,24456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1020,24480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1021,24504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1022,24528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1023,24552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1024,24576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1025,24600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1026,24624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1027,24648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1028,24672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1029,24696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1030,24720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1031,24744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1032,24768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1033,24792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1034,24816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1035,24840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1036,24864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1037,24888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1038,24912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1039,24936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1040,24960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1041,24984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1042,25008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1043,25032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1044,25056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1045,25080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1046,25104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1047,25128,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-1048,25152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1049,25176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1050,25200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1051,25224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1052,25248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1053,25272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1054,25296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1055,25320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1056,25344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1057,25368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1058,25392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1059,25416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1060,25440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1061,25464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1062,25488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1063,25512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1064,25536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1065,25560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1066,25584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1067,25608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1068,25632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1069,25656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1070,25680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1071,25704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1072,25728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1073,25752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1074,25776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1075,25800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1076,25824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1077,25848,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1078,25872,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1079,25896,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1080,25920,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1081,25944,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1082,25968,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1083,25992,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1084,26016,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1085,26040,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1086,26064,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1087,26088,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1088,26112,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1089,26136,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1090,26160,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1091,26184,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1092,26208,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-1093,26232,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-1094,26256,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1095,26280,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1096,26304,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1097,26328,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1098,26352,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1099,26376,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1100,26400,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1101,26424,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1102,26448,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1103,26472,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1104,26496,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1105,26520,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1106,26544,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1107,26568,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1108,26592,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1109,26616,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1110,26640,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1111,26664,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1112,26688,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1113,26712,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1114,26736,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1115,26760,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1116,26784,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1117,26808,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1118,26832,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1119,26856,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1120,26880,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1121,26904,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1122,26928,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1123,26952,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1124,26976,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1125,27000,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1126,27024,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1127,27048,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1128,27072,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1129,27096,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1130,27120,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1131,27144,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1132,27168,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1133,27192,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1134,27216,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1135,27240,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1136,27264,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1137,27288,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1138,27312,indoor,"airport_terminal, subway_station/platform, laundromat, atrium/public, hospital_room",19195
-1139,27336,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1140,27360,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1141,27384,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1142,27408,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1143,27432,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1144,27456,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1145,27480,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1146,27504,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1147,27528,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1148,27552,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1149,27576,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1150,27600,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1151,27624,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1152,27648,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1153,27672,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1154,27696,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1155,27720,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1156,27744,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1157,27768,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1158,27792,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1159,27816,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1160,27840,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1161,27864,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1162,27888,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1163,27912,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1164,27936,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1165,27960,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1166,27984,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1167,28008,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1168,28032,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1169,28056,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1170,28080,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1171,28104,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1172,28128,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1173,28152,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1174,28176,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1175,28200,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1176,28224,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1177,28248,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1178,28272,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1179,28296,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1180,28320,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1181,28344,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1182,28368,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1183,28392,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1184,28416,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1185,28440,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1186,28464,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1187,28488,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1188,28512,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1189,28536,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1190,28560,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1191,28584,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1192,28608,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1193,28632,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1194,28656,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1195,28680,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1196,28704,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1197,28728,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1198,28752,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1199,28776,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1200,28800,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
-1201,28824,indoor,"subway_station/platform, airport_terminal, laundromat, atrium/public, hospital_room",19195
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,19195,0,0,1
+1,19195,24,0,1
+2,19195,48,0,1
+3,19195,72,0,1
+4,19195,96,0,1
+5,19195,120,0,1
+6,19195,144,0,1
+7,19195,168,0,1
+8,19195,192,0,1
+9,19195,216,0,1
+10,19195,240,0,1
+11,19195,264,0,1
+12,19195,288,0,1
+13,19195,312,0,1
+14,19195,336,0,1
+15,19195,360,0,1
+16,19195,384,0,1
+17,19195,408,0,1
+18,19195,432,0,1
+19,19195,456,0,1
+20,19195,480,0,1
+21,19195,504,0,1
+22,19195,528,0,1
+23,19195,552,0,1
+24,19195,576,0,1
+25,19195,600,0,1
+26,19195,624,0,1
+27,19195,648,0,1
+28,19195,672,0,1
+29,19195,696,0,1
+30,19195,720,0,1
+31,19195,744,0,1
+32,19195,768,0,1
+33,19195,792,0,1
+34,19195,816,0,1
+35,19195,840,0,1
+36,19195,864,0,1
+37,19195,888,0,1
+38,19195,912,0,1
+39,19195,936,0,1
+40,19195,960,0,1
+41,19195,984,0,1
+42,19195,1008,0,1
+43,19195,1032,0,1
+44,19195,1056,0,1
+45,19195,1080,0,1
+46,19195,1104,0,1
+47,19195,1128,0,1
+48,19195,1152,0,1
+49,19195,1176,0,1
+50,19195,1200,0,1
+51,19195,1224,0,1
+52,19195,1248,0,1
+53,19195,1272,0,1
+54,19195,1296,0,1
+55,19195,1320,0,1
+56,19195,1344,0,1
+57,19195,1368,0,1
+58,19195,1392,0,1
+59,19195,1416,0,1
+60,19195,1440,0,1
+61,19195,1464,0,1
+62,19195,1488,0,1
+63,19195,1512,0,1
+64,19195,1536,0,1
+65,19195,1560,0,1
+66,19195,1584,0,1
+67,19195,1608,0,1
+68,19195,1632,0,1
+69,19195,1656,0,1
+70,19195,1680,0,1
+71,19195,1704,0,1
+72,19195,1728,0,1
+73,19195,1752,0,1
+74,19195,1776,0,1
+75,19195,1800,0,1
+76,19195,1824,0,1
+77,19195,1848,0,1
+78,19195,1872,0,1
+79,19195,1896,0,1
+80,19195,1920,0,1
+81,19195,1944,0,1
+82,19195,1968,0,1
+83,19195,1992,0,1
+84,19195,2016,0,1
+85,19195,2040,0,1
+86,19195,2064,0,1
+87,19195,2088,0,1
+88,19195,2112,0,1
+89,19195,2136,0,1
+90,19195,2160,0,1
+91,19195,2184,0,1
+92,19195,2208,0,1
+93,19195,2232,0,1
+94,19195,2256,0,1
+95,19195,2280,0,1
+96,19195,2304,0,1
+97,19195,2328,0,1
+98,19195,2352,0,1
+99,19195,2376,0,1
+100,19195,2400,0,1
+101,19195,2424,0,1
+102,19195,2448,0,1
+103,19195,2472,0,1
+104,19195,2496,0,1
+105,19195,2520,0,1
+106,19195,2544,0,1
+107,19195,2568,0,1
+108,19195,2592,0,1
+109,19195,2616,0,1
+110,19195,2640,0,1
+111,19195,2664,0,1
+112,19195,2688,0,1
+113,19195,2712,0,1
+114,19195,2736,0,1
+115,19195,2760,0,1
+116,19195,2784,0,1
+117,19195,2808,0,1
+118,19195,2832,0,1
+119,19195,2856,0,1
+120,19195,2880,0,1
+121,19195,2904,0,1
+122,19195,2928,0,1
+123,19195,2952,0,1
+124,19195,2976,0,1
+125,19195,3000,0,1
+126,19195,3024,0,1
+127,19195,3048,0,1
+128,19195,3072,0,1
+129,19195,3096,0,1
+130,19195,3120,0,1
+131,19195,3144,0,1
+132,19195,3168,0,1
+133,19195,3192,0,1
+134,19195,3216,0,1
+135,19195,3240,0,1
+136,19195,3264,0,1
+137,19195,3288,0,1
+138,19195,3312,0,1
+139,19195,3336,0,1
+140,19195,3360,0,1
+141,19195,3384,0,1
+142,19195,3408,0,1
+143,19195,3432,0,1
+144,19195,3456,0,1
+145,19195,3480,0,1
+146,19195,3504,0,1
+147,19195,3528,0,1
+148,19195,3552,0,1
+149,19195,3576,0,1
+150,19195,3600,0,1
+151,19195,3624,0,1
+152,19195,3648,0,1
+153,19195,3672,0,1
+154,19195,3696,0,1
+155,19195,3720,0,1
+156,19195,3744,0,1
+157,19195,3768,0,1
+158,19195,3792,0,1
+159,19195,3816,0,1
+160,19195,3840,0,1
+161,19195,3864,0,1
+162,19195,3888,0,1
+163,19195,3912,0,1
+164,19195,3936,0,1
+165,19195,3960,0,1
+166,19195,3984,0,1
+167,19195,4008,0,1
+168,19195,4032,0,1
+169,19195,4056,0,1
+170,19195,4080,0,1
+171,19195,4104,0,1
+172,19195,4128,0,1
+173,19195,4152,0,1
+174,19195,4176,0,1
+175,19195,4200,0,1
+176,19195,4224,0,1
+177,19195,4248,0,1
+178,19195,4272,0,1
+179,19195,4296,0,1
+180,19195,4320,0,1
+181,19195,4344,0,1
+182,19195,4368,0,1
+183,19195,4392,0,1
+184,19195,4416,0,1
+185,19195,4440,0,1
+186,19195,4464,0,1
+187,19195,4488,0,1
+188,19195,4512,0,1
+189,19195,4536,0,1
+190,19195,4560,0,1
+191,19195,4584,0,1
+192,19195,4608,0,1
+193,19195,4632,0,1
+194,19195,4656,0,1
+195,19195,4680,0,1
+196,19195,4704,0,1
+197,19195,4728,0,1
+198,19195,4752,0,1
+199,19195,4776,0,1
+200,19195,4800,0,1
+201,19195,4824,0,1
+202,19195,4848,0,1
+203,19195,4872,0,1
+204,19195,4896,0,1
+205,19195,4920,0,1
+206,19195,4944,0,1
+207,19195,4968,0,1
+208,19195,4992,0,1
+209,19195,5016,0,1
+210,19195,5040,0,1
+211,19195,5064,0,1
+212,19195,5088,0,1
+213,19195,5112,0,1
+214,19195,5136,0,1
+215,19195,5160,0,1
+216,19195,5184,0,1
+217,19195,5208,0,1
+218,19195,5232,0,1
+219,19195,5256,0,1
+220,19195,5280,0,1
+221,19195,5304,0,1
+222,19195,5328,0,1
+223,19195,5352,0,1
+224,19195,5376,0,1
+225,19195,5400,0,1
+226,19195,5424,0,1
+227,19195,5448,0,1
+228,19195,5472,0,1
+229,19195,5496,0,1
+230,19195,5520,0,1
+231,19195,5544,0,1
+232,19195,5568,0,1
+233,19195,5592,0,1
+234,19195,5616,0,1
+235,19195,5640,0,1
+236,19195,5664,0,1
+237,19195,5688,0,1
+238,19195,5712,0,1
+239,19195,5736,0,1
+240,19195,5760,0,1
+241,19195,5784,0,1
+242,19195,5808,0,1
+243,19195,5832,0,1
+244,19195,5856,0,1
+245,19195,5880,0,1
+246,19195,5904,0,1
+247,19195,5928,0,1
+248,19195,5952,0,1
+249,19195,5976,0,1
+250,19195,6000,0,1
+251,19195,6024,0,1
+252,19195,6048,0,1
+253,19195,6072,0,1
+254,19195,6096,0,1
+255,19195,6120,0,1
+256,19195,6144,0,1
+257,19195,6168,0,1
+258,19195,6192,0,1
+259,19195,6216,0,1
+260,19195,6240,0,1
+261,19195,6264,0,1
+262,19195,6288,0,1
+263,19195,6312,0,1
+264,19195,6336,0,1
+265,19195,6360,0,1
+266,19195,6384,0,1
+267,19195,6408,0,1
+268,19195,6432,0,1
+269,19195,6456,0,1
+270,19195,6480,0,1
+271,19195,6504,0,1
+272,19195,6528,0,1
+273,19195,6552,0,1
+274,19195,6576,0,1
+275,19195,6600,0,1
+276,19195,6624,0,1
+277,19195,6648,0,1
+278,19195,6672,0,1
+279,19195,6696,0,1
+280,19195,6720,0,1
+281,19195,6744,0,1
+282,19195,6768,0,1
+283,19195,6792,0,1
+284,19195,6816,0,1
+285,19195,6840,0,1
+286,19195,6864,0,1
+287,19195,6888,0,1
+288,19195,6912,0,1
+289,19195,6936,0,1
+290,19195,6960,0,1
+291,19195,6984,0,1
+292,19195,7008,0,1
+293,19195,7032,0,1
+294,19195,7056,0,1
+295,19195,7080,0,1
+296,19195,7104,0,1
+297,19195,7128,0,1
+298,19195,7152,0,1
+299,19195,7176,0,1
+300,19195,7200,0,1
+301,19195,7224,0,1
+302,19195,7248,0,1
+303,19195,7272,0,1
+304,19195,7296,0,1
+305,19195,7320,0,1
+306,19195,7344,0,1
+307,19195,7368,0,1
+308,19195,7392,0,1
+309,19195,7416,0,1
+310,19195,7440,0,1
+311,19195,7464,0,1
+312,19195,7488,0,1
+313,19195,7512,0,1
+314,19195,7536,0,1
+315,19195,7560,0,1
+316,19195,7584,0,1
+317,19195,7608,0,1
+318,19195,7632,0,1
+319,19195,7656,0,1
+320,19195,7680,0,1
+321,19195,7704,0,1
+322,19195,7728,0,1
+323,19195,7752,0,1
+324,19195,7776,0,1
+325,19195,7800,0,1
+326,19195,7824,0,1
+327,19195,7848,0,1
+328,19195,7872,0,1
+329,19195,7896,0,1
+330,19195,7920,0,1
+331,19195,7944,0,1
+332,19195,7968,0,1
+333,19195,7992,0,1
+334,19195,8016,0,1
+335,19195,8040,0,1
+336,19195,8064,0,1
+337,19195,8088,0,1
+338,19195,8112,0,1
+339,19195,8136,0,1
+340,19195,8160,0,1
+341,19195,8184,0,1
+342,19195,8208,0,1
+343,19195,8232,0,1
+344,19195,8256,0,1
+345,19195,8280,0,1
+346,19195,8304,0,1
+347,19195,8328,0,1
+348,19195,8352,0,1
+349,19195,8376,0,1
+350,19195,8400,0,1
+351,19195,8424,0,1
+352,19195,8448,0,1
+353,19195,8472,0,1
+354,19195,8496,0,1
+355,19195,8520,0,1
+356,19195,8544,0,1
+357,19195,8568,0,1
+358,19195,8592,0,1
+359,19195,8616,0,1
+360,19195,8640,0,1
+361,19195,8664,0,1
+362,19195,8688,0,1
+363,19195,8712,0,1
+364,19195,8736,0,1
+365,19195,8760,0,1
+366,19195,8784,0,1
+367,19195,8808,0,1
+368,19195,8832,0,1
+369,19195,8856,0,1
+370,19195,8880,0,1
+371,19195,8904,0,1
+372,19195,8928,0,1
+373,19195,8952,0,1
+374,19195,8976,0,1
+375,19195,9000,0,1
+376,19195,9024,0,1
+377,19195,9048,0,1
+378,19195,9072,0,1
+379,19195,9096,0,1
+380,19195,9120,0,1
+381,19195,9144,0,1
+382,19195,9168,0,1
+383,19195,9192,0,1
+384,19195,9216,0,1
+385,19195,9240,0,1
+386,19195,9264,0,1
+387,19195,9288,0,1
+388,19195,9312,0,1
+389,19195,9336,0,1
+390,19195,9360,0,1
+391,19195,9384,0,1
+392,19195,9408,0,1
+393,19195,9432,0,1
+394,19195,9456,0,1
+395,19195,9480,0,1
+396,19195,9504,0,1
+397,19195,9528,0,1
+398,19195,9552,0,1
+399,19195,9576,0,1
+400,19195,9600,0,1
+401,19195,9624,0,1
+402,19195,9648,0,1
+403,19195,9672,0,1
+404,19195,9696,0,1
+405,19195,9720,0,1
+406,19195,9744,0,1
+407,19195,9768,0,1
+408,19195,9792,0,1
+409,19195,9816,0,1
+410,19195,9840,0,1
+411,19195,9864,0,1
+412,19195,9888,0,1
+413,19195,9912,0,1
+414,19195,9936,0,1
+415,19195,9960,0,1
+416,19195,9984,0,1
+417,19195,10008,0,1
+418,19195,10032,0,1
+419,19195,10056,0,1
+420,19195,10080,0,1
+421,19195,10104,0,1
+422,19195,10128,0,1
+423,19195,10152,0,1
+424,19195,10176,0,1
+425,19195,10200,0,1
+426,19195,10224,0,1
+427,19195,10248,0,1
+428,19195,10272,0,1
+429,19195,10296,0,1
+430,19195,10320,0,1
+431,19195,10344,0,1
+432,19195,10368,0,1
+433,19195,10392,0,1
+434,19195,10416,0,1
+435,19195,10440,0,1
+436,19195,10464,0,1
+437,19195,10488,0,1
+438,19195,10512,0,1
+439,19195,10536,0,1
+440,19195,10560,0,1
+441,19195,10584,0,1
+442,19195,10608,0,1
+443,19195,10632,0,1
+444,19195,10656,0,1
+445,19195,10680,0,1
+446,19195,10704,0,1
+447,19195,10728,0,1
+448,19195,10752,0,1
+449,19195,10776,0,1
+450,19195,10800,0,1
+451,19195,10824,0,1
+452,19195,10848,0,1
+453,19195,10872,0,1
+454,19195,10896,0,1
+455,19195,10920,0,1
+456,19195,10944,0,1
+457,19195,10968,0,1
+458,19195,10992,0,1
+459,19195,11016,0,1
+460,19195,11040,0,1
+461,19195,11064,0,1
+462,19195,11088,0,1
+463,19195,11112,0,1
+464,19195,11136,0,1
+465,19195,11160,0,1
+466,19195,11184,0,1
+467,19195,11208,0,1
+468,19195,11232,0,1
+469,19195,11256,0,1
+470,19195,11280,0,1
+471,19195,11304,0,1
+472,19195,11328,0,1
+473,19195,11352,0,1
+474,19195,11376,0,1
+475,19195,11400,0,1
+476,19195,11424,0,1
+477,19195,11448,0,1
+478,19195,11472,0,1
+479,19195,11496,0,1
+480,19195,11520,0,1
+481,19195,11544,0,1
+482,19195,11568,0,1
+483,19195,11592,0,1
+484,19195,11616,0,1
+485,19195,11640,0,1
+486,19195,11664,0,1
+487,19195,11688,0,1
+488,19195,11712,0,1
+489,19195,11736,0,1
+490,19195,11760,0,1
+491,19195,11784,0,1
+492,19195,11808,0,1
+493,19195,11832,0,1
+494,19195,11856,0,1
+495,19195,11880,0,1
+496,19195,11904,0,1
+497,19195,11928,0,1
+498,19195,11952,0,1
+499,19195,11976,0,1
+500,19195,12000,0,1
+501,19195,12024,0,1
+502,19195,12048,0,1
+503,19195,12072,0,1
+504,19195,12096,0,1
+505,19195,12120,0,1
+506,19195,12144,0,1
+507,19195,12168,0,1
+508,19195,12192,0,1
+509,19195,12216,0,1
+510,19195,12240,0,1
+511,19195,12264,0,1
+512,19195,12288,0,1
+513,19195,12312,0,1
+514,19195,12336,0,1
+515,19195,12360,0,1
+516,19195,12384,0,1
+517,19195,12408,0,1
+518,19195,12432,0,1
+519,19195,12456,0,1
+520,19195,12480,0,1
+521,19195,12504,0,1
+522,19195,12528,0,1
+523,19195,12552,0,1
+524,19195,12576,0,1
+525,19195,12600,0,1
+526,19195,12624,0,1
+527,19195,12648,0,1
+528,19195,12672,0,1
+529,19195,12696,0,1
+530,19195,12720,0,1
+531,19195,12744,0,1
+532,19195,12768,0,1
+533,19195,12792,0,1
+534,19195,12816,0,1
+535,19195,12840,0,1
+536,19195,12864,0,1
+537,19195,12888,0,1
+538,19195,12912,0,1
+539,19195,12936,0,1
+540,19195,12960,0,1
+541,19195,12984,0,1
+542,19195,13008,0,1
+543,19195,13032,0,1
+544,19195,13056,0,1
+545,19195,13080,0,1
+546,19195,13104,0,1
+547,19195,13128,0,1
+548,19195,13152,0,1
+549,19195,13176,0,1
+550,19195,13200,0,1
+551,19195,13224,0,1
+552,19195,13248,0,1
+553,19195,13272,0,1
+554,19195,13296,0,1
+555,19195,13320,0,1
+556,19195,13344,0,1
+557,19195,13368,0,1
+558,19195,13392,0,1
+559,19195,13416,0,1
+560,19195,13440,0,1
+561,19195,13464,0,1
+562,19195,13488,0,1
+563,19195,13512,0,1
+564,19195,13536,0,1
+565,19195,13560,0,1
+566,19195,13584,0,1
+567,19195,13608,0,1
+568,19195,13632,0,1
+569,19195,13656,0,1
+570,19195,13680,0,1
+571,19195,13704,0,1
+572,19195,13728,0,1
+573,19195,13752,0,1
+574,19195,13776,0,1
+575,19195,13800,0,1
+576,19195,13824,0,1
+577,19195,13848,0,1
+578,19195,13872,0,1
+579,19195,13896,0,1
+580,19195,13920,0,1
+581,19195,13944,0,1
+582,19195,13968,0,1
+583,19195,13992,0,1
+584,19195,14016,0,1
+585,19195,14040,0,1
+586,19195,14064,0,1
+587,19195,14088,0,1
+588,19195,14112,0,1
+589,19195,14136,0,1
+590,19195,14160,0,1
+591,19195,14184,0,1
+592,19195,14208,0,1
+593,19195,14232,0,1
+594,19195,14256,0,1
+595,19195,14280,0,1
+596,19195,14304,0,1
+597,19195,14328,0,1
+598,19195,14352,0,1
+599,19195,14376,0,1
+600,19195,14400,0,1
+601,19195,14424,0,1
+602,19195,14448,0,1
+603,19195,14472,0,1
+604,19195,14496,0,1
+605,19195,14520,0,1
+606,19195,14544,0,1
+607,19195,14568,0,1
+608,19195,14592,0,1
+609,19195,14616,0,1
+610,19195,14640,0,1
+611,19195,14664,0,1
+612,19195,14688,0,1
+613,19195,14712,0,1
+614,19195,14736,0,1
+615,19195,14760,0,1
+616,19195,14784,0,1
+617,19195,14808,0,1
+618,19195,14832,0,1
+619,19195,14856,0,1
+620,19195,14880,0,1
+621,19195,14904,0,1
+622,19195,14928,0,1
+623,19195,14952,0,1
+624,19195,14976,0,1
+625,19195,15000,0,1
+626,19195,15024,0,1
+627,19195,15048,0,1
+628,19195,15072,0,1
+629,19195,15096,0,1
+630,19195,15120,0,1
+631,19195,15144,0,1
+632,19195,15168,0,1
+633,19195,15192,0,1
+634,19195,15216,0,1
+635,19195,15240,0,1
+636,19195,15264,0,1
+637,19195,15288,0,1
+638,19195,15312,0,1
+639,19195,15336,0,1
+640,19195,15360,0,1
+641,19195,15384,0,1
+642,19195,15408,0,1
+643,19195,15432,0,1
+644,19195,15456,0,1
+645,19195,15480,0,1
+646,19195,15504,0,1
+647,19195,15528,0,1
+648,19195,15552,0,1
+649,19195,15576,0,1
+650,19195,15600,0,1
+651,19195,15624,0,1
+652,19195,15648,0,1
+653,19195,15672,0,1
+654,19195,15696,0,1
+655,19195,15720,0,1
+656,19195,15744,0,1
+657,19195,15768,0,1
+658,19195,15792,0,1
+659,19195,15816,0,1
+660,19195,15840,0,1
+661,19195,15864,0,1
+662,19195,15888,0,1
+663,19195,15912,0,1
+664,19195,15936,0,1
+665,19195,15960,0,1
+666,19195,15984,0,1
+667,19195,16008,0,1
+668,19195,16032,0,1
+669,19195,16056,0,1
+670,19195,16080,0,1
+671,19195,16104,0,1
+672,19195,16128,0,1
+673,19195,16152,0,1
+674,19195,16176,0,1
+675,19195,16200,0,1
+676,19195,16224,0,1
+677,19195,16248,0,1
+678,19195,16272,0,1
+679,19195,16296,0,1
+680,19195,16320,0,1
+681,19195,16344,0,1
+682,19195,16368,0,1
+683,19195,16392,0,1
+684,19195,16416,0,1
+685,19195,16440,0,1
+686,19195,16464,0,1
+687,19195,16488,0,1
+688,19195,16512,0,1
+689,19195,16536,0,1
+690,19195,16560,0,1
+691,19195,16584,0,1
+692,19195,16608,0,1
+693,19195,16632,0,1
+694,19195,16656,0,1
+695,19195,16680,0,1
+696,19195,16704,0,1
+697,19195,16728,0,1
+698,19195,16752,0,1
+699,19195,16776,0,1
+700,19195,16800,0,1
+701,19195,16824,0,1
+702,19195,16848,0,1
+703,19195,16872,0,1
+704,19195,16896,0,1
+705,19195,16920,0,1
+706,19195,16944,0,1
+707,19195,16968,0,1
+708,19195,16992,0,1
+709,19195,17016,0,1
+710,19195,17040,0,1
+711,19195,17064,0,1
+712,19195,17088,0,1
+713,19195,17112,0,1
+714,19195,17136,0,1
+715,19195,17160,0,1
+716,19195,17184,0,1
+717,19195,17208,0,1
+718,19195,17232,0,1
+719,19195,17256,0,1
+720,19195,17280,0,1
+721,19195,17304,0,1
+722,19195,17328,0,1
+723,19195,17352,0,1
+724,19195,17376,0,1
+725,19195,17400,0,1
+726,19195,17424,0,1
+727,19195,17448,0,1
+728,19195,17472,0,1
+729,19195,17496,0,1
+730,19195,17520,0,1
+731,19195,17544,0,1
+732,19195,17568,0,1
+733,19195,17592,0,1
+734,19195,17616,0,1
+735,19195,17640,0,1
+736,19195,17664,0,1
+737,19195,17688,0,1
+738,19195,17712,0,1
+739,19195,17736,0,1
+740,19195,17760,0,1
+741,19195,17784,0,1
+742,19195,17808,0,1
+743,19195,17832,0,1
+744,19195,17856,0,1
+745,19195,17880,0,1
+746,19195,17904,0,1
+747,19195,17928,0,1
+748,19195,17952,0,1
+749,19195,17976,0,1
+750,19195,18000,0,1
+751,19195,18024,0,1
+752,19195,18048,0,1
+753,19195,18072,0,1
+754,19195,18096,0,1
+755,19195,18120,0,1
+756,19195,18144,0,1
+757,19195,18168,0,1
+758,19195,18192,0,1
+759,19195,18216,0,1
+760,19195,18240,0,1
+761,19195,18264,0,1
+762,19195,18288,0,1
+763,19195,18312,0,1
+764,19195,18336,0,1
+765,19195,18360,0,1
+766,19195,18384,0,1
+767,19195,18408,0,1
+768,19195,18432,0,1
+769,19195,18456,0,1
+770,19195,18480,0,1
+771,19195,18504,0,1
+772,19195,18528,0,1
+773,19195,18552,0,1
+774,19195,18576,0,1
+775,19195,18600,0,1
+776,19195,18624,0,1
+777,19195,18648,0,1
+778,19195,18672,0,1
+779,19195,18696,0,1
+780,19195,18720,0,1
+781,19195,18744,0,1
+782,19195,18768,0,1
+783,19195,18792,0,1
+784,19195,18816,0,1
+785,19195,18840,0,1
+786,19195,18864,0,1
+787,19195,18888,0,1
+788,19195,18912,0,1
+789,19195,18936,0,1
+790,19195,18960,0,1
+791,19195,18984,0,1
+792,19195,19008,0,1
+793,19195,19032,0,1
+794,19195,19056,0,1
+795,19195,19080,0,1
+796,19195,19104,0,1
+797,19195,19128,0,1
+798,19195,19152,0,1
+799,19195,19176,0,1
+800,19195,19200,0,1
+801,19195,19224,0,1
+802,19195,19248,0,1
+803,19195,19272,0,1
+804,19195,19296,0,1
+805,19195,19320,0,1
+806,19195,19344,0,1
+807,19195,19368,0,1
+808,19195,19392,0,1
+809,19195,19416,0,1
+810,19195,19440,0,1
+811,19195,19464,0,1
+812,19195,19488,0,1
+813,19195,19512,0,1
+814,19195,19536,0,1
+815,19195,19560,0,1
+816,19195,19584,0,1
+817,19195,19608,0,1
+818,19195,19632,0,1
+819,19195,19656,0,1
+820,19195,19680,0,1
+821,19195,19704,0,1
+822,19195,19728,0,1
+823,19195,19752,0,1
+824,19195,19776,0,1
+825,19195,19800,0,1
+826,19195,19824,0,1
+827,19195,19848,0,1
+828,19195,19872,0,1
+829,19195,19896,0,1
+830,19195,19920,0,1
+831,19195,19944,0,1
+832,19195,19968,0,1
+833,19195,19992,0,1
+834,19195,20016,0,1
+835,19195,20040,0,1
+836,19195,20064,0,1
+837,19195,20088,0,1
+838,19195,20112,0,1
+839,19195,20136,0,1
+840,19195,20160,0,1
+841,19195,20184,0,1
+842,19195,20208,0,1
+843,19195,20232,0,1
+844,19195,20256,0,1
+845,19195,20280,0,1
+846,19195,20304,0,1
+847,19195,20328,0,1
+848,19195,20352,0,1
+849,19195,20376,0,1
+850,19195,20400,0,1
+851,19195,20424,0,1
+852,19195,20448,0,1
+853,19195,20472,0,1
+854,19195,20496,0,1
+855,19195,20520,0,1
+856,19195,20544,0,1
+857,19195,20568,0,1
+858,19195,20592,0,1
+859,19195,20616,0,1
+860,19195,20640,0,1
+861,19195,20664,0,1
+862,19195,20688,0,1
+863,19195,20712,0,1
+864,19195,20736,0,1
+865,19195,20760,0,1
+866,19195,20784,0,1
+867,19195,20808,0,1
+868,19195,20832,0,1
+869,19195,20856,0,1
+870,19195,20880,0,1
+871,19195,20904,0,1
+872,19195,20928,0,1
+873,19195,20952,0,1
+874,19195,20976,0,1
+875,19195,21000,0,1
+876,19195,21024,0,1
+877,19195,21048,0,1
+878,19195,21072,0,1
+879,19195,21096,0,1
+880,19195,21120,0,1
+881,19195,21144,0,1
+882,19195,21168,0,1
+883,19195,21192,0,1
+884,19195,21216,0,1
+885,19195,21240,0,1
+886,19195,21264,0,1
+887,19195,21288,0,1
+888,19195,21312,0,1
+889,19195,21336,0,1
+890,19195,21360,0,1
+891,19195,21384,0,1
+892,19195,21408,0,1
+893,19195,21432,0,1
+894,19195,21456,0,1
+895,19195,21480,0,1
+896,19195,21504,0,1
+897,19195,21528,0,1
+898,19195,21552,0,1
+899,19195,21576,0,1
+900,19195,21600,0,1
+901,19195,21624,0,1
+902,19195,21648,0,1
+903,19195,21672,0,1
+904,19195,21696,0,1
+905,19195,21720,0,1
+906,19195,21744,0,1
+907,19195,21768,0,1
+908,19195,21792,0,1
+909,19195,21816,0,1
+910,19195,21840,0,1
+911,19195,21864,0,1
+912,19195,21888,0,1
+913,19195,21912,0,1
+914,19195,21936,0,1
+915,19195,21960,0,1
+916,19195,21984,0,1
+917,19195,22008,0,1
+918,19195,22032,0,1
+919,19195,22056,0,1
+920,19195,22080,0,1
+921,19195,22104,0,1
+922,19195,22128,0,1
+923,19195,22152,0,1
+924,19195,22176,0,1
+925,19195,22200,0,1
+926,19195,22224,0,1
+927,19195,22248,0,1
+928,19195,22272,0,1
+929,19195,22296,0,1
+930,19195,22320,0,1
+931,19195,22344,0,1
+932,19195,22368,0,1
+933,19195,22392,0,1
+934,19195,22416,0,1
+935,19195,22440,0,1
+936,19195,22464,0,1
+937,19195,22488,0,1
+938,19195,22512,0,1
+939,19195,22536,0,1
+940,19195,22560,0,1
+941,19195,22584,0,1
+942,19195,22608,0,1
+943,19195,22632,0,1
+944,19195,22656,0,1
+945,19195,22680,0,1
+946,19195,22704,0,1
+947,19195,22728,0,1
+948,19195,22752,0,1
+949,19195,22776,0,1
+950,19195,22800,0,1
+951,19195,22824,0,1
+952,19195,22848,0,1
+953,19195,22872,0,1
+954,19195,22896,0,1
+955,19195,22920,0,1
+956,19195,22944,0,1
+957,19195,22968,0,1
+958,19195,22992,0,1
+959,19195,23016,0,1
+960,19195,23040,0,1
+961,19195,23064,0,1
+962,19195,23088,0,1
+963,19195,23112,0,1
+964,19195,23136,0,1
+965,19195,23160,0,1
+966,19195,23184,0,1
+967,19195,23208,0,1
+968,19195,23232,0,1
+969,19195,23256,0,1
+970,19195,23280,0,1
+971,19195,23304,0,1
+972,19195,23328,0,1
+973,19195,23352,0,1
+974,19195,23376,0,1
+975,19195,23400,0,1
+976,19195,23424,0,1
+977,19195,23448,0,1
+978,19195,23472,0,1
+979,19195,23496,0,1
+980,19195,23520,0,1
+981,19195,23544,0,1
+982,19195,23568,0,1
+983,19195,23592,0,1
+984,19195,23616,0,1
+985,19195,23640,0,1
+986,19195,23664,0,1
+987,19195,23688,0,1
+988,19195,23712,0,1
+989,19195,23736,0,1
+990,19195,23760,0,1
+991,19195,23784,0,1
+992,19195,23808,0,1
+993,19195,23832,0,1
+994,19195,23856,0,1
+995,19195,23880,0,1
+996,19195,23904,0,1
+997,19195,23928,0,1
+998,19195,23952,0,1
+999,19195,23976,0,1
+1000,19195,24000,0,1
+1001,19195,24024,0,1
+1002,19195,24048,0,1
+1003,19195,24072,0,1
+1004,19195,24096,0,1
+1005,19195,24120,0,1
+1006,19195,24144,0,1
+1007,19195,24168,0,1
+1008,19195,24192,0,1
+1009,19195,24216,0,1
+1010,19195,24240,0,1
+1011,19195,24264,0,1
+1012,19195,24288,0,1
+1013,19195,24312,0,1
+1014,19195,24336,0,1
+1015,19195,24360,0,1
+1016,19195,24384,0,1
+1017,19195,24408,0,1
+1018,19195,24432,0,1
+1019,19195,24456,0,1
+1020,19195,24480,0,1
+1021,19195,24504,0,1
+1022,19195,24528,0,1
+1023,19195,24552,0,1
+1024,19195,24576,0,1
+1025,19195,24600,0,1
+1026,19195,24624,0,1
+1027,19195,24648,0,1
+1028,19195,24672,0,1
+1029,19195,24696,0,1
+1030,19195,24720,0,1
+1031,19195,24744,0,1
+1032,19195,24768,0,1
+1033,19195,24792,0,1
+1034,19195,24816,0,1
+1035,19195,24840,0,1
+1036,19195,24864,0,1
+1037,19195,24888,0,1
+1038,19195,24912,0,1
+1039,19195,24936,0,1
+1040,19195,24960,0,1
+1041,19195,24984,0,1
+1042,19195,25008,0,1
+1043,19195,25032,0,1
+1044,19195,25056,0,1
+1045,19195,25080,0,1
+1046,19195,25104,0,1
+1047,19195,25128,0,1
+1048,19195,25152,0,1
+1049,19195,25176,0,1
+1050,19195,25200,0,1
+1051,19195,25224,0,1
+1052,19195,25248,0,1
+1053,19195,25272,0,1
+1054,19195,25296,0,1
+1055,19195,25320,0,1
+1056,19195,25344,0,1
+1057,19195,25368,0,1
+1058,19195,25392,0,1
+1059,19195,25416,0,1
+1060,19195,25440,0,1
+1061,19195,25464,0,1
+1062,19195,25488,0,1
+1063,19195,25512,0,1
+1064,19195,25536,0,1
+1065,19195,25560,0,1
+1066,19195,25584,0,1
+1067,19195,25608,0,1
+1068,19195,25632,0,1
+1069,19195,25656,0,1
+1070,19195,25680,0,1
+1071,19195,25704,0,1
+1072,19195,25728,0,1
+1073,19195,25752,0,1
+1074,19195,25776,0,1
+1075,19195,25800,0,1
+1076,19195,25824,0,1
+1077,19195,25848,0,1
+1078,19195,25872,0,1
+1079,19195,25896,0,1
+1080,19195,25920,0,1
+1081,19195,25944,0,1
+1082,19195,25968,0,1
+1083,19195,25992,0,1
+1084,19195,26016,0,1
+1085,19195,26040,0,1
+1086,19195,26064,0,1
+1087,19195,26088,0,1
+1088,19195,26112,0,1
+1089,19195,26136,0,1
+1090,19195,26160,0,1
+1091,19195,26184,0,1
+1092,19195,26208,0,1
+1093,19195,26232,0,1
+1094,19195,26256,0,1
+1095,19195,26280,0,1
+1096,19195,26304,0,1
+1097,19195,26328,0,1
+1098,19195,26352,0,1
+1099,19195,26376,0,1
+1100,19195,26400,0,1
+1101,19195,26424,0,1
+1102,19195,26448,0,1
+1103,19195,26472,0,1
+1104,19195,26496,0,1
+1105,19195,26520,0,1
+1106,19195,26544,0,1
+1107,19195,26568,0,1
+1108,19195,26592,0,1
+1109,19195,26616,0,1
+1110,19195,26640,0,1
+1111,19195,26664,0,1
+1112,19195,26688,0,1
+1113,19195,26712,0,1
+1114,19195,26736,0,1
+1115,19195,26760,0,1
+1116,19195,26784,0,1
+1117,19195,26808,0,1
+1118,19195,26832,0,1
+1119,19195,26856,0,1
+1120,19195,26880,0,1
+1121,19195,26904,0,1
+1122,19195,26928,0,1
+1123,19195,26952,0,1
+1124,19195,26976,0,1
+1125,19195,27000,0,1
+1126,19195,27024,0,1
+1127,19195,27048,0,1
+1128,19195,27072,0,1
+1129,19195,27096,0,1
+1130,19195,27120,0,1
+1131,19195,27144,0,1
+1132,19195,27168,0,1
+1133,19195,27192,0,1
+1134,19195,27216,0,1
+1135,19195,27240,0,1
+1136,19195,27264,0,1
+1137,19195,27288,0,1
+1138,19195,27312,0,1
+1139,19195,27336,0,1
+1140,19195,27360,0,1
+1141,19195,27384,0,1
+1142,19195,27408,0,1
+1143,19195,27432,0,1
+1144,19195,27456,0,1
+1145,19195,27480,0,1
+1146,19195,27504,0,1
+1147,19195,27528,0,1
+1148,19195,27552,0,1
+1149,19195,27576,0,1
+1150,19195,27600,0,1
+1151,19195,27624,0,1
+1152,19195,27648,0,1
+1153,19195,27672,0,1
+1154,19195,27696,0,1
+1155,19195,27720,0,1
+1156,19195,27744,0,1
+1157,19195,27768,0,1
+1158,19195,27792,0,1
+1159,19195,27816,0,1
+1160,19195,27840,0,1
+1161,19195,27864,0,1
+1162,19195,27888,0,1
+1163,19195,27912,0,1
+1164,19195,27936,0,1
+1165,19195,27960,0,1
+1166,19195,27984,0,1
+1167,19195,28008,0,1
+1168,19195,28032,0,1
+1169,19195,28056,0,1
+1170,19195,28080,0,1
+1171,19195,28104,0,1
+1172,19195,28128,0,1
+1173,19195,28152,0,1
+1174,19195,28176,0,1
+1175,19195,28200,0,1
+1176,19195,28224,0,1
+1177,19195,28248,0,1
+1178,19195,28272,0,1
+1179,19195,28296,0,1
+1180,19195,28320,0,1
+1181,19195,28344,0,1
+1182,19195,28368,0,1
+1183,19195,28392,0,1
+1184,19195,28416,0,1
+1185,19195,28440,0,1
+1186,19195,28464,0,1
+1187,19195,28488,0,1
+1188,19195,28512,0,1
+1189,19195,28536,0,1
+1190,19195,28560,0,1
+1191,19195,28584,0,1
+1192,19195,28608,0,1
+1193,19195,28632,0,1
+1194,19195,28656,0,1
+1195,19195,28680,0,1
+1196,19195,28704,0,1
+1197,19195,28728,0,1
+1198,19195,28752,0,1
+1199,19195,28776,0,1
+1200,19195,28800,0,1
+1201,19195,28824,0,1

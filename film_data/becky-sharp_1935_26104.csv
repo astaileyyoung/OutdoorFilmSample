@@ -1,628 +1,628 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"cemetery, drugstore, museum/indoor, hospital, pharmacy",26104
-1,24,indoor,"museum/indoor, drugstore, pharmacy, ice_cream_parlor, beauty_salon",26104
-2,48,indoor,"cemetery, museum/indoor, drugstore, pharmacy, hospital",26104
-3,72,indoor,"drugstore, museum/indoor, cemetery, pharmacy, hospital",26104
-4,96,indoor,"museum/indoor, cemetery, burial_chamber, drugstore, booth/indoor",26104
-5,120,indoor,"museum/indoor, cemetery, drugstore, pharmacy, hospital",26104
-6,144,indoor,"cemetery, museum/indoor, burial_chamber, hospital, natural_history_museum",26104
-7,168,indoor,"cemetery, museum/indoor, burial_chamber, elevator/door, pharmacy",26104
-8,192,indoor,"cemetery, museum/indoor, burial_chamber, hospital, elevator/door",26104
-9,216,indoor,"cemetery, museum/indoor, drugstore, burial_chamber, pharmacy",26104
-10,240,indoor,"cemetery, museum/indoor, hospital, elevator/door, pharmacy",26104
-11,264,indoor,"cemetery, museum/indoor, burial_chamber, drugstore, pharmacy",26104
-12,288,outdoor,"hot_spring, natural_history_museum, museum/indoor, cemetery, hospital",26104
-13,312,indoor,"cemetery, museum/indoor, natural_history_museum, pharmacy, hot_spring",26104
-14,336,outdoor,"cemetery, hospital, hot_spring, natural_history_museum, museum/indoor",26104
-15,360,outdoor,"cemetery, museum/indoor, natural_history_museum, hospital, hot_spring",26104
-16,384,outdoor,"cemetery, museum/indoor, hospital, natural_history_museum, hot_spring",26104
-17,408,outdoor,"cemetery, hospital, museum/indoor, natural_history_museum, hot_spring",26104
-18,432,indoor,"cemetery, hospital, museum/indoor, pharmacy, natural_history_museum",26104
-19,456,indoor,"cemetery, museum/indoor, pharmacy, hospital, drugstore",26104
-20,480,indoor,"cemetery, museum/indoor, natural_history_museum, science_museum, hot_spring",26104
-21,504,indoor,"museum/indoor, classroom, kindergarden_classroom, cemetery, burial_chamber",26104
-22,528,indoor,"elevator/door, pharmacy, hospital, drugstore, elevator_lobby",26104
-23,552,indoor,"cemetery, museum/indoor, burial_chamber, natural_history_museum, booth/indoor",26104
-24,576,indoor,"museum/indoor, cemetery, natural_history_museum, booth/indoor, ice_cream_parlor",26104
-25,600,indoor,"museum/indoor, natural_history_museum, booth/indoor, cemetery, burial_chamber",26104
-26,624,indoor,"museum/indoor, natural_history_museum, cemetery, booth/indoor, burial_chamber",26104
-27,648,indoor,"museum/indoor, natural_history_museum, booth/indoor, cemetery, burial_chamber",26104
-28,672,indoor,"museum/indoor, natural_history_museum, cemetery, burial_chamber, booth/indoor",26104
-29,696,indoor,"museum/indoor, booth/indoor, natural_history_museum, cemetery, burial_chamber",26104
-30,720,indoor,"museum/indoor, science_museum, natural_history_museum, archive, booth/indoor",26104
-31,744,indoor,"science_museum, museum/indoor, natural_history_museum, archive, cemetery",26104
-32,768,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-33,792,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-34,816,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-35,840,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-36,864,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-37,888,indoor,"science_museum, natural_history_museum, museum/indoor, archive, lecture_room",26104
-38,912,indoor,"science_museum, natural_history_museum, museum/indoor, archive, lecture_room",26104
-39,936,indoor,"science_museum, museum/indoor, natural_history_museum, archive, lecture_room",26104
-40,960,indoor,"science_museum, archive, natural_history_museum, museum/indoor, booth/indoor",26104
-41,984,indoor,"science_museum, museum/indoor, natural_history_museum, archive, lecture_room",26104
-42,1008,indoor,"archive, science_museum, museum/indoor, natural_history_museum, lecture_room",26104
-43,1032,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-44,1056,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-45,1080,indoor,"science_museum, natural_history_museum, museum/indoor, archive, lecture_room",26104
-46,1104,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-47,1128,indoor,"science_museum, natural_history_museum, museum/indoor, archive, lecture_room",26104
-48,1152,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-49,1176,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-50,1200,indoor,"science_museum, archive, museum/indoor, natural_history_museum, lecture_room",26104
-51,1224,indoor,"archive, science_museum, museum/indoor, natural_history_museum, lecture_room",26104
-52,1248,indoor,"archive, science_museum, museum/indoor, natural_history_museum, lecture_room",26104
-53,1272,indoor,"science_museum, museum/indoor, natural_history_museum, archive, booth/indoor",26104
-54,1296,indoor,"museum/indoor, classroom, kindergarden_classroom, archive, booth/indoor",26104
-55,1320,indoor,"cemetery, pharmacy, hospital, drugstore, beauty_salon",26104
-56,1344,indoor,"hospital, cemetery, pharmacy, drugstore, beauty_salon",26104
-57,1368,indoor,"hospital, pharmacy, drugstore, cemetery, beauty_salon",26104
-58,1392,indoor,"pharmacy, hospital, beauty_salon, drugstore, ice_shelf",26104
-59,1416,indoor,"pharmacy, hospital, drugstore, beauty_salon, cemetery",26104
-60,1440,indoor,"pharmacy, hospital, drugstore, cemetery, beauty_salon",26104
-61,1464,indoor,"cemetery, pharmacy, hospital, drugstore, elevator/door",26104
-62,1488,indoor,"pharmacy, cemetery, hospital, drugstore, beauty_salon",26104
-63,1512,indoor,"pharmacy, cemetery, drugstore, hospital, beauty_salon",26104
-64,1536,outdoor,"cemetery, pharmacy, drugstore, hospital, desert/sand",26104
-65,1560,indoor,"cemetery, hospital, pharmacy, drugstore, elevator/door",26104
-66,1584,indoor,"cemetery, hospital, pharmacy, drugstore, beauty_salon",26104
-67,1608,indoor,"hospital, cemetery, pharmacy, drugstore, beauty_salon",26104
-68,1632,outdoor,"pharmacy, desert/sand, hospital, sky, hot_spring",26104
-69,1656,outdoor,"hospital, cemetery, pharmacy, golf_course, field/cultivated",26104
-70,1680,indoor,"classroom, basement, jail_cell, kindergarden_classroom, baseball_field",26104
-71,1704,indoor,"classroom, hot_spring, kindergarden_classroom, aquarium, underwater/ocean_deep",26104
-72,1728,outdoor,"pond, hot_spring, lake/natural, marsh, bamboo_forest",26104
-73,1752,outdoor,"bamboo_forest, forest/broadleaf, jail_cell, rainforest, forest_path",26104
-74,1776,outdoor,"bamboo_forest, forest/broadleaf, rainforest, jail_cell, botanical_garden",26104
-75,1800,outdoor,"bamboo_forest, forest/broadleaf, rainforest, jail_cell, bow_window/indoor",26104
-76,1824,outdoor,"bamboo_forest, forest/broadleaf, jail_cell, rainforest, bow_window/indoor",26104
-77,1848,outdoor,"bamboo_forest, forest/broadleaf, rainforest, jail_cell, bow_window/indoor",26104
-78,1872,outdoor,"bamboo_forest, forest/broadleaf, rainforest, jail_cell, bow_window/indoor",26104
-79,1896,outdoor,"bamboo_forest, jail_cell, elevator/door, forest/broadleaf, rainforest",26104
-80,1920,indoor,"dressing_room, clothing_store, airplane_cabin, escalator/indoor, science_museum",26104
-81,1944,indoor,"ice_cream_parlor, natural_history_museum, jewelry_shop, science_museum, chemistry_lab",26104
-82,1968,indoor,"natural_history_museum, museum/indoor, science_museum, jewelry_shop, dressing_room",26104
-83,1992,indoor,"museum/indoor, art_gallery, science_museum, natural_history_museum, clean_room",26104
-84,2016,indoor,"clean_room, science_museum, shower, dressing_room, art_gallery",26104
-85,2040,indoor,"conference_center, television_studio, restaurant, beauty_salon, discotheque",26104
-86,2064,indoor,"conference_center, classroom, lecture_room, chemistry_lab, clean_room",26104
-87,2088,indoor,"conference_center, clean_room, chemistry_lab, banquet_hall, discotheque",26104
-88,2112,indoor,"conference_center, lecture_room, office, classroom, music_studio",26104
-89,2136,indoor,"clean_room, chemistry_lab, biology_laboratory, physics_laboratory, office_cubicles",26104
-90,2160,indoor,"clean_room, chemistry_lab, office_cubicles, biology_laboratory, physics_laboratory",26104
-91,2184,indoor,"banquet_hall, clean_room, clothing_store, dressing_room, dining_hall",26104
-92,2208,indoor,"clean_room, banquet_hall, clothing_store, wind_farm, chemistry_lab",26104
-93,2232,indoor,"discotheque, beauty_salon, stage/indoor, chemistry_lab, airplane_cabin",26104
-94,2256,indoor,"aquarium, discotheque, stage/indoor, conference_center, beauty_salon",26104
-95,2280,indoor,"stage/indoor, discotheque, wheat_field, sky, music_studio",26104
-96,2304,indoor,"discotheque, stage/indoor, chemistry_lab, music_studio, conference_center",26104
-97,2328,indoor,"banquet_hall, ballroom, dining_hall, restaurant, bar",26104
-98,2352,indoor,"banquet_hall, conference_center, ballroom, discotheque, auditorium",26104
-99,2376,indoor,"discotheque, banquet_hall, ballroom, jewelry_shop, dressing_room",26104
-100,2400,indoor,"banquet_hall, ballroom, dining_hall, cafeteria, martial_arts_gym",26104
-101,2424,indoor,"banquet_hall, restaurant, dining_hall, cafeteria, dressing_room",26104
-102,2448,indoor,"banquet_hall, conference_center, ballroom, dining_hall, discotheque",26104
-103,2472,indoor,"ballroom, banquet_hall, discotheque, dressing_room, conference_center",26104
-104,2496,indoor,"banquet_hall, jewelry_shop, discotheque, ballroom, jacuzzi/indoor",26104
-105,2520,indoor,"banquet_hall, discotheque, ballroom, conference_center, stage/indoor",26104
-106,2544,indoor,"dressing_room, beauty_salon, discotheque, jewelry_shop, bathroom",26104
-107,2568,indoor,"conference_center, ballroom, banquet_hall, auditorium, lecture_room",26104
-108,2592,indoor,"conference_center, ballroom, music_studio, science_museum, discotheque",26104
-109,2616,indoor,"conference_center, banquet_hall, ballroom, jewelry_shop, beer_hall",26104
-110,2640,indoor,"conference_center, ballroom, music_studio, lecture_room, stage/indoor",26104
-111,2664,indoor,"banquet_hall, conference_center, beer_hall, ballroom, auditorium",26104
-112,2688,indoor,"banquet_hall, beer_hall, conference_center, dining_hall, ballroom",26104
-113,2712,indoor,"dressing_room, discotheque, banquet_hall, conference_center, ballroom",26104
-114,2736,indoor,"science_museum, music_studio, chemistry_lab, natural_history_museum, conference_center",26104
-115,2760,indoor,"conference_center, chemistry_lab, science_museum, music_studio, museum/indoor",26104
-116,2784,indoor,"ballroom, banquet_hall, natural_history_museum, beer_hall, museum/indoor",26104
-117,2808,indoor,"ballroom, banquet_hall, beer_hall, discotheque, chemistry_lab",26104
-118,2832,indoor,"banquet_hall, ballroom, dressing_room, conference_center, discotheque",26104
-119,2856,indoor,"banquet_hall, ballroom, beer_hall, discotheque, conference_center",26104
-120,2880,indoor,"banquet_hall, beer_hall, ballroom, dining_hall, chemistry_lab",26104
-121,2904,indoor,"banquet_hall, conference_center, beer_hall, dining_hall, restaurant",26104
-122,2928,indoor,"banquet_hall, ballroom, dressing_room, conference_center, discotheque",26104
-123,2952,indoor,"banquet_hall, ballroom, dressing_room, conference_center, discotheque",26104
-124,2976,indoor,"banquet_hall, ballroom, conference_center, auditorium, bar",26104
-125,3000,indoor,"banquet_hall, ballroom, dressing_room, conference_center, beer_hall",26104
-126,3024,indoor,"banquet_hall, conference_center, ballroom, dining_hall, beer_hall",26104
-127,3048,indoor,"conference_center, auditorium, banquet_hall, lecture_room, ballroom",26104
-128,3072,indoor,"conference_center, banquet_hall, ballroom, dressing_room, lecture_room",26104
-129,3096,indoor,"conference_center, ballroom, dressing_room, banquet_hall, lecture_room",26104
-130,3120,indoor,"chemistry_lab, music_studio, discotheque, biology_laboratory, stage/indoor",26104
-131,3144,indoor,"chemistry_lab, biology_laboratory, discotheque, music_studio, aquarium",26104
-132,3168,indoor,"chemistry_lab, discotheque, biology_laboratory, stage/indoor, music_studio",26104
-133,3192,indoor,"chemistry_lab, discotheque, biology_laboratory, aquarium, stage/indoor",26104
-134,3216,indoor,"chemistry_lab, conference_center, biology_laboratory, banquet_hall, lecture_room",26104
-135,3240,indoor,"conference_center, chemistry_lab, stage/indoor, banquet_hall, lecture_room",26104
-136,3264,indoor,"science_museum, jewelry_shop, dressing_room, natural_history_museum, ice_cream_parlor",26104
-137,3288,indoor,"science_museum, chemistry_lab, jewelry_shop, gift_shop, natural_history_museum",26104
-138,3312,indoor,"restaurant, coffee_shop, ice_cream_parlor, cafeteria, science_museum",26104
-139,3336,indoor,"banquet_hall, ballroom, stage/indoor, dining_hall, museum/indoor",26104
-140,3360,indoor,"discotheque, jewelry_shop, banquet_hall, natural_history_museum, aquarium",26104
-141,3384,outdoor,"hot_spring, elevator/door, airport_terminal, crosswalk, baseball_field",26104
-142,3408,indoor,"jail_cell, sauna, shower, bathroom, elevator/door",26104
-143,3432,indoor,"bow_window/indoor, elevator/door, dressing_room, elevator_lobby, conference_center",26104
-144,3456,indoor,"elevator/door, elevator_lobby, shower, dressing_room, natural_history_museum",26104
-145,3480,indoor,"elevator/door, elevator_lobby, dressing_room, shower, museum/indoor",26104
-146,3504,indoor,"elevator/door, science_museum, natural_history_museum, museum/indoor, elevator_lobby",26104
-147,3528,indoor,"elevator/door, elevator_lobby, natural_history_museum, science_museum, museum/indoor",26104
-148,3552,indoor,"elevator/door, elevator_lobby, stage/indoor, ballroom, dressing_room",26104
-149,3576,indoor,"elevator/door, elevator_lobby, dressing_room, shower, stage/indoor",26104
-150,3600,indoor,"elevator/door, elevator_lobby, dressing_room, science_museum, shower",26104
-151,3624,indoor,"elevator/door, elevator_lobby, dressing_room, science_museum, natural_history_museum",26104
-152,3648,indoor,"natural_history_museum, science_museum, music_studio, elevator/door, museum/indoor",26104
-153,3672,indoor,"natural_history_museum, science_museum, nursery, museum/indoor, dressing_room",26104
-154,3696,indoor,"science_museum, natural_history_museum, museum/indoor, nursery, dressing_room",26104
-155,3720,indoor,"natural_history_museum, science_museum, museum/indoor, nursery, dressing_room",26104
-156,3744,indoor,"science_museum, natural_history_museum, museum/indoor, music_studio, nursery",26104
-157,3768,indoor,"natural_history_museum, science_museum, music_studio, museum/indoor, bank_vault",26104
-158,3792,indoor,"science_museum, natural_history_museum, elevator/door, museum/indoor, art_gallery",26104
-159,3816,indoor,"elevator/door, elevator_lobby, museum/indoor, science_museum, natural_history_museum",26104
-160,3840,indoor,"natural_history_museum, science_museum, museum/indoor, elevator/door, aquarium",26104
-161,3864,indoor,"natural_history_museum, science_museum, museum/indoor, elevator/door, aquarium",26104
-162,3888,indoor,"elevator/door, dressing_room, science_museum, natural_history_museum, music_studio",26104
-163,3912,indoor,"music_studio, natural_history_museum, dressing_room, elevator/door, science_museum",26104
-164,3936,indoor,"science_museum, natural_history_museum, music_studio, elevator/door, museum/indoor",26104
-165,3960,indoor,"science_museum, natural_history_museum, music_studio, elevator/door, museum/indoor",26104
-166,3984,indoor,"elevator/door, elevator_lobby, shower, science_museum, natural_history_museum",26104
-167,4008,indoor,"elevator/door, science_museum, music_studio, elevator_lobby, natural_history_museum",26104
-168,4032,indoor,"elevator/door, science_museum, music_studio, elevator_lobby, natural_history_museum",26104
-169,4056,indoor,"elevator/door, science_museum, music_studio, elevator_lobby, natural_history_museum",26104
-170,4080,indoor,"elevator/door, elevator_lobby, music_studio, dressing_room, shower",26104
-171,4104,indoor,"elevator/door, elevator_lobby, dressing_room, shower, science_museum",26104
-172,4128,indoor,"elevator/door, shower, elevator_lobby, science_museum, natural_history_museum",26104
-173,4152,indoor,"elevator/door, elevator_lobby, shower, science_museum, music_studio",26104
-174,4176,indoor,"elevator/door, elevator_lobby, music_studio, shower, science_museum",26104
-175,4200,indoor,"science_museum, natural_history_museum, elevator/door, museum/indoor, music_studio",26104
-176,4224,indoor,"natural_history_museum, science_museum, elevator/door, aquarium, museum/indoor",26104
-177,4248,indoor,"science_museum, elevator/door, natural_history_museum, museum/indoor, shower",26104
-178,4272,indoor,"elevator/door, elevator_lobby, shower, science_museum, music_studio",26104
-179,4296,indoor,"elevator/door, elevator_lobby, dressing_room, natural_history_museum, museum/indoor",26104
-180,4320,indoor,"dressing_room, banquet_hall, clean_room, clothing_store, church/indoor",26104
-181,4344,indoor,"dressing_room, banquet_hall, church/indoor, ballroom, museum/indoor",26104
-182,4368,indoor,"museum/indoor, clean_room, church/indoor, throne_room, art_gallery",26104
-183,4392,indoor,"nursery, science_museum, clean_room, pet_shop, natural_history_museum",26104
-184,4416,indoor,"banquet_hall, chemistry_lab, dining_hall, science_museum, biology_laboratory",26104
-185,4440,indoor,"music_studio, museum/indoor, television_studio, stage/indoor, science_museum",26104
-186,4464,indoor,"ballroom, music_studio, stage/indoor, discotheque, banquet_hall",26104
-187,4488,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, dressing_room",26104
-188,4512,indoor,"chemistry_lab, shower, museum/indoor, science_museum, natural_history_museum",26104
-189,4536,indoor,"shower, museum/indoor, science_museum, natural_history_museum, music_studio",26104
-190,4560,indoor,"museum/indoor, science_museum, natural_history_museum, music_studio, clean_room",26104
-191,4584,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, jewelry_shop",26104
-192,4608,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, archive",26104
-193,4632,indoor,"clean_room, museum/indoor, banquet_hall, chemistry_lab, biology_laboratory",26104
-194,4656,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",26104
-195,4680,indoor,"museum/indoor, clean_room, natural_history_museum, chemistry_lab, science_museum",26104
-196,4704,indoor,"museum/indoor, natural_history_museum, science_museum, music_studio, art_gallery",26104
-197,4728,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",26104
-198,4752,indoor,"museum/indoor, natural_history_museum, art_gallery, dressing_room, nursery",26104
-199,4776,indoor,"museum/indoor, banquet_hall, music_studio, natural_history_museum, dining_hall",26104
-200,4800,indoor,"museum/indoor, natural_history_museum, clean_room, banquet_hall, music_studio",26104
-201,4824,indoor,"museum/indoor, clean_room, banquet_hall, natural_history_museum, music_studio",26104
-202,4848,indoor,"museum/indoor, banquet_hall, clean_room, natural_history_museum, ballroom",26104
-203,4872,indoor,"clean_room, chemistry_lab, biology_laboratory, jewelry_shop, science_museum",26104
-204,4896,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, physics_laboratory",26104
-205,4920,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, jewelry_shop",26104
-206,4944,indoor,"clean_room, science_museum, biology_laboratory, jewelry_shop, chemistry_lab",26104
-207,4968,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, martial_arts_gym",26104
-208,4992,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, museum/indoor",26104
-209,5016,indoor,"clean_room, science_museum, museum/indoor, chemistry_lab, biology_laboratory",26104
-210,5040,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-211,5064,indoor,"clean_room, museum/indoor, science_museum, art_gallery, natural_history_museum",26104
-212,5088,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, biology_laboratory",26104
-213,5112,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, art_gallery",26104
-214,5136,indoor,"clean_room, museum/indoor, science_museum, martial_arts_gym, chemistry_lab",26104
-215,5160,indoor,"museum/indoor, clean_room, science_museum, martial_arts_gym, natural_history_museum",26104
-216,5184,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-217,5208,indoor,"biology_laboratory, chemistry_lab, martial_arts_gym, clean_room, museum/indoor",26104
-218,5232,indoor,"martial_arts_gym, chemistry_lab, clean_room, biology_laboratory, science_museum",26104
-219,5256,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, martial_arts_gym",26104
-220,5280,indoor,"science_museum, clean_room, museum/indoor, natural_history_museum, chemistry_lab",26104
-221,5304,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, martial_arts_gym",26104
-222,5328,indoor,"clean_room, chemistry_lab, biology_laboratory, jewelry_shop, science_museum",26104
-223,5352,indoor,"museum/indoor, science_museum, natural_history_museum, art_gallery, clean_room",26104
-224,5376,indoor,"museum/indoor, science_museum, clean_room, natural_history_museum, art_gallery",26104
-225,5400,indoor,"biology_laboratory, chemistry_lab, clean_room, science_museum, museum/indoor",26104
-226,5424,indoor,"chemistry_lab, biology_laboratory, jewelry_shop, clean_room, science_museum",26104
-227,5448,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, museum/indoor",26104
-228,5472,indoor,"clean_room, science_museum, museum/indoor, chemistry_lab, biology_laboratory",26104
-229,5496,indoor,"clean_room, chemistry_lab, biology_laboratory, physics_laboratory, science_museum",26104
-230,5520,indoor,"clean_room, biology_laboratory, chemistry_lab, science_museum, operating_room",26104
-231,5544,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, chemistry_lab",26104
-232,5568,indoor,"museum/indoor, conference_center, clean_room, jewelry_shop, art_gallery",26104
-233,5592,indoor,"jewelry_shop, clean_room, museum/indoor, dressing_room, chemistry_lab",26104
-234,5616,indoor,"clean_room, chemistry_lab, biology_laboratory, jewelry_shop, dressing_room",26104
-235,5640,indoor,"clean_room, chemistry_lab, science_museum, biology_laboratory, museum/indoor",26104
-236,5664,indoor,"clean_room, science_museum, chemistry_lab, natural_history_museum, biology_laboratory",26104
-237,5688,indoor,"museum/indoor, clean_room, science_museum, art_gallery, natural_history_museum",26104
-238,5712,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, biology_laboratory",26104
-239,5736,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, chemistry_lab",26104
-240,5760,indoor,"clean_room, museum/indoor, science_museum, art_gallery, natural_history_museum",26104
-241,5784,indoor,"science_museum, museum/indoor, natural_history_museum, clean_room, art_gallery",26104
-242,5808,indoor,"clean_room, chemistry_lab, biology_laboratory, jewelry_shop, science_museum",26104
-243,5832,indoor,"jewelry_shop, clean_room, science_museum, chemistry_lab, natural_history_museum",26104
-244,5856,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, museum/indoor",26104
-245,5880,indoor,"clean_room, jewelry_shop, chemistry_lab, natural_history_museum, biology_laboratory",26104
-246,5904,indoor,"clean_room, biology_laboratory, chemistry_lab, science_museum, physics_laboratory",26104
-247,5928,indoor,"chemistry_lab, biology_laboratory, clean_room, science_museum, jewelry_shop",26104
-248,5952,indoor,"chemistry_lab, biology_laboratory, clean_room, science_museum, jewelry_shop",26104
-249,5976,indoor,"chemistry_lab, biology_laboratory, jewelry_shop, banquet_hall, science_museum",26104
-250,6000,indoor,"clean_room, chemistry_lab, natural_history_museum, ice_cream_parlor, science_museum",26104
-251,6024,indoor,"chemistry_lab, biology_laboratory, clean_room, science_museum, jewelry_shop",26104
-252,6048,indoor,"chemistry_lab, biology_laboratory, jewelry_shop, clean_room, dressing_room",26104
-253,6072,indoor,"natural_history_museum, beauty_salon, science_museum, museum/indoor, dressing_room",26104
-254,6096,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, chemistry_lab",26104
-255,6120,indoor,"clean_room, chemistry_lab, stage/indoor, dressing_room, clothing_store",26104
-256,6144,indoor,"clean_room, chemistry_lab, science_museum, dressing_room, biology_laboratory",26104
-257,6168,indoor,"clean_room, science_museum, chemistry_lab, museum/indoor, stage/indoor",26104
-258,6192,indoor,"science_museum, clean_room, museum/indoor, chemistry_lab, natural_history_museum",26104
-259,6216,indoor,"science_museum, television_studio, museum/indoor, music_studio, clean_room",26104
-260,6240,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, clean_room",26104
-261,6264,indoor,"museum/indoor, clean_room, art_gallery, science_museum, natural_history_museum",26104
-262,6288,indoor,"natural_history_museum, science_museum, museum/indoor, clean_room, art_gallery",26104
-263,6312,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, chemistry_lab",26104
-264,6336,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, chemistry_lab",26104
-265,6360,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, chemistry_lab",26104
-266,6384,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, art_gallery",26104
-267,6408,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, art_gallery",26104
-268,6432,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, art_gallery",26104
-269,6456,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, art_gallery",26104
-270,6480,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, art_gallery",26104
-271,6504,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, art_gallery",26104
-272,6528,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, jewelry_shop",26104
-273,6552,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, dressing_room",26104
-274,6576,indoor,"museum/indoor, elevator_lobby, elevator/door, clean_room, dressing_room",26104
-275,6600,indoor,"museum/indoor, elevator_lobby, conference_center, dressing_room, elevator/door",26104
-276,6624,indoor,"clean_room, museum/indoor, science_museum, jewelry_shop, natural_history_museum",26104
-277,6648,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-278,6672,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, chemistry_lab",26104
-279,6696,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, art_gallery",26104
-280,6720,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, chemistry_lab",26104
-281,6744,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, art_gallery",26104
-282,6768,indoor,"clean_room, dressing_room, jewelry_shop, science_museum, biology_laboratory",26104
-283,6792,indoor,"science_museum, museum/indoor, natural_history_museum, jewelry_shop, clean_room",26104
-284,6816,indoor,"science_museum, natural_history_museum, museum/indoor, clean_room, art_gallery",26104
-285,6840,indoor,"science_museum, natural_history_museum, museum/indoor, clean_room, art_gallery",26104
-286,6864,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, art_gallery",26104
-287,6888,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, art_gallery",26104
-288,6912,indoor,"science_museum, clean_room, museum/indoor, natural_history_museum, art_gallery",26104
-289,6936,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, art_gallery",26104
-290,6960,indoor,"science_museum, natural_history_museum, museum/indoor, clean_room, art_gallery",26104
-291,6984,indoor,"science_museum, natural_history_museum, museum/indoor, clean_room, art_gallery",26104
-292,7008,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, jewelry_shop",26104
-293,7032,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, art_gallery",26104
-294,7056,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, jewelry_shop",26104
-295,7080,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, art_gallery",26104
-296,7104,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, jewelry_shop",26104
-297,7128,indoor,"clean_room, science_museum, natural_history_museum, jewelry_shop, museum/indoor",26104
-298,7152,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, jewelry_shop",26104
-299,7176,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, jewelry_shop",26104
-300,7200,indoor,"science_museum, clean_room, natural_history_museum, jewelry_shop, museum/indoor",26104
-301,7224,indoor,"science_museum, clean_room, natural_history_museum, museum/indoor, art_gallery",26104
-302,7248,indoor,"natural_history_museum, science_museum, museum/indoor, clean_room, art_gallery",26104
-303,7272,indoor,"science_museum, natural_history_museum, clean_room, jewelry_shop, museum/indoor",26104
-304,7296,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, art_gallery",26104
-305,7320,indoor,"science_museum, natural_history_museum, clean_room, museum/indoor, art_gallery",26104
-306,7344,indoor,"natural_history_museum, dressing_room, science_museum, clean_room, museum/indoor",26104
-307,7368,indoor,"elevator/door, elevator_lobby, museum/indoor, dressing_room, art_gallery",26104
-308,7392,indoor,"elevator/door, elevator_lobby, museum/indoor, clean_room, dressing_room",26104
-309,7416,indoor,"elevator/door, elevator_lobby, museum/indoor, clean_room, art_gallery",26104
-310,7440,indoor,"jewelry_shop, elevator/door, elevator_lobby, dressing_room, clean_room",26104
-311,7464,indoor,"jewelry_shop, clean_room, science_museum, dressing_room, natural_history_museum",26104
-312,7488,indoor,"jewelry_shop, science_museum, clean_room, natural_history_museum, museum/indoor",26104
-313,7512,indoor,"jewelry_shop, science_museum, clean_room, natural_history_museum, museum/indoor",26104
-314,7536,indoor,"clean_room, science_museum, museum/indoor, jewelry_shop, natural_history_museum",26104
-315,7560,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, art_gallery",26104
-316,7584,indoor,"clean_room, science_museum, museum/indoor, elevator/door, natural_history_museum",26104
-317,7608,indoor,"museum/indoor, elevator_lobby, natural_history_museum, art_gallery, elevator/door",26104
-318,7632,indoor,"elevator/door, elevator_lobby, dressing_room, museum/indoor, art_gallery",26104
-319,7656,indoor,"science_museum, natural_history_museum, elevator/door, museum/indoor, clean_room",26104
-320,7680,indoor,"science_museum, natural_history_museum, elevator/door, elevator_lobby, museum/indoor",26104
-321,7704,indoor,"clean_room, museum/indoor, elevator/door, science_museum, elevator_lobby",26104
-322,7728,indoor,"clean_room, museum/indoor, elevator_lobby, elevator/door, art_gallery",26104
-323,7752,indoor,"museum/indoor, clean_room, dressing_room, stage/indoor, clothing_store",26104
-324,7776,indoor,"museum/indoor, clean_room, dressing_room, bow_window/indoor, jewelry_shop",26104
-325,7800,indoor,"museum/indoor, elevator/door, elevator_lobby, bow_window/indoor, clean_room",26104
-326,7824,indoor,"museum/indoor, clean_room, science_museum, art_gallery, natural_history_museum",26104
-327,7848,indoor,"elevator_lobby, elevator/door, clean_room, museum/indoor, shower",26104
-328,7872,indoor,"elevator/door, elevator_lobby, ballroom, dressing_room, lobby",26104
-329,7896,indoor,"elevator_lobby, elevator/door, science_museum, natural_history_museum, bow_window/indoor",26104
-330,7920,indoor,"ballroom, elevator/door, elevator_lobby, stage/indoor, dressing_room",26104
-331,7944,indoor,"ballroom, clean_room, chemistry_lab, locker_room, museum/indoor",26104
-332,7968,indoor,"clean_room, science_museum, museum/indoor, chemistry_lab, natural_history_museum",26104
-333,7992,indoor,"museum/indoor, science_museum, clean_room, dressing_room, clothing_store",26104
-334,8016,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, biology_laboratory",26104
-335,8040,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, biology_laboratory",26104
-336,8064,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, music_studio",26104
-337,8088,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, biology_laboratory",26104
-338,8112,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, music_studio",26104
-339,8136,indoor,"clean_room, chemistry_lab, science_museum, museum/indoor, biology_laboratory",26104
-340,8160,indoor,"clean_room, science_museum, museum/indoor, natural_history_museum, art_gallery",26104
-341,8184,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, art_gallery",26104
-342,8208,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-343,8232,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, natural_history_museum",26104
-344,8256,indoor,"museum/indoor, science_museum, natural_history_museum, clean_room, art_gallery",26104
-345,8280,indoor,"museum/indoor, science_museum, clean_room, natural_history_museum, art_gallery",26104
-346,8304,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-347,8328,indoor,"museum/indoor, science_museum, natural_history_museum, art_gallery, clean_room",26104
-348,8352,indoor,"museum/indoor, science_museum, natural_history_museum, art_gallery, clean_room",26104
-349,8376,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, clean_room",26104
-350,8400,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, clothing_store",26104
-351,8424,indoor,"museum/indoor, science_museum, natural_history_museum, clean_room, art_gallery",26104
-352,8448,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, chemistry_lab",26104
-353,8472,indoor,"museum/indoor, science_museum, art_gallery, clean_room, music_studio",26104
-354,8496,indoor,"museum/indoor, natural_history_museum, art_gallery, clean_room, science_museum",26104
-355,8520,indoor,"museum/indoor, art_gallery, clean_room, martial_arts_gym, archive",26104
-356,8544,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, clean_room",26104
-357,8568,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, clean_room",26104
-358,8592,indoor,"museum/indoor, natural_history_museum, clean_room, art_gallery, science_museum",26104
-359,8616,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, clean_room",26104
-360,8640,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, art_gallery",26104
-361,8664,indoor,"natural_history_museum, museum/indoor, science_museum, clean_room, art_gallery",26104
-362,8688,indoor,"museum/indoor, natural_history_museum, clean_room, science_museum, art_gallery",26104
-363,8712,indoor,"clean_room, museum/indoor, natural_history_museum, science_museum, music_studio",26104
-364,8736,indoor,"music_studio, stage/indoor, clean_room, arena/performance, television_studio",26104
-365,8760,indoor,"music_studio, clean_room, museum/indoor, stage/indoor, ballroom",26104
-366,8784,indoor,"museum/indoor, ballroom, music_studio, stage/indoor, natural_history_museum",26104
-367,8808,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, clean_room",26104
-368,8832,indoor,"natural_history_museum, jewelry_shop, museum/indoor, science_museum, florist_shop/indoor",26104
-369,8856,indoor,"clean_room, natural_history_museum, science_museum, chemistry_lab, museum/indoor",26104
-370,8880,indoor,"florist_shop/indoor, clean_room, science_museum, botanical_garden, natural_history_museum",26104
-371,8904,indoor,"natural_history_museum, florist_shop/indoor, science_museum, museum/indoor, clean_room",26104
-372,8928,indoor,"dressing_room, jewelry_shop, chemistry_lab, clean_room, biology_laboratory",26104
-373,8952,indoor,"museum/indoor, dressing_room, natural_history_museum, jewelry_shop, clean_room",26104
-374,8976,indoor,"clean_room, jewelry_shop, natural_history_museum, museum/indoor, science_museum",26104
-375,9000,indoor,"stage/indoor, discotheque, music_studio, museum/indoor, arena/performance",26104
-376,9024,indoor,"stage/indoor, discotheque, ballroom, music_studio, museum/indoor",26104
-377,9048,indoor,"discotheque, stage/indoor, chemistry_lab, music_studio, dressing_room",26104
-378,9072,indoor,"discotheque, stage/indoor, science_museum, museum/indoor, music_studio",26104
-379,9096,indoor,"stage/indoor, music_studio, clean_room, museum/indoor, dressing_room",26104
-380,9120,indoor,"stage/indoor, museum/indoor, music_studio, discotheque, natural_history_museum",26104
-381,9144,indoor,"stage/indoor, museum/indoor, discotheque, music_studio, natural_history_museum",26104
-382,9168,indoor,"stage/indoor, museum/indoor, ballroom, conference_center, dressing_room",26104
-383,9192,indoor,"stage/indoor, music_studio, discotheque, dressing_room, conference_center",26104
-384,9216,indoor,"clean_room, chemistry_lab, science_museum, jewelry_shop, museum/indoor",26104
-385,9240,indoor,"clean_room, chemistry_lab, science_museum, biology_laboratory, museum/indoor",26104
-386,9264,indoor,"clean_room, science_museum, museum/indoor, chemistry_lab, natural_history_museum",26104
-387,9288,indoor,"clean_room, museum/indoor, natural_history_museum, science_museum, chemistry_lab",26104
-388,9312,indoor,"clean_room, museum/indoor, natural_history_museum, science_museum, jewelry_shop",26104
-389,9336,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, natural_history_museum",26104
-390,9360,indoor,"natural_history_museum, science_museum, museum/indoor, stage/indoor, field/wild",26104
-391,9384,indoor,"museum/indoor, clean_room, stage/indoor, ballroom, dressing_room",26104
-392,9408,indoor,"natural_history_museum, museum/indoor, science_museum, discotheque, stage/indoor",26104
-393,9432,indoor,"museum/indoor, stage/indoor, discotheque, natural_history_museum, arena/performance",26104
-394,9456,indoor,"museum/indoor, stage/indoor, arena/performance, ballroom, discotheque",26104
-395,9480,indoor,"museum/indoor, natural_history_museum, science_museum, clean_room, stage/indoor",26104
-396,9504,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, stage/indoor",26104
-397,9528,indoor,"museum/indoor, natural_history_museum, science_museum, clean_room, art_gallery",26104
-398,9552,indoor,"museum/indoor, natural_history_museum, science_museum, clean_room, art_gallery",26104
-399,9576,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, clean_room",26104
-400,9600,indoor,"museum/indoor, natural_history_museum, clean_room, science_museum, stage/indoor",26104
-401,9624,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, stage/indoor",26104
-402,9648,indoor,"natural_history_museum, museum/indoor, science_museum, art_gallery, jewelry_shop",26104
-403,9672,indoor,"clean_room, stage/indoor, chemistry_lab, museum/indoor, science_museum",26104
-404,9696,indoor,"stage/indoor, museum/indoor, ballroom, music_studio, dressing_room",26104
-405,9720,indoor,"museum/indoor, science_museum, clean_room, art_gallery, natural_history_museum",26104
-406,9744,indoor,"museum/indoor, natural_history_museum, stage/indoor, art_gallery, science_museum",26104
-407,9768,indoor,"stage/indoor, museum/indoor, music_studio, conference_center, natural_history_museum",26104
-408,9792,indoor,"stage/indoor, arena/performance, music_studio, museum/indoor, science_museum",26104
-409,9816,indoor,"museum/indoor, natural_history_museum, science_museum, clean_room, stage/indoor",26104
-410,9840,indoor,"museum/indoor, natural_history_museum, arena/performance, science_museum, stage/indoor",26104
-411,9864,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, arena/performance",26104
-412,9888,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, arena/performance",26104
-413,9912,indoor,"museum/indoor, clean_room, jewelry_shop, science_museum, natural_history_museum",26104
-414,9936,indoor,"museum/indoor, natural_history_museum, science_museum, jewelry_shop, clean_room",26104
-415,9960,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",26104
-416,9984,indoor,"museum/indoor, science_museum, clean_room, natural_history_museum, art_gallery",26104
-417,10008,indoor,"museum/indoor, clean_room, art_gallery, elevator_lobby, lobby",26104
-418,10032,indoor,"museum/indoor, art_gallery, elevator_lobby, lobby, clean_room",26104
-419,10056,indoor,"museum/indoor, art_gallery, clean_room, elevator_lobby, ballroom",26104
-420,10080,indoor,"clean_room, museum/indoor, art_gallery, ballroom, entrance_hall",26104
-421,10104,indoor,"museum/indoor, clean_room, ballroom, entrance_hall, art_gallery",26104
-422,10128,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, ballroom",26104
-423,10152,indoor,"corridor, entrance_hall, lobby, waiting_room, elevator_lobby",26104
-424,10176,indoor,"corridor, lobby, elevator_lobby, waiting_room, elevator/door",26104
-425,10200,indoor,"corridor, restaurant, lobby, porch, bow_window/indoor",26104
-426,10224,indoor,"lobby, waiting_room, corridor, restaurant, dining_room",26104
-427,10248,indoor,"bow_window/indoor, museum/indoor, clean_room, dressing_room, art_gallery",26104
-428,10272,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, natural_history_museum",26104
-429,10296,indoor,"museum/indoor, natural_history_museum, science_museum, archive, jewelry_shop",26104
-430,10320,indoor,"bow_window/indoor, elevator_lobby, lobby, elevator/door, doorway/outdoor",26104
-431,10344,indoor,"bow_window/indoor, entrance_hall, doorway/outdoor, lobby, elevator_lobby",26104
-432,10368,indoor,"entrance_hall, bow_window/indoor, doorway/outdoor, throne_room, lobby",26104
-433,10392,indoor,"bow_window/indoor, lobby, doorway/outdoor, entrance_hall, elevator_lobby",26104
-434,10416,indoor,"entrance_hall, clean_room, lobby, bow_window/indoor, elevator_lobby",26104
-435,10440,indoor,"stage/indoor, chemistry_lab, clean_room, discotheque, music_studio",26104
-436,10464,indoor,"shower, museum/indoor, stage/indoor, music_studio, chemistry_lab",26104
-437,10488,indoor,"music_studio, museum/indoor, physics_laboratory, chemistry_lab, shower",26104
-438,10512,indoor,"entrance_hall, lobby, throne_room, elevator_lobby, atrium/public",26104
-439,10536,indoor,"entrance_hall, lobby, bow_window/indoor, throne_room, elevator_lobby",26104
-440,10560,indoor,"clean_room, museum/indoor, art_gallery, elevator_lobby, science_museum",26104
-441,10584,indoor,"clean_room, museum/indoor, archive, science_museum, chemistry_lab",26104
-442,10608,indoor,"shower, dressing_room, beauty_salon, chemistry_lab, bathroom",26104
-443,10632,indoor,"bow_window/indoor, elevator/door, artists_loft, shower, greenhouse/indoor",26104
-444,10656,indoor,"bow_window/indoor, elevator/door, shower, closet, locker_room",26104
-445,10680,indoor,"museum/indoor, clean_room, science_museum, art_gallery, chemistry_lab",26104
-446,10704,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, art_gallery",26104
-447,10728,indoor,"museum/indoor, clean_room, art_gallery, chemistry_lab, elevator_lobby",26104
-448,10752,indoor,"museum/indoor, clean_room, science_museum, art_gallery, chemistry_lab",26104
-449,10776,indoor,"clean_room, museum/indoor, chemistry_lab, archive, art_gallery",26104
-450,10800,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, science_museum",26104
-451,10824,indoor,"museum/indoor, clean_room, chemistry_lab, art_gallery, locker_room",26104
-452,10848,indoor,"chemistry_lab, museum/indoor, clean_room, biology_laboratory, art_gallery",26104
-453,10872,indoor,"shower, jail_cell, bank_vault, locker_room, bathroom",26104
-454,10896,outdoor,"pond, hot_spring, marsh, lake/natural, sky",26104
-455,10920,outdoor,"pond, lake/natural, sky, hot_spring, marsh",26104
-456,10944,indoor,"jail_cell, basement, classroom, shower, locker_room",26104
-457,10968,indoor,"locker_room, archive, natural_history_museum, bank_vault, clean_room",26104
-458,10992,indoor,"archive, locker_room, classroom, museum/indoor, kindergarden_classroom",26104
-459,11016,indoor,"archive, locker_room, museum/indoor, classroom, art_school",26104
-460,11040,indoor,"archive, locker_room, museum/indoor, classroom, natural_history_museum",26104
-461,11064,indoor,"archive, locker_room, classroom, museum/indoor, art_school",26104
-462,11088,indoor,"locker_room, archive, classroom, museum/indoor, art_school",26104
-463,11112,indoor,"locker_room, archive, classroom, museum/indoor, natural_history_museum",26104
-464,11136,indoor,"archive, locker_room, museum/indoor, classroom, natural_history_museum",26104
-465,11160,indoor,"archive, museum/indoor, locker_room, classroom, natural_history_museum",26104
-466,11184,indoor,"archive, museum/indoor, locker_room, classroom, art_school",26104
-467,11208,indoor,"archive, museum/indoor, locker_room, classroom, kindergarden_classroom",26104
-468,11232,indoor,"archive, museum/indoor, locker_room, natural_history_museum, art_school",26104
-469,11256,indoor,"archive, locker_room, museum/indoor, classroom, art_school",26104
-470,11280,indoor,"archive, locker_room, museum/indoor, classroom, art_school",26104
-471,11304,indoor,"archive, locker_room, museum/indoor, classroom, art_gallery",26104
-472,11328,indoor,"locker_room, archive, museum/indoor, classroom, clean_room",26104
-473,11352,indoor,"archive, locker_room, museum/indoor, classroom, art_school",26104
-474,11376,indoor,"locker_room, archive, museum/indoor, clean_room, classroom",26104
-475,11400,indoor,"music_studio, stage/indoor, discotheque, arena/performance, physics_laboratory",26104
-476,11424,indoor,"music_studio, stage/indoor, museum/indoor, physics_laboratory, discotheque",26104
-477,11448,indoor,"stage/indoor, music_studio, museum/indoor, discotheque, ballroom",26104
-478,11472,indoor,"science_museum, music_studio, discotheque, stage/indoor, arena/performance",26104
-479,11496,indoor,"music_studio, stage/indoor, science_museum, discotheque, arena/performance",26104
-480,11520,indoor,"art_gallery, museum/indoor, art_studio, art_school, science_museum",26104
-481,11544,indoor,"art_studio, art_school, science_museum, art_gallery, classroom",26104
-482,11568,indoor,"art_studio, art_school, art_gallery, classroom, atrium/public",26104
-483,11592,indoor,"art_studio, art_school, art_gallery, classroom, museum/indoor",26104
-484,11616,indoor,"classroom, art_studio, art_school, art_gallery, museum/indoor",26104
-485,11640,indoor,"art_gallery, museum/indoor, art_studio, locker_room, art_school",26104
-486,11664,indoor,"locker_room, archive, museum/indoor, art_studio, art_school",26104
-487,11688,indoor,"locker_room, museum/indoor, art_studio, art_school, art_gallery",26104
-488,11712,indoor,"stage/indoor, music_studio, arena/performance, discotheque, ballroom",26104
-489,11736,indoor,"stage/indoor, music_studio, arena/performance, discotheque, stage/outdoor",26104
-490,11760,indoor,"stage/indoor, music_studio, discotheque, arena/performance, television_studio",26104
-491,11784,indoor,"museum/indoor, art_gallery, music_studio, stage/indoor, clean_room",26104
-492,11808,indoor,"field/wild, music_studio, jewelry_shop, natural_history_museum, stage/indoor",26104
-493,11832,indoor,"clean_room, chemistry_lab, physics_laboratory, music_studio, jewelry_shop",26104
-494,11856,indoor,"ice_cream_parlor, nursery, museum/indoor, jewelry_shop, art_gallery",26104
-495,11880,indoor,"museum/indoor, ice_cream_parlor, art_gallery, science_museum, ballroom",26104
-496,11904,indoor,"music_studio, jewelry_shop, playground, ballroom, discotheque",26104
-497,11928,indoor,"ballroom, music_studio, stage/indoor, discotheque, dressing_room",26104
-498,11952,indoor,"music_studio, stage/indoor, discotheque, conference_center, ballroom",26104
-499,11976,indoor,"jewelry_shop, dressing_room, stage/indoor, music_studio, discotheque",26104
-500,12000,indoor,"jewelry_shop, music_studio, dressing_room, discotheque, museum/indoor",26104
-501,12024,indoor,"jewelry_shop, dressing_room, discotheque, beer_hall, bar",26104
-502,12048,indoor,"jewelry_shop, discotheque, chemistry_lab, dressing_room, ballroom",26104
-503,12072,indoor,"jewelry_shop, dressing_room, natural_history_museum, museum/indoor, science_museum",26104
-504,12096,indoor,"beer_hall, discotheque, ballroom, bar, restaurant",26104
-505,12120,indoor,"beer_hall, discotheque, ballroom, jewelry_shop, banquet_hall",26104
-506,12144,indoor,"jewelry_shop, beer_hall, banquet_hall, restaurant, ice_cream_parlor",26104
-507,12168,indoor,"jewelry_shop, discotheque, beer_hall, ballroom, ice_cream_parlor",26104
-508,12192,indoor,"beer_hall, restaurant, banquet_hall, jewelry_shop, ice_cream_parlor",26104
-509,12216,indoor,"bakery/shop, ice_cream_parlor, jewelry_shop, candy_store, beer_hall",26104
-510,12240,indoor,"jewelry_shop, bakery/shop, ice_cream_parlor, beer_hall, restaurant",26104
-511,12264,indoor,"beer_hall, discotheque, banquet_hall, restaurant, ice_cream_parlor",26104
-512,12288,indoor,"restaurant, ice_cream_parlor, banquet_hall, beer_hall, dining_hall",26104
-513,12312,indoor,"restaurant, jewelry_shop, discotheque, beer_hall, bar",26104
-514,12336,indoor,"jewelry_shop, restaurant, ice_cream_parlor, beer_hall, banquet_hall",26104
-515,12360,indoor,"restaurant, beer_hall, banquet_hall, jewelry_shop, ice_cream_parlor",26104
-516,12384,indoor,"jewelry_shop, restaurant, banquet_hall, ballroom, discotheque",26104
-517,12408,indoor,"jewelry_shop, science_museum, aquarium, restaurant, ice_cream_parlor",26104
-518,12432,indoor,"discotheque, chemistry_lab, bar, music_studio, stage/indoor",26104
-519,12456,indoor,"museum/indoor, science_museum, jewelry_shop, clean_room, natural_history_museum",26104
-520,12480,indoor,"science_museum, chemistry_lab, clean_room, museum/indoor, jewelry_shop",26104
-521,12504,indoor,"museum/indoor, clean_room, science_museum, chemistry_lab, natural_history_museum",26104
-522,12528,indoor,"clean_room, museum/indoor, science_museum, ballroom, chemistry_lab",26104
-523,12552,indoor,"clean_room, shower, stage/indoor, music_studio, locker_room",26104
-524,12576,outdoor,"clean_room, shower, wheat_field, baseball_field, construction_site",26104
-525,12600,indoor,"clean_room, museum/indoor, ballroom, atrium/public, art_gallery",26104
-526,12624,indoor,"clean_room, shower, ballroom, museum/indoor, discotheque",26104
-527,12648,indoor,"chemistry_lab, music_studio, stage/indoor, discotheque, bar",26104
-528,12672,indoor,"natural_history_museum, science_museum, dressing_room, shower, bathroom",26104
-529,12696,indoor,"jewelry_shop, shower, bathroom, beauty_salon, dressing_room",26104
-530,12720,indoor,"jewelry_shop, beauty_salon, shower, dressing_room, bar",26104
-531,12744,indoor,"jewelry_shop, shower, dressing_room, beauty_salon, bathroom",26104
-532,12768,indoor,"jewelry_shop, dressing_room, beauty_salon, shower, bar",26104
-533,12792,indoor,"jewelry_shop, beauty_salon, dressing_room, bar, shower",26104
-534,12816,outdoor,"hot_spring, sky, rainforest, lake/natural, waterfall",26104
-535,12840,indoor,"discotheque, stage/indoor, chemistry_lab, music_studio, science_museum",26104
-536,12864,indoor,"stage/indoor, arena/performance, discotheque, music_studio, ballroom",26104
-537,12888,indoor,"discotheque, stage/indoor, arena/performance, music_studio, ballroom",26104
-538,12912,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, clean_room",26104
-539,12936,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, clean_room",26104
-540,12960,indoor,"museum/indoor, science_museum, art_gallery, clean_room, natural_history_museum",26104
-541,12984,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, clean_room",26104
-542,13008,indoor,"museum/indoor, science_museum, natural_history_museum, clean_room, art_gallery",26104
-543,13032,indoor,"dressing_room, discotheque, shower, bathroom, beauty_salon",26104
-544,13056,indoor,"discotheque, arena/performance, stage/indoor, ballroom, music_studio",26104
-545,13080,indoor,"discotheque, science_museum, museum/indoor, stage/indoor, natural_history_museum",26104
-546,13104,indoor,"discotheque, stage/indoor, science_museum, dressing_room, arena/performance",26104
-547,13128,indoor,"discotheque, science_museum, stage/indoor, arena/performance, ballroom",26104
-548,13152,indoor,"discotheque, stage/indoor, dressing_room, arena/performance, science_museum",26104
-549,13176,indoor,"discotheque, dressing_room, ballroom, stage/indoor, arena/performance",26104
-550,13200,indoor,"dressing_room, discotheque, science_museum, shower, natural_history_museum",26104
-551,13224,indoor,"discotheque, music_studio, bar, television_studio, arena/performance",26104
-552,13248,indoor,"discotheque, music_studio, dressing_room, science_museum, television_studio",26104
-553,13272,indoor,"discotheque, music_studio, jewelry_shop, chemistry_lab, arena/performance",26104
-554,13296,indoor,"discotheque, dressing_room, music_studio, chemistry_lab, science_museum",26104
-555,13320,indoor,"discotheque, chemistry_lab, dressing_room, science_museum, jewelry_shop",26104
-556,13344,indoor,"discotheque, science_museum, dressing_room, natural_history_museum, jewelry_shop",26104
-557,13368,indoor,"discotheque, dressing_room, beauty_salon, music_studio, science_museum",26104
-558,13392,indoor,"discotheque, music_studio, dressing_room, television_studio, bar",26104
-559,13416,indoor,"bar, discotheque, chemistry_lab, dressing_room, jewelry_shop",26104
-560,13440,indoor,"discotheque, bar, arena/performance, music_studio, stage/indoor",26104
-561,13464,indoor,"discotheque, arena/performance, stage/indoor, music_studio, ballroom",26104
-562,13488,indoor,"discotheque, arena/performance, ballroom, stage/indoor, music_studio",26104
-563,13512,indoor,"discotheque, music_studio, bar, stage/indoor, arena/performance",26104
-564,13536,indoor,"dressing_room, discotheque, beauty_salon, music_studio, chemistry_lab",26104
-565,13560,indoor,"television_studio, music_studio, beauty_salon, conference_center, discotheque",26104
-566,13584,indoor,"beauty_salon, dressing_room, music_studio, television_studio, jewelry_shop",26104
-567,13608,indoor,"music_studio, discotheque, jewelry_shop, dressing_room, beauty_salon",26104
-568,13632,indoor,"beauty_salon, dressing_room, music_studio, television_studio, discotheque",26104
-569,13656,indoor,"music_studio, beauty_salon, dressing_room, stage/indoor, chemistry_lab",26104
-570,13680,indoor,"beauty_salon, jewelry_shop, dressing_room, music_studio, television_studio",26104
-571,13704,indoor,"beauty_salon, jewelry_shop, dressing_room, music_studio, discotheque",26104
-572,13728,indoor,"beauty_salon, dressing_room, jewelry_shop, music_studio, discotheque",26104
-573,13752,indoor,"jewelry_shop, dressing_room, ballroom, beauty_salon, discotheque",26104
-574,13776,indoor,"jewelry_shop, beauty_salon, dressing_room, ballroom, aquarium",26104
-575,13800,indoor,"jewelry_shop, ballroom, beauty_salon, discotheque, dressing_room",26104
-576,13824,indoor,"music_studio, chemistry_lab, clean_room, discotheque, jewelry_shop",26104
-577,13848,indoor,"jewelry_shop, music_studio, discotheque, dressing_room, ballroom",26104
-578,13872,indoor,"jewelry_shop, ballroom, music_studio, dressing_room, discotheque",26104
-579,13896,indoor,"discotheque, dressing_room, jewelry_shop, chemistry_lab, music_studio",26104
-580,13920,indoor,"jewelry_shop, science_museum, dressing_room, natural_history_museum, museum/indoor",26104
-581,13944,indoor,"jewelry_shop, science_museum, dressing_room, beauty_salon, natural_history_museum",26104
-582,13968,indoor,"music_studio, discotheque, stage/indoor, arena/performance, stage/outdoor",26104
-583,13992,indoor,"television_studio, conference_center, classroom, office, aquarium",26104
-584,14016,indoor,"natural_history_museum, discotheque, science_museum, aquarium, jewelry_shop",26104
-585,14040,indoor,"natural_history_museum, aquarium, science_museum, discotheque, shower",26104
-586,14064,indoor,"aquarium, natural_history_museum, science_museum, shower, jewelry_shop",26104
-587,14088,indoor,"discotheque, shower, aquarium, natural_history_museum, stage/indoor",26104
-588,14112,indoor,"discotheque, shower, aquarium, natural_history_museum, bathroom",26104
-589,14136,indoor,"discotheque, ballroom, shower, aquarium, stage/indoor",26104
-590,14160,indoor,"shower, dressing_room, discotheque, jewelry_shop, elevator/door",26104
-591,14184,indoor,"jewelry_shop, museum/indoor, dressing_room, shower, nursery",26104
-592,14208,indoor,"museum/indoor, jewelry_shop, natural_history_museum, nursery, dressing_room",26104
-593,14232,indoor,"dressing_room, shower, discotheque, jewelry_shop, museum/indoor",26104
-594,14256,indoor,"discotheque, aquarium, chemistry_lab, natural_history_museum, science_museum",26104
-595,14280,indoor,"discotheque, shower, jewelry_shop, ballroom, dressing_room",26104
-596,14304,indoor,"aquarium, shower, discotheque, jewelry_shop, natural_history_museum",26104
-597,14328,indoor,"discotheque, ballroom, shower, jewelry_shop, dressing_room",26104
-598,14352,indoor,"discotheque, jewelry_shop, dressing_room, ballroom, shower",26104
-599,14376,indoor,"discotheque, dressing_room, jewelry_shop, shower, ballroom",26104
-600,14400,indoor,"discotheque, jewelry_shop, aquarium, natural_history_museum, science_museum",26104
-601,14424,indoor,"natural_history_museum, science_museum, discotheque, dressing_room, museum/indoor",26104
-602,14448,indoor,"chemistry_lab, shower, dressing_room, science_museum, museum/indoor",26104
-603,14472,indoor,"clean_room, museum/indoor, television_studio, art_gallery, elevator_lobby",26104
-604,14496,indoor,"clean_room, museum/indoor, art_gallery, martial_arts_gym, science_museum",26104
-605,14520,indoor,"clean_room, museum/indoor, chemistry_lab, biology_laboratory, physics_laboratory",26104
-606,14544,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, discotheque",26104
-607,14568,indoor,"clean_room, museum/indoor, art_gallery, science_museum, natural_history_museum",26104
-608,14592,indoor,"museum/indoor, clean_room, science_museum, art_gallery, natural_history_museum",26104
-609,14616,indoor,"museum/indoor, clean_room, jewelry_shop, science_museum, art_gallery",26104
-610,14640,indoor,"clean_room, museum/indoor, jewelry_shop, nursery, ballroom",26104
-611,14664,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-612,14688,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",26104
-613,14712,indoor,"museum/indoor, natural_history_museum, conference_center, science_museum, nursery",26104
-614,14736,indoor,"jewelry_shop, ice_floe, childs_room, clean_room, nursery",26104
-615,14760,indoor,"jewelry_shop, museum/indoor, hot_spring, natural_history_museum, art_gallery",26104
-616,14784,indoor,"jewelry_shop, nursery, childs_room, ice_floe, banquet_hall",26104
-617,14808,indoor,"jewelry_shop, nursery, museum/indoor, childs_room, natural_history_museum",26104
-618,14832,indoor,"jewelry_shop, nursery, childs_room, museum/indoor, gift_shop",26104
-619,14856,indoor,"jewelry_shop, museum/indoor, natural_history_museum, nursery, ice_floe",26104
-620,14880,outdoor,"jewelry_shop, ice_floe, iceberg, ice_shelf, nursery",26104
-621,14904,outdoor,"jewelry_shop, ice_floe, iceberg, ice_shelf, museum/indoor",26104
-622,14928,indoor,"jewelry_shop, nursery, childs_room, museum/indoor, natural_history_museum",26104
-623,14952,indoor,"jewelry_shop, natural_history_museum, museum/indoor, gift_shop, science_museum",26104
-624,14976,indoor,"jewelry_shop, nursery, childs_room, museum/indoor, gift_shop",26104
-625,15000,indoor,"jewelry_shop, nursery, childs_room, ice_floe, museum/indoor",26104
-626,15024,indoor,"jewelry_shop, museum/indoor, ice_cream_parlor, ice_floe, natural_history_museum",26104
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,26104,0,0,1
+1,26104,24,0,1
+2,26104,48,0,1
+3,26104,72,0,1
+4,26104,96,0,1
+5,26104,120,0,1
+6,26104,144,0,1
+7,26104,168,0,1
+8,26104,192,0,1
+9,26104,216,0,1
+10,26104,240,0,1
+11,26104,264,0,1
+12,26104,288,1,0
+13,26104,312,0,1
+14,26104,336,1,0
+15,26104,360,1,0
+16,26104,384,1,0
+17,26104,408,1,0
+18,26104,432,0,1
+19,26104,456,0,1
+20,26104,480,0,1
+21,26104,504,0,1
+22,26104,528,0,1
+23,26104,552,0,1
+24,26104,576,0,1
+25,26104,600,0,1
+26,26104,624,0,1
+27,26104,648,0,1
+28,26104,672,0,1
+29,26104,696,0,1
+30,26104,720,0,1
+31,26104,744,0,1
+32,26104,768,0,1
+33,26104,792,0,1
+34,26104,816,0,1
+35,26104,840,0,1
+36,26104,864,0,1
+37,26104,888,0,1
+38,26104,912,0,1
+39,26104,936,0,1
+40,26104,960,0,1
+41,26104,984,0,1
+42,26104,1008,0,1
+43,26104,1032,0,1
+44,26104,1056,0,1
+45,26104,1080,0,1
+46,26104,1104,0,1
+47,26104,1128,0,1
+48,26104,1152,0,1
+49,26104,1176,0,1
+50,26104,1200,0,1
+51,26104,1224,0,1
+52,26104,1248,0,1
+53,26104,1272,0,1
+54,26104,1296,0,1
+55,26104,1320,0,1
+56,26104,1344,0,1
+57,26104,1368,0,1
+58,26104,1392,0,1
+59,26104,1416,0,1
+60,26104,1440,0,1
+61,26104,1464,0,1
+62,26104,1488,0,1
+63,26104,1512,0,1
+64,26104,1536,1,0
+65,26104,1560,0,1
+66,26104,1584,0,1
+67,26104,1608,0,1
+68,26104,1632,1,0
+69,26104,1656,1,0
+70,26104,1680,0,1
+71,26104,1704,0,1
+72,26104,1728,1,0
+73,26104,1752,1,0
+74,26104,1776,1,0
+75,26104,1800,1,0
+76,26104,1824,1,0
+77,26104,1848,1,0
+78,26104,1872,1,0
+79,26104,1896,1,0
+80,26104,1920,0,1
+81,26104,1944,0,1
+82,26104,1968,0,1
+83,26104,1992,0,1
+84,26104,2016,0,1
+85,26104,2040,0,1
+86,26104,2064,0,1
+87,26104,2088,0,1
+88,26104,2112,0,1
+89,26104,2136,0,1
+90,26104,2160,0,1
+91,26104,2184,0,1
+92,26104,2208,0,1
+93,26104,2232,0,1
+94,26104,2256,0,1
+95,26104,2280,0,1
+96,26104,2304,0,1
+97,26104,2328,0,1
+98,26104,2352,0,1
+99,26104,2376,0,1
+100,26104,2400,0,1
+101,26104,2424,0,1
+102,26104,2448,0,1
+103,26104,2472,0,1
+104,26104,2496,0,1
+105,26104,2520,0,1
+106,26104,2544,0,1
+107,26104,2568,0,1
+108,26104,2592,0,1
+109,26104,2616,0,1
+110,26104,2640,0,1
+111,26104,2664,0,1
+112,26104,2688,0,1
+113,26104,2712,0,1
+114,26104,2736,0,1
+115,26104,2760,0,1
+116,26104,2784,0,1
+117,26104,2808,0,1
+118,26104,2832,0,1
+119,26104,2856,0,1
+120,26104,2880,0,1
+121,26104,2904,0,1
+122,26104,2928,0,1
+123,26104,2952,0,1
+124,26104,2976,0,1
+125,26104,3000,0,1
+126,26104,3024,0,1
+127,26104,3048,0,1
+128,26104,3072,0,1
+129,26104,3096,0,1
+130,26104,3120,0,1
+131,26104,3144,0,1
+132,26104,3168,0,1
+133,26104,3192,0,1
+134,26104,3216,0,1
+135,26104,3240,0,1
+136,26104,3264,0,1
+137,26104,3288,0,1
+138,26104,3312,0,1
+139,26104,3336,0,1
+140,26104,3360,0,1
+141,26104,3384,1,0
+142,26104,3408,0,1
+143,26104,3432,0,1
+144,26104,3456,0,1
+145,26104,3480,0,1
+146,26104,3504,0,1
+147,26104,3528,0,1
+148,26104,3552,0,1
+149,26104,3576,0,1
+150,26104,3600,0,1
+151,26104,3624,0,1
+152,26104,3648,0,1
+153,26104,3672,0,1
+154,26104,3696,0,1
+155,26104,3720,0,1
+156,26104,3744,0,1
+157,26104,3768,0,1
+158,26104,3792,0,1
+159,26104,3816,0,1
+160,26104,3840,0,1
+161,26104,3864,0,1
+162,26104,3888,0,1
+163,26104,3912,0,1
+164,26104,3936,0,1
+165,26104,3960,0,1
+166,26104,3984,0,1
+167,26104,4008,0,1
+168,26104,4032,0,1
+169,26104,4056,0,1
+170,26104,4080,0,1
+171,26104,4104,0,1
+172,26104,4128,0,1
+173,26104,4152,0,1
+174,26104,4176,0,1
+175,26104,4200,0,1
+176,26104,4224,0,1
+177,26104,4248,0,1
+178,26104,4272,0,1
+179,26104,4296,0,1
+180,26104,4320,0,1
+181,26104,4344,0,1
+182,26104,4368,0,1
+183,26104,4392,0,1
+184,26104,4416,0,1
+185,26104,4440,0,1
+186,26104,4464,0,1
+187,26104,4488,0,1
+188,26104,4512,0,1
+189,26104,4536,0,1
+190,26104,4560,0,1
+191,26104,4584,0,1
+192,26104,4608,0,1
+193,26104,4632,0,1
+194,26104,4656,0,1
+195,26104,4680,0,1
+196,26104,4704,0,1
+197,26104,4728,0,1
+198,26104,4752,0,1
+199,26104,4776,0,1
+200,26104,4800,0,1
+201,26104,4824,0,1
+202,26104,4848,0,1
+203,26104,4872,0,1
+204,26104,4896,0,1
+205,26104,4920,0,1
+206,26104,4944,0,1
+207,26104,4968,0,1
+208,26104,4992,0,1
+209,26104,5016,0,1
+210,26104,5040,0,1
+211,26104,5064,0,1
+212,26104,5088,0,1
+213,26104,5112,0,1
+214,26104,5136,0,1
+215,26104,5160,0,1
+216,26104,5184,0,1
+217,26104,5208,0,1
+218,26104,5232,0,1
+219,26104,5256,0,1
+220,26104,5280,0,1
+221,26104,5304,0,1
+222,26104,5328,0,1
+223,26104,5352,0,1
+224,26104,5376,0,1
+225,26104,5400,0,1
+226,26104,5424,0,1
+227,26104,5448,0,1
+228,26104,5472,0,1
+229,26104,5496,0,1
+230,26104,5520,0,1
+231,26104,5544,0,1
+232,26104,5568,0,1
+233,26104,5592,0,1
+234,26104,5616,0,1
+235,26104,5640,0,1
+236,26104,5664,0,1
+237,26104,5688,0,1
+238,26104,5712,0,1
+239,26104,5736,0,1
+240,26104,5760,0,1
+241,26104,5784,0,1
+242,26104,5808,0,1
+243,26104,5832,0,1
+244,26104,5856,0,1
+245,26104,5880,0,1
+246,26104,5904,0,1
+247,26104,5928,0,1
+248,26104,5952,0,1
+249,26104,5976,0,1
+250,26104,6000,0,1
+251,26104,6024,0,1
+252,26104,6048,0,1
+253,26104,6072,0,1
+254,26104,6096,0,1
+255,26104,6120,0,1
+256,26104,6144,0,1
+257,26104,6168,0,1
+258,26104,6192,0,1
+259,26104,6216,0,1
+260,26104,6240,0,1
+261,26104,6264,0,1
+262,26104,6288,0,1
+263,26104,6312,0,1
+264,26104,6336,0,1
+265,26104,6360,0,1
+266,26104,6384,0,1
+267,26104,6408,0,1
+268,26104,6432,0,1
+269,26104,6456,0,1
+270,26104,6480,0,1
+271,26104,6504,0,1
+272,26104,6528,0,1
+273,26104,6552,0,1
+274,26104,6576,0,1
+275,26104,6600,0,1
+276,26104,6624,0,1
+277,26104,6648,0,1
+278,26104,6672,0,1
+279,26104,6696,0,1
+280,26104,6720,0,1
+281,26104,6744,0,1
+282,26104,6768,0,1
+283,26104,6792,0,1
+284,26104,6816,0,1
+285,26104,6840,0,1
+286,26104,6864,0,1
+287,26104,6888,0,1
+288,26104,6912,0,1
+289,26104,6936,0,1
+290,26104,6960,0,1
+291,26104,6984,0,1
+292,26104,7008,0,1
+293,26104,7032,0,1
+294,26104,7056,0,1
+295,26104,7080,0,1
+296,26104,7104,0,1
+297,26104,7128,0,1
+298,26104,7152,0,1
+299,26104,7176,0,1
+300,26104,7200,0,1
+301,26104,7224,0,1
+302,26104,7248,0,1
+303,26104,7272,0,1
+304,26104,7296,0,1
+305,26104,7320,0,1
+306,26104,7344,0,1
+307,26104,7368,0,1
+308,26104,7392,0,1
+309,26104,7416,0,1
+310,26104,7440,0,1
+311,26104,7464,0,1
+312,26104,7488,0,1
+313,26104,7512,0,1
+314,26104,7536,0,1
+315,26104,7560,0,1
+316,26104,7584,0,1
+317,26104,7608,0,1
+318,26104,7632,0,1
+319,26104,7656,0,1
+320,26104,7680,0,1
+321,26104,7704,0,1
+322,26104,7728,0,1
+323,26104,7752,0,1
+324,26104,7776,0,1
+325,26104,7800,0,1
+326,26104,7824,0,1
+327,26104,7848,0,1
+328,26104,7872,0,1
+329,26104,7896,0,1
+330,26104,7920,0,1
+331,26104,7944,0,1
+332,26104,7968,0,1
+333,26104,7992,0,1
+334,26104,8016,0,1
+335,26104,8040,0,1
+336,26104,8064,0,1
+337,26104,8088,0,1
+338,26104,8112,0,1
+339,26104,8136,0,1
+340,26104,8160,0,1
+341,26104,8184,0,1
+342,26104,8208,0,1
+343,26104,8232,0,1
+344,26104,8256,0,1
+345,26104,8280,0,1
+346,26104,8304,0,1
+347,26104,8328,0,1
+348,26104,8352,0,1
+349,26104,8376,0,1
+350,26104,8400,0,1
+351,26104,8424,0,1
+352,26104,8448,0,1
+353,26104,8472,0,1
+354,26104,8496,0,1
+355,26104,8520,0,1
+356,26104,8544,0,1
+357,26104,8568,0,1
+358,26104,8592,0,1
+359,26104,8616,0,1
+360,26104,8640,0,1
+361,26104,8664,0,1
+362,26104,8688,0,1
+363,26104,8712,0,1
+364,26104,8736,0,1
+365,26104,8760,0,1
+366,26104,8784,0,1
+367,26104,8808,0,1
+368,26104,8832,0,1
+369,26104,8856,0,1
+370,26104,8880,0,1
+371,26104,8904,0,1
+372,26104,8928,0,1
+373,26104,8952,0,1
+374,26104,8976,0,1
+375,26104,9000,0,1
+376,26104,9024,0,1
+377,26104,9048,0,1
+378,26104,9072,0,1
+379,26104,9096,0,1
+380,26104,9120,0,1
+381,26104,9144,0,1
+382,26104,9168,0,1
+383,26104,9192,0,1
+384,26104,9216,0,1
+385,26104,9240,0,1
+386,26104,9264,0,1
+387,26104,9288,0,1
+388,26104,9312,0,1
+389,26104,9336,0,1
+390,26104,9360,0,1
+391,26104,9384,0,1
+392,26104,9408,0,1
+393,26104,9432,0,1
+394,26104,9456,0,1
+395,26104,9480,0,1
+396,26104,9504,0,1
+397,26104,9528,0,1
+398,26104,9552,0,1
+399,26104,9576,0,1
+400,26104,9600,0,1
+401,26104,9624,0,1
+402,26104,9648,0,1
+403,26104,9672,0,1
+404,26104,9696,0,1
+405,26104,9720,0,1
+406,26104,9744,0,1
+407,26104,9768,0,1
+408,26104,9792,0,1
+409,26104,9816,0,1
+410,26104,9840,0,1
+411,26104,9864,0,1
+412,26104,9888,0,1
+413,26104,9912,0,1
+414,26104,9936,0,1
+415,26104,9960,0,1
+416,26104,9984,0,1
+417,26104,10008,0,1
+418,26104,10032,0,1
+419,26104,10056,0,1
+420,26104,10080,0,1
+421,26104,10104,0,1
+422,26104,10128,0,1
+423,26104,10152,0,1
+424,26104,10176,0,1
+425,26104,10200,0,1
+426,26104,10224,0,1
+427,26104,10248,0,1
+428,26104,10272,0,1
+429,26104,10296,0,1
+430,26104,10320,0,1
+431,26104,10344,0,1
+432,26104,10368,0,1
+433,26104,10392,0,1
+434,26104,10416,0,1
+435,26104,10440,0,1
+436,26104,10464,0,1
+437,26104,10488,0,1
+438,26104,10512,0,1
+439,26104,10536,0,1
+440,26104,10560,0,1
+441,26104,10584,0,1
+442,26104,10608,0,1
+443,26104,10632,0,1
+444,26104,10656,0,1
+445,26104,10680,0,1
+446,26104,10704,0,1
+447,26104,10728,0,1
+448,26104,10752,0,1
+449,26104,10776,0,1
+450,26104,10800,0,1
+451,26104,10824,0,1
+452,26104,10848,0,1
+453,26104,10872,0,1
+454,26104,10896,1,0
+455,26104,10920,1,0
+456,26104,10944,0,1
+457,26104,10968,0,1
+458,26104,10992,0,1
+459,26104,11016,0,1
+460,26104,11040,0,1
+461,26104,11064,0,1
+462,26104,11088,0,1
+463,26104,11112,0,1
+464,26104,11136,0,1
+465,26104,11160,0,1
+466,26104,11184,0,1
+467,26104,11208,0,1
+468,26104,11232,0,1
+469,26104,11256,0,1
+470,26104,11280,0,1
+471,26104,11304,0,1
+472,26104,11328,0,1
+473,26104,11352,0,1
+474,26104,11376,0,1
+475,26104,11400,0,1
+476,26104,11424,0,1
+477,26104,11448,0,1
+478,26104,11472,0,1
+479,26104,11496,0,1
+480,26104,11520,0,1
+481,26104,11544,0,1
+482,26104,11568,0,1
+483,26104,11592,0,1
+484,26104,11616,0,1
+485,26104,11640,0,1
+486,26104,11664,0,1
+487,26104,11688,0,1
+488,26104,11712,0,1
+489,26104,11736,0,1
+490,26104,11760,0,1
+491,26104,11784,0,1
+492,26104,11808,0,1
+493,26104,11832,0,1
+494,26104,11856,0,1
+495,26104,11880,0,1
+496,26104,11904,0,1
+497,26104,11928,0,1
+498,26104,11952,0,1
+499,26104,11976,0,1
+500,26104,12000,0,1
+501,26104,12024,0,1
+502,26104,12048,0,1
+503,26104,12072,0,1
+504,26104,12096,0,1
+505,26104,12120,0,1
+506,26104,12144,0,1
+507,26104,12168,0,1
+508,26104,12192,0,1
+509,26104,12216,0,1
+510,26104,12240,0,1
+511,26104,12264,0,1
+512,26104,12288,0,1
+513,26104,12312,0,1
+514,26104,12336,0,1
+515,26104,12360,0,1
+516,26104,12384,0,1
+517,26104,12408,0,1
+518,26104,12432,0,1
+519,26104,12456,0,1
+520,26104,12480,0,1
+521,26104,12504,0,1
+522,26104,12528,0,1
+523,26104,12552,0,1
+524,26104,12576,1,0
+525,26104,12600,0,1
+526,26104,12624,0,1
+527,26104,12648,0,1
+528,26104,12672,0,1
+529,26104,12696,0,1
+530,26104,12720,0,1
+531,26104,12744,0,1
+532,26104,12768,0,1
+533,26104,12792,0,1
+534,26104,12816,1,0
+535,26104,12840,0,1
+536,26104,12864,0,1
+537,26104,12888,0,1
+538,26104,12912,0,1
+539,26104,12936,0,1
+540,26104,12960,0,1
+541,26104,12984,0,1
+542,26104,13008,0,1
+543,26104,13032,0,1
+544,26104,13056,0,1
+545,26104,13080,0,1
+546,26104,13104,0,1
+547,26104,13128,0,1
+548,26104,13152,0,1
+549,26104,13176,0,1
+550,26104,13200,0,1
+551,26104,13224,0,1
+552,26104,13248,0,1
+553,26104,13272,0,1
+554,26104,13296,0,1
+555,26104,13320,0,1
+556,26104,13344,0,1
+557,26104,13368,0,1
+558,26104,13392,0,1
+559,26104,13416,0,1
+560,26104,13440,0,1
+561,26104,13464,0,1
+562,26104,13488,0,1
+563,26104,13512,0,1
+564,26104,13536,0,1
+565,26104,13560,0,1
+566,26104,13584,0,1
+567,26104,13608,0,1
+568,26104,13632,0,1
+569,26104,13656,0,1
+570,26104,13680,0,1
+571,26104,13704,0,1
+572,26104,13728,0,1
+573,26104,13752,0,1
+574,26104,13776,0,1
+575,26104,13800,0,1
+576,26104,13824,0,1
+577,26104,13848,0,1
+578,26104,13872,0,1
+579,26104,13896,0,1
+580,26104,13920,0,1
+581,26104,13944,0,1
+582,26104,13968,0,1
+583,26104,13992,0,1
+584,26104,14016,0,1
+585,26104,14040,0,1
+586,26104,14064,0,1
+587,26104,14088,0,1
+588,26104,14112,0,1
+589,26104,14136,0,1
+590,26104,14160,0,1
+591,26104,14184,0,1
+592,26104,14208,0,1
+593,26104,14232,0,1
+594,26104,14256,0,1
+595,26104,14280,0,1
+596,26104,14304,0,1
+597,26104,14328,0,1
+598,26104,14352,0,1
+599,26104,14376,0,1
+600,26104,14400,0,1
+601,26104,14424,0,1
+602,26104,14448,0,1
+603,26104,14472,0,1
+604,26104,14496,0,1
+605,26104,14520,0,1
+606,26104,14544,0,1
+607,26104,14568,0,1
+608,26104,14592,0,1
+609,26104,14616,0,1
+610,26104,14640,0,1
+611,26104,14664,0,1
+612,26104,14688,0,1
+613,26104,14712,0,1
+614,26104,14736,0,1
+615,26104,14760,0,1
+616,26104,14784,0,1
+617,26104,14808,0,1
+618,26104,14832,0,1
+619,26104,14856,0,1
+620,26104,14880,1,0
+621,26104,14904,1,0
+622,26104,14928,0,1
+623,26104,14952,0,1
+624,26104,14976,0,1
+625,26104,15000,0,1
+626,26104,15024,0,1

@@ -1,1572 +1,1572 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh",52138
-1,24,outdoor,"wind_farm, tower, mosque/outdoor, windmill, industrial_area",52138
-2,48,outdoor,"wind_farm, mosque/outdoor, tower, industrial_area, windmill",52138
-3,72,outdoor,"wind_farm, tower, mosque/outdoor, windmill, industrial_area",52138
-4,96,outdoor,"wind_farm, mosque/outdoor, tower, windmill, industrial_area",52138
-5,120,outdoor,"wind_farm, mosque/outdoor, tower, windmill, bridge",52138
-6,144,outdoor,"wind_farm, tower, mosque/outdoor, industrial_area, windmill",52138
-7,168,outdoor,"wind_farm, tower, mosque/outdoor, windmill, bridge",52138
-8,192,outdoor,"wind_farm, tower, mosque/outdoor, industrial_area, windmill",52138
-9,216,outdoor,"wind_farm, tower, mosque/outdoor, industrial_area, bridge",52138
-10,240,outdoor,"wind_farm, tower, mosque/outdoor, windmill, bridge",52138
-11,264,outdoor,"wind_farm, tower, mosque/outdoor, windmill, industrial_area",52138
-12,288,outdoor,"valley, desert/sand, mountain_snowy, snowfield, mountain",52138
-13,312,outdoor,"valley, mountain, mountain_snowy, desert/vegetation, snowfield",52138
-14,336,outdoor,"desert_road, desert/sand, desert/vegetation, mountain, valley",52138
-15,360,outdoor,"desert/sand, valley, mountain, desert/vegetation, desert_road",52138
-16,384,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",52138
-17,408,outdoor,"mountain, desert/vegetation, valley, desert/sand, mountain_path",52138
-18,432,outdoor,"desert/sand, desert/vegetation, canyon, mountain, volcano",52138
-19,456,outdoor,"desert/vegetation, desert/sand, mountain, valley, mountain_path",52138
-20,480,outdoor,"ice_floe, mosque/outdoor, museum/outdoor, desert/vegetation, ice_shelf",52138
-21,504,outdoor,"ice_floe, mosque/outdoor, mountain_snowy, ice_shelf, desert/vegetation",52138
-22,528,outdoor,"mosque/outdoor, ice_floe, museum/outdoor, mountain_snowy, ice_shelf",52138
-23,552,outdoor,"mosque/outdoor, ice_floe, desert/vegetation, mountain_snowy, ice_shelf",52138
-24,576,outdoor,"mosque/outdoor, ice_floe, mountain_snowy, museum/outdoor, desert/vegetation",52138
-25,600,outdoor,"mosque/outdoor, museum/outdoor, ice_floe, mountain_snowy, tower",52138
-26,624,outdoor,"mosque/outdoor, desert/vegetation, museum/outdoor, ice_floe, mountain_snowy",52138
-27,648,outdoor,"wind_farm, desert/vegetation, windmill, desert_road, desert/sand",52138
-28,672,outdoor,"desert/vegetation, wind_farm, desert_road, valley, mountain_path",52138
-29,696,outdoor,"desert/vegetation, wind_farm, desert_road, valley, desert/sand",52138
-30,720,outdoor,"wind_farm, desert/vegetation, windmill, desert_road, valley",52138
-31,744,outdoor,"wind_farm, desert/vegetation, desert_road, windmill, valley",52138
-32,768,outdoor,"desert/vegetation, wind_farm, desert/sand, desert_road, mountain_path",52138
-33,792,outdoor,"desert/vegetation, wind_farm, mountain, valley, mountain_path",52138
-34,816,outdoor,"desert/vegetation, wind_farm, mountain_path, mountain, desert/sand",52138
-35,840,outdoor,"wind_farm, windmill, pasture, hayfield, badlands",52138
-36,864,outdoor,"wind_farm, corral, badlands, pasture, hayfield",52138
-37,888,outdoor,"corral, volleyball_court/outdoor, pasture, wind_farm, hayfield",52138
-38,912,outdoor,"corral, pasture, hayfield, field/wild, badlands",52138
-39,936,outdoor,"corral, pasture, hayfield, field/wild, badlands",52138
-40,960,outdoor,"tower, mosque/outdoor, wind_farm, ruin, bridge",52138
-41,984,outdoor,"tower, mosque/outdoor, wind_farm, ruin, cemetery",52138
-42,1008,outdoor,"tower, mosque/outdoor, wind_farm, ruin, cemetery",52138
-43,1032,outdoor,"tower, wind_farm, mosque/outdoor, ruin, industrial_area",52138
-44,1056,outdoor,"tower, wind_farm, balcony/interior, lighthouse, water_tower",52138
-45,1080,outdoor,"wind_farm, balcony/interior, windmill, desert/vegetation, beach_house",52138
-46,1104,outdoor,"wind_farm, tower, mosque/outdoor, industrial_area, bridge",52138
-47,1128,outdoor,"tower, bridge, wind_farm, mosque/outdoor, industrial_area",52138
-48,1152,outdoor,"wind_farm, windmill, sky, water_tower, tower",52138
-49,1176,outdoor,"wind_farm, windmill, water_tower, sky, tower",52138
-50,1200,outdoor,"wind_farm, windmill, sky, water_tower, tower",52138
-51,1224,indoor,"mezzanine, volleyball_court/outdoor, shower, jacuzzi/indoor, staircase",52138
-52,1248,indoor,"mezzanine, volleyball_court/outdoor, staircase, jacuzzi/indoor, shower",52138
-53,1272,indoor,"volleyball_court/outdoor, mezzanine, shower, boxing_ring, boat_deck",52138
-54,1296,indoor,"volleyball_court/outdoor, mezzanine, jacuzzi/indoor, youth_hostel, shower",52138
-55,1320,indoor,"volleyball_court/outdoor, mezzanine, jacuzzi/indoor, shower, boat_deck",52138
-56,1344,indoor,"stage/outdoor, stage/indoor, martial_arts_gym, arena/performance, discotheque",52138
-57,1368,outdoor,"stage/outdoor, stage/indoor, arena/performance, wind_farm, army_base",52138
-58,1392,outdoor,"stage/outdoor, ocean, lighthouse, boat_deck, oilrig",52138
-59,1416,outdoor,"stage/indoor, stage/outdoor, igloo, discotheque, ice_shelf",52138
-60,1440,indoor,"stage/outdoor, stage/indoor, discotheque, television_studio, igloo",52138
-61,1464,outdoor,"lighthouse, wind_farm, sky, tower, stage/outdoor",52138
-62,1488,outdoor,"corral, desert/vegetation, canyon, pasture, wind_farm",52138
-63,1512,outdoor,"corral, canyon, pasture, desert/vegetation, volleyball_court/outdoor",52138
-64,1536,outdoor,"corral, volleyball_court/outdoor, pasture, wind_farm, canyon",52138
-65,1560,outdoor,"corral, wind_farm, desert/vegetation, pasture, canyon",52138
-66,1584,outdoor,"corral, desert/vegetation, wind_farm, pasture, canyon",52138
-67,1608,outdoor,"wind_farm, corral, pasture, desert/vegetation, windmill",52138
-68,1632,outdoor,"wind_farm, windmill, tower, water_tower, sky",52138
-69,1656,outdoor,"wind_farm, windmill, tower, water_tower, mosque/outdoor",52138
-70,1680,outdoor,"wind_farm, windmill, tower, water_tower, mosque/outdoor",52138
-71,1704,indoor,"museum/indoor, volleyball_court/outdoor, boxing_ring, martial_arts_gym, arena/performance",52138
-72,1728,indoor,"volleyball_court/outdoor, museum/indoor, boxing_ring, martial_arts_gym, arena/performance",52138
-73,1752,indoor,"museum/indoor, volleyball_court/outdoor, boxing_ring, martial_arts_gym, television_studio",52138
-74,1776,indoor,"museum/indoor, conference_center, volleyball_court/outdoor, boxing_ring, martial_arts_gym",52138
-75,1800,indoor,"museum/indoor, television_studio, volleyball_court/outdoor, conference_center, boxing_ring",52138
-76,1824,indoor,"museum/indoor, science_museum, boxing_ring, martial_arts_gym, stage/indoor",52138
-77,1848,indoor,"playroom, nursery, museum/indoor, toyshop, gift_shop",52138
-78,1872,indoor,"boxing_ring, martial_arts_gym, volleyball_court/outdoor, museum/indoor, toyshop",52138
-79,1896,indoor,"boxing_ring, museum/indoor, martial_arts_gym, volleyball_court/outdoor, science_museum",52138
-80,1920,outdoor,"volleyball_court/outdoor, rope_bridge, museum/indoor, boxing_ring, boat_deck",52138
-81,1944,outdoor,"volleyball_court/outdoor, ice_shelf, boat_deck, wind_farm, construction_site",52138
-82,1968,outdoor,"volleyball_court/outdoor, boat_deck, rope_bridge, lighthouse, amusement_park",52138
-83,1992,outdoor,"volleyball_court/outdoor, wind_farm, construction_site, clean_room, windmill",52138
-84,2016,outdoor,"clean_room, rope_bridge, volleyball_court/outdoor, boat_deck, construction_site",52138
-85,2040,outdoor,"volleyball_court/outdoor, shower, hospital, sky, clean_room",52138
-86,2064,indoor,"discotheque, lobby, science_museum, restaurant, ballroom",52138
-87,2088,indoor,"restaurant, bathroom, shoe_shop, conference_room, dining_room",52138
-88,2112,indoor,"car_interior, airplane_cabin, living_room, restaurant, lobby",52138
-89,2136,indoor,"bathroom, restaurant, car_interior, dining_room, airplane_cabin",52138
-90,2160,indoor,"jewelry_shop, restaurant, science_museum, bathroom, lobby",52138
-91,2184,indoor,"restaurant, science_museum, bathroom, dining_room, sushi_bar",52138
-92,2208,indoor,"restaurant, dining_room, bathroom, coffee_shop, science_museum",52138
-93,2232,indoor,"bathroom, shower, car_interior, restaurant, discotheque",52138
-94,2256,indoor,"restaurant, airplane_cabin, conference_room, dining_room, living_room",52138
-95,2280,indoor,"airplane_cabin, living_room, car_interior, bathroom, beauty_salon",52138
-96,2304,outdoor,"shower, wind_farm, volleyball_court/outdoor, sky, bridge",52138
-97,2328,outdoor,"wind_farm, shower, bridge, sky, volleyball_court/outdoor",52138
-98,2352,outdoor,"shower, wind_farm, volleyball_court/outdoor, bridge, sky",52138
-99,2376,outdoor,"wind_farm, shower, bridge, sky, arch",52138
-100,2400,indoor,"airplane_cabin, ballroom, natural_history_museum, discotheque, shower",52138
-101,2424,indoor,"airplane_cabin, natural_history_museum, laundromat, restaurant, discotheque",52138
-102,2448,indoor,"airplane_cabin, discotheque, natural_history_museum, ballroom, beer_hall",52138
-103,2472,indoor,"airplane_cabin, natural_history_museum, train_interior, bus_interior, operating_room",52138
-104,2496,indoor,"airplane_cabin, natural_history_museum, atrium/public, train_interior, ballroom",52138
-105,2520,indoor,"airplane_cabin, train_interior, bus_interior, natural_history_museum, clothing_store",52138
-106,2544,indoor,"stage/indoor, bowling_alley, motel, boxing_ring, discotheque",52138
-107,2568,indoor,"bowling_alley, music_studio, stage/indoor, boxing_ring, bookstore",52138
-108,2592,indoor,"childs_room, stage/indoor, music_studio, discotheque, bowling_alley",52138
-109,2616,indoor,"laundromat, shoe_shop, childs_room, bowling_alley, motel",52138
-110,2640,indoor,"boat_deck, stage/indoor, shoe_shop, music_studio, discotheque",52138
-111,2664,indoor,"jacuzzi/indoor, shower, swimming_pool/indoor, bathroom, hotel_room",52138
-112,2688,indoor,"jacuzzi/indoor, car_interior, shower, airplane_cabin, bedroom",52138
-113,2712,indoor,"jacuzzi/indoor, shower, swimming_pool/indoor, hotel_room, bedroom",52138
-114,2736,indoor,"jacuzzi/indoor, shower, airplane_cabin, swimming_pool/indoor, gymnasium/indoor",52138
-115,2760,indoor,"jacuzzi/indoor, swimming_pool/indoor, airplane_cabin, shower, gymnasium/indoor",52138
-116,2784,indoor,"airplane_cabin, laundromat, jacuzzi/indoor, bathroom, aquarium",52138
-117,2808,indoor,"bank_vault, bathroom, staircase, laundromat, shower",52138
-118,2832,indoor,"natural_history_museum, science_museum, museum/indoor, art_gallery, shoe_shop",52138
-119,2856,indoor,"natural_history_museum, science_museum, art_gallery, ice_cream_parlor, laundromat",52138
-120,2880,indoor,"airplane_cabin, science_museum, natural_history_museum, discotheque, museum/indoor",52138
-121,2904,indoor,"airplane_cabin, science_museum, natural_history_museum, discotheque, museum/indoor",52138
-122,2928,indoor,"science_museum, natural_history_museum, discotheque, music_studio, aquarium",52138
-123,2952,indoor,"science_museum, natural_history_museum, discotheque, aquarium, music_studio",52138
-124,2976,indoor,"chemistry_lab, ice_cream_parlor, science_museum, bakery/shop, natural_history_museum",52138
-125,3000,indoor,"ice_cream_parlor, science_museum, chemistry_lab, bakery/shop, airplane_cabin",52138
-126,3024,indoor,"ice_cream_parlor, science_museum, chemistry_lab, natural_history_museum, aquarium",52138
-127,3048,indoor,"science_museum, bakery/shop, coffee_shop, ice_cream_parlor, beauty_salon",52138
-128,3072,indoor,"aquarium, underwater/ocean_deep, hospital_room, operating_room, nursery",52138
-129,3096,indoor,"aquarium, underwater/ocean_deep, bakery/shop, nursery, science_museum",52138
-130,3120,indoor,"laundromat, utility_room, bathroom, clean_room, airplane_cabin",52138
-131,3144,indoor,"laundromat, utility_room, airplane_cabin, bathroom, jewelry_shop",52138
-132,3168,outdoor,"bow_window/indoor, airport_terminal, balcony/interior, boat_deck, ocean",52138
-133,3192,outdoor,"bow_window/indoor, airport_terminal, balcony/interior, mosque/outdoor, boat_deck",52138
-134,3216,outdoor,"bow_window/indoor, balcony/interior, airport_terminal, mosque/outdoor, boat_deck",52138
-135,3240,indoor,"bow_window/indoor, airport_terminal, balcony/interior, mosque/outdoor, museum/indoor",52138
-136,3264,outdoor,"bow_window/indoor, airport_terminal, balcony/interior, mosque/outdoor, boat_deck",52138
-137,3288,outdoor,"bow_window/indoor, airport_terminal, balcony/interior, mosque/outdoor, boat_deck",52138
-138,3312,indoor,"laundromat, utility_room, coffee_shop, beauty_salon, clean_room",52138
-139,3336,indoor,"laundromat, utility_room, beauty_salon, clean_room, coffee_shop",52138
-140,3360,indoor,"laundromat, beauty_salon, utility_room, clean_room, coffee_shop",52138
-141,3384,indoor,"utility_room, laundromat, jewelry_shop, bathroom, art_gallery",52138
-142,3408,indoor,"bedroom, ice_floe, childs_room, desert/sand, clean_room",52138
-143,3432,indoor,"nursery, clean_room, ice_floe, living_room, bedroom",52138
-144,3456,indoor,"clean_room, nursery, desert/sand, ice_floe, staircase",52138
-145,3480,indoor,"clean_room, nursery, desert/sand, childs_room, living_room",52138
-146,3504,indoor,"clean_room, living_room, nursery, staircase, childs_room",52138
-147,3528,indoor,"clean_room, nursery, childs_room, landfill, repair_shop",52138
-148,3552,outdoor,"wind_farm, windmill, desert/vegetation, mosque/outdoor, tower",52138
-149,3576,outdoor,"wind_farm, windmill, mosque/outdoor, desert/vegetation, tower",52138
-150,3600,outdoor,"wind_farm, windmill, mosque/outdoor, desert/vegetation, tower",52138
-151,3624,outdoor,"wind_farm, windmill, mosque/outdoor, desert/vegetation, tower",52138
-152,3648,outdoor,"wind_farm, windmill, mosque/outdoor, desert/vegetation, tower",52138
-153,3672,outdoor,"wind_farm, windmill, mosque/outdoor, desert/vegetation, tower",52138
-154,3696,outdoor,"mountain_path, rope_bridge, valley, volleyball_court/outdoor, cliff",52138
-155,3720,outdoor,"mountain_path, rope_bridge, volleyball_court/outdoor, desert/vegetation, valley",52138
-156,3744,outdoor,"mountain_path, rope_bridge, volleyball_court/outdoor, desert/vegetation, mountain",52138
-157,3768,outdoor,"mountain_path, rope_bridge, desert/vegetation, mountain, valley",52138
-158,3792,outdoor,"mountain_path, rope_bridge, desert/vegetation, mountain, valley",52138
-159,3816,outdoor,"mountain_path, desert/vegetation, wind_farm, rope_bridge, valley",52138
-160,3840,outdoor,"windmill, wind_farm, mosque/outdoor, tower, lighthouse",52138
-161,3864,outdoor,"wind_farm, windmill, mosque/outdoor, tower, lighthouse",52138
-162,3888,outdoor,"wind_farm, windmill, mosque/outdoor, oilrig, water_tower",52138
-163,3912,outdoor,"windmill, wind_farm, mosque/outdoor, oilrig, lighthouse",52138
-164,3936,outdoor,"windmill, mosque/outdoor, wind_farm, oilrig, lighthouse",52138
-165,3960,outdoor,"windmill, wind_farm, mosque/outdoor, oilrig, lighthouse",52138
-166,3984,outdoor,"windmill, wind_farm, oilrig, mosque/outdoor, lighthouse",52138
-167,4008,outdoor,"butte, desert/vegetation, wind_farm, valley, mountain",52138
-168,4032,outdoor,"wind_farm, butte, desert/vegetation, valley, tower",52138
-169,4056,outdoor,"butte, desert/vegetation, valley, mountain, wind_farm",52138
-170,4080,outdoor,"butte, desert/vegetation, valley, mountain, wind_farm",52138
-171,4104,outdoor,"butte, valley, desert/vegetation, mountain, wind_farm",52138
-172,4128,outdoor,"butte, valley, desert/vegetation, mountain, wind_farm",52138
-173,4152,outdoor,"butte, valley, mountain, desert/vegetation, wind_farm",52138
-174,4176,outdoor,"butte, desert/vegetation, valley, mountain, wind_farm",52138
-175,4200,indoor,"bow_window/indoor, airport_terminal, balcony/interior, artists_loft, jacuzzi/indoor",52138
-176,4224,indoor,"bow_window/indoor, airport_terminal, balcony/interior, office, conference_room",52138
-177,4248,indoor,"bow_window/indoor, airport_terminal, balcony/interior, office, boat_deck",52138
-178,4272,indoor,"bow_window/indoor, balcony/interior, airport_terminal, jacuzzi/indoor, office",52138
-179,4296,indoor,"bow_window/indoor, balcony/interior, airport_terminal, ocean, office",52138
-180,4320,indoor,"hospital_room, airplane_cabin, hotel_room, beauty_salon, operating_room",52138
-181,4344,indoor,"airplane_cabin, beauty_salon, home_office, coffee_shop, office",52138
-182,4368,indoor,"hospital_room, operating_room, hotel_room, beauty_salon, airplane_cabin",52138
-183,4392,indoor,"hospital_room, operating_room, hotel_room, beauty_salon, airplane_cabin",52138
-184,4416,indoor,"reception, atrium/public, lobby, entrance_hall, shopping_mall/indoor",52138
-185,4440,indoor,"reception, gymnasium/indoor, lobby, bow_window/indoor, recreation_room",52138
-186,4464,indoor,"gymnasium/indoor, lobby, reception, entrance_hall, recreation_room",52138
-187,4488,indoor,"entrance_hall, gymnasium/indoor, bow_window/indoor, elevator_lobby, lobby",52138
-188,4512,indoor,"entrance_hall, gymnasium/indoor, airport_terminal, atrium/public, lobby",52138
-189,4536,indoor,"entrance_hall, bow_window/indoor, elevator_lobby, lobby, atrium/public",52138
-190,4560,indoor,"entrance_hall, lobby, atrium/public, elevator_lobby, bow_window/indoor",52138
-191,4584,indoor,"entrance_hall, swimming_pool/indoor, lobby, bow_window/indoor, elevator_lobby",52138
-192,4608,outdoor,"wind_farm, water_tower, sky, tower, windmill",52138
-193,4632,outdoor,"water_tower, sky, wind_farm, tower, amusement_park",52138
-194,4656,outdoor,"water_tower, sky, wind_farm, tower, amusement_park",52138
-195,4680,outdoor,"water_tower, sky, wind_farm, tower, windmill",52138
-196,4704,outdoor,"corral, wind_farm, army_base, archaelogical_excavation, trench",52138
-197,4728,outdoor,"wind_farm, rope_bridge, trench, corral, badlands",52138
-198,4752,outdoor,"wind_farm, volleyball_court/outdoor, rope_bridge, desert/vegetation, corral",52138
-199,4776,outdoor,"volleyball_court/outdoor, rope_bridge, corral, wind_farm, trench",52138
-200,4800,outdoor,"volleyball_court/outdoor, corral, desert/sand, wind_farm, coast",52138
-201,4824,outdoor,"volleyball_court/outdoor, corral, soccer_field, army_base, rope_bridge",52138
-202,4848,outdoor,"army_base, volleyball_court/outdoor, corral, badlands, field/wild",52138
-203,4872,indoor,"television_studio, conference_center, army_base, boat_deck, stage/indoor",52138
-204,4896,indoor,"volleyball_court/outdoor, boxing_ring, television_studio, martial_arts_gym, conference_center",52138
-205,4920,indoor,"television_studio, volleyball_court/outdoor, martial_arts_gym, conference_center, wind_farm",52138
-206,4944,indoor,"television_studio, stage/indoor, arena/performance, conference_center, boxing_ring",52138
-207,4968,outdoor,"windmill, wind_farm, boat_deck, rope_bridge, amusement_park",52138
-208,4992,outdoor,"wind_farm, racecourse, windmill, volleyball_court/outdoor, stadium/football",52138
-209,5016,indoor,"conference_center, television_studio, conference_room, lecture_room, wind_farm",52138
-210,5040,outdoor,"racecourse, vineyard, wind_farm, conference_center, martial_arts_gym",52138
-211,5064,indoor,"conference_center, legislative_chamber, conference_room, stadium/football, racecourse",52138
-212,5088,indoor,"conference_center, legislative_chamber, television_studio, conference_room, army_base",52138
-213,5112,indoor,"conference_center, legislative_chamber, army_base, television_studio, conference_room",52138
-214,5136,indoor,"bow_window/indoor, elevator/door, balcony/interior, elevator_lobby, jail_cell",52138
-215,5160,indoor,"bow_window/indoor, elevator/door, balcony/interior, elevator_lobby, airport_terminal",52138
-216,5184,indoor,"bow_window/indoor, elevator/door, balcony/interior, elevator_lobby, jail_cell",52138
-217,5208,outdoor,"water_tower, wind_farm, shower, aquarium, underwater/ocean_deep",52138
-218,5232,outdoor,"water_tower, wind_farm, aquarium, underwater/ocean_deep, shower",52138
-219,5256,outdoor,"water_tower, wind_farm, aquarium, underwater/ocean_deep, shower",52138
-220,5280,outdoor,"water_tower, wind_farm, aquarium, underwater/ocean_deep, shower",52138
-221,5304,indoor,"science_museum, laundromat, natural_history_museum, airplane_cabin, bathroom",52138
-222,5328,indoor,"science_museum, natural_history_museum, laundromat, airplane_cabin, bathroom",52138
-223,5352,indoor,"science_museum, natural_history_museum, laundromat, shower, bathroom",52138
-224,5376,indoor,"science_museum, bathroom, laundromat, shower, natural_history_museum",52138
-225,5400,indoor,"science_museum, natural_history_museum, bakery/shop, ice_cream_parlor, beauty_salon",52138
-226,5424,indoor,"science_museum, airplane_cabin, beauty_salon, natural_history_museum, bakery/shop",52138
-227,5448,indoor,"science_museum, natural_history_museum, shoe_shop, museum/indoor, ice_cream_parlor",52138
-228,5472,indoor,"science_museum, natural_history_museum, ice_cream_parlor, bakery/shop, shoe_shop",52138
-229,5496,indoor,"science_museum, natural_history_museum, ice_cream_parlor, bakery/shop, museum/indoor",52138
-230,5520,indoor,"science_museum, natural_history_museum, ice_cream_parlor, bakery/shop, shoe_shop",52138
-231,5544,outdoor,"wind_farm, sky, bridge, windmill, mountain",52138
-232,5568,outdoor,"wind_farm, sky, windmill, mountain, desert/vegetation",52138
-233,5592,outdoor,"wind_farm, desert/vegetation, sky, desert/sand, mountain",52138
-234,5616,outdoor,"wind_farm, sky, desert/vegetation, desert/sand, mountain",52138
-235,5640,outdoor,"wind_farm, sky, windmill, mountain, desert/sand",52138
-236,5664,outdoor,"wind_farm, bridge, windmill, sky, mountain",52138
-237,5688,outdoor,"wind_farm, windmill, sky, bridge, desert/vegetation",52138
-238,5712,outdoor,"wind_farm, windmill, bridge, sky, desert/sand",52138
-239,5736,outdoor,"hot_spring, volcano, sky, mountain, waterfall",52138
-240,5760,outdoor,"hot_spring, volcano, sky, mountain, waterfall",52138
-241,5784,outdoor,"sky, wind_farm, tower, hot_spring, iceberg",52138
-242,5808,outdoor,"sky, volcano, wind_farm, ocean, hot_spring",52138
-243,5832,outdoor,"sky, lighthouse, wind_farm, volcano, ocean",52138
-244,5856,outdoor,"wind_farm, volcano, tundra, sky, mountain",52138
-245,5880,outdoor,"volcano, mountain, sky, hot_spring, tundra",52138
-246,5904,outdoor,"volcano, mountain, wind_farm, sky, hot_spring",52138
-247,5928,outdoor,"wind_farm, volcano, sky, mountain, windmill",52138
-248,5952,outdoor,"volcano, wind_farm, sky, landfill, mountain",52138
-249,5976,outdoor,"corral, wind_farm, pasture, vineyard, soccer_field",52138
-250,6000,outdoor,"volleyball_court/outdoor, soccer_field, rope_bridge, corral, vineyard",52138
-251,6024,outdoor,"corral, volleyball_court/outdoor, desert/vegetation, vineyard, pasture",52138
-252,6048,outdoor,"corral, pasture, desert/vegetation, field/wild, wind_farm",52138
-253,6072,outdoor,"corral, volleyball_court/outdoor, pasture, wind_farm, vineyard",52138
-254,6096,outdoor,"sky, wind_farm, wheat_field, field/wild, hot_spring",52138
-255,6120,outdoor,"sky, airfield, wind_farm, field/wild, wheat_field",52138
-256,6144,outdoor,"sky, airfield, wheat_field, field/wild, wind_farm",52138
-257,6168,outdoor,"sky, wheat_field, field/wild, wind_farm, corn_field",52138
-258,6192,outdoor,"sky, wheat_field, field/wild, corn_field, airfield",52138
-259,6216,outdoor,"ice_floe, ice_shelf, iceberg, sky, ocean",52138
-260,6240,outdoor,"ice_floe, ice_shelf, sky, iceberg, tower",52138
-261,6264,outdoor,"ice_floe, ice_shelf, sky, tower, snowfield",52138
-262,6288,outdoor,"ice_floe, snowfield, sky, ice_shelf, desert/sand",52138
-263,6312,outdoor,"ice_floe, desert/sand, ocean, snowfield, sky",52138
-264,6336,outdoor,"ice_floe, ocean, sky, snowfield, tower",52138
-265,6360,indoor,"natural_history_museum, science_museum, shoe_shop, airplane_cabin, beauty_salon",52138
-266,6384,indoor,"natural_history_museum, airplane_cabin, shoe_shop, science_museum, clothing_store",52138
-267,6408,indoor,"natural_history_museum, science_museum, airplane_cabin, shoe_shop, clothing_store",52138
-268,6432,indoor,"natural_history_museum, science_museum, shoe_shop, airplane_cabin, clothing_store",52138
-269,6456,indoor,"natural_history_museum, science_museum, shoe_shop, airplane_cabin, beauty_salon",52138
-270,6480,indoor,"natural_history_museum, science_museum, shoe_shop, clothing_store, beauty_salon",52138
-271,6504,indoor,"airplane_cabin, natural_history_museum, shoe_shop, beauty_salon, clean_room",52138
-272,6528,indoor,"discotheque, stage/indoor, science_museum, music_studio, sushi_bar",52138
-273,6552,indoor,"discotheque, stage/indoor, science_museum, music_studio, sushi_bar",52138
-274,6576,indoor,"discotheque, stage/indoor, science_museum, music_studio, sushi_bar",52138
-275,6600,indoor,"discotheque, stage/indoor, science_museum, music_studio, ballroom",52138
-276,6624,indoor,"discotheque, stage/indoor, science_museum, music_studio, sushi_bar",52138
-277,6648,outdoor,"sky, wind_farm, tower, lake/natural, wheat_field",52138
-278,6672,outdoor,"sky, wind_farm, tower, skyscraper, oast_house",52138
-279,6696,outdoor,"sky, wind_farm, tower, skyscraper, wheat_field",52138
-280,6720,outdoor,"sky, wind_farm, wheat_field, tower, skyscraper",52138
-281,6744,outdoor,"wind_farm, sky, wheat_field, tower, skyscraper",52138
-282,6768,outdoor,"wind_farm, sky, wheat_field, skyscraper, tower",52138
-283,6792,outdoor,"wind_farm, sky, wheat_field, tower, skyscraper",52138
-284,6816,outdoor,"wind_farm, sky, skyscraper, wheat_field, tower",52138
-285,6840,outdoor,"wind_farm, sky, tower, skyscraper, arch",52138
-286,6864,outdoor,"sky, wind_farm, wheat_field, windmill, marsh",52138
-287,6888,outdoor,"sky, wind_farm, windmill, desert/sand, marsh",52138
-288,6912,outdoor,"sky, wind_farm, lake/natural, desert/sand, marsh",52138
-289,6936,outdoor,"sky, wind_farm, wheat_field, field/wild, windmill",52138
-290,6960,outdoor,"sky, wind_farm, windmill, airfield, wheat_field",52138
-291,6984,outdoor,"sky, wind_farm, airfield, windmill, heliport",52138
-292,7008,outdoor,"sky, wind_farm, airfield, heliport, windmill",52138
-293,7032,outdoor,"sky, wind_farm, windmill, airfield, heliport",52138
-294,7056,outdoor,"sky, wind_farm, windmill, airfield, heliport",52138
-295,7080,outdoor,"sky, wind_farm, windmill, airfield, heliport",52138
-296,7104,outdoor,"wind_farm, sky, ice_floe, hot_spring, pond",52138
-297,7128,outdoor,"sky, wind_farm, hangar/indoor, airfield, desert/sand",52138
-298,7152,outdoor,"wind_farm, sky, hangar/indoor, airfield, desert/sand",52138
-299,7176,outdoor,"sky, wind_farm, hangar/indoor, airfield, tower",52138
-300,7200,outdoor,"sky, wind_farm, aquarium, hot_spring, windmill",52138
-301,7224,outdoor,"wind_farm, sky, ocean, windmill, desert/sand",52138
-302,7248,outdoor,"wind_farm, sky, lake/natural, desert/sand, windmill",52138
-303,7272,outdoor,"wind_farm, sky, lake/natural, desert/sand, ocean",52138
-304,7296,outdoor,"wind_farm, sky, windmill, desert/sand, lake/natural",52138
-305,7320,outdoor,"wind_farm, sky, windmill, desert/sand, elevator/door",52138
-306,7344,outdoor,"wind_farm, sky, windmill, desert/sand, wheat_field",52138
-307,7368,outdoor,"wind_farm, sky, windmill, tower, desert/sand",52138
-308,7392,outdoor,"wind_farm, sky, windmill, desert/sand, tower",52138
-309,7416,outdoor,"sky, wind_farm, windmill, desert/sand, tower",52138
-310,7440,indoor,"drugstore, coffee_shop, recreation_room, bowling_alley, pharmacy",52138
-311,7464,indoor,"recreation_room, drugstore, coffee_shop, laundromat, bowling_alley",52138
-312,7488,indoor,"recreation_room, coffee_shop, drugstore, laundromat, pizzeria",52138
-313,7512,indoor,"recreation_room, coffee_shop, laundromat, drugstore, bowling_alley",52138
-314,7536,indoor,"discotheque, arena/performance, stage/indoor, music_studio, bar",52138
-315,7560,indoor,"discotheque, arena/performance, stage/indoor, music_studio, bar",52138
-316,7584,indoor,"discotheque, arena/performance, stage/indoor, music_studio, escalator/indoor",52138
-317,7608,indoor,"discotheque, arena/performance, stage/indoor, music_studio, bar",52138
-318,7632,indoor,"discotheque, arena/performance, stage/indoor, music_studio, bar",52138
-319,7656,indoor,"arena/performance, stage/indoor, stage/outdoor, discotheque, music_studio",52138
-320,7680,indoor,"arena/performance, stage/outdoor, stage/indoor, discotheque, music_studio",52138
-321,7704,indoor,"arena/performance, stage/indoor, stage/outdoor, discotheque, music_studio",52138
-322,7728,indoor,"arena/performance, stage/indoor, discotheque, stage/outdoor, music_studio",52138
-323,7752,indoor,"drugstore, coffee_shop, recreation_room, pharmacy, laundromat",52138
-324,7776,indoor,"coffee_shop, drugstore, pharmacy, laundromat, beauty_salon",52138
-325,7800,indoor,"coffee_shop, drugstore, jewelry_shop, laundromat, pharmacy",52138
-326,7824,outdoor,"wind_farm, windmill, sky, runway, hangar/indoor",52138
-327,7848,outdoor,"wind_farm, windmill, sky, runway, hangar/indoor",52138
-328,7872,outdoor,"wind_farm, windmill, sky, runway, hangar/indoor",52138
-329,7896,outdoor,"wind_farm, windmill, sky, runway, hangar/indoor",52138
-330,7920,outdoor,"wind_farm, windmill, sky, office, hangar/outdoor",52138
-331,7944,outdoor,"wind_farm, windmill, sky, office, runway",52138
-332,7968,outdoor,"wind_farm, windmill, sky, office, attic",52138
-333,7992,outdoor,"wind_farm, windmill, office, sky, attic",52138
-334,8016,outdoor,"marsh, sky, ice_floe, pond, tundra",52138
-335,8040,outdoor,"marsh, ice_floe, sky, tundra, pond",52138
-336,8064,outdoor,"marsh, ice_floe, sky, tundra, pond",52138
-337,8088,outdoor,"marsh, sky, ice_floe, tundra, pond",52138
-338,8112,outdoor,"marsh, pond, sky, tundra, ice_floe",52138
-339,8136,outdoor,"desert/sand, beach, ice_shelf, iceberg, ice_floe",52138
-340,8160,outdoor,"beach, desert/sand, iceberg, ice_shelf, ocean",52138
-341,8184,outdoor,"desert/sand, beach, ice_shelf, ice_floe, iceberg",52138
-342,8208,outdoor,"desert/sand, wind_farm, beach, ice_shelf, ice_floe",52138
-343,8232,outdoor,"wind_farm, desert/sand, beach, basement, shower",52138
-344,8256,outdoor,"wind_farm, desert/sand, beach, shower, lake/natural",52138
-345,8280,outdoor,"desert/sand, beach, wind_farm, iceberg, lake/natural",52138
-346,8304,indoor,"recreation_room, coffee_shop, amusement_arcade, science_museum, airplane_cabin",52138
-347,8328,indoor,"recreation_room, coffee_shop, amusement_arcade, bowling_alley, laundromat",52138
-348,8352,indoor,"recreation_room, coffee_shop, bowling_alley, beauty_salon, amusement_arcade",52138
-349,8376,indoor,"recreation_room, amusement_arcade, bowling_alley, gas_station, coffee_shop",52138
-350,8400,indoor,"recreation_room, amusement_arcade, bowling_alley, gas_station, fastfood_restaurant",52138
-351,8424,indoor,"stage/indoor, discotheque, stage/outdoor, arena/performance, airplane_cabin",52138
-352,8448,indoor,"airplane_cabin, stage/indoor, shower, discotheque, escalator/indoor",52138
-353,8472,indoor,"discotheque, stage/outdoor, escalator/indoor, stage/indoor, shower",52138
-354,8496,indoor,"airplane_cabin, clothing_store, beauty_salon, jewelry_shop, dressing_room",52138
-355,8520,indoor,"beauty_salon, dressing_room, conference_center, airplane_cabin, escalator/indoor",52138
-356,8544,indoor,"airplane_cabin, stage/outdoor, dressing_room, music_studio, discotheque",52138
-357,8568,indoor,"stage/outdoor, stage/indoor, dressing_room, airplane_cabin, beauty_salon",52138
-358,8592,indoor,"airplane_cabin, discotheque, shower, car_interior, beauty_salon",52138
-359,8616,indoor,"escalator/indoor, airplane_cabin, science_museum, natural_history_museum, shower",52138
-360,8640,indoor,"escalator/indoor, discotheque, staircase, stage/indoor, airport_terminal",52138
-361,8664,indoor,"escalator/indoor, airplane_cabin, discotheque, science_museum, music_studio",52138
-362,8688,indoor,"escalator/indoor, science_museum, natural_history_museum, airplane_cabin, discotheque",52138
-363,8712,indoor,"escalator/indoor, discotheque, airplane_cabin, science_museum, natural_history_museum",52138
-364,8736,indoor,"science_museum, ice_cream_parlor, clean_room, escalator/indoor, natural_history_museum",52138
-365,8760,indoor,"music_studio, television_studio, arena/performance, stage/indoor, orchestra_pit",52138
-366,8784,indoor,"music_studio, television_studio, clean_room, discotheque, cockpit",52138
-367,8808,indoor,"clean_room, jewelry_shop, music_studio, beauty_salon, science_museum",52138
-368,8832,indoor,"clean_room, cockpit, music_studio, airplane_cabin, television_studio",52138
-369,8856,indoor,"airplane_cabin, ballroom, science_museum, jewelry_shop, conference_center",52138
-370,8880,indoor,"airplane_cabin, jewelry_shop, conference_center, beauty_salon, ballroom",52138
-371,8904,indoor,"airplane_cabin, ballroom, restaurant, airport_terminal, conference_room",52138
-372,8928,indoor,"airplane_cabin, beauty_salon, airport_terminal, ballroom, science_museum",52138
-373,8952,indoor,"beauty_salon, airplane_cabin, jewelry_shop, science_museum, airport_terminal",52138
-374,8976,indoor,"airplane_cabin, bar, beauty_salon, shower, restaurant",52138
-375,9000,indoor,"airplane_cabin, clean_room, beauty_salon, science_museum, jewelry_shop",52138
-376,9024,indoor,"airplane_cabin, science_museum, ballroom, music_studio, conference_center",52138
-377,9048,indoor,"science_museum, airplane_cabin, jewelry_shop, shoe_shop, beauty_salon",52138
-378,9072,indoor,"jewelry_shop, airplane_cabin, science_museum, beauty_salon, bar",52138
-379,9096,indoor,"discotheque, biology_laboratory, chemistry_lab, shoe_shop, aquarium",52138
-380,9120,indoor,"biology_laboratory, chemistry_lab, discotheque, clean_room, beauty_salon",52138
-381,9144,indoor,"discotheque, stage/indoor, arena/performance, music_studio, stage/outdoor",52138
-382,9168,indoor,"discotheque, arena/performance, stage/outdoor, music_studio, stage/indoor",52138
-383,9192,indoor,"shoe_shop, discotheque, airplane_cabin, stage/indoor, orchestra_pit",52138
-384,9216,indoor,"discotheque, airplane_cabin, stage/indoor, arena/performance, music_studio",52138
-385,9240,indoor,"discotheque, music_studio, television_studio, stage/outdoor, stage/indoor",52138
-386,9264,indoor,"television_studio, discotheque, music_studio, stage/indoor, orchestra_pit",52138
-387,9288,indoor,"discotheque, arena/performance, music_studio, stage/indoor, orchestra_pit",52138
-388,9312,indoor,"discotheque, arena/performance, television_studio, orchestra_pit, stage/indoor",52138
-389,9336,indoor,"discotheque, orchestra_pit, television_studio, arena/performance, music_studio",52138
-390,9360,indoor,"discotheque, orchestra_pit, television_studio, arena/performance, ballroom",52138
-391,9384,indoor,"shoe_shop, beauty_salon, clothing_store, television_studio, discotheque",52138
-392,9408,indoor,"airplane_cabin, beauty_salon, shower, bathroom, discotheque",52138
-393,9432,indoor,"shower, airplane_cabin, beauty_salon, bathroom, discotheque",52138
-394,9456,indoor,"shower, airplane_cabin, bathroom, beauty_salon, elevator/door",52138
-395,9480,indoor,"airplane_cabin, discotheque, attic, music_studio, cockpit",52138
-396,9504,indoor,"airplane_cabin, discotheque, attic, natural_history_museum, music_studio",52138
-397,9528,indoor,"airplane_cabin, discotheque, clothing_store, attic, clean_room",52138
-398,9552,indoor,"discotheque, airplane_cabin, basement, music_studio, attic",52138
-399,9576,indoor,"discotheque, airplane_cabin, clothing_store, music_studio, clean_room",52138
-400,9600,indoor,"clean_room, airplane_cabin, clothing_store, attic, science_museum",52138
-401,9624,indoor,"clean_room, airplane_cabin, operating_room, clothing_store, science_museum",52138
-402,9648,indoor,"clean_room, clothing_store, airplane_cabin, attic, operating_room",52138
-403,9672,indoor,"airplane_cabin, cockpit, clean_room, attic, engine_room",52138
-404,9696,indoor,"discotheque, nursery, ball_pit, kindergarden_classroom, childs_room",52138
-405,9720,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-406,9744,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-407,9768,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-408,9792,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-409,9816,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-410,9840,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-411,9864,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-412,9888,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-413,9912,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-414,9936,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-415,9960,outdoor,"balcony/interior, balcony/exterior, porch, beach_house, bow_window/indoor",52138
-416,9984,outdoor,"balcony/interior, balcony/exterior, bow_window/indoor, porch, artists_loft",52138
-417,10008,outdoor,"balcony/interior, balcony/exterior, porch, bow_window/indoor, beach_house",52138
-418,10032,outdoor,"barndoor, shed, doorway/outdoor, attic, bow_window/indoor",52138
-419,10056,outdoor,"greenhouse/outdoor, bow_window/indoor, barndoor, windmill, sky",52138
-420,10080,outdoor,"balcony/interior, balcony/exterior, bow_window/indoor, porch, mezzanine",52138
-421,10104,indoor,"balcony/interior, balcony/exterior, mezzanine, artists_loft, bow_window/indoor",52138
-422,10128,outdoor,"balcony/interior, balcony/exterior, porch, mezzanine, bow_window/indoor",52138
-423,10152,indoor,"balcony/interior, balcony/exterior, mezzanine, artists_loft, bow_window/indoor",52138
-424,10176,outdoor,"balcony/interior, balcony/exterior, bow_window/indoor, mezzanine, porch",52138
-425,10200,indoor,"balcony/interior, balcony/exterior, artists_loft, mezzanine, bow_window/indoor",52138
-426,10224,outdoor,"balcony/interior, balcony/exterior, bow_window/indoor, artists_loft, porch",52138
-427,10248,outdoor,"balcony/interior, balcony/exterior, mezzanine, artists_loft, porch",52138
-428,10272,outdoor,"balcony/interior, balcony/exterior, artists_loft, bow_window/indoor, porch",52138
-429,10296,outdoor,"balcony/interior, balcony/exterior, artists_loft, bow_window/indoor, porch",52138
-430,10320,outdoor,"aquarium, underwater/ocean_deep, iceberg, wind_farm, sky",52138
-431,10344,outdoor,"aquarium, underwater/ocean_deep, marsh, lake/natural, iceberg",52138
-432,10368,outdoor,"aquarium, marsh, underwater/ocean_deep, wind_farm, pond",52138
-433,10392,indoor,"aquarium, conference_room, office, reception, lecture_room",52138
-434,10416,indoor,"aquarium, underwater/ocean_deep, hangar/indoor, airport_terminal, science_museum",52138
-435,10440,indoor,"aquarium, airport_terminal, office, underwater/ocean_deep, conference_room",52138
-436,10464,outdoor,"wind_farm, hangar/indoor, sky, aquarium, underwater/ocean_deep",52138
-437,10488,outdoor,"wind_farm, aquarium, underwater/ocean_deep, ocean, marsh",52138
-438,10512,indoor,"aquarium, airport_terminal, wind_farm, hangar/indoor, airplane_cabin",52138
-439,10536,indoor,"aquarium, wind_farm, hangar/indoor, airport_terminal, marsh",52138
-440,10560,outdoor,"pond, lake/natural, fishpond, aquarium, marsh",52138
-441,10584,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-442,10608,outdoor,"pond, lake/natural, aquarium, fishpond, sky",52138
-443,10632,outdoor,"pond, lake/natural, aquarium, fishpond, marsh",52138
-444,10656,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-445,10680,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-446,10704,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-447,10728,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-448,10752,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-449,10776,outdoor,"pond, lake/natural, fishpond, marsh, aquarium",52138
-450,10800,outdoor,"pond, aquarium, lake/natural, sky, fishpond",52138
-451,10824,indoor,"discotheque, stage/indoor, clean_room, beauty_salon, arena/performance",52138
-452,10848,indoor,"clothing_store, stage/indoor, clean_room, music_studio, science_museum",52138
-453,10872,indoor,"natural_history_museum, science_museum, shoe_shop, stage/indoor, clothing_store",52138
-454,10896,indoor,"clean_room, clothing_store, science_museum, music_studio, arena/performance",52138
-455,10920,indoor,"stage/indoor, arena/performance, music_studio, discotheque, clean_room",52138
-456,10944,indoor,"natural_history_museum, airplane_cabin, science_museum, clean_room, music_studio",52138
-457,10968,indoor,"natural_history_museum, clean_room, science_museum, chemistry_lab, restaurant",52138
-458,10992,indoor,"airplane_cabin, natural_history_museum, science_museum, clean_room, restaurant",52138
-459,11016,indoor,"stage/indoor, music_studio, discotheque, stage/outdoor, ballroom",52138
-460,11040,indoor,"clean_room, chemistry_lab, airplane_cabin, discotheque, restaurant",52138
-461,11064,indoor,"clean_room, attic, restaurant, hangar/indoor, airplane_cabin",52138
-462,11088,indoor,"clean_room, attic, hangar/indoor, airport_terminal, airplane_cabin",52138
-463,11112,indoor,"clean_room, gymnasium/indoor, airport_terminal, science_museum, escalator/indoor",52138
-464,11136,indoor,"music_studio, clean_room, discotheque, stage/indoor, gymnasium/indoor",52138
-465,11160,indoor,"airplane_cabin, television_studio, office, beauty_salon, conference_center",52138
-466,11184,indoor,"airplane_cabin, office, conference_center, television_studio, beauty_salon",52138
-467,11208,indoor,"airplane_cabin, office, beauty_salon, television_studio, conference_center",52138
-468,11232,indoor,"clean_room, engine_room, gymnasium/indoor, airplane_cabin, physics_laboratory",52138
-469,11256,indoor,"clean_room, jewelry_shop, gymnasium/indoor, engine_room, science_museum",52138
-470,11280,indoor,"music_studio, clean_room, science_museum, television_studio, physics_laboratory",52138
-471,11304,indoor,"clean_room, science_museum, music_studio, physics_laboratory, jewelry_shop",52138
-472,11328,indoor,"discotheque, clean_room, music_studio, television_studio, arena/performance",52138
-473,11352,indoor,"clean_room, science_museum, jewelry_shop, gymnasium/indoor, operating_room",52138
-474,11376,indoor,"clean_room, jewelry_shop, music_studio, television_studio, operating_room",52138
-475,11400,indoor,"clean_room, jewelry_shop, operating_room, beauty_salon, music_studio",52138
-476,11424,indoor,"clean_room, operating_room, chemistry_lab, biology_laboratory, beauty_salon",52138
-477,11448,indoor,"arena/performance, discotheque, stage/indoor, music_studio, ballroom",52138
-478,11472,indoor,"airplane_cabin, train_interior, bus_interior, beauty_salon, elevator/door",52138
-479,11496,indoor,"airplane_cabin, train_interior, bus_interior, elevator/door, beauty_salon",52138
-480,11520,indoor,"airplane_cabin, shoe_shop, car_interior, beauty_salon, gymnasium/indoor",52138
-481,11544,indoor,"airplane_cabin, shoe_shop, car_interior, cockpit, beauty_salon",52138
-482,11568,indoor,"airplane_cabin, shoe_shop, car_interior, beauty_salon, discotheque",52138
-483,11592,indoor,"discotheque, television_studio, shoe_shop, gymnasium/indoor, airplane_cabin",52138
-484,11616,indoor,"shoe_shop, science_museum, gift_shop, discotheque, coffee_shop",52138
-485,11640,indoor,"discotheque, chemistry_lab, coffee_shop, science_museum, ice_cream_parlor",52138
-486,11664,indoor,"discotheque, music_studio, orchestra_pit, television_studio, stage/indoor",52138
-487,11688,indoor,"jewelry_shop, science_museum, shoe_shop, beauty_salon, discotheque",52138
-488,11712,indoor,"gift_shop, discotheque, beauty_salon, museum/indoor, shoe_shop",52138
-489,11736,indoor,"discotheque, music_studio, arena/performance, stage/indoor, jewelry_shop",52138
-490,11760,indoor,"ice_cream_parlor, coffee_shop, clean_room, bakery/shop, jewelry_shop",52138
-491,11784,indoor,"clean_room, biology_laboratory, discotheque, chemistry_lab, aquarium",52138
-492,11808,indoor,"clean_room, biology_laboratory, chemistry_lab, science_museum, bowling_alley",52138
-493,11832,indoor,"aquarium, airport_terminal, airplane_cabin, hangar/indoor, marsh",52138
-494,11856,indoor,"aquarium, airport_terminal, hangar/indoor, airplane_cabin, science_museum",52138
-495,11880,indoor,"aquarium, marsh, airport_terminal, hangar/indoor, pond",52138
-496,11904,indoor,"aquarium, airport_terminal, harbor, marsh, hangar/indoor",52138
-497,11928,outdoor,"aquarium, marsh, pond, underwater/ocean_deep, airport_terminal",52138
-498,11952,outdoor,"aquarium, marsh, underwater/ocean_deep, pond, lake/natural",52138
-499,11976,indoor,"jewelry_shop, music_studio, shower, bathroom, beauty_salon",52138
-500,12000,indoor,"jewelry_shop, music_studio, shower, bathroom, beauty_salon",52138
-501,12024,indoor,"jewelry_shop, shower, bathroom, music_studio, clean_room",52138
-502,12048,indoor,"airplane_cabin, laundromat, bathroom, clean_room, utility_room",52138
-503,12072,indoor,"clean_room, jewelry_shop, bathroom, beauty_salon, music_studio",52138
-504,12096,indoor,"clean_room, jewelry_shop, bathroom, beauty_salon, chemistry_lab",52138
-505,12120,indoor,"airplane_cabin, bathroom, jewelry_shop, clean_room, laundromat",52138
-506,12144,indoor,"airplane_cabin, bathroom, utility_room, jewelry_shop, clean_room",52138
-507,12168,indoor,"airplane_cabin, jewelry_shop, bathroom, clean_room, laundromat",52138
-508,12192,indoor,"airplane_cabin, bathroom, jewelry_shop, laundromat, beauty_salon",52138
-509,12216,indoor,"airplane_cabin, jewelry_shop, bathroom, laundromat, clean_room",52138
-510,12240,indoor,"airplane_cabin, bathroom, jewelry_shop, beauty_salon, laundromat",52138
-511,12264,indoor,"airplane_cabin, bathroom, jewelry_shop, beauty_salon, clean_room",52138
-512,12288,indoor,"airplane_cabin, bathroom, jewelry_shop, beauty_salon, laundromat",52138
-513,12312,indoor,"airplane_cabin, bathroom, beauty_salon, shower, jewelry_shop",52138
-514,12336,indoor,"music_studio, jewelry_shop, beauty_salon, airplane_cabin, clean_room",52138
-515,12360,indoor,"jewelry_shop, airplane_cabin, beauty_salon, bathroom, music_studio",52138
-516,12384,indoor,"jewelry_shop, office, biology_laboratory, clean_room, beauty_salon",52138
-517,12408,indoor,"jewelry_shop, clean_room, biology_laboratory, science_museum, office",52138
-518,12432,indoor,"jewelry_shop, office, science_museum, clean_room, beauty_salon",52138
-519,12456,indoor,"airplane_cabin, home_theater, amusement_arcade, clean_room, television_room",52138
-520,12480,indoor,"airplane_cabin, home_theater, amusement_arcade, cockpit, clean_room",52138
-521,12504,indoor,"airplane_cabin, home_theater, amusement_arcade, cockpit, train_interior",52138
-522,12528,indoor,"airplane_cabin, train_interior, cockpit, car_interior, bus_interior",52138
-523,12552,indoor,"airplane_cabin, beauty_salon, car_interior, engine_room, science_museum",52138
-524,12576,indoor,"airplane_cabin, cockpit, train_interior, bus_interior, discotheque",52138
-525,12600,indoor,"airplane_cabin, cockpit, train_interior, bus_interior, conference_center",52138
-526,12624,indoor,"airplane_cabin, cockpit, train_interior, bus_interior, discotheque",52138
-527,12648,indoor,"jewelry_shop, music_studio, television_studio, science_museum, physics_laboratory",52138
-528,12672,indoor,"jewelry_shop, gift_shop, clean_room, science_museum, physics_laboratory",52138
-529,12696,indoor,"jewelry_shop, childs_room, beauty_salon, gift_shop, shoe_shop",52138
-530,12720,indoor,"jewelry_shop, beauty_salon, gift_shop, shoe_shop, science_museum",52138
-531,12744,indoor,"jewelry_shop, gift_shop, shoe_shop, science_museum, flea_market/indoor",52138
-532,12768,indoor,"jewelry_shop, gift_shop, science_museum, general_store/indoor, shoe_shop",52138
-533,12792,indoor,"jewelry_shop, gift_shop, clothing_store, general_store/indoor, science_museum",52138
-534,12816,indoor,"clothing_store, jewelry_shop, department_store, music_studio, stage/indoor",52138
-535,12840,indoor,"discotheque, clothing_store, stage/indoor, beauty_salon, arena/performance",52138
-536,12864,indoor,"discotheque, jewelry_shop, clothing_store, stage/indoor, music_studio",52138
-537,12888,indoor,"discotheque, clothing_store, jewelry_shop, arena/performance, stage/indoor",52138
-538,12912,indoor,"clothing_store, music_studio, discotheque, jewelry_shop, stage/indoor",52138
-539,12936,indoor,"clothing_store, jewelry_shop, discotheque, music_studio, stage/indoor",52138
-540,12960,indoor,"clothing_store, jewelry_shop, department_store, science_museum, gift_shop",52138
-541,12984,indoor,"clothing_store, science_museum, jewelry_shop, airplane_cabin, bank_vault",52138
-542,13008,indoor,"airplane_cabin, clothing_store, jewelry_shop, science_museum, department_store",52138
-543,13032,indoor,"airplane_cabin, clothing_store, science_museum, music_studio, jewelry_shop",52138
-544,13056,indoor,"airplane_cabin, clothing_store, science_museum, jewelry_shop, cockpit",52138
-545,13080,indoor,"airplane_cabin, jewelry_shop, clean_room, beauty_salon, bathroom",52138
-546,13104,indoor,"airplane_cabin, jewelry_shop, beauty_salon, clean_room, bathroom",52138
-547,13128,indoor,"airplane_cabin, jewelry_shop, clean_room, engine_room, beauty_salon",52138
-548,13152,indoor,"airplane_cabin, jewelry_shop, clean_room, beauty_salon, office",52138
-549,13176,indoor,"airplane_cabin, jewelry_shop, bathroom, clean_room, beauty_salon",52138
-550,13200,indoor,"airplane_cabin, jewelry_shop, bathroom, music_studio, operating_room",52138
-551,13224,indoor,"airplane_cabin, jewelry_shop, bathroom, music_studio, beauty_salon",52138
-552,13248,indoor,"jewelry_shop, clean_room, engine_room, beauty_salon, airplane_cabin",52138
-553,13272,indoor,"jewelry_shop, clean_room, beauty_salon, engine_room, physics_laboratory",52138
-554,13296,indoor,"jewelry_shop, clean_room, engine_room, beauty_salon, physics_laboratory",52138
-555,13320,indoor,"jewelry_shop, clean_room, engine_room, beauty_salon, bathroom",52138
-556,13344,indoor,"jewelry_shop, clean_room, engine_room, airplane_cabin, physics_laboratory",52138
-557,13368,indoor,"jewelry_shop, clean_room, beauty_salon, engine_room, physics_laboratory",52138
-558,13392,indoor,"jewelry_shop, clean_room, beauty_salon, engine_room, physics_laboratory",52138
-559,13416,indoor,"jewelry_shop, amusement_arcade, science_museum, home_theater, museum/indoor",52138
-560,13440,indoor,"jewelry_shop, beauty_salon, amusement_arcade, museum/indoor, science_museum",52138
-561,13464,indoor,"amusement_arcade, science_museum, beauty_salon, television_studio, cockpit",52138
-562,13488,indoor,"airport_terminal, airplane_cabin, atrium/public, bathroom, science_museum",52138
-563,13512,indoor,"atrium/public, shower, museum/indoor, science_museum, bathroom",52138
-564,13536,indoor,"atrium/public, science_museum, museum/indoor, shower, shopping_mall/indoor",52138
-565,13560,indoor,"aquarium, underwater/ocean_deep, sky, discotheque, shower",52138
-566,13584,outdoor,"underwater/ocean_deep, aquarium, sky, shower, crevasse",52138
-567,13608,indoor,"underwater/ocean_deep, sky, aquarium, discotheque, arena/performance",52138
-568,13632,indoor,"airplane_cabin, airport_terminal, atrium/public, staircase, escalator/indoor",52138
-569,13656,indoor,"airplane_cabin, staircase, airport_terminal, bathroom, escalator/indoor",52138
-570,13680,indoor,"airplane_cabin, staircase, bathroom, airport_terminal, shower",52138
-571,13704,indoor,"airplane_cabin, escalator/indoor, airport_terminal, staircase, atrium/public",52138
-572,13728,outdoor,"sky, underwater/ocean_deep, aquarium, discotheque, pond",52138
-573,13752,outdoor,"sky, underwater/ocean_deep, aquarium, discotheque, pond",52138
-574,13776,outdoor,"sky, aquarium, underwater/ocean_deep, discotheque, fishpond",52138
-575,13800,indoor,"discotheque, airplane_cabin, music_studio, stage/indoor, clothing_store",52138
-576,13824,indoor,"music_studio, discotheque, clothing_store, stage/indoor, arena/performance",52138
-577,13848,indoor,"music_studio, discotheque, stage/indoor, clothing_store, arena/performance",52138
-578,13872,indoor,"music_studio, discotheque, jewelry_shop, clothing_store, stage/indoor",52138
-579,13896,outdoor,"fishpond, marsh, pond, lake/natural, underwater/ocean_deep",52138
-580,13920,outdoor,"aquarium, fishpond, underwater/ocean_deep, marsh, pond",52138
-581,13944,outdoor,"fishpond, marsh, pond, aquarium, underwater/ocean_deep",52138
-582,13968,outdoor,"fishpond, aquarium, marsh, pond, underwater/ocean_deep",52138
-583,13992,outdoor,"aquarium, fishpond, underwater/ocean_deep, marsh, airport_terminal",52138
-584,14016,outdoor,"fishpond, marsh, pond, lake/natural, aquarium",52138
-585,14040,indoor,"airplane_cabin, conference_center, science_museum, ballroom, stage/indoor",52138
-586,14064,indoor,"airplane_cabin, conference_center, ballroom, arena/performance, stage/indoor",52138
-587,14088,indoor,"airplane_cabin, conference_center, auditorium, ballroom, arena/performance",52138
-588,14112,indoor,"airplane_cabin, conference_center, ballroom, arena/performance, beauty_salon",52138
-589,14136,indoor,"conference_center, ballroom, airplane_cabin, stage/indoor, discotheque",52138
-590,14160,indoor,"airplane_cabin, conference_center, discotheque, beauty_salon, ballroom",52138
-591,14184,indoor,"discotheque, ballroom, music_studio, bar, beer_hall",52138
-592,14208,indoor,"ballroom, discotheque, music_studio, stage/indoor, conference_center",52138
-593,14232,indoor,"discotheque, music_studio, ballroom, stage/indoor, shower",52138
-594,14256,indoor,"discotheque, music_studio, ballroom, shower, stage/indoor",52138
-595,14280,indoor,"music_studio, stage/indoor, discotheque, ballroom, stage/outdoor",52138
-596,14304,indoor,"airplane_cabin, discotheque, ballroom, auditorium, shower",52138
-597,14328,indoor,"discotheque, stage/indoor, auditorium, music_studio, ballroom",52138
-598,14352,indoor,"discotheque, stage/indoor, clean_room, ballroom, music_studio",52138
-599,14376,indoor,"discotheque, banquet_hall, clean_room, ballroom, stage/indoor",52138
-600,14400,indoor,"discotheque, arena/performance, stage/indoor, television_studio, music_studio",52138
-601,14424,indoor,"discotheque, music_studio, stage/indoor, television_studio, stage/outdoor",52138
-602,14448,indoor,"discotheque, stage/indoor, music_studio, arena/performance, television_studio",52138
-603,14472,indoor,"discotheque, arena/performance, stage/indoor, music_studio, television_studio",52138
-604,14496,indoor,"discotheque, bowling_alley, restaurant, stage/indoor, bar",52138
-605,14520,indoor,"discotheque, bowling_alley, airplane_cabin, bar, stage/indoor",52138
-606,14544,outdoor,"sky, iceberg, ocean, underwater/ocean_deep, harbor",52138
-607,14568,outdoor,"sky, iceberg, ocean, wind_farm, underwater/ocean_deep",52138
-608,14592,indoor,"airport_terminal, sky, parking_garage/indoor, harbor, discotheque",52138
-609,14616,outdoor,"airport_terminal, sky, discotheque, harbor, iceberg",52138
-610,14640,indoor,"discotheque, stage/indoor, airport_terminal, aquarium, pond",52138
-611,14664,outdoor,"airport_terminal, sky, harbor, iceberg, discotheque",52138
-612,14688,indoor,"airplane_cabin, bathroom, shower, museum/indoor, art_gallery",52138
-613,14712,indoor,"bathroom, airplane_cabin, shower, museum/indoor, art_gallery",52138
-614,14736,indoor,"shower, airplane_cabin, bathroom, natural_history_museum, elevator_lobby",52138
-615,14760,indoor,"shower, bathroom, natural_history_museum, museum/indoor, clothing_store",52138
-616,14784,indoor,"bathroom, shower, elevator_lobby, coffee_shop, clothing_store",52138
-617,14808,indoor,"bathroom, shower, airplane_cabin, coffee_shop, elevator_lobby",52138
-618,14832,indoor,"shower, bathroom, airplane_cabin, elevator_lobby, coffee_shop",52138
-619,14856,indoor,"aquarium, natural_history_museum, underwater/ocean_deep, science_museum, art_gallery",52138
-620,14880,indoor,"underwater/ocean_deep, natural_history_museum, aquarium, shower, science_museum",52138
-621,14904,indoor,"aquarium, underwater/ocean_deep, science_museum, natural_history_museum, shower",52138
-622,14928,indoor,"aquarium, shower, underwater/ocean_deep, airplane_cabin, bathroom",52138
-623,14952,outdoor,"fishpond, marsh, ice_floe, pond, lake/natural",52138
-624,14976,outdoor,"fishpond, pond, aquarium, underwater/ocean_deep, lake/natural",52138
-625,15000,outdoor,"lake/natural, fishpond, pond, marsh, natural_history_museum",52138
-626,15024,indoor,"natural_history_museum, science_museum, museum/indoor, lobby, aquarium",52138
-627,15048,indoor,"natural_history_museum, science_museum, museum/indoor, shower, airport_terminal",52138
-628,15072,indoor,"natural_history_museum, science_museum, museum/indoor, shower, aquarium",52138
-629,15096,indoor,"natural_history_museum, shower, science_museum, aquarium, underwater/ocean_deep",52138
-630,15120,outdoor,"aquarium, underwater/ocean_deep, crevasse, iceberg, ice_floe",52138
-631,15144,indoor,"shower, underwater/ocean_deep, aquarium, bathroom, crevasse",52138
-632,15168,indoor,"underwater/ocean_deep, shower, aquarium, natural_history_museum, chemistry_lab",52138
-633,15192,indoor,"natural_history_museum, science_museum, aquarium, museum/indoor, airport_terminal",52138
-634,15216,indoor,"natural_history_museum, aquarium, museum/indoor, science_museum, lobby",52138
-635,15240,indoor,"shower, aquarium, museum/indoor, bathroom, natural_history_museum",52138
-636,15264,indoor,"shower, atrium/public, airport_terminal, lobby, museum/indoor",52138
-637,15288,outdoor,"fishpond, marsh, underwater/ocean_deep, pond, aquarium",52138
-638,15312,outdoor,"underwater/ocean_deep, marsh, fishpond, pond, lake/natural",52138
-639,15336,outdoor,"fishpond, underwater/ocean_deep, aquarium, ice_floe, marsh",52138
-640,15360,outdoor,"fishpond, pond, lake/natural, marsh, aquarium",52138
-641,15384,outdoor,"fishpond, pond, lake/natural, underwater/ocean_deep, marsh",52138
-642,15408,outdoor,"underwater/ocean_deep, fishpond, natural_history_museum, aquarium, lake/natural",52138
-643,15432,outdoor,"underwater/ocean_deep, aquarium, fishpond, marsh, natural_history_museum",52138
-644,15456,outdoor,"ice_floe, iceberg, underwater/ocean_deep, lake/natural, pond",52138
-645,15480,outdoor,"ice_floe, marsh, pond, lake/natural, iceberg",52138
-646,15504,outdoor,"pond, lake/natural, fishpond, underwater/ocean_deep, aquarium",52138
-647,15528,outdoor,"lake/natural, pond, underwater/ocean_deep, corridor, sky",52138
-648,15552,outdoor,"underwater/ocean_deep, aquarium, pond, fishpond, lake/natural",52138
-649,15576,outdoor,"underwater/ocean_deep, lake/natural, aquarium, pond, fishpond",52138
-650,15600,outdoor,"lake/natural, pond, fishpond, underwater/ocean_deep, marsh",52138
-651,15624,outdoor,"lake/natural, underwater/ocean_deep, pond, marsh, aquarium",52138
-652,15648,outdoor,"lake/natural, ice_floe, fishpond, pond, river",52138
-653,15672,outdoor,"lake/natural, fishpond, pond, ice_floe, swimming_hole",52138
-654,15696,outdoor,"lake/natural, fishpond, pond, ice_floe, swimming_hole",52138
-655,15720,outdoor,"lake/natural, fishpond, ice_floe, pond, swimming_hole",52138
-656,15744,outdoor,"fishpond, lake/natural, pond, ice_floe, swimming_hole",52138
-657,15768,outdoor,"lake/natural, fishpond, ice_floe, pond, marsh",52138
-658,15792,outdoor,"lake/natural, fishpond, pond, ice_floe, swimming_hole",52138
-659,15816,outdoor,"ice_floe, fishpond, lake/natural, pond, iceberg",52138
-660,15840,outdoor,"fishpond, ice_floe, pond, lake/natural, swimming_hole",52138
-661,15864,outdoor,"lake/natural, pond, ice_floe, fishpond, swimming_hole",52138
-662,15888,outdoor,"lake/natural, pond, fishpond, ice_floe, swimming_hole",52138
-663,15912,outdoor,"fishpond, pond, lake/natural, ice_floe, swimming_hole",52138
-664,15936,outdoor,"fishpond, lake/natural, pond, ice_floe, swimming_hole",52138
-665,15960,outdoor,"lake/natural, pond, science_museum, ice_floe, art_gallery",52138
-666,15984,outdoor,"lake/natural, pond, ice_floe, science_museum, marsh",52138
-667,16008,outdoor,"ice_floe, lake/natural, pond, art_gallery, museum/indoor",52138
-668,16032,outdoor,"ice_floe, lake/natural, science_museum, art_gallery, ice_shelf",52138
-669,16056,indoor,"art_gallery, science_museum, museum/indoor, natural_history_museum, lake/natural",52138
-670,16080,indoor,"lake/natural, pond, science_museum, art_gallery, museum/indoor",52138
-671,16104,outdoor,"sky, underwater/ocean_deep, aquarium, fishpond, pond",52138
-672,16128,outdoor,"sky, underwater/ocean_deep, aquarium, igloo, volcano",52138
-673,16152,outdoor,"sky, underwater/ocean_deep, aquarium, volcano, fishpond",52138
-674,16176,outdoor,"sky, underwater/ocean_deep, aquarium, fishpond, pond",52138
-675,16200,outdoor,"underwater/ocean_deep, arena/performance, aquarium, raft, water_park",52138
-676,16224,outdoor,"underwater/ocean_deep, water_park, raft, arena/performance, amusement_park",52138
-677,16248,outdoor,"underwater/ocean_deep, arena/performance, water_park, amusement_park, raft",52138
-678,16272,outdoor,"arena/performance, oilrig, amusement_park, water_park, stage/indoor",52138
-679,16296,outdoor,"arena/performance, oilrig, construction_site, tower, stage/indoor",52138
-680,16320,outdoor,"arena/performance, oilrig, stage/indoor, tower, construction_site",52138
-681,16344,outdoor,"underwater/ocean_deep, aquarium, sky, ocean, iceberg",52138
-682,16368,outdoor,"underwater/ocean_deep, aquarium, sky, ocean, iceberg",52138
-683,16392,outdoor,"aquarium, underwater/ocean_deep, sky, iceberg, ocean",52138
-684,16416,indoor,"aquarium, sky, underwater/ocean_deep, discotheque, shower",52138
-685,16440,outdoor,"ocean, desert/sand, sky, beach, coast",52138
-686,16464,outdoor,"ocean, desert/sand, beach, sky, coast",52138
-687,16488,outdoor,"ocean, desert/sand, beach, sky, coast",52138
-688,16512,outdoor,"ocean, sky, beach, coast, desert/sand",52138
-689,16536,outdoor,"ocean, sky, beach, coast, desert/sand",52138
-690,16560,outdoor,"ocean, sky, beach, coast, desert/sand",52138
-691,16584,outdoor,"ocean, beach, sky, coast, lake/natural",52138
-692,16608,outdoor,"underwater/ocean_deep, discotheque, igloo, campsite, aquarium",52138
-693,16632,outdoor,"windmill, wind_farm, rope_bridge, oilrig, construction_site",52138
-694,16656,outdoor,"windmill, wind_farm, rope_bridge, construction_site, oilrig",52138
-695,16680,outdoor,"windmill, wind_farm, rope_bridge, construction_site, oilrig",52138
-696,16704,outdoor,"windmill, rope_bridge, wind_farm, oilrig, construction_site",52138
-697,16728,outdoor,"windmill, rope_bridge, wind_farm, construction_site, oilrig",52138
-698,16752,outdoor,"rope_bridge, windmill, wind_farm, construction_site, oilrig",52138
-699,16776,indoor,"beer_hall, discotheque, shower, stage/outdoor, aquarium",52138
-700,16800,indoor,"beer_hall, discotheque, stage/outdoor, shower, bullring",52138
-701,16824,indoor,"beer_hall, discotheque, stage/outdoor, bullring, arena/performance",52138
-702,16848,indoor,"beer_hall, discotheque, stage/outdoor, aquarium, beer_garden",52138
-703,16872,indoor,"discotheque, stage/outdoor, beer_hall, arena/performance, aquarium",52138
-704,16896,indoor,"discotheque, beer_hall, stage/outdoor, boat_deck, shower",52138
-705,16920,indoor,"natural_history_museum, aquarium, wind_farm, fishpond, science_museum",52138
-706,16944,indoor,"natural_history_museum, aquarium, science_museum, chemistry_lab, wind_farm",52138
-707,16968,indoor,"natural_history_museum, science_museum, aquarium, shower, chemistry_lab",52138
-708,16992,indoor,"aquarium, natural_history_museum, shower, chemistry_lab, bathroom",52138
-709,17016,indoor,"bathroom, shower, chemistry_lab, natural_history_museum, science_museum",52138
-710,17040,indoor,"music_studio, conference_center, television_studio, science_museum, office",52138
-711,17064,indoor,"music_studio, conference_center, television_studio, science_museum, airport_terminal",52138
-712,17088,indoor,"music_studio, conference_center, television_studio, science_museum, airport_terminal",52138
-713,17112,indoor,"martial_arts_gym, arena/performance, aquarium, stage/indoor, ballroom",52138
-714,17136,indoor,"martial_arts_gym, aquarium, stage/indoor, arena/performance, discotheque",52138
-715,17160,indoor,"martial_arts_gym, arena/performance, stage/indoor, aquarium, gymnasium/indoor",52138
-716,17184,indoor,"martial_arts_gym, aquarium, stage/indoor, arena/performance, ballroom",52138
-717,17208,indoor,"martial_arts_gym, stage/indoor, aquarium, arena/performance, discotheque",52138
-718,17232,indoor,"discotheque, martial_arts_gym, aquarium, stage/indoor, playroom",52138
-719,17256,outdoor,"fishpond, aquarium, pond, underwater/ocean_deep, martial_arts_gym",52138
-720,17280,indoor,"fishpond, discotheque, recreation_room, martial_arts_gym, playroom",52138
-721,17304,indoor,"discotheque, aquarium, martial_arts_gym, arena/performance, stage/indoor",52138
-722,17328,indoor,"discotheque, aquarium, arena/performance, martial_arts_gym, stage/indoor",52138
-723,17352,indoor,"ball_pit, underwater/ocean_deep, aquarium, discotheque, kindergarden_classroom",52138
-724,17376,outdoor,"aquarium, sky, underwater/ocean_deep, discotheque, pond",52138
-725,17400,outdoor,"wind_farm, runway, attic, sky, hangar/outdoor",52138
-726,17424,outdoor,"wind_farm, sky, runway, hangar/outdoor, harbor",52138
-727,17448,outdoor,"wind_farm, runway, sky, hangar/outdoor, harbor",52138
-728,17472,outdoor,"runway, harbor, hangar/outdoor, wind_farm, lake/natural",52138
-729,17496,outdoor,"wind_farm, sky, harbor, tower, runway",52138
-730,17520,outdoor,"tower, wind_farm, skyscraper, sky, mosque/outdoor",52138
-731,17544,outdoor,"lake/natural, pond, fishpond, marsh, swimming_hole",52138
-732,17568,outdoor,"iceberg, ice_shelf, airport_terminal, ice_floe, attic",52138
-733,17592,outdoor,"iceberg, marsh, ice_floe, pond, lake/natural",52138
-734,17616,outdoor,"oilrig, industrial_area, wind_farm, windmill, construction_site",52138
-735,17640,outdoor,"oilrig, industrial_area, wind_farm, windmill, construction_site",52138
-736,17664,outdoor,"oilrig, industrial_area, windmill, construction_site, wind_farm",52138
-737,17688,indoor,"underwater/ocean_deep, restaurant, aquarium, science_museum, sushi_bar",52138
-738,17712,indoor,"restaurant, underwater/ocean_deep, science_museum, sushi_bar, aquarium",52138
-739,17736,indoor,"restaurant, science_museum, underwater/ocean_deep, discotheque, sushi_bar",52138
-740,17760,indoor,"underwater/ocean_deep, science_museum, restaurant, aquarium, discotheque",52138
-741,17784,indoor,"underwater/ocean_deep, discotheque, science_museum, restaurant, aquarium",52138
-742,17808,indoor,"underwater/ocean_deep, science_museum, aquarium, restaurant, discotheque",52138
-743,17832,outdoor,"sky, ice_floe, wave, snowfield, ocean",52138
-744,17856,outdoor,"ice_floe, sky, wave, snowfield, ocean",52138
-745,17880,outdoor,"sky, ice_floe, snowfield, tundra, ice_shelf",52138
-746,17904,outdoor,"sky, ice_floe, snowfield, wave, tundra",52138
-747,17928,outdoor,"sky, ice_floe, hot_spring, wave, tundra",52138
-748,17952,outdoor,"water_tower, sky, airfield, windmill, field/wild",52138
-749,17976,outdoor,"water_tower, windmill, airfield, field/wild, sky",52138
-750,18000,outdoor,"water_tower, sky, field/wild, airfield, windmill",52138
-751,18024,outdoor,"sky, wheat_field, field/wild, corn_field, desert_road",52138
-752,18048,outdoor,"sky, wheat_field, corn_field, field/wild, ocean",52138
-753,18072,outdoor,"sky, wheat_field, ocean, field/wild, corn_field",52138
-754,18096,outdoor,"sky, wheat_field, ocean, corn_field, field/wild",52138
-755,18120,outdoor,"sky, wheat_field, ocean, corn_field, field/wild",52138
-756,18144,outdoor,"sky, ocean, wheat_field, wind_farm, coast",52138
-757,18168,outdoor,"boat_deck, ocean, oilrig, islet, coast",52138
-758,18192,outdoor,"boat_deck, ocean, oilrig, islet, coast",52138
-759,18216,outdoor,"boat_deck, oilrig, ocean, coast, islet",52138
-760,18240,outdoor,"boat_deck, oilrig, ocean, coast, islet",52138
-761,18264,outdoor,"boat_deck, ocean, coast, islet, oilrig",52138
-762,18288,outdoor,"ocean, wave, coast, beach, oilrig",52138
-763,18312,outdoor,"ocean, wave, coast, beach, oilrig",52138
-764,18336,outdoor,"ocean, wave, coast, beach, ice_shelf",52138
-765,18360,indoor,"conference_center, airplane_cabin, ballroom, conference_room, auditorium",52138
-766,18384,indoor,"conference_center, ballroom, auditorium, airplane_cabin, discotheque",52138
-767,18408,indoor,"conference_center, airplane_cabin, auditorium, ballroom, arena/performance",52138
-768,18432,indoor,"airplane_cabin, home_theater, booth/indoor, movie_theater/indoor, train_interior",52138
-769,18456,outdoor,"ice_floe, ocean, ice_shelf, beach, coast",52138
-770,18480,outdoor,"ocean, ice_floe, beach, coast, ice_shelf",52138
-771,18504,outdoor,"ice_floe, iceberg, ice_shelf, beach, ocean",52138
-772,18528,outdoor,"ice_floe, lake/natural, iceberg, ocean, lagoon",52138
-773,18552,outdoor,"ice_floe, lake/natural, marsh, ocean, lagoon",52138
-774,18576,outdoor,"ice_floe, lake/natural, ocean, iceberg, lagoon",52138
-775,18600,outdoor,"boat_deck, ocean, coast, islet, oilrig",52138
-776,18624,outdoor,"boat_deck, ocean, coast, islet, oilrig",52138
-777,18648,outdoor,"ocean, boat_deck, coast, oilrig, islet",52138
-778,18672,outdoor,"ocean, boat_deck, coast, islet, oilrig",52138
-779,18696,outdoor,"wave, ocean, coast, ice_shelf, beach",52138
-780,18720,outdoor,"wave, ocean, ice_shelf, coast, beach",52138
-781,18744,outdoor,"wave, ice_shelf, ocean, coast, dam",52138
-782,18768,outdoor,"ocean, beach, coast, wave, ice_floe",52138
-783,18792,outdoor,"wave, ice_floe, ocean, boat_deck, lagoon",52138
-784,18816,outdoor,"wave, beach, ocean, coast, lagoon",52138
-785,18840,outdoor,"wave, ocean, oilrig, beach, coast",52138
-786,18864,outdoor,"wave, ocean, beach, oilrig, coast",52138
-787,18888,outdoor,"beach, wave, ocean, coast, ice_shelf",52138
-788,18912,outdoor,"wave, ocean, beach, coast, oilrig",52138
-789,18936,outdoor,"boat_deck, ocean, oilrig, islet, coast",52138
-790,18960,outdoor,"ocean, boat_deck, coast, islet, oilrig",52138
-791,18984,outdoor,"ocean, boat_deck, coast, islet, oilrig",52138
-792,19008,outdoor,"wave, ice_shelf, ocean, ice_floe, oilrig",52138
-793,19032,outdoor,"ice_floe, ice_shelf, ocean, wave, oilrig",52138
-794,19056,outdoor,"wave, oilrig, ice_shelf, ocean, ice_floe",52138
-795,19080,outdoor,"wave, ocean, ice_floe, ice_shelf, raft",52138
-796,19104,outdoor,"wave, ice_shelf, ocean, ice_floe, oilrig",52138
-797,19128,outdoor,"boat_deck, wave, ocean, lagoon, ice_floe",52138
-798,19152,outdoor,"boat_deck, wave, ocean, lagoon, ice_floe",52138
-799,19176,outdoor,"ocean, beach, coast, hot_spring, lagoon",52138
-800,19200,outdoor,"ocean, beach, coast, hot_spring, lagoon",52138
-801,19224,outdoor,"ocean, beach, coast, swimming_pool/indoor, water_park",52138
-802,19248,outdoor,"ocean, coast, beach, boat_deck, lagoon",52138
-803,19272,outdoor,"ocean, beach, coast, hot_spring, lagoon",52138
-804,19296,outdoor,"ocean, beach, coast, lagoon, boat_deck",52138
-805,19320,outdoor,"ocean, beach, coast, lagoon, hot_spring",52138
-806,19344,outdoor,"ocean, beach, coast, hot_spring, lagoon",52138
-807,19368,outdoor,"ocean, beach, coast, lagoon, hot_spring",52138
-808,19392,outdoor,"ocean, beach, coast, lagoon, swimming_pool/indoor",52138
-809,19416,outdoor,"ocean, beach, coast, lagoon, hot_spring",52138
-810,19440,outdoor,"construction_site, windmill, wind_farm, industrial_area, excavation",52138
-811,19464,outdoor,"construction_site, industrial_area, excavation, amusement_park, wind_farm",52138
-812,19488,outdoor,"construction_site, amusement_park, tower, industrial_area, skyscraper",52138
-813,19512,outdoor,"construction_site, tower, skyscraper, wind_farm, amusement_park",52138
-814,19536,outdoor,"construction_site, tower, skyscraper, amusement_park, industrial_area",52138
-815,19560,outdoor,"construction_site, oilrig, boat_deck, amusement_park, excavation",52138
-816,19584,outdoor,"construction_site, oilrig, amusement_park, boat_deck, water_park",52138
-817,19608,outdoor,"amusement_park, construction_site, water_park, oilrig, tower",52138
-818,19632,outdoor,"amusement_park, construction_site, water_park, tower, oilrig",52138
-819,19656,outdoor,"amusement_park, construction_site, tower, water_park, bridge",52138
-820,19680,outdoor,"tower, amusement_park, oilrig, construction_site, mosque/outdoor",52138
-821,19704,outdoor,"campsite, sky, wheat_field, mountain_snowy, field/cultivated",52138
-822,19728,outdoor,"wheat_field, volleyball_court/outdoor, soccer_field, sky, field/cultivated",52138
-823,19752,outdoor,"wheat_field, sky, wind_farm, field/cultivated, corn_field",52138
-824,19776,outdoor,"wheat_field, sky, boat_deck, volleyball_court/outdoor, ocean",52138
-825,19800,outdoor,"oilrig, boat_deck, wheat_field, construction_site, wind_farm",52138
-826,19824,outdoor,"wheat_field, wind_farm, windmill, oilrig, construction_site",52138
-827,19848,outdoor,"wind_farm, tower, windmill, mosque/outdoor, oilrig",52138
-828,19872,outdoor,"tower, mosque/outdoor, skyscraper, amusement_park, church/outdoor",52138
-829,19896,outdoor,"tower, skyscraper, mosque/outdoor, amusement_park, church/outdoor",52138
-830,19920,outdoor,"tower, amusement_park, construction_site, skyscraper, mosque/outdoor",52138
-831,19944,outdoor,"tower, amusement_park, construction_site, skyscraper, wind_farm",52138
-832,19968,outdoor,"amusement_park, tower, construction_site, skyscraper, industrial_area",52138
-833,19992,outdoor,"construction_site, amusement_park, industrial_area, oilrig, skyscraper",52138
-834,20016,outdoor,"amusement_park, construction_site, oilrig, industrial_area, water_park",52138
-835,20040,outdoor,"amusement_park, water_park, tower, construction_site, skyscraper",52138
-836,20064,outdoor,"amusement_park, tower, skyscraper, wind_farm, construction_site",52138
-837,20088,outdoor,"tower, amusement_park, skyscraper, wind_farm, sky",52138
-838,20112,outdoor,"tower, skyscraper, amusement_park, bridge, sky",52138
-839,20136,outdoor,"tower, skyscraper, sky, mosque/outdoor, office_building",52138
-840,20160,outdoor,"tower, skyscraper, mosque/outdoor, sky, church/outdoor",52138
-841,20184,outdoor,"tower, skyscraper, sky, mosque/outdoor, office_building",52138
-842,20208,indoor,"conference_room, dining_room, dining_hall, living_room, movie_theater/indoor",52138
-843,20232,indoor,"conference_room, dining_room, dining_hall, living_room, movie_theater/indoor",52138
-844,20256,indoor,"conference_room, dining_room, living_room, lobby, dining_hall",52138
-845,20280,indoor,"conference_room, dining_room, dining_hall, living_room, restaurant",52138
-846,20304,indoor,"dining_room, conference_room, dining_hall, banquet_hall, restaurant",52138
-847,20328,indoor,"dining_room, conference_room, dining_hall, banquet_hall, restaurant",52138
-848,20352,indoor,"conference_room, dining_room, dining_hall, banquet_hall, living_room",52138
-849,20376,indoor,"dining_room, conference_room, dining_hall, banquet_hall, lobby",52138
-850,20400,indoor,"stage/indoor, ballroom, conference_center, discotheque, orchestra_pit",52138
-851,20424,indoor,"stage/indoor, orchestra_pit, conference_center, ballroom, auditorium",52138
-852,20448,indoor,"conference_center, legislative_chamber, conference_room, orchestra_pit, stage/indoor",52138
-853,20472,indoor,"conference_room, ballroom, conference_center, stage/indoor, orchestra_pit",52138
-854,20496,indoor,"conference_room, conference_center, orchestra_pit, legislative_chamber, ballroom",52138
-855,20520,indoor,"orchestra_pit, ballroom, conference_room, stage/indoor, conference_center",52138
-856,20544,indoor,"conference_room, orchestra_pit, conference_center, stage/indoor, ballroom",52138
-857,20568,indoor,"orchestra_pit, ballroom, conference_room, stage/indoor, conference_center",52138
-858,20592,outdoor,"fishpond, pond, botanical_garden, sky, lake/natural",52138
-859,20616,outdoor,"fishpond, pond, lake/natural, botanical_garden, sky",52138
-860,20640,outdoor,"fishpond, pond, lake/natural, botanical_garden, sky",52138
-861,20664,outdoor,"patio, restaurant_patio, pavilion, stage/outdoor, museum/outdoor",52138
-862,20688,outdoor,"patio, stage/outdoor, pavilion, restaurant_patio, campsite",52138
-863,20712,outdoor,"patio, restaurant_patio, stage/outdoor, art_school, pavilion",52138
-864,20736,outdoor,"physics_laboratory, playground, patio, construction_site, stage/outdoor",52138
-865,20760,outdoor,"stage/outdoor, patio, television_studio, physics_laboratory, playground",52138
-866,20784,indoor,"physics_laboratory, construction_site, art_studio, art_school, stage/outdoor",52138
-867,20808,outdoor,"stage/outdoor, physics_laboratory, restaurant_patio, hangar/outdoor, campsite",52138
-868,20832,outdoor,"stage/outdoor, restaurant_patio, patio, pavilion, playground",52138
-869,20856,indoor,"shower, bathroom, beauty_salon, chemistry_lab, biology_laboratory",52138
-870,20880,indoor,"television_studio, beauty_salon, conference_center, music_studio, chemistry_lab",52138
-871,20904,indoor,"shower, beauty_salon, hospital_room, nursery, mosque/outdoor",52138
-872,20928,indoor,"shower, beauty_salon, aquarium, mosque/outdoor, hospital_room",52138
-873,20952,indoor,"shower, aquarium, underwater/ocean_deep, beauty_salon, orchard",52138
-874,20976,indoor,"aquarium, shower, underwater/ocean_deep, beauty_salon, hospital_room",52138
-875,21000,indoor,"aquarium, beauty_salon, shower, hospital_room, underwater/ocean_deep",52138
-876,21024,indoor,"beauty_salon, shower, museum/indoor, aquarium, science_museum",52138
-877,21048,indoor,"shower, beauty_salon, aquarium, museum/indoor, bathroom",52138
-878,21072,outdoor,"water_tower, shower, tower, skyscraper, wind_farm",52138
-879,21096,outdoor,"landing_deck, army_base, runway, airfield, boat_deck",52138
-880,21120,outdoor,"landing_deck, army_base, runway, airfield, heliport",52138
-881,21144,outdoor,"landing_deck, army_base, runway, airfield, desert/sand",52138
-882,21168,outdoor,"landing_deck, runway, boat_deck, army_base, airfield",52138
-883,21192,outdoor,"landing_deck, runway, army_base, boat_deck, airfield",52138
-884,21216,outdoor,"landing_deck, runway, army_base, boat_deck, airfield",52138
-885,21240,outdoor,"landing_deck, runway, boat_deck, army_base, desert/sand",52138
-886,21264,outdoor,"landing_deck, airfield, runway, windmill, amusement_park",52138
-887,21288,outdoor,"landing_deck, amusement_park, gymnasium/indoor, airfield, runway",52138
-888,21312,outdoor,"airfield, landing_deck, runway, heliport, museum/outdoor",52138
-889,21336,outdoor,"landing_deck, airfield, runway, heliport, desert/sand",52138
-890,21360,indoor,"stage/outdoor, hangar/outdoor, physics_laboratory, stage/indoor, television_studio",52138
-891,21384,indoor,"stage/outdoor, hangar/outdoor, stage/indoor, television_studio, physics_laboratory",52138
-892,21408,outdoor,"museum/outdoor, stage/outdoor, television_studio, windmill, construction_site",52138
-893,21432,outdoor,"campsite, construction_site, stage/outdoor, windmill, museum/outdoor",52138
-894,21456,outdoor,"stage/outdoor, campsite, construction_site, hangar/outdoor, loading_dock",52138
-895,21480,outdoor,"stage/outdoor, television_studio, campsite, patio, construction_site",52138
-896,21504,indoor,"stage/outdoor, television_studio, patio, conference_center, music_studio",52138
-897,21528,indoor,"ball_pit, discotheque, underwater/ocean_deep, kindergarden_classroom, aquarium",52138
-898,21552,indoor,"escalator/indoor, airport_terminal, auto_showroom, shoe_shop, science_museum",52138
-899,21576,indoor,"airport_terminal, escalator/indoor, gymnasium/indoor, atrium/public, auto_showroom",52138
-900,21600,indoor,"airport_terminal, gymnasium/indoor, escalator/indoor, clean_room, server_room",52138
-901,21624,indoor,"server_room, airport_terminal, clean_room, jewelry_shop, beauty_salon",52138
-902,21648,indoor,"server_room, clean_room, airport_terminal, jewelry_shop, physics_laboratory",52138
-903,21672,indoor,"clean_room, science_museum, server_room, airport_terminal, jewelry_shop",52138
-904,21696,indoor,"jewelry_shop, science_museum, clean_room, server_room, physics_laboratory",52138
-905,21720,indoor,"clean_room, server_room, science_museum, jewelry_shop, airport_terminal",52138
-906,21744,indoor,"science_museum, clean_room, jewelry_shop, physics_laboratory, server_room",52138
-907,21768,indoor,"jewelry_shop, science_museum, clean_room, physics_laboratory, server_room",52138
-908,21792,indoor,"science_museum, natural_history_museum, jewelry_shop, clean_room, museum/indoor",52138
-909,21816,indoor,"science_museum, natural_history_museum, server_room, archive, clean_room",52138
-910,21840,indoor,"physics_laboratory, clean_room, science_museum, biology_laboratory, chemistry_lab",52138
-911,21864,indoor,"shoe_shop, science_museum, natural_history_museum, biology_laboratory, airport_terminal",52138
-912,21888,indoor,"biology_laboratory, shoe_shop, chemistry_lab, beauty_salon, jewelry_shop",52138
-913,21912,indoor,"natural_history_museum, science_museum, shoe_shop, biology_laboratory, aquarium",52138
-914,21936,indoor,"natural_history_museum, science_museum, biology_laboratory, shoe_shop, chemistry_lab",52138
-915,21960,indoor,"science_museum, natural_history_museum, discotheque, stage/indoor, music_studio",52138
-916,21984,indoor,"shoe_shop, science_museum, jewelry_shop, natural_history_museum, beauty_salon",52138
-917,22008,indoor,"natural_history_museum, shoe_shop, jewelry_shop, science_museum, beauty_salon",52138
-918,22032,indoor,"natural_history_museum, science_museum, jewelry_shop, museum/indoor, aquarium",52138
-919,22056,indoor,"atrium/public, shopping_mall/indoor, bathroom, elevator_lobby, reception",52138
-920,22080,indoor,"reception, atrium/public, bathroom, shopping_mall/indoor, lobby",52138
-921,22104,indoor,"iceberg, bathroom, jacuzzi/indoor, reception, shower",52138
-922,22128,indoor,"bathroom, shower, jacuzzi/indoor, iceberg, boat_deck",52138
-923,22152,outdoor,"bathroom, boat_deck, shower, iceberg, runway",52138
-924,22176,outdoor,"iceberg, wind_farm, boat_deck, bathroom, shower",52138
-925,22200,indoor,"shoe_shop, jewelry_shop, natural_history_museum, science_museum, art_gallery",52138
-926,22224,indoor,"shoe_shop, jewelry_shop, natural_history_museum, science_museum, art_gallery",52138
-927,22248,indoor,"shoe_shop, natural_history_museum, science_museum, jewelry_shop, museum/indoor",52138
-928,22272,indoor,"science_museum, shoe_shop, chemistry_lab, jewelry_shop, aquarium",52138
-929,22296,indoor,"jewelry_shop, science_museum, fishpond, chemistry_lab, aquarium",52138
-930,22320,indoor,"jewelry_shop, science_museum, aquarium, natural_history_museum, chemistry_lab",52138
-931,22344,indoor,"jewelry_shop, science_museum, aquarium, chemistry_lab, pond",52138
-932,22368,indoor,"natural_history_museum, science_museum, museum/indoor, shoe_shop, lake/natural",52138
-933,22392,indoor,"natural_history_museum, science_museum, shoe_shop, pond, aquarium",52138
-934,22416,indoor,"natural_history_museum, science_museum, jewelry_shop, shoe_shop, pond",52138
-935,22440,indoor,"shoe_shop, jewelry_shop, science_museum, natural_history_museum, clean_room",52138
-936,22464,outdoor,"fishpond, pond, lake/natural, jewelry_shop, aquarium",52138
-937,22488,outdoor,"fishpond, jewelry_shop, pond, aquarium, underwater/ocean_deep",52138
-938,22512,indoor,"shoe_shop, jewelry_shop, science_museum, clothing_store, staircase",52138
-939,22536,indoor,"staircase, music_studio, science_museum, shoe_shop, escalator/indoor",52138
-940,22560,indoor,"science_museum, music_studio, museum/indoor, natural_history_museum, landing_deck",52138
-941,22584,indoor,"science_museum, staircase, shoe_shop, music_studio, escalator/indoor",52138
-942,22608,indoor,"clothing_store, science_museum, shoe_shop, department_store, music_studio",52138
-943,22632,indoor,"science_museum, natural_history_museum, shoe_shop, museum/indoor, nursery",52138
-944,22656,indoor,"science_museum, stage/indoor, shoe_shop, clothing_store, museum/indoor",52138
-945,22680,indoor,"science_museum, natural_history_museum, aquarium, ice_cream_parlor, jewelry_shop",52138
-946,22704,indoor,"science_museum, escalator/indoor, ice_cream_parlor, aquarium, coffee_shop",52138
-947,22728,indoor,"escalator/indoor, science_museum, ice_cream_parlor, chemistry_lab, airport_terminal",52138
-948,22752,indoor,"escalator/indoor, science_museum, ice_cream_parlor, chemistry_lab, airport_terminal",52138
-949,22776,indoor,"escalator/indoor, ice_cream_parlor, science_museum, bakery/shop, airport_terminal",52138
-950,22800,indoor,"escalator/indoor, bakery/shop, science_museum, airport_terminal, ice_cream_parlor",52138
-951,22824,indoor,"airport_terminal, airplane_cabin, natural_history_museum, atrium/public, science_museum",52138
-952,22848,indoor,"airport_terminal, airplane_cabin, escalator/indoor, natural_history_museum, atrium/public",52138
-953,22872,indoor,"natural_history_museum, science_museum, airport_terminal, museum/indoor, escalator/indoor",52138
-954,22896,indoor,"natural_history_museum, science_museum, museum/indoor, airport_terminal, atrium/public",52138
-955,22920,indoor,"natural_history_museum, science_museum, airport_terminal, museum/indoor, jewelry_shop",52138
-956,22944,indoor,"natural_history_museum, science_museum, airport_terminal, museum/indoor, airplane_cabin",52138
-957,22968,indoor,"natural_history_museum, science_museum, museum/indoor, airport_terminal, jewelry_shop",52138
-958,22992,indoor,"natural_history_museum, science_museum, museum/indoor, jewelry_shop, art_gallery",52138
-959,23016,indoor,"natural_history_museum, science_museum, museum/indoor, art_gallery, airport_terminal",52138
-960,23040,indoor,"natural_history_museum, science_museum, museum/indoor, art_gallery, aquarium",52138
-961,23064,indoor,"natural_history_museum, science_museum, museum/indoor, art_gallery, jewelry_shop",52138
-962,23088,indoor,"natural_history_museum, science_museum, museum/indoor, atrium/public, shopping_mall/indoor",52138
-963,23112,outdoor,"fishpond, pond, aquarium, underwater/ocean_deep, lake/natural",52138
-964,23136,indoor,"playroom, nursery, living_room, recreation_room, dining_room",52138
-965,23160,indoor,"playroom, living_room, recreation_room, television_room, nursery",52138
-966,23184,indoor,"playroom, recreation_room, living_room, nursery, dining_room",52138
-967,23208,indoor,"playroom, living_room, recreation_room, dining_room, nursery",52138
-968,23232,indoor,"playroom, recreation_room, living_room, dining_room, nursery",52138
-969,23256,indoor,"playroom, nursery, recreation_room, living_room, television_room",52138
-970,23280,indoor,"playroom, living_room, dining_room, recreation_room, television_room",52138
-971,23304,indoor,"childs_room, nursery, clothing_store, playroom, home_theater",52138
-972,23328,indoor,"nursery, childs_room, home_theater, playroom, clothing_store",52138
-973,23352,indoor,"childs_room, nursery, home_theater, clothing_store, playroom",52138
-974,23376,indoor,"nursery, childs_room, playroom, home_theater, clothing_store",52138
-975,23400,indoor,"childs_room, nursery, home_theater, playroom, clothing_store",52138
-976,23424,indoor,"conference_center, legislative_chamber, television_studio, conference_room, arena/performance",52138
-977,23448,indoor,"conference_center, legislative_chamber, television_studio, arena/performance, conference_room",52138
-978,23472,indoor,"conference_center, legislative_chamber, television_studio, arena/performance, conference_room",52138
-979,23496,indoor,"museum/indoor, science_museum, natural_history_museum, art_gallery, aquarium",52138
-980,23520,indoor,"art_gallery, museum/indoor, home_theater, television_room, natural_history_museum",52138
-981,23544,indoor,"home_theater, art_gallery, museum/indoor, natural_history_museum, aquarium",52138
-982,23568,indoor,"home_theater, art_gallery, museum/indoor, aquarium, natural_history_museum",52138
-983,23592,indoor,"aquarium, museum/indoor, home_theater, art_gallery, natural_history_museum",52138
-984,23616,indoor,"home_theater, aquarium, museum/indoor, art_gallery, television_room",52138
-985,23640,indoor,"conference_center, television_studio, stage/indoor, music_studio, conference_room",52138
-986,23664,indoor,"conference_center, television_studio, conference_room, reception, legislative_chamber",52138
-987,23688,indoor,"conference_center, television_studio, reception, conference_room, stage/indoor",52138
-988,23712,indoor,"television_room, museum/indoor, aquarium, bank_vault, art_gallery",52138
-989,23736,indoor,"museum/indoor, art_gallery, television_room, aquarium, home_theater",52138
-990,23760,indoor,"television_room, aquarium, home_theater, art_gallery, museum/indoor",52138
-991,23784,indoor,"television_room, aquarium, home_theater, museum/indoor, art_gallery",52138
-992,23808,indoor,"television_room, museum/indoor, home_theater, aquarium, art_gallery",52138
-993,23832,indoor,"museum/indoor, television_room, art_gallery, home_theater, aquarium",52138
-994,23856,indoor,"museum/indoor, art_gallery, television_room, home_theater, aquarium",52138
-995,23880,indoor,"television_room, art_gallery, home_theater, museum/indoor, aquarium",52138
-996,23904,indoor,"aquarium, art_gallery, museum/indoor, television_room, home_theater",52138
-997,23928,indoor,"television_room, home_theater, aquarium, museum/indoor, art_gallery",52138
-998,23952,indoor,"hospital, nursery, hospital_room, shower, office_building",52138
-999,23976,indoor,"atrium/public, science_museum, greenhouse/outdoor, discotheque, windmill",52138
-1000,24000,indoor,"atrium/public, discotheque, music_studio, hangar/indoor, windmill",52138
-1001,24024,indoor,"atrium/public, hangar/indoor, science_museum, windmill, staircase",52138
-1002,24048,indoor,"atrium/public, hangar/indoor, windmill, shopping_mall/indoor, clothing_store",52138
-1003,24072,indoor,"ball_pit, discotheque, candy_store, bakery/shop, igloo",52138
-1004,24096,indoor,"ball_pit, bakery/shop, aquarium, candy_store, childs_room",52138
-1005,24120,indoor,"bakery/shop, ball_pit, candy_store, aquarium, ice_cream_parlor",52138
-1006,24144,indoor,"aquarium, ball_pit, underwater/ocean_deep, discotheque, fishpond",52138
-1007,24168,indoor,"aquarium, bakery/shop, ball_pit, childs_room, underwater/ocean_deep",52138
-1008,24192,indoor,"childs_room, igloo, bakery/shop, ball_pit, underwater/ocean_deep",52138
-1009,24216,indoor,"ball_pit, aquarium, underwater/ocean_deep, bakery/shop, childs_room",52138
-1010,24240,indoor,"ball_pit, aquarium, discotheque, childs_room, bakery/shop",52138
-1011,24264,indoor,"childs_room, bakery/shop, ball_pit, aquarium, underwater/ocean_deep",52138
-1012,24288,indoor,"aquarium, underwater/ocean_deep, bakery/shop, childs_room, ball_pit",52138
-1013,24312,indoor,"childs_room, aquarium, bakery/shop, kindergarden_classroom, underwater/ocean_deep",52138
-1014,24336,outdoor,"pond, museum/indoor, underwater/ocean_deep, fishpond, marsh",52138
-1015,24360,outdoor,"pond, lake/natural, fishpond, underwater/ocean_deep, marsh",52138
-1016,24384,outdoor,"pond, fishpond, marsh, lake/natural, underwater/ocean_deep",52138
-1017,24408,outdoor,"pond, fishpond, marsh, lake/natural, underwater/ocean_deep",52138
-1018,24432,outdoor,"pond, fishpond, lake/natural, marsh, watering_hole",52138
-1019,24456,outdoor,"pond, marsh, fishpond, watering_hole, lake/natural",52138
-1020,24480,outdoor,"pond, marsh, fishpond, watering_hole, bank_vault",52138
-1021,24504,outdoor,"pond, marsh, watering_hole, lake/natural, fishpond",52138
-1022,24528,outdoor,"pond, marsh, bank_vault, watering_hole, lake/natural",52138
-1023,24552,outdoor,"shower, bank_vault, marsh, watering_hole, pond",52138
-1024,24576,indoor,"museum/indoor, shower, art_gallery, science_museum, natural_history_museum",52138
-1025,24600,indoor,"museum/indoor, science_museum, natural_history_museum, art_gallery, pond",52138
-1026,24624,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, shower",52138
-1027,24648,indoor,"museum/indoor, science_museum, shower, art_gallery, natural_history_museum",52138
-1028,24672,indoor,"museum/indoor, science_museum, pond, art_gallery, shower",52138
-1029,24696,indoor,"museum/indoor, pond, science_museum, art_gallery, underwater/ocean_deep",52138
-1030,24720,indoor,"museum/indoor, art_gallery, pond, science_museum, natural_history_museum",52138
-1031,24744,indoor,"museum/indoor, art_gallery, pond, science_museum, natural_history_museum",52138
-1032,24768,outdoor,"pond, lake/natural, museum/indoor, marsh, art_gallery",52138
-1033,24792,indoor,"art_gallery, museum/indoor, pond, lake/natural, science_museum",52138
-1034,24816,indoor,"art_gallery, museum/indoor, clean_room, corridor, pond",52138
-1035,24840,indoor,"science_museum, clean_room, engine_room, physics_laboratory, auto_factory",52138
-1036,24864,indoor,"engine_room, clean_room, bank_vault, science_museum, auto_factory",52138
-1037,24888,indoor,"engine_room, repair_shop, auto_factory, assembly_line, science_museum",52138
-1038,24912,indoor,"discotheque, stage/indoor, aquarium, music_studio, pet_shop",52138
-1039,24936,indoor,"shower, bathroom, clean_room, alcove, closet",52138
-1040,24960,indoor,"shower, bathroom, clean_room, alcove, closet",52138
-1041,24984,indoor,"shower, bathroom, clean_room, dressing_room, locker_room",52138
-1042,25008,indoor,"dressing_room, stage/indoor, shower, discotheque, music_studio",52138
-1043,25032,indoor,"clean_room, dressing_room, shower, bathroom, clothing_store",52138
-1044,25056,indoor,"clean_room, shower, dressing_room, elevator/door, locker_room",52138
-1045,25080,indoor,"clean_room, alcove, science_museum, dressing_room, airplane_cabin",52138
-1046,25104,indoor,"clean_room, airplane_cabin, alcove, operating_room, berth",52138
-1047,25128,indoor,"clean_room, shower, airplane_cabin, dressing_room, operating_room",52138
-1048,25152,indoor,"clean_room, airplane_cabin, dressing_room, shower, elevator/door",52138
-1049,25176,indoor,"airplane_cabin, amusement_arcade, discotheque, clean_room, science_museum",52138
-1050,25200,outdoor,"water_tower, wind_farm, arch, shower, pharmacy",52138
-1051,25224,indoor,"water_tower, pharmacy, drugstore, laundromat, utility_room",52138
-1052,25248,indoor,"beauty_salon, ice_cream_parlor, chemistry_lab, jewelry_shop, cafeteria",52138
-1053,25272,indoor,"beauty_salon, cafeteria, chemistry_lab, ice_cream_parlor, restaurant",52138
-1054,25296,indoor,"beauty_salon, restaurant, cafeteria, food_court, banquet_hall",52138
-1055,25320,indoor,"cafeteria, food_court, restaurant, banquet_hall, chemistry_lab",52138
-1056,25344,indoor,"chemistry_lab, clean_room, biology_laboratory, beauty_salon, cafeteria",52138
-1057,25368,indoor,"chemistry_lab, biology_laboratory, cafeteria, restaurant, bar",52138
-1058,25392,indoor,"chemistry_lab, biology_laboratory, ice_cream_parlor, beauty_salon, banquet_hall",52138
-1059,25416,indoor,"laundromat, locker_room, utility_room, dressing_room, beauty_salon",52138
-1060,25440,indoor,"laundromat, locker_room, utility_room, dressing_room, beauty_salon",52138
-1061,25464,indoor,"laundromat, locker_room, utility_room, dressing_room, beauty_salon",52138
-1062,25488,indoor,"laundromat, beauty_salon, locker_room, dressing_room, clean_room",52138
-1063,25512,indoor,"laundromat, utility_room, beauty_salon, biology_laboratory, clean_room",52138
-1064,25536,indoor,"laundromat, utility_room, clean_room, science_museum, locker_room",52138
-1065,25560,indoor,"clean_room, chemistry_lab, repair_shop, biology_laboratory, physics_laboratory",52138
-1066,25584,indoor,"clean_room, engine_room, repair_shop, auto_factory, jacuzzi/indoor",52138
-1067,25608,indoor,"cockpit, clean_room, car_interior, auto_factory, repair_shop",52138
-1068,25632,indoor,"engine_room, cockpit, auto_factory, repair_shop, clean_room",52138
-1069,25656,indoor,"engine_room, repair_shop, auto_factory, clean_room, boat_deck",52138
-1070,25680,indoor,"office, office_cubicles, airport_terminal, conference_room, clean_room",52138
-1071,25704,indoor,"clean_room, beauty_salon, dressing_room, office, office_cubicles",52138
-1072,25728,indoor,"beauty_salon, dressing_room, clean_room, laundromat, shower",52138
-1073,25752,indoor,"beauty_salon, music_studio, dressing_room, clothing_store, office",52138
-1074,25776,indoor,"elevator/door, office, clean_room, dressing_room, office_cubicles",52138
-1075,25800,indoor,"airplane_cabin, clean_room, coffee_shop, beauty_salon, conference_center",52138
-1076,25824,indoor,"clean_room, jewelry_shop, beauty_salon, dressing_room, shower",52138
-1077,25848,indoor,"clean_room, shower, beauty_salon, office, dressing_room",52138
-1078,25872,indoor,"clean_room, shower, beauty_salon, bathroom, artists_loft",52138
-1079,25896,indoor,"elevator/door, shower, bathroom, laundromat, elevator_lobby",52138
-1080,25920,indoor,"dressing_room, bathroom, beauty_salon, shower, sauna",52138
-1081,25944,indoor,"dressing_room, bathroom, shower, beauty_salon, jacuzzi/indoor",52138
-1082,25968,indoor,"dressing_room, bathroom, beauty_salon, shower, clean_room",52138
-1083,25992,indoor,"beauty_salon, dressing_room, reception, bathroom, office_cubicles",52138
-1084,26016,indoor,"dressing_room, beauty_salon, bathroom, reception, shower",52138
-1085,26040,indoor,"dressing_room, beauty_salon, bathroom, reception, office",52138
-1086,26064,indoor,"beauty_salon, dressing_room, bathroom, reception, office",52138
-1087,26088,indoor,"beauty_salon, dressing_room, bathroom, reception, office",52138
-1088,26112,indoor,"dressing_room, beauty_salon, bathroom, shower, reception",52138
-1089,26136,indoor,"beauty_salon, clean_room, laundromat, hospital_room, operating_room",52138
-1090,26160,indoor,"beauty_salon, hospital_room, clean_room, office, operating_room",52138
-1091,26184,indoor,"beauty_salon, hospital_room, clean_room, laundromat, operating_room",52138
-1092,26208,indoor,"beauty_salon, clean_room, hospital_room, laundromat, operating_room",52138
-1093,26232,indoor,"science_museum, discotheque, aquarium, ball_pit, natural_history_museum",52138
-1094,26256,indoor,"discotheque, stage/indoor, shower, sauna, television_studio",52138
-1095,26280,indoor,"clean_room, dressing_room, gymnasium/indoor, locker_room, museum/indoor",52138
-1096,26304,indoor,"dressing_room, locker_room, clean_room, gymnasium/indoor, shower",52138
-1097,26328,indoor,"clean_room, dressing_room, locker_room, gymnasium/indoor, shower",52138
-1098,26352,indoor,"gymnasium/indoor, dressing_room, locker_room, shower, clean_room",52138
-1099,26376,indoor,"dressing_room, locker_room, gymnasium/indoor, clean_room, shower",52138
-1100,26400,indoor,"locker_room, dressing_room, gymnasium/indoor, shower, elevator/door",52138
-1101,26424,indoor,"gymnasium/indoor, locker_room, dressing_room, shower, clean_room",52138
-1102,26448,indoor,"gymnasium/indoor, dressing_room, locker_room, shower, playroom",52138
-1103,26472,indoor,"shower, water_tower, utility_room, laundromat, museum/indoor",52138
-1104,26496,indoor,"water_tower, shower, laundromat, utility_room, museum/indoor",52138
-1105,26520,indoor,"water_tower, shower, laundromat, utility_room, museum/indoor",52138
-1106,26544,indoor,"water_tower, shower, laundromat, utility_room, natural_history_museum",52138
-1107,26568,indoor,"pharmacy, elevator/door, hospital, drugstore, office_cubicles",52138
-1108,26592,indoor,"pharmacy, elevator/door, hospital, drugstore, office_cubicles",52138
-1109,26616,indoor,"elevator/door, pharmacy, drugstore, hospital, server_room",52138
-1110,26640,indoor,"water_tower, elevator/door, wind_farm, airplane_cabin, utility_room",52138
-1111,26664,indoor,"wind_farm, water_tower, elevator/door, laundromat, utility_room",52138
-1112,26688,outdoor,"wind_farm, water_tower, elevator/door, airplane_cabin, arch",52138
-1113,26712,indoor,"clean_room, bank_vault, shower, museum/indoor, alcove",52138
-1114,26736,indoor,"shower, clean_room, bank_vault, museum/indoor, gymnasium/indoor",52138
-1115,26760,indoor,"shower, music_studio, clean_room, jewelry_shop, television_studio",52138
-1116,26784,indoor,"shower, bathroom, clean_room, dressing_room, hospital_room",52138
-1117,26808,indoor,"shower, bathroom, bank_vault, clean_room, utility_room",52138
-1118,26832,indoor,"shower, clean_room, bank_vault, jewelry_shop, bathroom",52138
-1119,26856,indoor,"clothing_store, jewelry_shop, shower, science_museum, bathroom",52138
-1120,26880,indoor,"shower, nursery, clothing_store, childs_room, bathroom",52138
-1121,26904,indoor,"shower, beauty_salon, hospital_room, airplane_cabin, television_studio",52138
-1122,26928,indoor,"clothing_store, dressing_room, department_store, beauty_salon, jewelry_shop",52138
-1123,26952,indoor,"clothing_store, dressing_room, television_studio, beauty_salon, music_studio",52138
-1124,26976,indoor,"clothing_store, dressing_room, shower, clean_room, shoe_shop",52138
-1125,27000,indoor,"clothing_store, shower, jewelry_shop, dressing_room, shoe_shop",52138
-1126,27024,indoor,"clothing_store, jewelry_shop, dressing_room, shoe_shop, shower",52138
-1127,27048,indoor,"jewelry_shop, clothing_store, shower, shoe_shop, art_studio",52138
-1128,27072,indoor,"clothing_store, jewelry_shop, dressing_room, shower, science_museum",52138
-1129,27096,indoor,"clothing_store, jewelry_shop, dressing_room, artists_loft, shower",52138
-1130,27120,indoor,"clothing_store, shower, jewelry_shop, dressing_room, science_museum",52138
-1131,27144,indoor,"clothing_store, shower, jewelry_shop, dressing_room, shoe_shop",52138
-1132,27168,indoor,"boat_deck, airplane_cabin, bathroom, utility_room, train_interior",52138
-1133,27192,indoor,"boat_deck, airplane_cabin, natural_history_museum, science_museum, shower",52138
-1134,27216,indoor,"boat_deck, bathroom, science_museum, natural_history_museum, shower",52138
-1135,27240,indoor,"boat_deck, lobby, natural_history_museum, science_museum, art_gallery",52138
-1136,27264,indoor,"art_gallery, artists_loft, art_studio, museum/indoor, playroom",52138
-1137,27288,indoor,"art_gallery, artists_loft, art_studio, museum/indoor, playroom",52138
-1138,27312,indoor,"art_gallery, artists_loft, art_studio, museum/indoor, playroom",52138
-1139,27336,indoor,"airplane_cabin, utility_room, attic, home_office, recreation_room",52138
-1140,27360,indoor,"airplane_cabin, playroom, childs_room, utility_room, nursery",52138
-1141,27384,indoor,"airplane_cabin, recreation_room, playroom, bus_interior, amusement_arcade",52138
-1142,27408,indoor,"jewelry_shop, science_museum, physics_laboratory, airplane_cabin, amusement_arcade",52138
-1143,27432,indoor,"recreation_room, jewelry_shop, airplane_cabin, amusement_arcade, bus_interior",52138
-1144,27456,indoor,"airplane_cabin, cockpit, amusement_arcade, bus_interior, recreation_room",52138
-1145,27480,indoor,"airplane_cabin, cockpit, amusement_arcade, recreation_room, attic",52138
-1146,27504,indoor,"airplane_cabin, cockpit, recreation_room, amusement_arcade, television_room",52138
-1147,27528,indoor,"airplane_cabin, cockpit, amusement_arcade, recreation_room, television_room",52138
-1148,27552,indoor,"airplane_cabin, cockpit, recreation_room, amusement_arcade, television_room",52138
-1149,27576,indoor,"airplane_cabin, recreation_room, cockpit, amusement_arcade, television_room",52138
-1150,27600,indoor,"television_room, airplane_cabin, childs_room, recreation_room, living_room",52138
-1151,27624,indoor,"airplane_cabin, amusement_arcade, recreation_room, utility_room, clean_room",52138
-1152,27648,indoor,"airplane_cabin, train_interior, butchers_shop, galley, laundromat",52138
-1153,27672,indoor,"airplane_cabin, laundromat, ice_cream_parlor, amusement_arcade, utility_room",52138
-1154,27696,indoor,"airplane_cabin, laundromat, train_interior, galley, utility_room",52138
-1155,27720,indoor,"laundromat, airplane_cabin, utility_room, train_interior, ice_cream_parlor",52138
-1156,27744,indoor,"laundromat, airplane_cabin, ice_cream_parlor, utility_room, jewelry_shop",52138
-1157,27768,indoor,"airplane_cabin, laundromat, utility_room, ice_cream_parlor, jewelry_shop",52138
-1158,27792,indoor,"airplane_cabin, laundromat, utility_room, ice_cream_parlor, jewelry_shop",52138
-1159,27816,indoor,"airplane_cabin, laundromat, ice_cream_parlor, utility_room, jewelry_shop",52138
-1160,27840,indoor,"airplane_cabin, laundromat, ice_cream_parlor, train_interior, utility_room",52138
-1161,27864,indoor,"nursery, igloo, hospital_room, drugstore, pharmacy",52138
-1162,27888,indoor,"hospital_room, beauty_salon, pharmacy, water_tower, reception",52138
-1163,27912,indoor,"hospital_room, beauty_salon, pharmacy, water_tower, operating_room",52138
-1164,27936,indoor,"attic, greenhouse/indoor, greenhouse/outdoor, jewelry_shop, recreation_room",52138
-1165,27960,indoor,"greenhouse/indoor, greenhouse/outdoor, attic, jewelry_shop, bathroom",52138
-1166,27984,indoor,"attic, jewelry_shop, greenhouse/indoor, greenhouse/outdoor, flea_market/indoor",52138
-1167,28008,indoor,"jewelry_shop, greenhouse/indoor, attic, recreation_room, greenhouse/outdoor",52138
-1168,28032,indoor,"greenhouse/indoor, greenhouse/outdoor, flea_market/indoor, recreation_room, attic",52138
-1169,28056,indoor,"attic, greenhouse/indoor, greenhouse/outdoor, jewelry_shop, recreation_room",52138
-1170,28080,indoor,"greenhouse/indoor, greenhouse/outdoor, attic, recreation_room, jewelry_shop",52138
-1171,28104,indoor,"greenhouse/indoor, attic, greenhouse/outdoor, bathroom, jacuzzi/indoor",52138
-1172,28128,indoor,"greenhouse/outdoor, greenhouse/indoor, aquarium, shower, discotheque",52138
-1173,28152,indoor,"greenhouse/outdoor, greenhouse/indoor, shower, aquarium, discotheque",52138
-1174,28176,indoor,"greenhouse/outdoor, greenhouse/indoor, shower, aquarium, discotheque",52138
-1175,28200,indoor,"greenhouse/outdoor, greenhouse/indoor, shower, aquarium, discotheque",52138
-1176,28224,indoor,"greenhouse/outdoor, shower, greenhouse/indoor, discotheque, aquarium",52138
-1177,28248,indoor,"aquarium, shower, greenhouse/outdoor, discotheque, greenhouse/indoor",52138
-1178,28272,indoor,"shower, discotheque, aquarium, greenhouse/outdoor, greenhouse/indoor",52138
-1179,28296,indoor,"aquarium, shower, discotheque, underwater/ocean_deep, swimming_pool/indoor",52138
-1180,28320,indoor,"bus_interior, airplane_cabin, car_interior, train_interior, greenhouse/indoor",52138
-1181,28344,indoor,"bus_interior, airplane_cabin, car_interior, aquarium, beauty_salon",52138
-1182,28368,indoor,"bus_interior, airplane_cabin, aquarium, beauty_salon, car_interior",52138
-1183,28392,indoor,"bus_interior, aquarium, beauty_salon, airplane_cabin, car_interior",52138
-1184,28416,indoor,"bus_interior, airplane_cabin, aquarium, car_interior, greenhouse/outdoor",52138
-1185,28440,indoor,"aquarium, discotheque, airplane_cabin, greenhouse/outdoor, underwater/ocean_deep",52138
-1186,28464,indoor,"ball_pit, discotheque, candy_store, kindergarden_classroom, playroom",52138
-1187,28488,indoor,"water_tower, wind_farm, airplane_cabin, elevator/door, pharmacy",52138
-1188,28512,indoor,"water_tower, wind_farm, elevator/door, airplane_cabin, shower",52138
-1189,28536,indoor,"water_tower, airplane_cabin, elevator/door, laundromat, wind_farm",52138
-1190,28560,indoor,"computer_room, attic, airplane_cabin, cockpit, server_room",52138
-1191,28584,indoor,"computer_room, airplane_cabin, cockpit, server_room, attic",52138
-1192,28608,indoor,"computer_room, airplane_cabin, cockpit, server_room, attic",52138
-1193,28632,indoor,"computer_room, airplane_cabin, attic, cockpit, server_room",52138
-1194,28656,indoor,"computer_room, airplane_cabin, attic, cockpit, server_room",52138
-1195,28680,indoor,"computer_room, attic, airplane_cabin, server_room, cockpit",52138
-1196,28704,indoor,"computer_room, airplane_cabin, attic, server_room, cockpit",52138
-1197,28728,indoor,"booth/indoor, childs_room, clean_room, operating_room, hospital_room",52138
-1198,28752,indoor,"clean_room, childs_room, operating_room, hospital_room, booth/indoor",52138
-1199,28776,indoor,"clean_room, booth/indoor, operating_room, television_studio, childs_room",52138
-1200,28800,indoor,"clean_room, booth/indoor, childs_room, television_studio, operating_room",52138
-1201,28824,indoor,"reception, booth/indoor, television_studio, clean_room, server_room",52138
-1202,28848,indoor,"clean_room, booth/indoor, reception, pharmacy, operating_room",52138
-1203,28872,indoor,"clean_room, booth/indoor, operating_room, pharmacy, drugstore",52138
-1204,28896,indoor,"clean_room, booth/indoor, operating_room, server_room, hospital_room",52138
-1205,28920,indoor,"office, office_cubicles, clean_room, biology_laboratory, train_interior",52138
-1206,28944,indoor,"office, office_cubicles, clean_room, train_interior, television_studio",52138
-1207,28968,indoor,"hospital_room, operating_room, clean_room, office, airplane_cabin",52138
-1208,28992,indoor,"hospital_room, clean_room, office, operating_room, train_interior",52138
-1209,29016,indoor,"clean_room, operating_room, hospital_room, airplane_cabin, office",52138
-1210,29040,indoor,"clean_room, office, biology_laboratory, office_cubicles, physics_laboratory",52138
-1211,29064,indoor,"drugstore, pharmacy, beauty_salon, archive, science_museum",52138
-1212,29088,indoor,"drugstore, pharmacy, beauty_salon, archive, science_museum",52138
-1213,29112,indoor,"drugstore, pharmacy, beauty_salon, archive, science_museum",52138
-1214,29136,indoor,"drugstore, pharmacy, beauty_salon, archive, server_room",52138
-1215,29160,indoor,"drugstore, pharmacy, beauty_salon, archive, science_museum",52138
-1216,29184,indoor,"drugstore, pharmacy, archive, beauty_salon, server_room",52138
-1217,29208,indoor,"drugstore, pharmacy, archive, beauty_salon, science_museum",52138
-1218,29232,indoor,"drugstore, booth/indoor, pharmacy, beauty_salon, hospital_room",52138
-1219,29256,indoor,"drugstore, booth/indoor, beauty_salon, pharmacy, hospital_room",52138
-1220,29280,indoor,"booth/indoor, drugstore, museum/indoor, jewelry_shop, science_museum",52138
-1221,29304,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",52138
-1222,29328,indoor,"museum/indoor, art_gallery, science_museum, natural_history_museum, jewelry_shop",52138
-1223,29352,indoor,"museum/indoor, art_gallery, science_museum, natural_history_museum, lake/natural",52138
-1224,29376,indoor,"museum/indoor, art_gallery, pond, lake/natural, science_museum",52138
-1225,29400,indoor,"museum/indoor, art_gallery, science_museum, natural_history_museum, arena/performance",52138
-1226,29424,outdoor,"lake/natural, pond, fishpond, science_museum, marsh",52138
-1227,29448,outdoor,"science_museum, lake/natural, pond, museum/indoor, fishpond",52138
-1228,29472,outdoor,"science_museum, museum/indoor, pond, lake/natural, oilrig",52138
-1229,29496,outdoor,"pond, science_museum, lake/natural, marsh, museum/indoor",52138
-1230,29520,indoor,"arena/performance, music_studio, orchestra_pit, stage/indoor, science_museum",52138
-1231,29544,indoor,"science_museum, music_studio, museum/indoor, natural_history_museum, shoe_shop",52138
-1232,29568,indoor,"bank_vault, science_museum, jewelry_shop, runway, airport_terminal",52138
-1233,29592,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, conference_room",52138
-1234,29616,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1235,29640,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1236,29664,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1237,29688,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, cockpit",52138
-1238,29712,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, cockpit",52138
-1239,29736,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, cockpit",52138
-1240,29760,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, cockpit",52138
-1241,29784,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, cockpit",52138
-1242,29808,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1243,29832,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1244,29856,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1245,29880,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, laundromat",52138
-1246,29904,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1247,29928,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1248,29952,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1249,29976,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, cockpit",52138
-1250,30000,indoor,"ice_cream_parlor, clean_room, laundromat, coffee_shop, airplane_cabin",52138
-1251,30024,indoor,"ice_cream_parlor, clean_room, laundromat, airplane_cabin, coffee_shop",52138
-1252,30048,indoor,"ice_cream_parlor, clean_room, coffee_shop, bakery/shop, natural_history_museum",52138
-1253,30072,indoor,"ice_cream_parlor, clean_room, coffee_shop, natural_history_museum, laundromat",52138
-1254,30096,indoor,"ice_cream_parlor, clean_room, laundromat, biology_laboratory, coffee_shop",52138
-1255,30120,indoor,"ice_cream_parlor, science_museum, natural_history_museum, office_cubicles, clean_room",52138
-1256,30144,indoor,"ice_cream_parlor, science_museum, natural_history_museum, cafeteria, restaurant",52138
-1257,30168,indoor,"airplane_cabin, train_interior, bus_interior, car_interior, laundromat",52138
-1258,30192,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1259,30216,indoor,"airplane_cabin, train_interior, bus_interior, laundromat, car_interior",52138
-1260,30240,indoor,"discotheque, ball_pit, vineyard, stage/indoor, field/wild",52138
-1261,30264,indoor,"arena/performance, stage/indoor, tower, airport_terminal, skyscraper",52138
-1262,30288,outdoor,"arena/performance, tower, skyscraper, stage/indoor, harbor",52138
-1263,30312,outdoor,"arena/performance, tower, skyscraper, stage/indoor, water_tower",52138
-1264,30336,outdoor,"tower, water_tower, skyscraper, shower, arena/performance",52138
-1265,30360,outdoor,"tower, shower, skyscraper, water_tower, arena/performance",52138
-1266,30384,outdoor,"skyscraper, shower, tower, water_tower, arena/performance",52138
-1267,30408,indoor,"shower, tower, skyscraper, arena/performance, science_museum",52138
-1268,30432,outdoor,"shower, arena/performance, wind_farm, tower, skyscraper",52138
-1269,30456,indoor,"shower, tower, skyscraper, arena/performance, museum/indoor",52138
-1270,30480,indoor,"shower, arena/performance, museum/indoor, skyscraper, tower",52138
-1271,30504,indoor,"science_museum, clean_room, shower, museum/indoor, chemistry_lab",52138
-1272,30528,indoor,"science_museum, clean_room, shower, museum/indoor, chemistry_lab",52138
-1273,30552,indoor,"science_museum, clean_room, shower, museum/indoor, chemistry_lab",52138
-1274,30576,indoor,"shower, science_museum, clean_room, museum/indoor, chemistry_lab",52138
-1275,30600,indoor,"shower, science_museum, clean_room, chemistry_lab, museum/indoor",52138
-1276,30624,indoor,"shower, science_museum, clean_room, chemistry_lab, underwater/ocean_deep",52138
-1277,30648,indoor,"shower, science_museum, chemistry_lab, underwater/ocean_deep, clean_room",52138
-1278,30672,indoor,"shower, science_museum, chemistry_lab, clean_room, underwater/ocean_deep",52138
-1279,30696,indoor,"shower, chemistry_lab, science_museum, clean_room, jewelry_shop",52138
-1280,30720,indoor,"shower, chemistry_lab, bathroom, clean_room, science_museum",52138
-1281,30744,indoor,"shower, chemistry_lab, bathroom, underwater/ocean_deep, jewelry_shop",52138
-1282,30768,indoor,"shower, chemistry_lab, clean_room, science_museum, bathroom",52138
-1283,30792,indoor,"clothing_store, shoe_shop, science_museum, jewelry_shop, biology_laboratory",52138
-1284,30816,indoor,"physics_laboratory, chemistry_lab, biology_laboratory, science_museum, airport_terminal",52138
-1285,30840,indoor,"clothing_store, science_museum, discotheque, arena/performance, jewelry_shop",52138
-1286,30864,indoor,"clothing_store, science_museum, jewelry_shop, airport_terminal, shopping_mall/indoor",52138
-1287,30888,indoor,"physics_laboratory, clothing_store, jewelry_shop, shopping_mall/indoor, music_studio",52138
-1288,30912,indoor,"clothing_store, jewelry_shop, shopping_mall/indoor, airport_terminal, atrium/public",52138
-1289,30936,indoor,"arena/performance, clothing_store, airport_terminal, music_studio, discotheque",52138
-1290,30960,indoor,"discotheque, underwater/ocean_deep, sky, aquarium, stage/indoor",52138
-1291,30984,indoor,"reception, art_gallery, office, lobby, museum/indoor",52138
-1292,31008,indoor,"reception, lobby, office, elevator_lobby, entrance_hall",52138
-1293,31032,indoor,"lobby, clean_room, airport_terminal, office, entrance_hall",52138
-1294,31056,indoor,"hospital, clean_room, airport_terminal, conference_center, hospital_room",52138
-1295,31080,indoor,"office, lobby, elevator/door, reception, elevator_lobby",52138
-1296,31104,indoor,"clean_room, office, lobby, reception, museum/indoor",52138
-1297,31128,indoor,"clean_room, reception, hospital_room, office, corridor",52138
-1298,31152,indoor,"clean_room, museum/indoor, art_gallery, elevator/door, elevator_lobby",52138
-1299,31176,indoor,"elevator/door, elevator_lobby, corridor, museum/indoor, entrance_hall",52138
-1300,31200,indoor,"elevator/door, airport_terminal, clean_room, server_room, elevator_lobby",52138
-1301,31224,indoor,"corridor, elevator/door, museum/indoor, art_gallery, elevator_lobby",52138
-1302,31248,outdoor,"amusement_park, racecourse, stage/outdoor, water_park, plaza",52138
-1303,31272,outdoor,"stage/outdoor, racecourse, amusement_park, water_park, plaza",52138
-1304,31296,outdoor,"stage/outdoor, racecourse, amusement_park, water_park, plaza",52138
-1305,31320,outdoor,"stage/outdoor, racecourse, amusement_park, water_park, plaza",52138
-1306,31344,outdoor,"stage/outdoor, amusement_park, racecourse, water_park, plaza",52138
-1307,31368,outdoor,"water_park, amusement_park, stage/outdoor, racecourse, plaza",52138
-1308,31392,outdoor,"racecourse, amusement_park, stage/outdoor, water_park, plaza",52138
-1309,31416,indoor,"discotheque, orchestra_pit, music_studio, stage/indoor, bar",52138
-1310,31440,indoor,"orchestra_pit, music_studio, discotheque, stage/indoor, television_studio",52138
-1311,31464,indoor,"conference_room, orchestra_pit, music_studio, television_studio, discotheque",52138
-1312,31488,indoor,"orchestra_pit, conference_room, music_studio, discotheque, television_studio",52138
-1313,31512,indoor,"orchestra_pit, music_studio, discotheque, stage/indoor, television_studio",52138
-1314,31536,indoor,"bank_vault, natural_history_museum, aquarium, science_museum, home_theater",52138
-1315,31560,indoor,"aquarium, natural_history_museum, bank_vault, science_museum, server_room",52138
-1316,31584,indoor,"natural_history_museum, bank_vault, science_museum, clean_room, aquarium",52138
-1317,31608,indoor,"natural_history_museum, museum/indoor, science_museum, clean_room, jewelry_shop",52138
-1318,31632,indoor,"natural_history_museum, museum/indoor, shoe_shop, jewelry_shop, clean_room",52138
-1319,31656,indoor,"art_gallery, jewelry_shop, museum/indoor, natural_history_museum, science_museum",52138
-1320,31680,indoor,"art_gallery, lobby, airport_terminal, shoe_shop, jewelry_shop",52138
-1321,31704,indoor,"shoe_shop, jewelry_shop, art_gallery, lobby, clothing_store",52138
-1322,31728,indoor,"jewelry_shop, art_gallery, museum/indoor, natural_history_museum, science_museum",52138
-1323,31752,indoor,"jewelry_shop, shower, art_gallery, childs_room, bathroom",52138
-1324,31776,indoor,"jewelry_shop, shower, art_gallery, bathroom, museum/indoor",52138
-1325,31800,indoor,"jewelry_shop, shower, art_gallery, underwater/ocean_deep, ice_floe",52138
-1326,31824,indoor,"jewelry_shop, shower, art_gallery, museum/indoor, bathroom",52138
-1327,31848,indoor,"jewelry_shop, shower, art_gallery, underwater/ocean_deep, bathroom",52138
-1328,31872,indoor,"arena/performance, stage/indoor, auditorium, ice_skating_rink/indoor, discotheque",52138
-1329,31896,indoor,"arena/performance, stage/indoor, auditorium, ice_skating_rink/indoor, discotheque",52138
-1330,31920,indoor,"stage/indoor, arena/performance, auditorium, ice_skating_rink/indoor, discotheque",52138
-1331,31944,indoor,"arena/performance, stage/indoor, ice_skating_rink/indoor, auditorium, airport_terminal",52138
-1332,31968,indoor,"museum/indoor, science_museum, natural_history_museum, art_gallery, lake/natural",52138
-1333,31992,outdoor,"lake/natural, ice_floe, pond, watering_hole, museum/indoor",52138
-1334,32016,outdoor,"museum/indoor, natural_history_museum, watering_hole, lake/natural, ice_floe",52138
-1335,32040,indoor,"natural_history_museum, museum/indoor, science_museum, watering_hole, ice_floe",52138
-1336,32064,indoor,"natural_history_museum, science_museum, museum/indoor, art_gallery, lake/natural",52138
-1337,32088,indoor,"natural_history_museum, science_museum, museum/indoor, shoe_shop, art_gallery",52138
-1338,32112,indoor,"shoe_shop, science_museum, arena/performance, natural_history_museum, museum/indoor",52138
-1339,32136,indoor,"arena/performance, shoe_shop, science_museum, art_gallery, museum/indoor",52138
-1340,32160,indoor,"restaurant, dining_hall, cafeteria, sushi_bar, food_court",52138
-1341,32184,indoor,"sushi_bar, cafeteria, dining_hall, restaurant, food_court",52138
-1342,32208,indoor,"cafeteria, restaurant, dining_hall, sushi_bar, beer_hall",52138
-1343,32232,indoor,"cafeteria, restaurant, dining_hall, sushi_bar, beer_hall",52138
-1344,32256,indoor,"cafeteria, restaurant, dining_hall, sushi_bar, food_court",52138
-1345,32280,indoor,"cafeteria, sushi_bar, restaurant, dining_hall, beer_hall",52138
-1346,32304,indoor,"chemistry_lab, shower, clean_room, museum/indoor, biology_laboratory",52138
-1347,32328,indoor,"chemistry_lab, museum/indoor, clean_room, shower, art_gallery",52138
-1348,32352,indoor,"science_museum, fishpond, art_gallery, lake/natural, museum/indoor",52138
-1349,32376,outdoor,"fishpond, science_museum, pond, lake/natural, bakery/shop",52138
-1350,32400,outdoor,"fishpond, pond, lake/natural, childs_room, oilrig",52138
-1351,32424,indoor,"airplane_cabin, cockpit, bus_interior, car_interior, train_interior",52138
-1352,32448,indoor,"airplane_cabin, cockpit, car_interior, bus_interior, train_interior",52138
-1353,32472,indoor,"cockpit, airplane_cabin, car_interior, bus_interior, repair_shop",52138
-1354,32496,indoor,"airplane_cabin, cockpit, car_interior, bus_interior, train_interior",52138
-1355,32520,indoor,"cockpit, airplane_cabin, car_interior, music_studio, bus_interior",52138
-1356,32544,indoor,"cockpit, airplane_cabin, music_studio, television_studio, car_interior",52138
-1357,32568,indoor,"cockpit, music_studio, television_studio, airplane_cabin, repair_shop",52138
-1358,32592,indoor,"cockpit, television_studio, music_studio, airplane_cabin, repair_shop",52138
-1359,32616,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",52138
-1360,32640,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",52138
-1361,32664,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",52138
-1362,32688,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",52138
-1363,32712,indoor,"natural_history_museum, museum/indoor, science_museum, art_gallery, jewelry_shop",52138
-1364,32736,indoor,"natural_history_museum, museum/indoor, science_museum, jewelry_shop, art_gallery",52138
-1365,32760,indoor,"natural_history_museum, museum/indoor, science_museum, jewelry_shop, art_gallery",52138
-1366,32784,outdoor,"aquarium, underwater/ocean_deep, science_museum, pond, fishpond",52138
-1367,32808,outdoor,"underwater/ocean_deep, aquarium, science_museum, pond, ice_floe",52138
-1368,32832,outdoor,"underwater/ocean_deep, aquarium, science_museum, ice_floe, pond",52138
-1369,32856,indoor,"underwater/ocean_deep, aquarium, science_museum, ice_floe, bakery/shop",52138
-1370,32880,outdoor,"ski_slope, mountain_snowy, arena/performance, ski_resort, ice_skating_rink/outdoor",52138
-1371,32904,outdoor,"ski_slope, mountain_snowy, arena/performance, ice_skating_rink/outdoor, ski_resort",52138
-1372,32928,outdoor,"ski_slope, mountain_snowy, ice_floe, gift_shop, ice_shelf",52138
-1373,32952,outdoor,"jewelry_shop, childs_room, ice_floe, iceberg, ice_shelf",52138
-1374,32976,indoor,"jewelry_shop, childs_room, ice_floe, chemistry_lab, ice_shelf",52138
-1375,33000,indoor,"jewelry_shop, childs_room, ice_floe, chemistry_lab, ice_shelf",52138
-1376,33024,indoor,"jewelry_shop, chemistry_lab, stage/indoor, ice_floe, ice_shelf",52138
-1377,33048,indoor,"landfill, arena/rodeo, arena/performance, underwater/ocean_deep, aquarium",52138
-1378,33072,indoor,"landfill, arena/rodeo, arena/performance, underwater/ocean_deep, aquarium",52138
-1379,33096,outdoor,"landfill, arena/rodeo, arena/performance, underwater/ocean_deep, bullring",52138
-1380,33120,outdoor,"landfill, arena/performance, arena/rodeo, underwater/ocean_deep, bullring",52138
-1381,33144,outdoor,"landfill, arena/rodeo, arena/performance, canyon, bullring",52138
-1382,33168,outdoor,"landfill, arena/performance, arena/rodeo, underwater/ocean_deep, canyon",52138
-1383,33192,outdoor,"ice_floe, ice_shelf, fountain, hot_spring, water_tower",52138
-1384,33216,outdoor,"ice_floe, ice_shelf, harbor, water_tower, lake/natural",52138
-1385,33240,outdoor,"ice_floe, ice_shelf, harbor, fountain, water_tower",52138
-1386,33264,outdoor,"ice_floe, ice_shelf, harbor, fountain, lake/natural",52138
-1387,33288,indoor,"museum/indoor, jewelry_shop, natural_history_museum, art_gallery, science_museum",52138
-1388,33312,indoor,"museum/indoor, natural_history_museum, jewelry_shop, art_gallery, science_museum",52138
-1389,33336,indoor,"museum/indoor, natural_history_museum, art_gallery, jewelry_shop, science_museum",52138
-1390,33360,indoor,"museum/indoor, natural_history_museum, art_gallery, jewelry_shop, science_museum",52138
-1391,33384,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",52138
-1392,33408,indoor,"museum/indoor, natural_history_museum, science_museum, jewelry_shop, art_gallery",52138
-1393,33432,indoor,"museum/indoor, natural_history_museum, jewelry_shop, art_gallery, science_museum",52138
-1394,33456,indoor,"airplane_cabin, attic, train_interior, art_gallery, clean_room",52138
-1395,33480,indoor,"airplane_cabin, attic, art_gallery, train_interior, jewelry_shop",52138
-1396,33504,indoor,"airplane_cabin, jewelry_shop, natural_history_museum, art_gallery, clean_room",52138
-1397,33528,indoor,"art_gallery, attic, airplane_cabin, beauty_salon, artists_loft",52138
-1398,33552,indoor,"airplane_cabin, discotheque, basement, attic, beauty_salon",52138
-1399,33576,indoor,"airplane_cabin, discotheque, basement, stage/outdoor, cockpit",52138
-1400,33600,indoor,"art_gallery, museum/indoor, art_studio, art_school, home_theater",52138
-1401,33624,indoor,"art_gallery, museum/indoor, art_studio, art_school, science_museum",52138
-1402,33648,indoor,"art_gallery, museum/indoor, art_studio, art_school, science_museum",52138
-1403,33672,indoor,"art_gallery, museum/indoor, art_studio, art_school, natural_history_museum",52138
-1404,33696,indoor,"art_gallery, museum/indoor, art_studio, art_school, natural_history_museum",52138
-1405,33720,indoor,"art_gallery, museum/indoor, art_studio, art_school, home_theater",52138
-1406,33744,outdoor,"wind_farm, ice_shelf, ice_floe, volcano, windmill",52138
-1407,33768,outdoor,"wind_farm, ice_shelf, ice_floe, art_gallery, volcano",52138
-1408,33792,outdoor,"wind_farm, ice_shelf, ice_floe, art_gallery, volcano",52138
-1409,33816,outdoor,"wind_farm, ice_shelf, ice_floe, volcano, art_gallery",52138
-1410,33840,outdoor,"wind_farm, ice_shelf, ice_floe, windmill, art_gallery",52138
-1411,33864,outdoor,"wind_farm, ice_shelf, ice_floe, art_gallery, volcano",52138
-1412,33888,outdoor,"wind_farm, windmill, ice_shelf, ice_floe, volcano",52138
-1413,33912,outdoor,"canyon, butte, mountain, volcano, badlands",52138
-1414,33936,outdoor,"canyon, mountain, butte, volcano, badlands",52138
-1415,33960,outdoor,"canyon, butte, mountain, volcano, badlands",52138
-1416,33984,outdoor,"canyon, butte, mountain, volcano, badlands",52138
-1417,34008,outdoor,"canyon, butte, mountain, badlands, volcano",52138
-1418,34032,outdoor,"canyon, butte, mountain, volcano, badlands",52138
-1419,34056,indoor,"nursery, ice_shelf, iceberg, natural_history_museum, childs_room",52138
-1420,34080,outdoor,"ice_shelf, iceberg, ice_floe, nursery, natural_history_museum",52138
-1421,34104,outdoor,"iceberg, ice_shelf, ice_floe, aquarium, nursery",52138
-1422,34128,outdoor,"ice_shelf, iceberg, ice_floe, natural_history_museum, nursery",52138
-1423,34152,outdoor,"ice_shelf, iceberg, ice_floe, aquarium, natural_history_museum",52138
-1424,34176,outdoor,"ice_shelf, iceberg, ice_floe, nursery, natural_history_museum",52138
-1425,34200,outdoor,"iceberg, ice_shelf, ice_floe, shoe_shop, nursery",52138
-1426,34224,indoor,"ballroom, airplane_cabin, beer_hall, gymnasium/indoor, bar",52138
-1427,34248,indoor,"airplane_cabin, ballroom, beer_hall, bar, escalator/indoor",52138
-1428,34272,indoor,"ballroom, beer_hall, airplane_cabin, entrance_hall, auditorium",52138
-1429,34296,indoor,"ballroom, entrance_hall, auditorium, beer_hall, bar",52138
-1430,34320,indoor,"ballroom, beer_hall, airplane_cabin, bar, restaurant",52138
-1431,34344,indoor,"airplane_cabin, ballroom, bar, beer_hall, restaurant",52138
-1432,34368,indoor,"cafeteria, restaurant, bar, airplane_cabin, beer_hall",52138
-1433,34392,indoor,"cafeteria, airplane_cabin, restaurant, bar, escalator/indoor",52138
-1434,34416,indoor,"cafeteria, restaurant, bar, food_court, ice_cream_parlor",52138
-1435,34440,outdoor,"fishpond, pond, lake/natural, underwater/ocean_deep, marsh",52138
-1436,34464,outdoor,"fishpond, pond, lake/natural, underwater/ocean_deep, marsh",52138
-1437,34488,outdoor,"pond, lake/natural, underwater/ocean_deep, fishpond, marsh",52138
-1438,34512,outdoor,"lake/natural, ice_floe, pond, iceberg, underwater/ocean_deep",52138
-1439,34536,outdoor,"iceberg, ice_floe, lake/natural, museum/indoor, clean_room",52138
-1440,34560,indoor,"iceberg, science_museum, ice_cream_parlor, museum/indoor, ice_floe",52138
-1441,34584,indoor,"iceberg, ice_cream_parlor, science_museum, museum/indoor, ice_floe",52138
-1442,34608,indoor,"iceberg, science_museum, ice_cream_parlor, museum/indoor, jewelry_shop",52138
-1443,34632,indoor,"iceberg, ice_cream_parlor, science_museum, museum/indoor, jewelry_shop",52138
-1444,34656,indoor,"martial_arts_gym, science_museum, hangar/indoor, natural_history_museum, museum/indoor",52138
-1445,34680,indoor,"science_museum, martial_arts_gym, hangar/indoor, atrium/public, natural_history_museum",52138
-1446,34704,indoor,"science_museum, hangar/indoor, airport_terminal, pet_shop, atrium/public",52138
-1447,34728,indoor,"science_museum, hangar/indoor, martial_arts_gym, clean_room, airport_terminal",52138
-1448,34752,indoor,"conference_center, reception, auditorium, discotheque, stage/indoor",52138
-1449,34776,indoor,"conference_center, reception, lecture_room, auditorium, discotheque",52138
-1450,34800,indoor,"conference_center, stage/indoor, auditorium, discotheque, ballroom",52138
-1451,34824,indoor,"conference_center, reception, auditorium, ballroom, stage/indoor",52138
-1452,34848,outdoor,"ice_floe, ice_shelf, iceberg, arch, jewelry_shop",52138
-1453,34872,outdoor,"ice_floe, ice_shelf, arch, jewelry_shop, iceberg",52138
-1454,34896,outdoor,"ice_floe, jewelry_shop, ice_shelf, shower, arch",52138
-1455,34920,outdoor,"ice_floe, jewelry_shop, ice_shelf, shower, iceberg",52138
-1456,34944,outdoor,"ice_floe, ice_shelf, jewelry_shop, iceberg, ocean",52138
-1457,34968,outdoor,"ice_floe, ice_shelf, jewelry_shop, ocean, iceberg",52138
-1458,34992,outdoor,"ice_floe, ice_shelf, jewelry_shop, iceberg, ocean",52138
-1459,35016,outdoor,"ice_floe, ice_shelf, iceberg, ocean, lake/natural",52138
-1460,35040,outdoor,"marsh, lake/natural, harbor, pond, river",52138
-1461,35064,outdoor,"lake/natural, tower, marsh, oilrig, harbor",52138
-1462,35088,outdoor,"tower, skyscraper, oilrig, lake/natural, sky",52138
-1463,35112,outdoor,"tower, lake/natural, marsh, harbor, oilrig",52138
-1464,35136,outdoor,"marsh, lake/natural, harbor, pond, river",52138
-1465,35160,outdoor,"marsh, lake/natural, harbor, pond, swamp",52138
-1466,35184,outdoor,"marsh, harbor, lake/natural, pond, watering_hole",52138
-1467,35208,outdoor,"ice_floe, rock_arch, desert/sand, igloo, snowfield",52138
-1468,35232,outdoor,"ice_floe, desert/sand, rock_arch, snowfield, ocean",52138
-1469,35256,outdoor,"ice_floe, igloo, desert/sand, snowfield, ice_shelf",52138
-1470,35280,outdoor,"ice_floe, beach, ocean, desert/sand, igloo",52138
-1471,35304,outdoor,"ice_floe, ocean, beach, wave, desert/sand",52138
-1472,35328,indoor,"museum/indoor, lake/natural, jewelry_shop, pond, natural_history_museum",52138
-1473,35352,indoor,"museum/indoor, natural_history_museum, jewelry_shop, science_museum, shoe_shop",52138
-1474,35376,outdoor,"lake/natural, pond, marsh, harbor, swimming_hole",52138
-1475,35400,outdoor,"lake/natural, marsh, pond, harbor, swimming_hole",52138
-1476,35424,outdoor,"lake/natural, marsh, pond, arena/performance, harbor",52138
-1477,35448,outdoor,"ice_floe, pond, fishpond, ice_shelf, lake/natural",52138
-1478,35472,outdoor,"ice_floe, pond, fishpond, ice_shelf, igloo",52138
-1479,35496,outdoor,"pond, ice_floe, fishpond, lake/natural, forest/broadleaf",52138
-1480,35520,outdoor,"pond, ice_floe, fishpond, lake/natural, forest/broadleaf",52138
-1481,35544,indoor,"windmill, wind_farm, science_museum, museum/indoor, art_gallery",52138
-1482,35568,indoor,"windmill, museum/indoor, wind_farm, science_museum, art_gallery",52138
-1483,35592,indoor,"museum/indoor, science_museum, art_gallery, shower, windmill",52138
-1484,35616,indoor,"museum/indoor, science_museum, shower, gift_shop, windmill",52138
-1485,35640,indoor,"atrium/public, shopping_mall/indoor, museum/indoor, staircase, archive",52138
-1486,35664,indoor,"staircase, atrium/public, lobby, shopping_mall/indoor, mezzanine",52138
-1487,35688,indoor,"jewelry_shop, atrium/public, staircase, mezzanine, skyscraper",52138
-1488,35712,outdoor,"iceberg, hot_spring, sky, volcano, discotheque",52138
-1489,35736,indoor,"staircase, iceberg, wind_farm, aquarium, escalator/indoor",52138
-1490,35760,outdoor,"iceberg, ice_floe, ice_shelf, glacier, mountain_snowy",52138
-1491,35784,outdoor,"ice_floe, iceberg, ice_shelf, glacier, mountain_snowy",52138
-1492,35808,outdoor,"iceberg, ice_floe, ice_shelf, glacier, mountain_snowy",52138
-1493,35832,outdoor,"ice_floe, iceberg, ice_shelf, glacier, mountain_snowy",52138
-1494,35856,outdoor,"iceberg, ice_floe, ice_shelf, glacier, mountain_snowy",52138
-1495,35880,outdoor,"ice_floe, iceberg, ice_shelf, glacier, mountain_snowy",52138
-1496,35904,outdoor,"ice_floe, iceberg, ice_shelf, glacier, mountain_snowy",52138
-1497,35928,outdoor,"ice_shelf, iceberg, ice_floe, mountain_snowy, ski_slope",52138
-1498,35952,outdoor,"ice_shelf, iceberg, ice_floe, mountain_snowy, ski_slope",52138
-1499,35976,outdoor,"ice_shelf, iceberg, ice_floe, mountain_snowy, ski_slope",52138
-1500,36000,outdoor,"ice_shelf, iceberg, ice_floe, mountain_snowy, igloo",52138
-1501,36024,outdoor,"ice_shelf, iceberg, ice_floe, ski_slope, mountain_snowy",52138
-1502,36048,outdoor,"ice_shelf, ice_floe, iceberg, mountain_snowy, fountain",52138
-1503,36072,outdoor,"ice_shelf, ice_floe, iceberg, fountain, mountain_snowy",52138
-1504,36096,outdoor,"ice_shelf, ice_floe, iceberg, mountain_snowy, landfill",52138
-1505,36120,outdoor,"ice_shelf, ice_floe, iceberg, landfill, mountain_snowy",52138
-1506,36144,outdoor,"ice_shelf, ice_floe, iceberg, mountain_snowy, igloo",52138
-1507,36168,outdoor,"candy_store, underwater/ocean_deep, gift_shop, fishpond, lake/natural",52138
-1508,36192,outdoor,"museum/indoor, ice_floe, bow_window/indoor, mosque/outdoor, ice_shelf",52138
-1509,36216,outdoor,"ice_floe, museum/indoor, ice_shelf, mosque/outdoor, bow_window/indoor",52138
-1510,36240,outdoor,"ice_floe, museum/indoor, bow_window/indoor, mosque/outdoor, ice_shelf",52138
-1511,36264,outdoor,"museum/indoor, ice_floe, ice_shelf, iceberg, mosque/outdoor",52138
-1512,36288,outdoor,"museum/indoor, ice_floe, ice_shelf, mosque/outdoor, iceberg",52138
-1513,36312,outdoor,"museum/indoor, mosque/outdoor, ice_floe, bow_window/indoor, tower",52138
-1514,36336,outdoor,"cabin/outdoor, greenhouse/outdoor, chalet, barn, shed",52138
-1515,36360,outdoor,"cabin/outdoor, greenhouse/outdoor, chalet, shed, schoolhouse",52138
-1516,36384,outdoor,"cabin/outdoor, greenhouse/outdoor, shed, barn, chalet",52138
-1517,36408,outdoor,"cabin/outdoor, greenhouse/outdoor, gazebo/exterior, chalet, pavilion",52138
-1518,36432,outdoor,"cabin/outdoor, gazebo/exterior, greenhouse/outdoor, chalet, pavilion",52138
-1519,36456,outdoor,"gazebo/exterior, greenhouse/outdoor, cabin/outdoor, pavilion, playground",52138
-1520,36480,outdoor,"greenhouse/outdoor, gazebo/exterior, cabin/outdoor, pavilion, chalet",52138
-1521,36504,indoor,"staircase, mezzanine, attic, fire_escape, jacuzzi/indoor",52138
-1522,36528,indoor,"staircase, attic, playground, mezzanine, fire_escape",52138
-1523,36552,indoor,"staircase, attic, mezzanine, fire_escape, playground",52138
-1524,36576,indoor,"staircase, attic, mezzanine, fire_escape, playground",52138
-1525,36600,indoor,"staircase, attic, mezzanine, fire_escape, construction_site",52138
-1526,36624,indoor,"staircase, attic, mezzanine, fire_escape, construction_site",52138
-1527,36648,indoor,"staircase, attic, mezzanine, fire_escape, playground",52138
-1528,36672,outdoor,"patio, ice_floe, ski_slope, playground, snowfield",52138
-1529,36696,outdoor,"patio, ice_floe, playground, ski_slope, snowfield",52138
-1530,36720,outdoor,"playground, ski_slope, ice_floe, snowfield, patio",52138
-1531,36744,outdoor,"ski_slope, playground, snowfield, ice_floe, rope_bridge",52138
-1532,36768,outdoor,"ski_slope, playground, snowfield, ice_floe, igloo",52138
-1533,36792,outdoor,"igloo, ice_floe, crevasse, glacier, ice_shelf",52138
-1534,36816,outdoor,"crevasse, glacier, igloo, ice_floe, snowfield",52138
-1535,36840,outdoor,"crevasse, glacier, igloo, ice_floe, snowfield",52138
-1536,36864,outdoor,"ice_floe, crevasse, glacier, ice_shelf, snowfield",52138
-1537,36888,outdoor,"ice_floe, glacier, snowfield, mountain_snowy, ice_shelf",52138
-1538,36912,outdoor,"ice_floe, aquarium, iceberg, ice_shelf, glacier",52138
-1539,36936,outdoor,"ice_floe, iceberg, ice_shelf, glacier, snowfield",52138
-1540,36960,outdoor,"ice_floe, iceberg, ice_shelf, glacier, crevasse",52138
-1541,36984,outdoor,"ice_floe, iceberg, ice_shelf, crevasse, glacier",52138
-1542,37008,outdoor,"ice_floe, iceberg, ice_shelf, watering_hole, pond",52138
-1543,37032,outdoor,"ice_floe, iceberg, ice_shelf, watering_hole, pond",52138
-1544,37056,outdoor,"ice_floe, ice_shelf, iceberg, watering_hole, pond",52138
-1545,37080,outdoor,"ice_floe, ice_shelf, iceberg, watering_hole, pond",52138
-1546,37104,outdoor,"staircase, escalator/indoor, bridge, fire_escape, amusement_park",52138
-1547,37128,outdoor,"staircase, playground, amusement_park, bridge, escalator/indoor",52138
-1548,37152,outdoor,"staircase, amusement_park, playground, water_park, construction_site",52138
-1549,37176,outdoor,"staircase, playground, amusement_park, fountain, water_park",52138
-1550,37200,outdoor,"amusement_park, staircase, playground, water_park, construction_site",52138
-1551,37224,outdoor,"staircase, playground, amusement_park, water_park, construction_site",52138
-1552,37248,indoor,"staircase, atrium/public, greenhouse/outdoor, shopping_mall/indoor, escalator/indoor",52138
-1553,37272,indoor,"staircase, atrium/public, airport_terminal, shopping_mall/indoor, playground",52138
-1554,37296,indoor,"atrium/public, staircase, shopping_mall/indoor, airport_terminal, escalator/indoor",52138
-1555,37320,indoor,"staircase, atrium/public, greenhouse/outdoor, playground, shopping_mall/indoor",52138
-1556,37344,indoor,"greenhouse/outdoor, playground, greenhouse/indoor, staircase, atrium/public",52138
-1557,37368,indoor,"greenhouse/outdoor, staircase, atrium/public, greenhouse/indoor, elevator_shaft",52138
-1558,37392,outdoor,"cabin/outdoor, ski_resort, campsite, attic, igloo",52138
-1559,37416,outdoor,"cabin/outdoor, ski_resort, campsite, igloo, attic",52138
-1560,37440,outdoor,"cabin/outdoor, campsite, igloo, chalet, ski_resort",52138
-1561,37464,outdoor,"cabin/outdoor, ski_resort, campsite, igloo, chalet",52138
-1562,37488,outdoor,"cabin/outdoor, ski_resort, campsite, chalet, igloo",52138
-1563,37512,outdoor,"ice_floe, ice_shelf, mosque/outdoor, museum/indoor, tower",52138
-1564,37536,outdoor,"museum/indoor, ice_floe, ice_shelf, mosque/outdoor, oilrig",52138
-1565,37560,outdoor,"museum/indoor, ice_floe, ice_shelf, mosque/outdoor, tower",52138
-1566,37584,outdoor,"ice_floe, museum/indoor, ice_shelf, iceberg, mosque/outdoor",52138
-1567,37608,outdoor,"museum/indoor, mosque/outdoor, ice_floe, ice_shelf, tower",52138
-1568,37632,indoor,"museum/indoor, ice_floe, ice_shelf, bow_window/indoor, science_museum",52138
-1569,37656,outdoor,"museum/indoor, mosque/outdoor, ice_floe, tower, ice_shelf",52138
-1570,37680,indoor,"discotheque, server_room, classroom, computer_room, kindergarden_classroom",52138
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,52138,0,1,0
+1,52138,24,1,0
+2,52138,48,1,0
+3,52138,72,1,0
+4,52138,96,1,0
+5,52138,120,1,0
+6,52138,144,1,0
+7,52138,168,1,0
+8,52138,192,1,0
+9,52138,216,1,0
+10,52138,240,1,0
+11,52138,264,1,0
+12,52138,288,1,0
+13,52138,312,1,0
+14,52138,336,1,0
+15,52138,360,1,0
+16,52138,384,1,0
+17,52138,408,1,0
+18,52138,432,1,0
+19,52138,456,1,0
+20,52138,480,1,0
+21,52138,504,1,0
+22,52138,528,1,0
+23,52138,552,1,0
+24,52138,576,1,0
+25,52138,600,1,0
+26,52138,624,1,0
+27,52138,648,1,0
+28,52138,672,1,0
+29,52138,696,1,0
+30,52138,720,1,0
+31,52138,744,1,0
+32,52138,768,1,0
+33,52138,792,1,0
+34,52138,816,1,0
+35,52138,840,1,0
+36,52138,864,1,0
+37,52138,888,1,0
+38,52138,912,1,0
+39,52138,936,1,0
+40,52138,960,1,0
+41,52138,984,1,0
+42,52138,1008,1,0
+43,52138,1032,1,0
+44,52138,1056,1,0
+45,52138,1080,1,0
+46,52138,1104,1,0
+47,52138,1128,1,0
+48,52138,1152,1,0
+49,52138,1176,1,0
+50,52138,1200,1,0
+51,52138,1224,0,1
+52,52138,1248,0,1
+53,52138,1272,0,1
+54,52138,1296,0,1
+55,52138,1320,0,1
+56,52138,1344,0,1
+57,52138,1368,1,0
+58,52138,1392,1,0
+59,52138,1416,1,0
+60,52138,1440,0,1
+61,52138,1464,1,0
+62,52138,1488,1,0
+63,52138,1512,1,0
+64,52138,1536,1,0
+65,52138,1560,1,0
+66,52138,1584,1,0
+67,52138,1608,1,0
+68,52138,1632,1,0
+69,52138,1656,1,0
+70,52138,1680,1,0
+71,52138,1704,0,1
+72,52138,1728,0,1
+73,52138,1752,0,1
+74,52138,1776,0,1
+75,52138,1800,0,1
+76,52138,1824,0,1
+77,52138,1848,0,1
+78,52138,1872,0,1
+79,52138,1896,0,1
+80,52138,1920,1,0
+81,52138,1944,1,0
+82,52138,1968,1,0
+83,52138,1992,1,0
+84,52138,2016,1,0
+85,52138,2040,1,0
+86,52138,2064,0,1
+87,52138,2088,0,1
+88,52138,2112,0,1
+89,52138,2136,0,1
+90,52138,2160,0,1
+91,52138,2184,0,1
+92,52138,2208,0,1
+93,52138,2232,0,1
+94,52138,2256,0,1
+95,52138,2280,0,1
+96,52138,2304,1,0
+97,52138,2328,1,0
+98,52138,2352,1,0
+99,52138,2376,1,0
+100,52138,2400,0,1
+101,52138,2424,0,1
+102,52138,2448,0,1
+103,52138,2472,0,1
+104,52138,2496,0,1
+105,52138,2520,0,1
+106,52138,2544,0,1
+107,52138,2568,0,1
+108,52138,2592,0,1
+109,52138,2616,0,1
+110,52138,2640,0,1
+111,52138,2664,0,1
+112,52138,2688,0,1
+113,52138,2712,0,1
+114,52138,2736,0,1
+115,52138,2760,0,1
+116,52138,2784,0,1
+117,52138,2808,0,1
+118,52138,2832,0,1
+119,52138,2856,0,1
+120,52138,2880,0,1
+121,52138,2904,0,1
+122,52138,2928,0,1
+123,52138,2952,0,1
+124,52138,2976,0,1
+125,52138,3000,0,1
+126,52138,3024,0,1
+127,52138,3048,0,1
+128,52138,3072,0,1
+129,52138,3096,0,1
+130,52138,3120,0,1
+131,52138,3144,0,1
+132,52138,3168,1,0
+133,52138,3192,1,0
+134,52138,3216,1,0
+135,52138,3240,0,1
+136,52138,3264,1,0
+137,52138,3288,1,0
+138,52138,3312,0,1
+139,52138,3336,0,1
+140,52138,3360,0,1
+141,52138,3384,0,1
+142,52138,3408,0,1
+143,52138,3432,0,1
+144,52138,3456,0,1
+145,52138,3480,0,1
+146,52138,3504,0,1
+147,52138,3528,0,1
+148,52138,3552,1,0
+149,52138,3576,1,0
+150,52138,3600,1,0
+151,52138,3624,1,0
+152,52138,3648,1,0
+153,52138,3672,1,0
+154,52138,3696,1,0
+155,52138,3720,1,0
+156,52138,3744,1,0
+157,52138,3768,1,0
+158,52138,3792,1,0
+159,52138,3816,1,0
+160,52138,3840,1,0
+161,52138,3864,1,0
+162,52138,3888,1,0
+163,52138,3912,1,0
+164,52138,3936,1,0
+165,52138,3960,1,0
+166,52138,3984,1,0
+167,52138,4008,1,0
+168,52138,4032,1,0
+169,52138,4056,1,0
+170,52138,4080,1,0
+171,52138,4104,1,0
+172,52138,4128,1,0
+173,52138,4152,1,0
+174,52138,4176,1,0
+175,52138,4200,0,1
+176,52138,4224,0,1
+177,52138,4248,0,1
+178,52138,4272,0,1
+179,52138,4296,0,1
+180,52138,4320,0,1
+181,52138,4344,0,1
+182,52138,4368,0,1
+183,52138,4392,0,1
+184,52138,4416,0,1
+185,52138,4440,0,1
+186,52138,4464,0,1
+187,52138,4488,0,1
+188,52138,4512,0,1
+189,52138,4536,0,1
+190,52138,4560,0,1
+191,52138,4584,0,1
+192,52138,4608,1,0
+193,52138,4632,1,0
+194,52138,4656,1,0
+195,52138,4680,1,0
+196,52138,4704,1,0
+197,52138,4728,1,0
+198,52138,4752,1,0
+199,52138,4776,1,0
+200,52138,4800,1,0
+201,52138,4824,1,0
+202,52138,4848,1,0
+203,52138,4872,0,1
+204,52138,4896,0,1
+205,52138,4920,0,1
+206,52138,4944,0,1
+207,52138,4968,1,0
+208,52138,4992,1,0
+209,52138,5016,0,1
+210,52138,5040,1,0
+211,52138,5064,0,1
+212,52138,5088,0,1
+213,52138,5112,0,1
+214,52138,5136,0,1
+215,52138,5160,0,1
+216,52138,5184,0,1
+217,52138,5208,1,0
+218,52138,5232,1,0
+219,52138,5256,1,0
+220,52138,5280,1,0
+221,52138,5304,0,1
+222,52138,5328,0,1
+223,52138,5352,0,1
+224,52138,5376,0,1
+225,52138,5400,0,1
+226,52138,5424,0,1
+227,52138,5448,0,1
+228,52138,5472,0,1
+229,52138,5496,0,1
+230,52138,5520,0,1
+231,52138,5544,1,0
+232,52138,5568,1,0
+233,52138,5592,1,0
+234,52138,5616,1,0
+235,52138,5640,1,0
+236,52138,5664,1,0
+237,52138,5688,1,0
+238,52138,5712,1,0
+239,52138,5736,1,0
+240,52138,5760,1,0
+241,52138,5784,1,0
+242,52138,5808,1,0
+243,52138,5832,1,0
+244,52138,5856,1,0
+245,52138,5880,1,0
+246,52138,5904,1,0
+247,52138,5928,1,0
+248,52138,5952,1,0
+249,52138,5976,1,0
+250,52138,6000,1,0
+251,52138,6024,1,0
+252,52138,6048,1,0
+253,52138,6072,1,0
+254,52138,6096,1,0
+255,52138,6120,1,0
+256,52138,6144,1,0
+257,52138,6168,1,0
+258,52138,6192,1,0
+259,52138,6216,1,0
+260,52138,6240,1,0
+261,52138,6264,1,0
+262,52138,6288,1,0
+263,52138,6312,1,0
+264,52138,6336,1,0
+265,52138,6360,0,1
+266,52138,6384,0,1
+267,52138,6408,0,1
+268,52138,6432,0,1
+269,52138,6456,0,1
+270,52138,6480,0,1
+271,52138,6504,0,1
+272,52138,6528,0,1
+273,52138,6552,0,1
+274,52138,6576,0,1
+275,52138,6600,0,1
+276,52138,6624,0,1
+277,52138,6648,1,0
+278,52138,6672,1,0
+279,52138,6696,1,0
+280,52138,6720,1,0
+281,52138,6744,1,0
+282,52138,6768,1,0
+283,52138,6792,1,0
+284,52138,6816,1,0
+285,52138,6840,1,0
+286,52138,6864,1,0
+287,52138,6888,1,0
+288,52138,6912,1,0
+289,52138,6936,1,0
+290,52138,6960,1,0
+291,52138,6984,1,0
+292,52138,7008,1,0
+293,52138,7032,1,0
+294,52138,7056,1,0
+295,52138,7080,1,0
+296,52138,7104,1,0
+297,52138,7128,1,0
+298,52138,7152,1,0
+299,52138,7176,1,0
+300,52138,7200,1,0
+301,52138,7224,1,0
+302,52138,7248,1,0
+303,52138,7272,1,0
+304,52138,7296,1,0
+305,52138,7320,1,0
+306,52138,7344,1,0
+307,52138,7368,1,0
+308,52138,7392,1,0
+309,52138,7416,1,0
+310,52138,7440,0,1
+311,52138,7464,0,1
+312,52138,7488,0,1
+313,52138,7512,0,1
+314,52138,7536,0,1
+315,52138,7560,0,1
+316,52138,7584,0,1
+317,52138,7608,0,1
+318,52138,7632,0,1
+319,52138,7656,0,1
+320,52138,7680,0,1
+321,52138,7704,0,1
+322,52138,7728,0,1
+323,52138,7752,0,1
+324,52138,7776,0,1
+325,52138,7800,0,1
+326,52138,7824,1,0
+327,52138,7848,1,0
+328,52138,7872,1,0
+329,52138,7896,1,0
+330,52138,7920,1,0
+331,52138,7944,1,0
+332,52138,7968,1,0
+333,52138,7992,1,0
+334,52138,8016,1,0
+335,52138,8040,1,0
+336,52138,8064,1,0
+337,52138,8088,1,0
+338,52138,8112,1,0
+339,52138,8136,1,0
+340,52138,8160,1,0
+341,52138,8184,1,0
+342,52138,8208,1,0
+343,52138,8232,1,0
+344,52138,8256,1,0
+345,52138,8280,1,0
+346,52138,8304,0,1
+347,52138,8328,0,1
+348,52138,8352,0,1
+349,52138,8376,0,1
+350,52138,8400,0,1
+351,52138,8424,0,1
+352,52138,8448,0,1
+353,52138,8472,0,1
+354,52138,8496,0,1
+355,52138,8520,0,1
+356,52138,8544,0,1
+357,52138,8568,0,1
+358,52138,8592,0,1
+359,52138,8616,0,1
+360,52138,8640,0,1
+361,52138,8664,0,1
+362,52138,8688,0,1
+363,52138,8712,0,1
+364,52138,8736,0,1
+365,52138,8760,0,1
+366,52138,8784,0,1
+367,52138,8808,0,1
+368,52138,8832,0,1
+369,52138,8856,0,1
+370,52138,8880,0,1
+371,52138,8904,0,1
+372,52138,8928,0,1
+373,52138,8952,0,1
+374,52138,8976,0,1
+375,52138,9000,0,1
+376,52138,9024,0,1
+377,52138,9048,0,1
+378,52138,9072,0,1
+379,52138,9096,0,1
+380,52138,9120,0,1
+381,52138,9144,0,1
+382,52138,9168,0,1
+383,52138,9192,0,1
+384,52138,9216,0,1
+385,52138,9240,0,1
+386,52138,9264,0,1
+387,52138,9288,0,1
+388,52138,9312,0,1
+389,52138,9336,0,1
+390,52138,9360,0,1
+391,52138,9384,0,1
+392,52138,9408,0,1
+393,52138,9432,0,1
+394,52138,9456,0,1
+395,52138,9480,0,1
+396,52138,9504,0,1
+397,52138,9528,0,1
+398,52138,9552,0,1
+399,52138,9576,0,1
+400,52138,9600,0,1
+401,52138,9624,0,1
+402,52138,9648,0,1
+403,52138,9672,0,1
+404,52138,9696,0,1
+405,52138,9720,1,0
+406,52138,9744,1,0
+407,52138,9768,1,0
+408,52138,9792,1,0
+409,52138,9816,1,0
+410,52138,9840,1,0
+411,52138,9864,1,0
+412,52138,9888,1,0
+413,52138,9912,1,0
+414,52138,9936,1,0
+415,52138,9960,1,0
+416,52138,9984,1,0
+417,52138,10008,1,0
+418,52138,10032,1,0
+419,52138,10056,1,0
+420,52138,10080,1,0
+421,52138,10104,0,1
+422,52138,10128,1,0
+423,52138,10152,0,1
+424,52138,10176,1,0
+425,52138,10200,0,1
+426,52138,10224,1,0
+427,52138,10248,1,0
+428,52138,10272,1,0
+429,52138,10296,1,0
+430,52138,10320,1,0
+431,52138,10344,1,0
+432,52138,10368,1,0
+433,52138,10392,0,1
+434,52138,10416,0,1
+435,52138,10440,0,1
+436,52138,10464,1,0
+437,52138,10488,1,0
+438,52138,10512,0,1
+439,52138,10536,0,1
+440,52138,10560,1,0
+441,52138,10584,1,0
+442,52138,10608,1,0
+443,52138,10632,1,0
+444,52138,10656,1,0
+445,52138,10680,1,0
+446,52138,10704,1,0
+447,52138,10728,1,0
+448,52138,10752,1,0
+449,52138,10776,1,0
+450,52138,10800,1,0
+451,52138,10824,0,1
+452,52138,10848,0,1
+453,52138,10872,0,1
+454,52138,10896,0,1
+455,52138,10920,0,1
+456,52138,10944,0,1
+457,52138,10968,0,1
+458,52138,10992,0,1
+459,52138,11016,0,1
+460,52138,11040,0,1
+461,52138,11064,0,1
+462,52138,11088,0,1
+463,52138,11112,0,1
+464,52138,11136,0,1
+465,52138,11160,0,1
+466,52138,11184,0,1
+467,52138,11208,0,1
+468,52138,11232,0,1
+469,52138,11256,0,1
+470,52138,11280,0,1
+471,52138,11304,0,1
+472,52138,11328,0,1
+473,52138,11352,0,1
+474,52138,11376,0,1
+475,52138,11400,0,1
+476,52138,11424,0,1
+477,52138,11448,0,1
+478,52138,11472,0,1
+479,52138,11496,0,1
+480,52138,11520,0,1
+481,52138,11544,0,1
+482,52138,11568,0,1
+483,52138,11592,0,1
+484,52138,11616,0,1
+485,52138,11640,0,1
+486,52138,11664,0,1
+487,52138,11688,0,1
+488,52138,11712,0,1
+489,52138,11736,0,1
+490,52138,11760,0,1
+491,52138,11784,0,1
+492,52138,11808,0,1
+493,52138,11832,0,1
+494,52138,11856,0,1
+495,52138,11880,0,1
+496,52138,11904,0,1
+497,52138,11928,1,0
+498,52138,11952,1,0
+499,52138,11976,0,1
+500,52138,12000,0,1
+501,52138,12024,0,1
+502,52138,12048,0,1
+503,52138,12072,0,1
+504,52138,12096,0,1
+505,52138,12120,0,1
+506,52138,12144,0,1
+507,52138,12168,0,1
+508,52138,12192,0,1
+509,52138,12216,0,1
+510,52138,12240,0,1
+511,52138,12264,0,1
+512,52138,12288,0,1
+513,52138,12312,0,1
+514,52138,12336,0,1
+515,52138,12360,0,1
+516,52138,12384,0,1
+517,52138,12408,0,1
+518,52138,12432,0,1
+519,52138,12456,0,1
+520,52138,12480,0,1
+521,52138,12504,0,1
+522,52138,12528,0,1
+523,52138,12552,0,1
+524,52138,12576,0,1
+525,52138,12600,0,1
+526,52138,12624,0,1
+527,52138,12648,0,1
+528,52138,12672,0,1
+529,52138,12696,0,1
+530,52138,12720,0,1
+531,52138,12744,0,1
+532,52138,12768,0,1
+533,52138,12792,0,1
+534,52138,12816,0,1
+535,52138,12840,0,1
+536,52138,12864,0,1
+537,52138,12888,0,1
+538,52138,12912,0,1
+539,52138,12936,0,1
+540,52138,12960,0,1
+541,52138,12984,0,1
+542,52138,13008,0,1
+543,52138,13032,0,1
+544,52138,13056,0,1
+545,52138,13080,0,1
+546,52138,13104,0,1
+547,52138,13128,0,1
+548,52138,13152,0,1
+549,52138,13176,0,1
+550,52138,13200,0,1
+551,52138,13224,0,1
+552,52138,13248,0,1
+553,52138,13272,0,1
+554,52138,13296,0,1
+555,52138,13320,0,1
+556,52138,13344,0,1
+557,52138,13368,0,1
+558,52138,13392,0,1
+559,52138,13416,0,1
+560,52138,13440,0,1
+561,52138,13464,0,1
+562,52138,13488,0,1
+563,52138,13512,0,1
+564,52138,13536,0,1
+565,52138,13560,0,1
+566,52138,13584,1,0
+567,52138,13608,0,1
+568,52138,13632,0,1
+569,52138,13656,0,1
+570,52138,13680,0,1
+571,52138,13704,0,1
+572,52138,13728,1,0
+573,52138,13752,1,0
+574,52138,13776,1,0
+575,52138,13800,0,1
+576,52138,13824,0,1
+577,52138,13848,0,1
+578,52138,13872,0,1
+579,52138,13896,1,0
+580,52138,13920,1,0
+581,52138,13944,1,0
+582,52138,13968,1,0
+583,52138,13992,1,0
+584,52138,14016,1,0
+585,52138,14040,0,1
+586,52138,14064,0,1
+587,52138,14088,0,1
+588,52138,14112,0,1
+589,52138,14136,0,1
+590,52138,14160,0,1
+591,52138,14184,0,1
+592,52138,14208,0,1
+593,52138,14232,0,1
+594,52138,14256,0,1
+595,52138,14280,0,1
+596,52138,14304,0,1
+597,52138,14328,0,1
+598,52138,14352,0,1
+599,52138,14376,0,1
+600,52138,14400,0,1
+601,52138,14424,0,1
+602,52138,14448,0,1
+603,52138,14472,0,1
+604,52138,14496,0,1
+605,52138,14520,0,1
+606,52138,14544,1,0
+607,52138,14568,1,0
+608,52138,14592,0,1
+609,52138,14616,1,0
+610,52138,14640,0,1
+611,52138,14664,1,0
+612,52138,14688,0,1
+613,52138,14712,0,1
+614,52138,14736,0,1
+615,52138,14760,0,1
+616,52138,14784,0,1
+617,52138,14808,0,1
+618,52138,14832,0,1
+619,52138,14856,0,1
+620,52138,14880,0,1
+621,52138,14904,0,1
+622,52138,14928,0,1
+623,52138,14952,1,0
+624,52138,14976,1,0
+625,52138,15000,1,0
+626,52138,15024,0,1
+627,52138,15048,0,1
+628,52138,15072,0,1
+629,52138,15096,0,1
+630,52138,15120,1,0
+631,52138,15144,0,1
+632,52138,15168,0,1
+633,52138,15192,0,1
+634,52138,15216,0,1
+635,52138,15240,0,1
+636,52138,15264,0,1
+637,52138,15288,1,0
+638,52138,15312,1,0
+639,52138,15336,1,0
+640,52138,15360,1,0
+641,52138,15384,1,0
+642,52138,15408,1,0
+643,52138,15432,1,0
+644,52138,15456,1,0
+645,52138,15480,1,0
+646,52138,15504,1,0
+647,52138,15528,1,0
+648,52138,15552,1,0
+649,52138,15576,1,0
+650,52138,15600,1,0
+651,52138,15624,1,0
+652,52138,15648,1,0
+653,52138,15672,1,0
+654,52138,15696,1,0
+655,52138,15720,1,0
+656,52138,15744,1,0
+657,52138,15768,1,0
+658,52138,15792,1,0
+659,52138,15816,1,0
+660,52138,15840,1,0
+661,52138,15864,1,0
+662,52138,15888,1,0
+663,52138,15912,1,0
+664,52138,15936,1,0
+665,52138,15960,1,0
+666,52138,15984,1,0
+667,52138,16008,1,0
+668,52138,16032,1,0
+669,52138,16056,0,1
+670,52138,16080,0,1
+671,52138,16104,1,0
+672,52138,16128,1,0
+673,52138,16152,1,0
+674,52138,16176,1,0
+675,52138,16200,1,0
+676,52138,16224,1,0
+677,52138,16248,1,0
+678,52138,16272,1,0
+679,52138,16296,1,0
+680,52138,16320,1,0
+681,52138,16344,1,0
+682,52138,16368,1,0
+683,52138,16392,1,0
+684,52138,16416,0,1
+685,52138,16440,1,0
+686,52138,16464,1,0
+687,52138,16488,1,0
+688,52138,16512,1,0
+689,52138,16536,1,0
+690,52138,16560,1,0
+691,52138,16584,1,0
+692,52138,16608,1,0
+693,52138,16632,1,0
+694,52138,16656,1,0
+695,52138,16680,1,0
+696,52138,16704,1,0
+697,52138,16728,1,0
+698,52138,16752,1,0
+699,52138,16776,0,1
+700,52138,16800,0,1
+701,52138,16824,0,1
+702,52138,16848,0,1
+703,52138,16872,0,1
+704,52138,16896,0,1
+705,52138,16920,0,1
+706,52138,16944,0,1
+707,52138,16968,0,1
+708,52138,16992,0,1
+709,52138,17016,0,1
+710,52138,17040,0,1
+711,52138,17064,0,1
+712,52138,17088,0,1
+713,52138,17112,0,1
+714,52138,17136,0,1
+715,52138,17160,0,1
+716,52138,17184,0,1
+717,52138,17208,0,1
+718,52138,17232,0,1
+719,52138,17256,1,0
+720,52138,17280,0,1
+721,52138,17304,0,1
+722,52138,17328,0,1
+723,52138,17352,0,1
+724,52138,17376,1,0
+725,52138,17400,1,0
+726,52138,17424,1,0
+727,52138,17448,1,0
+728,52138,17472,1,0
+729,52138,17496,1,0
+730,52138,17520,1,0
+731,52138,17544,1,0
+732,52138,17568,1,0
+733,52138,17592,1,0
+734,52138,17616,1,0
+735,52138,17640,1,0
+736,52138,17664,1,0
+737,52138,17688,0,1
+738,52138,17712,0,1
+739,52138,17736,0,1
+740,52138,17760,0,1
+741,52138,17784,0,1
+742,52138,17808,0,1
+743,52138,17832,1,0
+744,52138,17856,1,0
+745,52138,17880,1,0
+746,52138,17904,1,0
+747,52138,17928,1,0
+748,52138,17952,1,0
+749,52138,17976,1,0
+750,52138,18000,1,0
+751,52138,18024,1,0
+752,52138,18048,1,0
+753,52138,18072,1,0
+754,52138,18096,1,0
+755,52138,18120,1,0
+756,52138,18144,1,0
+757,52138,18168,1,0
+758,52138,18192,1,0
+759,52138,18216,1,0
+760,52138,18240,1,0
+761,52138,18264,1,0
+762,52138,18288,1,0
+763,52138,18312,1,0
+764,52138,18336,1,0
+765,52138,18360,0,1
+766,52138,18384,0,1
+767,52138,18408,0,1
+768,52138,18432,0,1
+769,52138,18456,1,0
+770,52138,18480,1,0
+771,52138,18504,1,0
+772,52138,18528,1,0
+773,52138,18552,1,0
+774,52138,18576,1,0
+775,52138,18600,1,0
+776,52138,18624,1,0
+777,52138,18648,1,0
+778,52138,18672,1,0
+779,52138,18696,1,0
+780,52138,18720,1,0
+781,52138,18744,1,0
+782,52138,18768,1,0
+783,52138,18792,1,0
+784,52138,18816,1,0
+785,52138,18840,1,0
+786,52138,18864,1,0
+787,52138,18888,1,0
+788,52138,18912,1,0
+789,52138,18936,1,0
+790,52138,18960,1,0
+791,52138,18984,1,0
+792,52138,19008,1,0
+793,52138,19032,1,0
+794,52138,19056,1,0
+795,52138,19080,1,0
+796,52138,19104,1,0
+797,52138,19128,1,0
+798,52138,19152,1,0
+799,52138,19176,1,0
+800,52138,19200,1,0
+801,52138,19224,1,0
+802,52138,19248,1,0
+803,52138,19272,1,0
+804,52138,19296,1,0
+805,52138,19320,1,0
+806,52138,19344,1,0
+807,52138,19368,1,0
+808,52138,19392,1,0
+809,52138,19416,1,0
+810,52138,19440,1,0
+811,52138,19464,1,0
+812,52138,19488,1,0
+813,52138,19512,1,0
+814,52138,19536,1,0
+815,52138,19560,1,0
+816,52138,19584,1,0
+817,52138,19608,1,0
+818,52138,19632,1,0
+819,52138,19656,1,0
+820,52138,19680,1,0
+821,52138,19704,1,0
+822,52138,19728,1,0
+823,52138,19752,1,0
+824,52138,19776,1,0
+825,52138,19800,1,0
+826,52138,19824,1,0
+827,52138,19848,1,0
+828,52138,19872,1,0
+829,52138,19896,1,0
+830,52138,19920,1,0
+831,52138,19944,1,0
+832,52138,19968,1,0
+833,52138,19992,1,0
+834,52138,20016,1,0
+835,52138,20040,1,0
+836,52138,20064,1,0
+837,52138,20088,1,0
+838,52138,20112,1,0
+839,52138,20136,1,0
+840,52138,20160,1,0
+841,52138,20184,1,0
+842,52138,20208,0,1
+843,52138,20232,0,1
+844,52138,20256,0,1
+845,52138,20280,0,1
+846,52138,20304,0,1
+847,52138,20328,0,1
+848,52138,20352,0,1
+849,52138,20376,0,1
+850,52138,20400,0,1
+851,52138,20424,0,1
+852,52138,20448,0,1
+853,52138,20472,0,1
+854,52138,20496,0,1
+855,52138,20520,0,1
+856,52138,20544,0,1
+857,52138,20568,0,1
+858,52138,20592,1,0
+859,52138,20616,1,0
+860,52138,20640,1,0
+861,52138,20664,1,0
+862,52138,20688,1,0
+863,52138,20712,1,0
+864,52138,20736,1,0
+865,52138,20760,1,0
+866,52138,20784,0,1
+867,52138,20808,1,0
+868,52138,20832,1,0
+869,52138,20856,0,1
+870,52138,20880,0,1
+871,52138,20904,0,1
+872,52138,20928,0,1
+873,52138,20952,0,1
+874,52138,20976,0,1
+875,52138,21000,0,1
+876,52138,21024,0,1
+877,52138,21048,0,1
+878,52138,21072,1,0
+879,52138,21096,1,0
+880,52138,21120,1,0
+881,52138,21144,1,0
+882,52138,21168,1,0
+883,52138,21192,1,0
+884,52138,21216,1,0
+885,52138,21240,1,0
+886,52138,21264,1,0
+887,52138,21288,1,0
+888,52138,21312,1,0
+889,52138,21336,1,0
+890,52138,21360,0,1
+891,52138,21384,0,1
+892,52138,21408,1,0
+893,52138,21432,1,0
+894,52138,21456,1,0
+895,52138,21480,1,0
+896,52138,21504,0,1
+897,52138,21528,0,1
+898,52138,21552,0,1
+899,52138,21576,0,1
+900,52138,21600,0,1
+901,52138,21624,0,1
+902,52138,21648,0,1
+903,52138,21672,0,1
+904,52138,21696,0,1
+905,52138,21720,0,1
+906,52138,21744,0,1
+907,52138,21768,0,1
+908,52138,21792,0,1
+909,52138,21816,0,1
+910,52138,21840,0,1
+911,52138,21864,0,1
+912,52138,21888,0,1
+913,52138,21912,0,1
+914,52138,21936,0,1
+915,52138,21960,0,1
+916,52138,21984,0,1
+917,52138,22008,0,1
+918,52138,22032,0,1
+919,52138,22056,0,1
+920,52138,22080,0,1
+921,52138,22104,0,1
+922,52138,22128,0,1
+923,52138,22152,1,0
+924,52138,22176,1,0
+925,52138,22200,0,1
+926,52138,22224,0,1
+927,52138,22248,0,1
+928,52138,22272,0,1
+929,52138,22296,0,1
+930,52138,22320,0,1
+931,52138,22344,0,1
+932,52138,22368,0,1
+933,52138,22392,0,1
+934,52138,22416,0,1
+935,52138,22440,0,1
+936,52138,22464,1,0
+937,52138,22488,1,0
+938,52138,22512,0,1
+939,52138,22536,0,1
+940,52138,22560,0,1
+941,52138,22584,0,1
+942,52138,22608,0,1
+943,52138,22632,0,1
+944,52138,22656,0,1
+945,52138,22680,0,1
+946,52138,22704,0,1
+947,52138,22728,0,1
+948,52138,22752,0,1
+949,52138,22776,0,1
+950,52138,22800,0,1
+951,52138,22824,0,1
+952,52138,22848,0,1
+953,52138,22872,0,1
+954,52138,22896,0,1
+955,52138,22920,0,1
+956,52138,22944,0,1
+957,52138,22968,0,1
+958,52138,22992,0,1
+959,52138,23016,0,1
+960,52138,23040,0,1
+961,52138,23064,0,1
+962,52138,23088,0,1
+963,52138,23112,1,0
+964,52138,23136,0,1
+965,52138,23160,0,1
+966,52138,23184,0,1
+967,52138,23208,0,1
+968,52138,23232,0,1
+969,52138,23256,0,1
+970,52138,23280,0,1
+971,52138,23304,0,1
+972,52138,23328,0,1
+973,52138,23352,0,1
+974,52138,23376,0,1
+975,52138,23400,0,1
+976,52138,23424,0,1
+977,52138,23448,0,1
+978,52138,23472,0,1
+979,52138,23496,0,1
+980,52138,23520,0,1
+981,52138,23544,0,1
+982,52138,23568,0,1
+983,52138,23592,0,1
+984,52138,23616,0,1
+985,52138,23640,0,1
+986,52138,23664,0,1
+987,52138,23688,0,1
+988,52138,23712,0,1
+989,52138,23736,0,1
+990,52138,23760,0,1
+991,52138,23784,0,1
+992,52138,23808,0,1
+993,52138,23832,0,1
+994,52138,23856,0,1
+995,52138,23880,0,1
+996,52138,23904,0,1
+997,52138,23928,0,1
+998,52138,23952,0,1
+999,52138,23976,0,1
+1000,52138,24000,0,1
+1001,52138,24024,0,1
+1002,52138,24048,0,1
+1003,52138,24072,0,1
+1004,52138,24096,0,1
+1005,52138,24120,0,1
+1006,52138,24144,0,1
+1007,52138,24168,0,1
+1008,52138,24192,0,1
+1009,52138,24216,0,1
+1010,52138,24240,0,1
+1011,52138,24264,0,1
+1012,52138,24288,0,1
+1013,52138,24312,0,1
+1014,52138,24336,1,0
+1015,52138,24360,1,0
+1016,52138,24384,1,0
+1017,52138,24408,1,0
+1018,52138,24432,1,0
+1019,52138,24456,1,0
+1020,52138,24480,1,0
+1021,52138,24504,1,0
+1022,52138,24528,1,0
+1023,52138,24552,1,0
+1024,52138,24576,0,1
+1025,52138,24600,0,1
+1026,52138,24624,0,1
+1027,52138,24648,0,1
+1028,52138,24672,0,1
+1029,52138,24696,0,1
+1030,52138,24720,0,1
+1031,52138,24744,0,1
+1032,52138,24768,1,0
+1033,52138,24792,0,1
+1034,52138,24816,0,1
+1035,52138,24840,0,1
+1036,52138,24864,0,1
+1037,52138,24888,0,1
+1038,52138,24912,0,1
+1039,52138,24936,0,1
+1040,52138,24960,0,1
+1041,52138,24984,0,1
+1042,52138,25008,0,1
+1043,52138,25032,0,1
+1044,52138,25056,0,1
+1045,52138,25080,0,1
+1046,52138,25104,0,1
+1047,52138,25128,0,1
+1048,52138,25152,0,1
+1049,52138,25176,0,1
+1050,52138,25200,1,0
+1051,52138,25224,0,1
+1052,52138,25248,0,1
+1053,52138,25272,0,1
+1054,52138,25296,0,1
+1055,52138,25320,0,1
+1056,52138,25344,0,1
+1057,52138,25368,0,1
+1058,52138,25392,0,1
+1059,52138,25416,0,1
+1060,52138,25440,0,1
+1061,52138,25464,0,1
+1062,52138,25488,0,1
+1063,52138,25512,0,1
+1064,52138,25536,0,1
+1065,52138,25560,0,1
+1066,52138,25584,0,1
+1067,52138,25608,0,1
+1068,52138,25632,0,1
+1069,52138,25656,0,1
+1070,52138,25680,0,1
+1071,52138,25704,0,1
+1072,52138,25728,0,1
+1073,52138,25752,0,1
+1074,52138,25776,0,1
+1075,52138,25800,0,1
+1076,52138,25824,0,1
+1077,52138,25848,0,1
+1078,52138,25872,0,1
+1079,52138,25896,0,1
+1080,52138,25920,0,1
+1081,52138,25944,0,1
+1082,52138,25968,0,1
+1083,52138,25992,0,1
+1084,52138,26016,0,1
+1085,52138,26040,0,1
+1086,52138,26064,0,1
+1087,52138,26088,0,1
+1088,52138,26112,0,1
+1089,52138,26136,0,1
+1090,52138,26160,0,1
+1091,52138,26184,0,1
+1092,52138,26208,0,1
+1093,52138,26232,0,1
+1094,52138,26256,0,1
+1095,52138,26280,0,1
+1096,52138,26304,0,1
+1097,52138,26328,0,1
+1098,52138,26352,0,1
+1099,52138,26376,0,1
+1100,52138,26400,0,1
+1101,52138,26424,0,1
+1102,52138,26448,0,1
+1103,52138,26472,0,1
+1104,52138,26496,0,1
+1105,52138,26520,0,1
+1106,52138,26544,0,1
+1107,52138,26568,0,1
+1108,52138,26592,0,1
+1109,52138,26616,0,1
+1110,52138,26640,0,1
+1111,52138,26664,0,1
+1112,52138,26688,1,0
+1113,52138,26712,0,1
+1114,52138,26736,0,1
+1115,52138,26760,0,1
+1116,52138,26784,0,1
+1117,52138,26808,0,1
+1118,52138,26832,0,1
+1119,52138,26856,0,1
+1120,52138,26880,0,1
+1121,52138,26904,0,1
+1122,52138,26928,0,1
+1123,52138,26952,0,1
+1124,52138,26976,0,1
+1125,52138,27000,0,1
+1126,52138,27024,0,1
+1127,52138,27048,0,1
+1128,52138,27072,0,1
+1129,52138,27096,0,1
+1130,52138,27120,0,1
+1131,52138,27144,0,1
+1132,52138,27168,0,1
+1133,52138,27192,0,1
+1134,52138,27216,0,1
+1135,52138,27240,0,1
+1136,52138,27264,0,1
+1137,52138,27288,0,1
+1138,52138,27312,0,1
+1139,52138,27336,0,1
+1140,52138,27360,0,1
+1141,52138,27384,0,1
+1142,52138,27408,0,1
+1143,52138,27432,0,1
+1144,52138,27456,0,1
+1145,52138,27480,0,1
+1146,52138,27504,0,1
+1147,52138,27528,0,1
+1148,52138,27552,0,1
+1149,52138,27576,0,1
+1150,52138,27600,0,1
+1151,52138,27624,0,1
+1152,52138,27648,0,1
+1153,52138,27672,0,1
+1154,52138,27696,0,1
+1155,52138,27720,0,1
+1156,52138,27744,0,1
+1157,52138,27768,0,1
+1158,52138,27792,0,1
+1159,52138,27816,0,1
+1160,52138,27840,0,1
+1161,52138,27864,0,1
+1162,52138,27888,0,1
+1163,52138,27912,0,1
+1164,52138,27936,0,1
+1165,52138,27960,0,1
+1166,52138,27984,0,1
+1167,52138,28008,0,1
+1168,52138,28032,0,1
+1169,52138,28056,0,1
+1170,52138,28080,0,1
+1171,52138,28104,0,1
+1172,52138,28128,0,1
+1173,52138,28152,0,1
+1174,52138,28176,0,1
+1175,52138,28200,0,1
+1176,52138,28224,0,1
+1177,52138,28248,0,1
+1178,52138,28272,0,1
+1179,52138,28296,0,1
+1180,52138,28320,0,1
+1181,52138,28344,0,1
+1182,52138,28368,0,1
+1183,52138,28392,0,1
+1184,52138,28416,0,1
+1185,52138,28440,0,1
+1186,52138,28464,0,1
+1187,52138,28488,0,1
+1188,52138,28512,0,1
+1189,52138,28536,0,1
+1190,52138,28560,0,1
+1191,52138,28584,0,1
+1192,52138,28608,0,1
+1193,52138,28632,0,1
+1194,52138,28656,0,1
+1195,52138,28680,0,1
+1196,52138,28704,0,1
+1197,52138,28728,0,1
+1198,52138,28752,0,1
+1199,52138,28776,0,1
+1200,52138,28800,0,1
+1201,52138,28824,0,1
+1202,52138,28848,0,1
+1203,52138,28872,0,1
+1204,52138,28896,0,1
+1205,52138,28920,0,1
+1206,52138,28944,0,1
+1207,52138,28968,0,1
+1208,52138,28992,0,1
+1209,52138,29016,0,1
+1210,52138,29040,0,1
+1211,52138,29064,0,1
+1212,52138,29088,0,1
+1213,52138,29112,0,1
+1214,52138,29136,0,1
+1215,52138,29160,0,1
+1216,52138,29184,0,1
+1217,52138,29208,0,1
+1218,52138,29232,0,1
+1219,52138,29256,0,1
+1220,52138,29280,0,1
+1221,52138,29304,0,1
+1222,52138,29328,0,1
+1223,52138,29352,0,1
+1224,52138,29376,0,1
+1225,52138,29400,0,1
+1226,52138,29424,1,0
+1227,52138,29448,1,0
+1228,52138,29472,1,0
+1229,52138,29496,1,0
+1230,52138,29520,0,1
+1231,52138,29544,0,1
+1232,52138,29568,0,1
+1233,52138,29592,0,1
+1234,52138,29616,0,1
+1235,52138,29640,0,1
+1236,52138,29664,0,1
+1237,52138,29688,0,1
+1238,52138,29712,0,1
+1239,52138,29736,0,1
+1240,52138,29760,0,1
+1241,52138,29784,0,1
+1242,52138,29808,0,1
+1243,52138,29832,0,1
+1244,52138,29856,0,1
+1245,52138,29880,0,1
+1246,52138,29904,0,1
+1247,52138,29928,0,1
+1248,52138,29952,0,1
+1249,52138,29976,0,1
+1250,52138,30000,0,1
+1251,52138,30024,0,1
+1252,52138,30048,0,1
+1253,52138,30072,0,1
+1254,52138,30096,0,1
+1255,52138,30120,0,1
+1256,52138,30144,0,1
+1257,52138,30168,0,1
+1258,52138,30192,0,1
+1259,52138,30216,0,1
+1260,52138,30240,0,1
+1261,52138,30264,0,1
+1262,52138,30288,1,0
+1263,52138,30312,1,0
+1264,52138,30336,1,0
+1265,52138,30360,1,0
+1266,52138,30384,1,0
+1267,52138,30408,0,1
+1268,52138,30432,1,0
+1269,52138,30456,0,1
+1270,52138,30480,0,1
+1271,52138,30504,0,1
+1272,52138,30528,0,1
+1273,52138,30552,0,1
+1274,52138,30576,0,1
+1275,52138,30600,0,1
+1276,52138,30624,0,1
+1277,52138,30648,0,1
+1278,52138,30672,0,1
+1279,52138,30696,0,1
+1280,52138,30720,0,1
+1281,52138,30744,0,1
+1282,52138,30768,0,1
+1283,52138,30792,0,1
+1284,52138,30816,0,1
+1285,52138,30840,0,1
+1286,52138,30864,0,1
+1287,52138,30888,0,1
+1288,52138,30912,0,1
+1289,52138,30936,0,1
+1290,52138,30960,0,1
+1291,52138,30984,0,1
+1292,52138,31008,0,1
+1293,52138,31032,0,1
+1294,52138,31056,0,1
+1295,52138,31080,0,1
+1296,52138,31104,0,1
+1297,52138,31128,0,1
+1298,52138,31152,0,1
+1299,52138,31176,0,1
+1300,52138,31200,0,1
+1301,52138,31224,0,1
+1302,52138,31248,1,0
+1303,52138,31272,1,0
+1304,52138,31296,1,0
+1305,52138,31320,1,0
+1306,52138,31344,1,0
+1307,52138,31368,1,0
+1308,52138,31392,1,0
+1309,52138,31416,0,1
+1310,52138,31440,0,1
+1311,52138,31464,0,1
+1312,52138,31488,0,1
+1313,52138,31512,0,1
+1314,52138,31536,0,1
+1315,52138,31560,0,1
+1316,52138,31584,0,1
+1317,52138,31608,0,1
+1318,52138,31632,0,1
+1319,52138,31656,0,1
+1320,52138,31680,0,1
+1321,52138,31704,0,1
+1322,52138,31728,0,1
+1323,52138,31752,0,1
+1324,52138,31776,0,1
+1325,52138,31800,0,1
+1326,52138,31824,0,1
+1327,52138,31848,0,1
+1328,52138,31872,0,1
+1329,52138,31896,0,1
+1330,52138,31920,0,1
+1331,52138,31944,0,1
+1332,52138,31968,0,1
+1333,52138,31992,1,0
+1334,52138,32016,1,0
+1335,52138,32040,0,1
+1336,52138,32064,0,1
+1337,52138,32088,0,1
+1338,52138,32112,0,1
+1339,52138,32136,0,1
+1340,52138,32160,0,1
+1341,52138,32184,0,1
+1342,52138,32208,0,1
+1343,52138,32232,0,1
+1344,52138,32256,0,1
+1345,52138,32280,0,1
+1346,52138,32304,0,1
+1347,52138,32328,0,1
+1348,52138,32352,0,1
+1349,52138,32376,1,0
+1350,52138,32400,1,0
+1351,52138,32424,0,1
+1352,52138,32448,0,1
+1353,52138,32472,0,1
+1354,52138,32496,0,1
+1355,52138,32520,0,1
+1356,52138,32544,0,1
+1357,52138,32568,0,1
+1358,52138,32592,0,1
+1359,52138,32616,0,1
+1360,52138,32640,0,1
+1361,52138,32664,0,1
+1362,52138,32688,0,1
+1363,52138,32712,0,1
+1364,52138,32736,0,1
+1365,52138,32760,0,1
+1366,52138,32784,1,0
+1367,52138,32808,1,0
+1368,52138,32832,1,0
+1369,52138,32856,0,1
+1370,52138,32880,1,0
+1371,52138,32904,1,0
+1372,52138,32928,1,0
+1373,52138,32952,1,0
+1374,52138,32976,0,1
+1375,52138,33000,0,1
+1376,52138,33024,0,1
+1377,52138,33048,0,1
+1378,52138,33072,0,1
+1379,52138,33096,1,0
+1380,52138,33120,1,0
+1381,52138,33144,1,0
+1382,52138,33168,1,0
+1383,52138,33192,1,0
+1384,52138,33216,1,0
+1385,52138,33240,1,0
+1386,52138,33264,1,0
+1387,52138,33288,0,1
+1388,52138,33312,0,1
+1389,52138,33336,0,1
+1390,52138,33360,0,1
+1391,52138,33384,0,1
+1392,52138,33408,0,1
+1393,52138,33432,0,1
+1394,52138,33456,0,1
+1395,52138,33480,0,1
+1396,52138,33504,0,1
+1397,52138,33528,0,1
+1398,52138,33552,0,1
+1399,52138,33576,0,1
+1400,52138,33600,0,1
+1401,52138,33624,0,1
+1402,52138,33648,0,1
+1403,52138,33672,0,1
+1404,52138,33696,0,1
+1405,52138,33720,0,1
+1406,52138,33744,1,0
+1407,52138,33768,1,0
+1408,52138,33792,1,0
+1409,52138,33816,1,0
+1410,52138,33840,1,0
+1411,52138,33864,1,0
+1412,52138,33888,1,0
+1413,52138,33912,1,0
+1414,52138,33936,1,0
+1415,52138,33960,1,0
+1416,52138,33984,1,0
+1417,52138,34008,1,0
+1418,52138,34032,1,0
+1419,52138,34056,0,1
+1420,52138,34080,1,0
+1421,52138,34104,1,0
+1422,52138,34128,1,0
+1423,52138,34152,1,0
+1424,52138,34176,1,0
+1425,52138,34200,1,0
+1426,52138,34224,0,1
+1427,52138,34248,0,1
+1428,52138,34272,0,1
+1429,52138,34296,0,1
+1430,52138,34320,0,1
+1431,52138,34344,0,1
+1432,52138,34368,0,1
+1433,52138,34392,0,1
+1434,52138,34416,0,1
+1435,52138,34440,1,0
+1436,52138,34464,1,0
+1437,52138,34488,1,0
+1438,52138,34512,1,0
+1439,52138,34536,1,0
+1440,52138,34560,0,1
+1441,52138,34584,0,1
+1442,52138,34608,0,1
+1443,52138,34632,0,1
+1444,52138,34656,0,1
+1445,52138,34680,0,1
+1446,52138,34704,0,1
+1447,52138,34728,0,1
+1448,52138,34752,0,1
+1449,52138,34776,0,1
+1450,52138,34800,0,1
+1451,52138,34824,0,1
+1452,52138,34848,1,0
+1453,52138,34872,1,0
+1454,52138,34896,1,0
+1455,52138,34920,1,0
+1456,52138,34944,1,0
+1457,52138,34968,1,0
+1458,52138,34992,1,0
+1459,52138,35016,1,0
+1460,52138,35040,1,0
+1461,52138,35064,1,0
+1462,52138,35088,1,0
+1463,52138,35112,1,0
+1464,52138,35136,1,0
+1465,52138,35160,1,0
+1466,52138,35184,1,0
+1467,52138,35208,1,0
+1468,52138,35232,1,0
+1469,52138,35256,1,0
+1470,52138,35280,1,0
+1471,52138,35304,1,0
+1472,52138,35328,0,1
+1473,52138,35352,0,1
+1474,52138,35376,1,0
+1475,52138,35400,1,0
+1476,52138,35424,1,0
+1477,52138,35448,1,0
+1478,52138,35472,1,0
+1479,52138,35496,1,0
+1480,52138,35520,1,0
+1481,52138,35544,0,1
+1482,52138,35568,0,1
+1483,52138,35592,0,1
+1484,52138,35616,0,1
+1485,52138,35640,0,1
+1486,52138,35664,0,1
+1487,52138,35688,0,1
+1488,52138,35712,1,0
+1489,52138,35736,0,1
+1490,52138,35760,1,0
+1491,52138,35784,1,0
+1492,52138,35808,1,0
+1493,52138,35832,1,0
+1494,52138,35856,1,0
+1495,52138,35880,1,0
+1496,52138,35904,1,0
+1497,52138,35928,1,0
+1498,52138,35952,1,0
+1499,52138,35976,1,0
+1500,52138,36000,1,0
+1501,52138,36024,1,0
+1502,52138,36048,1,0
+1503,52138,36072,1,0
+1504,52138,36096,1,0
+1505,52138,36120,1,0
+1506,52138,36144,1,0
+1507,52138,36168,1,0
+1508,52138,36192,1,0
+1509,52138,36216,1,0
+1510,52138,36240,1,0
+1511,52138,36264,1,0
+1512,52138,36288,1,0
+1513,52138,36312,1,0
+1514,52138,36336,1,0
+1515,52138,36360,1,0
+1516,52138,36384,1,0
+1517,52138,36408,1,0
+1518,52138,36432,1,0
+1519,52138,36456,1,0
+1520,52138,36480,1,0
+1521,52138,36504,0,1
+1522,52138,36528,0,1
+1523,52138,36552,0,1
+1524,52138,36576,0,1
+1525,52138,36600,0,1
+1526,52138,36624,0,1
+1527,52138,36648,0,1
+1528,52138,36672,1,0
+1529,52138,36696,1,0
+1530,52138,36720,1,0
+1531,52138,36744,1,0
+1532,52138,36768,1,0
+1533,52138,36792,1,0
+1534,52138,36816,1,0
+1535,52138,36840,1,0
+1536,52138,36864,1,0
+1537,52138,36888,1,0
+1538,52138,36912,1,0
+1539,52138,36936,1,0
+1540,52138,36960,1,0
+1541,52138,36984,1,0
+1542,52138,37008,1,0
+1543,52138,37032,1,0
+1544,52138,37056,1,0
+1545,52138,37080,1,0
+1546,52138,37104,1,0
+1547,52138,37128,1,0
+1548,52138,37152,1,0
+1549,52138,37176,1,0
+1550,52138,37200,1,0
+1551,52138,37224,1,0
+1552,52138,37248,0,1
+1553,52138,37272,0,1
+1554,52138,37296,0,1
+1555,52138,37320,0,1
+1556,52138,37344,0,1
+1557,52138,37368,0,1
+1558,52138,37392,1,0
+1559,52138,37416,1,0
+1560,52138,37440,1,0
+1561,52138,37464,1,0
+1562,52138,37488,1,0
+1563,52138,37512,1,0
+1564,52138,37536,1,0
+1565,52138,37560,1,0
+1566,52138,37584,1,0
+1567,52138,37608,1,0
+1568,52138,37632,0,1
+1569,52138,37656,1,0
+1570,52138,37680,0,1

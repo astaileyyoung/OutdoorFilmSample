@@ -1,214 +1,214 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh",62089
-1,24,indoor,"shower, clothing_store, water_tower, dressing_room, skyscraper",62089
-2,48,indoor,"dressing_room, shower, clothing_store, closet, science_museum",62089
-3,72,indoor,"shower, closet, clean_room, art_gallery, clothing_store",62089
-4,96,indoor,"shower, clean_room, closet, art_gallery, bathroom",62089
-5,120,indoor,"basement, art_gallery, elevator_lobby, elevator/door, corridor",62089
-6,144,indoor,"museum/indoor, science_museum, art_gallery, shower, natural_history_museum",62089
-7,168,indoor,"art_gallery, museum/indoor, shower, dressing_room, elevator_lobby",62089
-8,192,indoor,"elevator_lobby, dressing_room, art_gallery, museum/indoor, shower",62089
-9,216,indoor,"discotheque, stage/indoor, arena/performance, television_studio, conference_center",62089
-10,240,indoor,"discotheque, shower, fountain, skyscraper, stage/indoor",62089
-11,264,outdoor,"tower, skyscraper, lighthouse, discotheque, industrial_area",62089
-12,288,indoor,"discotheque, shower, stage/indoor, wind_farm, sauna",62089
-13,312,indoor,"shower, closet, clothing_store, dressing_room, elevator/door",62089
-14,336,indoor,"elevator/door, dressing_room, shower, closet, clothing_store",62089
-15,360,indoor,"elevator/door, closet, dressing_room, clothing_store, clean_room",62089
-16,384,indoor,"elevator/door, elevator_lobby, closet, art_gallery, dressing_room",62089
-17,408,indoor,"closet, elevator/door, clothing_store, shower, nursery",62089
-18,432,indoor,"discotheque, dressing_room, shower, music_studio, stage/indoor",62089
-19,456,indoor,"discotheque, sky, skyscraper, stage/indoor, shower",62089
-20,480,outdoor,"sky, tower, skyscraper, volcano, lighthouse",62089
-21,504,outdoor,"sky, hot_spring, volcano, art_gallery, tower",62089
-22,528,outdoor,"sky, volcano, art_gallery, tower, lighthouse",62089
-23,552,indoor,"shower, aquarium, discotheque, art_gallery, sky",62089
-24,576,indoor,"discotheque, shower, stage/indoor, beauty_salon, dressing_room",62089
-25,600,indoor,"shower, beauty_salon, bedroom, dressing_room, art_gallery",62089
-26,624,indoor,"beauty_salon, dressing_room, shower, clean_room, hospital_room",62089
-27,648,indoor,"art_gallery, beauty_salon, museum/indoor, bedroom, alcove",62089
-28,672,indoor,"shower, stage/indoor, art_gallery, bedroom, museum/indoor",62089
-29,696,indoor,"science_museum, art_gallery, museum/indoor, natural_history_museum, butchers_shop",62089
-30,720,indoor,"beauty_salon, discotheque, aquarium, stage/indoor, science_museum",62089
-31,744,indoor,"science_museum, aquarium, pond, stage/indoor, natural_history_museum",62089
-32,768,outdoor,"fishpond, pond, lake/natural, aquarium, discotheque",62089
-33,792,outdoor,"fishpond, oilrig, lake/natural, science_museum, aquarium",62089
-34,816,outdoor,"lake/natural, pond, fishpond, discotheque, hot_spring",62089
-35,840,outdoor,"lake/natural, pond, fishpond, discotheque, hot_spring",62089
-36,864,outdoor,"lake/natural, sky, oilrig, pond, fishpond",62089
-37,888,outdoor,"sky, industrial_area, art_gallery, wind_farm, tower",62089
-38,912,outdoor,"discotheque, tower, art_gallery, sky, lighthouse",62089
-39,936,outdoor,"tower, sky, lighthouse, industrial_area, art_gallery",62089
-40,960,outdoor,"tower, lighthouse, oilrig, discotheque, industrial_area",62089
-41,984,outdoor,"volcano, discotheque, lighthouse, oilrig, tower",62089
-42,1008,indoor,"dressing_room, shower, bathroom, locker_room, beauty_salon",62089
-43,1032,indoor,"shower, bathroom, beauty_salon, discotheque, art_gallery",62089
-44,1056,indoor,"shower, bathroom, beauty_salon, discotheque, art_gallery",62089
-45,1080,indoor,"art_gallery, shower, museum/indoor, beauty_salon, stage/indoor",62089
-46,1104,outdoor,"pond, lake/natural, fishpond, botanical_garden, art_gallery",62089
-47,1128,indoor,"aquarium, natural_history_museum, science_museum, art_gallery, discotheque",62089
-48,1152,indoor,"beauty_salon, bar, discotheque, drugstore, skyscraper",62089
-49,1176,indoor,"beauty_salon, drugstore, pharmacy, museum/indoor, booth/indoor",62089
-50,1200,indoor,"beauty_salon, drugstore, pharmacy, booth/indoor, museum/indoor",62089
-51,1224,indoor,"beauty_salon, pharmacy, drugstore, museum/indoor, reception",62089
-52,1248,indoor,"art_gallery, museum/indoor, stage/indoor, beauty_salon, science_museum",62089
-53,1272,indoor,"beauty_salon, science_museum, museum/indoor, discotheque, natural_history_museum",62089
-54,1296,indoor,"beauty_salon, discotheque, stage/indoor, conference_center, museum/indoor",62089
-55,1320,indoor,"science_museum, home_theater, natural_history_museum, discotheque, conference_center",62089
-56,1344,indoor,"arena/performance, stage/indoor, discotheque, television_studio, auditorium",62089
-57,1368,indoor,"discotheque, stage/indoor, arena/performance, ballroom, reception",62089
-58,1392,indoor,"reception, stage/indoor, nursery, discotheque, ballroom",62089
-59,1416,indoor,"reception, clean_room, stage/indoor, discotheque, conference_center",62089
-60,1440,indoor,"reception, television_studio, clean_room, home_theater, conference_center",62089
-61,1464,indoor,"reception, clean_room, television_studio, beauty_salon, conference_center",62089
-62,1488,indoor,"clean_room, reception, museum/indoor, science_museum, beauty_salon",62089
-63,1512,indoor,"clean_room, reception, museum/indoor, science_museum, conference_center",62089
-64,1536,indoor,"clean_room, reception, museum/indoor, art_gallery, conference_center",62089
-65,1560,indoor,"discotheque, stage/indoor, dressing_room, shower, arena/performance",62089
-66,1584,indoor,"discotheque, stage/indoor, ballroom, dressing_room, arena/performance",62089
-67,1608,indoor,"discotheque, stage/indoor, shower, dressing_room, ballroom",62089
-68,1632,indoor,"discotheque, stage/indoor, shower, dressing_room, arena/performance",62089
-69,1656,indoor,"discotheque, shower, stage/indoor, dressing_room, arena/performance",62089
-70,1680,indoor,"discotheque, stage/indoor, dressing_room, shower, arena/performance",62089
-71,1704,indoor,"discotheque, stage/indoor, shower, dressing_room, arena/performance",62089
-72,1728,indoor,"discotheque, dressing_room, stage/indoor, shower, arena/performance",62089
-73,1752,indoor,"discotheque, stage/indoor, dressing_room, arena/performance, shower",62089
-74,1776,indoor,"stage/indoor, discotheque, arena/performance, television_studio, dressing_room",62089
-75,1800,indoor,"stage/indoor, discotheque, arena/performance, dressing_room, shower",62089
-76,1824,indoor,"discotheque, stage/indoor, dressing_room, elevator/door, arena/performance",62089
-77,1848,indoor,"discotheque, stage/indoor, dressing_room, arena/performance, shower",62089
-78,1872,outdoor,"courtyard, mansion, medina, palace, entrance_hall",62089
-79,1896,indoor,"museum/indoor, clothing_store, plaza, dressing_room, elevator_lobby",62089
-80,1920,indoor,"shower, museum/indoor, dressing_room, clothing_store, science_museum",62089
-81,1944,indoor,"museum/indoor, art_gallery, burial_chamber, sauna, shower",62089
-82,1968,indoor,"art_gallery, museum/indoor, burial_chamber, sauna, artists_loft",62089
-83,1992,indoor,"music_studio, clean_room, science_museum, operating_room, museum/indoor",62089
-84,2016,indoor,"dressing_room, clothing_store, clean_room, florist_shop/indoor, discotheque",62089
-85,2040,indoor,"clean_room, restaurant_kitchen, kitchen, bathroom, beauty_salon",62089
-86,2064,indoor,"bathroom, beauty_salon, shower, dressing_room, clean_room",62089
-87,2088,indoor,"shower, elevator/door, art_gallery, museum/indoor, elevator_lobby",62089
-88,2112,indoor,"elevator/door, shower, art_gallery, museum/indoor, elevator_lobby",62089
-89,2136,indoor,"bathroom, shower, jacuzzi/indoor, discotheque, beauty_salon",62089
-90,2160,indoor,"bathroom, shower, discotheque, jacuzzi/indoor, beauty_salon",62089
-91,2184,indoor,"discotheque, shower, dressing_room, bathroom, hot_spring",62089
-92,2208,indoor,"discotheque, shower, hot_spring, chemistry_lab, stage/indoor",62089
-93,2232,indoor,"discotheque, hot_spring, stage/indoor, shower, bar",62089
-94,2256,indoor,"discotheque, beauty_salon, shower, bathroom, dressing_room",62089
-95,2280,indoor,"bathroom, shower, jacuzzi/indoor, discotheque, beauty_salon",62089
-96,2304,indoor,"discotheque, stage/indoor, dressing_room, beauty_salon, television_studio",62089
-97,2328,indoor,"discotheque, stage/indoor, beauty_salon, dressing_room, television_studio",62089
-98,2352,indoor,"discotheque, dressing_room, stage/indoor, beauty_salon, television_studio",62089
-99,2376,indoor,"shower, museum/indoor, art_gallery, alcove, bedroom",62089
-100,2400,indoor,"shower, art_gallery, museum/indoor, alcove, bedroom",62089
-101,2424,indoor,"dressing_room, discotheque, beauty_salon, music_studio, stage/indoor",62089
-102,2448,indoor,"dressing_room, shower, beauty_salon, bathroom, discotheque",62089
-103,2472,indoor,"dressing_room, discotheque, beauty_salon, stage/indoor, martial_arts_gym",62089
-104,2496,indoor,"dressing_room, discotheque, stage/indoor, beauty_salon, shower",62089
-105,2520,indoor,"discotheque, stage/indoor, dressing_room, hot_spring, shower",62089
-106,2544,indoor,"stage/indoor, discotheque, arena/performance, ballroom, volcano",62089
-107,2568,indoor,"discotheque, stage/indoor, dressing_room, art_gallery, hot_spring",62089
-108,2592,indoor,"discotheque, stage/indoor, florist_shop/indoor, sky, volcano",62089
-109,2616,outdoor,"shower, tower, sky, skyscraper, basement",62089
-110,2640,outdoor,"volcano, pagoda, hot_spring, fishpond, lake/natural",62089
-111,2664,indoor,"museum/indoor, art_gallery, science_museum, natural_history_museum, art_studio",62089
-112,2688,indoor,"shower, art_gallery, elevator/door, sky, hot_spring",62089
-113,2712,indoor,"arena/performance, stage/indoor, auditorium, lecture_room, museum/indoor",62089
-114,2736,indoor,"arena/performance, stage/indoor, auditorium, television_studio, art_gallery",62089
-115,2760,indoor,"arena/performance, stage/indoor, auditorium, art_gallery, museum/indoor",62089
-116,2784,indoor,"discotheque, science_museum, dressing_room, beauty_salon, stage/indoor",62089
-117,2808,indoor,"basement, playroom, locker_room, elevator/door, elevator_lobby",62089
-118,2832,indoor,"bank_vault, elevator/door, elevator_lobby, jail_cell, locker_room",62089
-119,2856,indoor,"elevator/door, locker_room, bank_vault, elevator_lobby, jail_cell",62089
-120,2880,indoor,"elevator/door, bank_vault, locker_room, elevator_lobby, jail_cell",62089
-121,2904,indoor,"elevator/door, locker_room, bank_vault, elevator_lobby, jail_cell",62089
-122,2928,indoor,"pond, locker_room, lake/natural, basement, elevator/door",62089
-123,2952,indoor,"elevator/door, locker_room, museum/indoor, elevator_lobby, jail_cell",62089
-124,2976,indoor,"museum/indoor, classroom, kindergarden_classroom, art_gallery, basement",62089
-125,3000,indoor,"classroom, museum/indoor, basement, kindergarden_classroom, elevator/door",62089
-126,3024,indoor,"discotheque, basement, aquarium, science_museum, locker_room",62089
-127,3048,indoor,"discotheque, basement, aquarium, science_museum, elevator/door",62089
-128,3072,indoor,"shower, discotheque, dressing_room, bathroom, elevator/door",62089
-129,3096,indoor,"discotheque, shower, dressing_room, locker_room, bathroom",62089
-130,3120,indoor,"dressing_room, discotheque, shower, art_gallery, science_museum",62089
-131,3144,indoor,"dressing_room, stage/indoor, discotheque, art_gallery, ballroom",62089
-132,3168,indoor,"dressing_room, stage/indoor, arena/performance, martial_arts_gym, discotheque",62089
-133,3192,indoor,"dressing_room, discotheque, art_gallery, shower, beauty_salon",62089
-134,3216,indoor,"discotheque, shower, dressing_room, bathroom, locker_room",62089
-135,3240,indoor,"discotheque, shower, dressing_room, art_gallery, elevator/door",62089
-136,3264,indoor,"corridor, art_gallery, artists_loft, elevator_lobby, museum/indoor",62089
-137,3288,indoor,"corridor, art_gallery, artists_loft, elevator_lobby, locker_room",62089
-138,3312,indoor,"corridor, art_gallery, artists_loft, locker_room, elevator_lobby",62089
-139,3336,indoor,"beauty_salon, dressing_room, discotheque, classroom, office",62089
-140,3360,indoor,"dressing_room, beauty_salon, discotheque, shower, art_gallery",62089
-141,3384,indoor,"dressing_room, beauty_salon, bathroom, shower, discotheque",62089
-142,3408,indoor,"beauty_salon, dressing_room, bathroom, shower, art_studio",62089
-143,3432,indoor,"dressing_room, shower, beauty_salon, bathroom, elevator/door",62089
-144,3456,indoor,"dressing_room, beauty_salon, hospital_room, clean_room, chemistry_lab",62089
-145,3480,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, beauty_salon",62089
-146,3504,indoor,"discotheque, elevator/door, elevator_lobby, art_gallery, music_studio",62089
-147,3528,outdoor,"hot_spring, volcano, discotheque, sky, shower",62089
-148,3552,indoor,"discotheque, television_studio, elevator/door, elevator_lobby, dressing_room",62089
-149,3576,indoor,"art_gallery, elevator/door, office, elevator_lobby, television_studio",62089
-150,3600,indoor,"dressing_room, beauty_salon, elevator/door, elevator_lobby, bathroom",62089
-151,3624,indoor,"closet, elevator/door, bow_window/indoor, alcove, shower",62089
-152,3648,indoor,"beauty_salon, stage/indoor, dressing_room, music_studio, art_gallery",62089
-153,3672,indoor,"dressing_room, beauty_salon, art_gallery, clothing_store, shower",62089
-154,3696,indoor,"beauty_salon, dressing_room, shower, bathroom, clothing_store",62089
-155,3720,indoor,"dressing_room, beauty_salon, bathroom, art_gallery, shower",62089
-156,3744,indoor,"dressing_room, shower, bathroom, beauty_salon, art_gallery",62089
-157,3768,indoor,"dressing_room, beauty_salon, shower, clothing_store, bathroom",62089
-158,3792,indoor,"dressing_room, beauty_salon, shower, clothing_store, bathroom",62089
-159,3816,indoor,"dressing_room, beauty_salon, shower, hospital_room, clean_room",62089
-160,3840,outdoor,"discotheque, aquarium, pond, hot_spring, underwater/ocean_deep",62089
-161,3864,indoor,"shower, discotheque, beauty_salon, art_gallery, dressing_room",62089
-162,3888,indoor,"shower, discotheque, aquarium, bathroom, pond",62089
-163,3912,indoor,"discotheque, stage/indoor, volcano, music_studio, bar",62089
-164,3936,indoor,"discotheque, stage/indoor, wind_farm, music_studio, hot_spring",62089
-165,3960,indoor,"discotheque, shower, dressing_room, stage/indoor, playroom",62089
-166,3984,outdoor,"discotheque, fishpond, stage/indoor, pond, hot_spring",62089
-167,4008,indoor,"discotheque, stage/indoor, arena/performance, music_studio, ballroom",62089
-168,4032,indoor,"discotheque, stage/indoor, arena/performance, orchestra_pit, ballroom",62089
-169,4056,indoor,"discotheque, stage/indoor, orchestra_pit, arena/performance, ballroom",62089
-170,4080,indoor,"discotheque, stage/indoor, orchestra_pit, ballroom, arena/performance",62089
-171,4104,indoor,"discotheque, orchestra_pit, stage/indoor, arena/performance, ballroom",62089
-172,4128,indoor,"discotheque, orchestra_pit, stage/indoor, arena/performance, ballroom",62089
-173,4152,indoor,"discotheque, shower, dressing_room, bathroom, beauty_salon",62089
-174,4176,indoor,"discotheque, shower, bathroom, dressing_room, beauty_salon",62089
-175,4200,indoor,"discotheque, stage/indoor, orchestra_pit, arena/performance, television_studio",62089
-176,4224,indoor,"discotheque, stage/indoor, music_studio, orchestra_pit, television_studio",62089
-177,4248,indoor,"discotheque, basement, stage/indoor, dressing_room, arena/performance",62089
-178,4272,indoor,"discotheque, stage/indoor, television_studio, arena/performance, basement",62089
-179,4296,indoor,"discotheque, shower, stage/indoor, dressing_room, beauty_salon",62089
-180,4320,indoor,"science_museum, art_gallery, dressing_room, art_studio, aquarium",62089
-181,4344,indoor,"dressing_room, closet, nursery, playroom, martial_arts_gym",62089
-182,4368,indoor,"discotheque, stage/indoor, music_studio, dressing_room, beauty_salon",62089
-183,4392,indoor,"discotheque, stage/indoor, music_studio, television_studio, beauty_salon",62089
-184,4416,indoor,"discotheque, shower, beauty_salon, bathroom, dressing_room",62089
-185,4440,indoor,"discotheque, shower, beauty_salon, stage/indoor, dressing_room",62089
-186,4464,indoor,"discotheque, shower, beauty_salon, music_studio, office",62089
-187,4488,indoor,"discotheque, beauty_salon, shower, office, music_studio",62089
-188,4512,indoor,"elevator/door, shower, discotheque, elevator_lobby, stage/indoor",62089
-189,4536,indoor,"discotheque, science_museum, art_gallery, aquarium, elevator/door",62089
-190,4560,indoor,"discotheque, science_museum, art_gallery, aquarium, stage/indoor",62089
-191,4584,indoor,"dressing_room, discotheque, beauty_salon, martial_arts_gym, aquarium",62089
-192,4608,indoor,"martial_arts_gym, dressing_room, science_museum, art_gallery, natural_history_museum",62089
-193,4632,indoor,"discotheque, stage/indoor, science_museum, aquarium, bar",62089
-194,4656,indoor,"discotheque, science_museum, stage/indoor, art_gallery, martial_arts_gym",62089
-195,4680,indoor,"discotheque, art_gallery, stage/indoor, museum/indoor, science_museum",62089
-196,4704,indoor,"discotheque, elevator/door, dressing_room, stage/indoor, elevator_lobby",62089
-197,4728,indoor,"museum/indoor, natural_history_museum, florist_shop/indoor, science_museum, botanical_garden",62089
-198,4752,indoor,"natural_history_museum, art_gallery, museum/indoor, science_museum, lake/natural",62089
-199,4776,indoor,"dressing_room, art_gallery, museum/indoor, iceberg, shower",62089
-200,4800,indoor,"science_museum, beauty_salon, lecture_room, nursery, museum/indoor",62089
-201,4824,indoor,"discotheque, stage/indoor, music_studio, bar, beauty_salon",62089
-202,4848,indoor,"discotheque, stage/indoor, arena/performance, ballroom, music_studio",62089
-203,4872,indoor,"discotheque, beauty_salon, stage/indoor, arena/performance, conference_center",62089
-204,4896,indoor,"discotheque, stage/indoor, arena/performance, beauty_salon, museum/indoor",62089
-205,4920,indoor,"discotheque, stage/indoor, beauty_salon, museum/indoor, arena/performance",62089
-206,4944,indoor,"discotheque, stage/indoor, beauty_salon, museum/indoor, hot_spring",62089
-207,4968,indoor,"pharmacy, drugstore, beauty_salon, museum/indoor, gift_shop",62089
-208,4992,indoor,"pharmacy, drugstore, beauty_salon, museum/indoor, gift_shop",62089
-209,5016,indoor,"pharmacy, drugstore, beauty_salon, museum/indoor, gift_shop",62089
-210,5040,indoor,"pharmacy, drugstore, beauty_salon, museum/indoor, gift_shop",62089
-211,5064,indoor,"pharmacy, drugstore, beauty_salon, museum/indoor, gift_shop",62089
-212,5088,outdoor,"desert/sand, ice_shelf, pharmacy, hospital, museum/indoor",62089
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,62089,0,1,0
+1,62089,24,0,1
+2,62089,48,0,1
+3,62089,72,0,1
+4,62089,96,0,1
+5,62089,120,0,1
+6,62089,144,0,1
+7,62089,168,0,1
+8,62089,192,0,1
+9,62089,216,0,1
+10,62089,240,0,1
+11,62089,264,1,0
+12,62089,288,0,1
+13,62089,312,0,1
+14,62089,336,0,1
+15,62089,360,0,1
+16,62089,384,0,1
+17,62089,408,0,1
+18,62089,432,0,1
+19,62089,456,0,1
+20,62089,480,1,0
+21,62089,504,1,0
+22,62089,528,1,0
+23,62089,552,0,1
+24,62089,576,0,1
+25,62089,600,0,1
+26,62089,624,0,1
+27,62089,648,0,1
+28,62089,672,0,1
+29,62089,696,0,1
+30,62089,720,0,1
+31,62089,744,0,1
+32,62089,768,1,0
+33,62089,792,1,0
+34,62089,816,1,0
+35,62089,840,1,0
+36,62089,864,1,0
+37,62089,888,1,0
+38,62089,912,1,0
+39,62089,936,1,0
+40,62089,960,1,0
+41,62089,984,1,0
+42,62089,1008,0,1
+43,62089,1032,0,1
+44,62089,1056,0,1
+45,62089,1080,0,1
+46,62089,1104,1,0
+47,62089,1128,0,1
+48,62089,1152,0,1
+49,62089,1176,0,1
+50,62089,1200,0,1
+51,62089,1224,0,1
+52,62089,1248,0,1
+53,62089,1272,0,1
+54,62089,1296,0,1
+55,62089,1320,0,1
+56,62089,1344,0,1
+57,62089,1368,0,1
+58,62089,1392,0,1
+59,62089,1416,0,1
+60,62089,1440,0,1
+61,62089,1464,0,1
+62,62089,1488,0,1
+63,62089,1512,0,1
+64,62089,1536,0,1
+65,62089,1560,0,1
+66,62089,1584,0,1
+67,62089,1608,0,1
+68,62089,1632,0,1
+69,62089,1656,0,1
+70,62089,1680,0,1
+71,62089,1704,0,1
+72,62089,1728,0,1
+73,62089,1752,0,1
+74,62089,1776,0,1
+75,62089,1800,0,1
+76,62089,1824,0,1
+77,62089,1848,0,1
+78,62089,1872,1,0
+79,62089,1896,0,1
+80,62089,1920,0,1
+81,62089,1944,0,1
+82,62089,1968,0,1
+83,62089,1992,0,1
+84,62089,2016,0,1
+85,62089,2040,0,1
+86,62089,2064,0,1
+87,62089,2088,0,1
+88,62089,2112,0,1
+89,62089,2136,0,1
+90,62089,2160,0,1
+91,62089,2184,0,1
+92,62089,2208,0,1
+93,62089,2232,0,1
+94,62089,2256,0,1
+95,62089,2280,0,1
+96,62089,2304,0,1
+97,62089,2328,0,1
+98,62089,2352,0,1
+99,62089,2376,0,1
+100,62089,2400,0,1
+101,62089,2424,0,1
+102,62089,2448,0,1
+103,62089,2472,0,1
+104,62089,2496,0,1
+105,62089,2520,0,1
+106,62089,2544,0,1
+107,62089,2568,0,1
+108,62089,2592,0,1
+109,62089,2616,1,0
+110,62089,2640,1,0
+111,62089,2664,0,1
+112,62089,2688,0,1
+113,62089,2712,0,1
+114,62089,2736,0,1
+115,62089,2760,0,1
+116,62089,2784,0,1
+117,62089,2808,0,1
+118,62089,2832,0,1
+119,62089,2856,0,1
+120,62089,2880,0,1
+121,62089,2904,0,1
+122,62089,2928,0,1
+123,62089,2952,0,1
+124,62089,2976,0,1
+125,62089,3000,0,1
+126,62089,3024,0,1
+127,62089,3048,0,1
+128,62089,3072,0,1
+129,62089,3096,0,1
+130,62089,3120,0,1
+131,62089,3144,0,1
+132,62089,3168,0,1
+133,62089,3192,0,1
+134,62089,3216,0,1
+135,62089,3240,0,1
+136,62089,3264,0,1
+137,62089,3288,0,1
+138,62089,3312,0,1
+139,62089,3336,0,1
+140,62089,3360,0,1
+141,62089,3384,0,1
+142,62089,3408,0,1
+143,62089,3432,0,1
+144,62089,3456,0,1
+145,62089,3480,0,1
+146,62089,3504,0,1
+147,62089,3528,1,0
+148,62089,3552,0,1
+149,62089,3576,0,1
+150,62089,3600,0,1
+151,62089,3624,0,1
+152,62089,3648,0,1
+153,62089,3672,0,1
+154,62089,3696,0,1
+155,62089,3720,0,1
+156,62089,3744,0,1
+157,62089,3768,0,1
+158,62089,3792,0,1
+159,62089,3816,0,1
+160,62089,3840,1,0
+161,62089,3864,0,1
+162,62089,3888,0,1
+163,62089,3912,0,1
+164,62089,3936,0,1
+165,62089,3960,0,1
+166,62089,3984,1,0
+167,62089,4008,0,1
+168,62089,4032,0,1
+169,62089,4056,0,1
+170,62089,4080,0,1
+171,62089,4104,0,1
+172,62089,4128,0,1
+173,62089,4152,0,1
+174,62089,4176,0,1
+175,62089,4200,0,1
+176,62089,4224,0,1
+177,62089,4248,0,1
+178,62089,4272,0,1
+179,62089,4296,0,1
+180,62089,4320,0,1
+181,62089,4344,0,1
+182,62089,4368,0,1
+183,62089,4392,0,1
+184,62089,4416,0,1
+185,62089,4440,0,1
+186,62089,4464,0,1
+187,62089,4488,0,1
+188,62089,4512,0,1
+189,62089,4536,0,1
+190,62089,4560,0,1
+191,62089,4584,0,1
+192,62089,4608,0,1
+193,62089,4632,0,1
+194,62089,4656,0,1
+195,62089,4680,0,1
+196,62089,4704,0,1
+197,62089,4728,0,1
+198,62089,4752,0,1
+199,62089,4776,0,1
+200,62089,4800,0,1
+201,62089,4824,0,1
+202,62089,4848,0,1
+203,62089,4872,0,1
+204,62089,4896,0,1
+205,62089,4920,0,1
+206,62089,4944,0,1
+207,62089,4968,0,1
+208,62089,4992,0,1
+209,62089,5016,0,1
+210,62089,5040,0,1
+211,62089,5064,0,1
+212,62089,5088,1,0

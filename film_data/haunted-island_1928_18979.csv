@@ -1,142 +1,142 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"archive, hospital, hospital_room, server_room, desert/sand",18979
-1,24,indoor,"pharmacy, hospital, drugstore, airport_terminal, elevator/door",18979
-2,48,indoor,"pharmacy, drugstore, hospital, airport_terminal, ticket_booth",18979
-3,72,indoor,"pharmacy, drugstore, hospital, ticket_booth, airport_terminal",18979
-4,96,indoor,"pharmacy, drugstore, hospital, ticket_booth, airport_terminal",18979
-5,120,indoor,"pharmacy, drugstore, hospital, airport_terminal, ticket_booth",18979
-6,144,indoor,"pharmacy, drugstore, hospital, airport_terminal, ticket_booth",18979
-7,168,indoor,"pharmacy, drugstore, hospital, airport_terminal, ticket_booth",18979
-8,192,indoor,"pharmacy, drugstore, hospital, airport_terminal, ticket_booth",18979
-9,216,indoor,"pharmacy, drugstore, hospital, ticket_booth, elevator/door",18979
-10,240,indoor,"pharmacy, hospital, reception, art_gallery, elevator/door",18979
-11,264,indoor,"pharmacy, reception, drugstore, hospital, server_room",18979
-12,288,indoor,"pharmacy, reception, drugstore, hospital, server_room",18979
-13,312,indoor,"pharmacy, reception, drugstore, hospital, office",18979
-14,336,indoor,"pharmacy, reception, drugstore, hospital, office",18979
-15,360,indoor,"reception, pharmacy, drugstore, hospital, office",18979
-16,384,indoor,"reception, pharmacy, drugstore, hospital, office",18979
-17,408,indoor,"reception, pharmacy, drugstore, hospital, office",18979
-18,432,indoor,"pharmacy, reception, drugstore, hospital, office",18979
-19,456,indoor,"pharmacy, reception, hospital, elevator/door, art_gallery",18979
-20,480,indoor,"hospital, pharmacy, hospital_room, drugstore, ice_cream_parlor",18979
-21,504,indoor,"hospital, pharmacy, hospital_room, drugstore, beauty_salon",18979
-22,528,indoor,"hospital, pharmacy, hospital_room, drugstore, ice_cream_parlor",18979
-23,552,indoor,"hospital, pharmacy, hospital_room, drugstore, ice_cream_parlor",18979
-24,576,indoor,"hospital, pharmacy, hospital_room, drugstore, beauty_salon",18979
-25,600,indoor,"hospital, pharmacy, hospital_room, drugstore, ice_cream_parlor",18979
-26,624,indoor,"hospital, pharmacy, hospital_room, drugstore, beauty_salon",18979
-27,648,indoor,"hospital, pharmacy, hospital_room, drugstore, ice_cream_parlor",18979
-28,672,indoor,"pharmacy, hospital, hospital_room, drugstore, beauty_salon",18979
-29,696,indoor,"hospital, pharmacy, hospital_room, drugstore, beauty_salon",18979
-30,720,indoor,"hospital, pharmacy, hospital_room, drugstore, beauty_salon",18979
-31,744,indoor,"igloo, museum/indoor, art_gallery, aquarium, iceberg",18979
-32,768,indoor,"museum/indoor, igloo, aquarium, art_gallery, discotheque",18979
-33,792,indoor,"shower, museum/indoor, art_gallery, igloo, aquarium",18979
-34,816,indoor,"shower, museum/indoor, art_gallery, discotheque, igloo",18979
-35,840,indoor,"staircase, entrance_hall, mezzanine, escalator/indoor, corridor",18979
-36,864,indoor,"staircase, entrance_hall, escalator/indoor, mezzanine, corridor",18979
-37,888,indoor,"staircase, entrance_hall, escalator/indoor, mezzanine, corridor",18979
-38,912,indoor,"art_gallery, museum/indoor, stage/indoor, dressing_room, art_studio",18979
-39,936,outdoor,"ice_shelf, ice_floe, iceberg, igloo, museum/indoor",18979
-40,960,indoor,"clean_room, chemistry_lab, dressing_room, stage/indoor, nursery",18979
-41,984,outdoor,"iceberg, ice_shelf, clean_room, ice_floe, dressing_room",18979
-42,1008,indoor,"clean_room, stage/indoor, classroom, museum/indoor, archive",18979
-43,1032,outdoor,"ice_shelf, iceberg, discotheque, hot_spring, ice_floe",18979
-44,1056,indoor,"chemistry_lab, clean_room, discotheque, stage/indoor, biology_laboratory",18979
-45,1080,indoor,"stage/indoor, museum/indoor, bowling_alley, martial_arts_gym, clean_room",18979
-46,1104,indoor,"clean_room, martial_arts_gym, stage/indoor, attic, hospital_room",18979
-47,1128,indoor,"discotheque, stage/indoor, basement, ballroom, bar",18979
-48,1152,indoor,"art_gallery, clean_room, museum/indoor, stage/indoor, archive",18979
-49,1176,indoor,"stage/indoor, music_studio, discotheque, archive, bowling_alley",18979
-50,1200,outdoor,"stage/indoor, discotheque, wind_farm, sky, fountain",18979
-51,1224,indoor,"discotheque, stage/indoor, hot_spring, sky, arena/performance",18979
-52,1248,indoor,"museum/indoor, art_gallery, natural_history_museum, clean_room, shower",18979
-53,1272,indoor,"museum/indoor, clean_room, art_gallery, shower, natural_history_museum",18979
-54,1296,indoor,"shower, art_gallery, bathroom, natural_history_museum, museum/indoor",18979
-55,1320,indoor,"museum/indoor, staircase, mezzanine, stage/indoor, airport_terminal",18979
-56,1344,indoor,"museum/indoor, stage/indoor, discotheque, airport_terminal, staircase",18979
-57,1368,indoor,"alcove, attic, basement, bow_window/indoor, stage/indoor",18979
-58,1392,indoor,"museum/indoor, art_gallery, nursery, stage/indoor, clean_room",18979
-59,1416,indoor,"windmill, museum/indoor, staircase, attic, ice_floe",18979
-60,1440,outdoor,"windmill, wind_farm, attic, ice_floe, bridge",18979
-61,1464,outdoor,"windmill, wind_farm, ice_floe, attic, lighthouse",18979
-62,1488,outdoor,"sky, ice_shelf, volcano, hot_spring, iceberg",18979
-63,1512,outdoor,"sky, wheat_field, field/wild, pasture, marsh",18979
-64,1536,outdoor,"sky, orchard, snowfield, tree_farm, ocean",18979
-65,1560,outdoor,"field/wild, sky, desert/sand, ice_shelf, pasture",18979
-66,1584,indoor,"discotheque, stage/indoor, hot_spring, sky, arena/performance",18979
-67,1608,indoor,"shower, hot_spring, discotheque, basement, art_gallery",18979
-68,1632,outdoor,"sky, hot_spring, shower, ocean, lake/natural",18979
-69,1656,outdoor,"hot_spring, fountain, shower, chemistry_lab, sky",18979
-70,1680,outdoor,"waterfall, sky, hot_spring, rainforest, ocean",18979
-71,1704,outdoor,"sky, hot_spring, shower, waterfall, ice_shelf",18979
-72,1728,indoor,"archive, ice_shelf, ice_floe, museum/indoor, clean_room",18979
-73,1752,outdoor,"ice_shelf, ice_floe, archive, iceberg, sky",18979
-74,1776,outdoor,"ice_floe, ice_shelf, sky, lecture_room, cemetery",18979
-75,1800,outdoor,"ice_shelf, ice_floe, sky, iceberg, igloo",18979
-76,1824,indoor,"museum/indoor, shower, art_gallery, dressing_room, bathroom",18979
-77,1848,outdoor,"museum/indoor, ice_shelf, igloo, art_gallery, iceberg",18979
-78,1872,outdoor,"wind_farm, sky, ice_floe, lighthouse, ice_shelf",18979
-79,1896,outdoor,"wind_farm, shower, boxing_ring, fountain, ice_floe",18979
-80,1920,outdoor,"ice_floe, wind_farm, shower, sky, art_gallery",18979
-81,1944,outdoor,"igloo, hot_spring, sky, iceberg, fountain",18979
-82,1968,outdoor,"iceberg, aquarium, ice_floe, sky, ice_shelf",18979
-83,1992,outdoor,"museum/indoor, sky, ice_shelf, hot_spring, volcano",18979
-84,2016,outdoor,"ice_shelf, iceberg, volcano, ice_floe, sky",18979
-85,2040,outdoor,"ice_shelf, iceberg, volcano, sky, ice_floe",18979
-86,2064,outdoor,"sky, hot_spring, ice_shelf, volcano, iceberg",18979
-87,2088,outdoor,"sky, hot_spring, ocean, coast, beach",18979
-88,2112,outdoor,"hot_spring, sky, volcano, wave, ocean",18979
-89,2136,outdoor,"sky, hot_spring, ocean, wind_farm, elevator/door",18979
-90,2160,outdoor,"sky, hot_spring, volcano, lighthouse, discotheque",18979
-91,2184,outdoor,"stage/indoor, hot_spring, fountain, sky, arena/performance",18979
-92,2208,outdoor,"oilrig, industrial_area, tower, amusement_park, construction_site",18979
-93,2232,outdoor,"stage/indoor, lighthouse, ocean, sky, wind_farm",18979
-94,2256,outdoor,"sky, volcano, hot_spring, islet, ocean",18979
-95,2280,outdoor,"sky, hot_spring, volcano, ocean, wind_farm",18979
-96,2304,indoor,"hot_spring, art_gallery, sky, museum/indoor, shower",18979
-97,2328,outdoor,"sky, hot_spring, wind_farm, volcano, ocean",18979
-98,2352,indoor,"art_gallery, museum/indoor, clean_room, shower, jail_cell",18979
-99,2376,indoor,"art_gallery, museum/indoor, clean_room, shower, artists_loft",18979
-100,2400,indoor,"art_gallery, clean_room, museum/indoor, shower, bathroom",18979
-101,2424,indoor,"clean_room, museum/indoor, art_gallery, shower, bathroom",18979
-102,2448,indoor,"booth/indoor, museum/indoor, science_museum, lecture_room, classroom",18979
-103,2472,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-104,2496,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, archive",18979
-105,2520,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-106,2544,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-107,2568,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-108,2592,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-109,2616,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-110,2640,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-111,2664,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-112,2688,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-113,2712,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-114,2736,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-115,2760,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-116,2784,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-117,2808,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-118,2832,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-119,2856,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-120,2880,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-121,2904,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-122,2928,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-123,2952,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-124,2976,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-125,3000,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-126,3024,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-127,3048,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-128,3072,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-129,3096,indoor,"booth/indoor, museum/indoor, science_museum, natural_history_museum, lecture_room",18979
-130,3120,indoor,"classroom, kindergarden_classroom, chemistry_lab, museum/indoor, nursery",18979
-131,3144,indoor,"nursery, elevator/door, hospital_room, museum/indoor, beauty_salon",18979
-132,3168,indoor,"elevator/door, nursery, hospital_room, pharmacy, beauty_salon",18979
-133,3192,indoor,"elevator/door, hospital_room, nursery, pharmacy, beauty_salon",18979
-134,3216,indoor,"elevator/door, hospital_room, pharmacy, nursery, hospital",18979
-135,3240,indoor,"elevator/door, nursery, hospital_room, pharmacy, beauty_salon",18979
-136,3264,indoor,"elevator/door, pharmacy, hospital_room, nursery, beauty_salon",18979
-137,3288,indoor,"nursery, pharmacy, hospital_room, kindergarden_classroom, hospital",18979
-138,3312,outdoor,"desert/sand, sky, beach, lake/natural, marsh",18979
-139,3336,outdoor,"desert/sand, sky, beach, lake/natural, marsh",18979
-140,3360,outdoor,"desert/sand, sky, beach, lake/natural, marsh",18979
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,18979,0,0,1
+1,18979,24,0,1
+2,18979,48,0,1
+3,18979,72,0,1
+4,18979,96,0,1
+5,18979,120,0,1
+6,18979,144,0,1
+7,18979,168,0,1
+8,18979,192,0,1
+9,18979,216,0,1
+10,18979,240,0,1
+11,18979,264,0,1
+12,18979,288,0,1
+13,18979,312,0,1
+14,18979,336,0,1
+15,18979,360,0,1
+16,18979,384,0,1
+17,18979,408,0,1
+18,18979,432,0,1
+19,18979,456,0,1
+20,18979,480,0,1
+21,18979,504,0,1
+22,18979,528,0,1
+23,18979,552,0,1
+24,18979,576,0,1
+25,18979,600,0,1
+26,18979,624,0,1
+27,18979,648,0,1
+28,18979,672,0,1
+29,18979,696,0,1
+30,18979,720,0,1
+31,18979,744,0,1
+32,18979,768,0,1
+33,18979,792,0,1
+34,18979,816,0,1
+35,18979,840,0,1
+36,18979,864,0,1
+37,18979,888,0,1
+38,18979,912,0,1
+39,18979,936,1,0
+40,18979,960,0,1
+41,18979,984,1,0
+42,18979,1008,0,1
+43,18979,1032,1,0
+44,18979,1056,0,1
+45,18979,1080,0,1
+46,18979,1104,0,1
+47,18979,1128,0,1
+48,18979,1152,0,1
+49,18979,1176,0,1
+50,18979,1200,1,0
+51,18979,1224,0,1
+52,18979,1248,0,1
+53,18979,1272,0,1
+54,18979,1296,0,1
+55,18979,1320,0,1
+56,18979,1344,0,1
+57,18979,1368,0,1
+58,18979,1392,0,1
+59,18979,1416,0,1
+60,18979,1440,1,0
+61,18979,1464,1,0
+62,18979,1488,1,0
+63,18979,1512,1,0
+64,18979,1536,1,0
+65,18979,1560,1,0
+66,18979,1584,0,1
+67,18979,1608,0,1
+68,18979,1632,1,0
+69,18979,1656,1,0
+70,18979,1680,1,0
+71,18979,1704,1,0
+72,18979,1728,0,1
+73,18979,1752,1,0
+74,18979,1776,1,0
+75,18979,1800,1,0
+76,18979,1824,0,1
+77,18979,1848,1,0
+78,18979,1872,1,0
+79,18979,1896,1,0
+80,18979,1920,1,0
+81,18979,1944,1,0
+82,18979,1968,1,0
+83,18979,1992,1,0
+84,18979,2016,1,0
+85,18979,2040,1,0
+86,18979,2064,1,0
+87,18979,2088,1,0
+88,18979,2112,1,0
+89,18979,2136,1,0
+90,18979,2160,1,0
+91,18979,2184,1,0
+92,18979,2208,1,0
+93,18979,2232,1,0
+94,18979,2256,1,0
+95,18979,2280,1,0
+96,18979,2304,0,1
+97,18979,2328,1,0
+98,18979,2352,0,1
+99,18979,2376,0,1
+100,18979,2400,0,1
+101,18979,2424,0,1
+102,18979,2448,0,1
+103,18979,2472,0,1
+104,18979,2496,0,1
+105,18979,2520,0,1
+106,18979,2544,0,1
+107,18979,2568,0,1
+108,18979,2592,0,1
+109,18979,2616,0,1
+110,18979,2640,0,1
+111,18979,2664,0,1
+112,18979,2688,0,1
+113,18979,2712,0,1
+114,18979,2736,0,1
+115,18979,2760,0,1
+116,18979,2784,0,1
+117,18979,2808,0,1
+118,18979,2832,0,1
+119,18979,2856,0,1
+120,18979,2880,0,1
+121,18979,2904,0,1
+122,18979,2928,0,1
+123,18979,2952,0,1
+124,18979,2976,0,1
+125,18979,3000,0,1
+126,18979,3024,0,1
+127,18979,3048,0,1
+128,18979,3072,0,1
+129,18979,3096,0,1
+130,18979,3120,0,1
+131,18979,3144,0,1
+132,18979,3168,0,1
+133,18979,3192,0,1
+134,18979,3216,0,1
+135,18979,3240,0,1
+136,18979,3264,0,1
+137,18979,3288,0,1
+138,18979,3312,1,0
+139,18979,3336,1,0
+140,18979,3360,1,0

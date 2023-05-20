@@ -1,37 +1,37 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh",21282
-1,24,outdoor,"desert/sand, sky, beach, lake/natural, marsh",21282
-2,48,indoor,"archive, cemetery, ice_shelf, classroom, locker_room",21282
-3,72,outdoor,"desert/sand, beach, ice_shelf, iceberg, ocean",21282
-4,96,outdoor,"beach, desert/sand, ocean, coast, ice_shelf",21282
-5,120,outdoor,"desert/sand, beach, coast, ocean, ice_shelf",21282
-6,144,outdoor,"desert/sand, motel, beach, coast, ocean",21282
-7,168,indoor,"desert/sand, elevator/door, museum/indoor, motel, elevator_lobby",21282
-8,192,indoor,"desert/sand, elevator/door, museum/indoor, elevator_lobby, airport_terminal",21282
-9,216,indoor,"desert/sand, elevator/door, museum/indoor, elevator_lobby, art_gallery",21282
-10,240,indoor,"desert/sand, elevator/door, museum/indoor, elevator_lobby, airport_terminal",21282
-11,264,indoor,"desert/sand, elevator/door, museum/indoor, airport_terminal, elevator_lobby",21282
-12,288,indoor,"museum/indoor, motel, airport_terminal, desert/sand, gift_shop",21282
-13,312,indoor,"museum/indoor, art_gallery, natural_history_museum, nursery, desert/sand",21282
-14,336,indoor,"art_gallery, museum/indoor, artists_loft, laundromat, clean_room",21282
-15,360,outdoor,"skyscraper, mosque/outdoor, clothing_store, tower, ice_skating_rink/outdoor",21282
-16,384,outdoor,"sky, desert/sand, wheat_field, valley, field/wild",21282
-17,408,outdoor,"sky, desert/sand, desert_road, hot_spring, valley",21282
-18,432,outdoor,"snowfield, sky, desert/sand, mountain_snowy, ice_shelf",21282
-19,456,outdoor,"sky, hot_spring, wind_farm, discotheque, wheat_field",21282
-20,480,outdoor,"discotheque, sky, stage/indoor, volcano, hot_spring",21282
-21,504,outdoor,"sky, discotheque, stage/indoor, wind_farm, amusement_park",21282
-22,528,outdoor,"sky, wind_farm, tower, amusement_park, wheat_field",21282
-23,552,outdoor,"sky, wind_farm, windmill, tower, wheat_field",21282
-24,576,outdoor,"sky, tower, industrial_area, wind_farm, windmill",21282
-25,600,outdoor,"sky, volcano, tower, mosque/outdoor, industrial_area",21282
-26,624,outdoor,"sky, wind_farm, windmill, tower, volcano",21282
-27,648,outdoor,"sky, tower, mosque/outdoor, wind_farm, windmill",21282
-28,672,outdoor,"mosque/outdoor, tower, sky, temple/asia, church/outdoor",21282
-29,696,outdoor,"tower, mosque/outdoor, sky, industrial_area, wind_farm",21282
-30,720,outdoor,"mosque/outdoor, tower, sky, temple/asia, oast_house",21282
-31,744,outdoor,"tower, sky, mosque/outdoor, wind_farm, windmill",21282
-32,768,outdoor,"mosque/outdoor, sky, tower, windmill, industrial_area",21282
-33,792,outdoor,"sky, mosque/outdoor, tower, temple/asia, oast_house",21282
-34,816,outdoor,"sky, mosque/outdoor, tower, amusement_park, motel",21282
-35,840,outdoor,"desert/sand, beach, sky, lake/natural, marsh",21282
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,21282,0,1,0
+1,21282,24,1,0
+2,21282,48,0,1
+3,21282,72,1,0
+4,21282,96,1,0
+5,21282,120,1,0
+6,21282,144,1,0
+7,21282,168,0,1
+8,21282,192,0,1
+9,21282,216,0,1
+10,21282,240,0,1
+11,21282,264,0,1
+12,21282,288,0,1
+13,21282,312,0,1
+14,21282,336,0,1
+15,21282,360,1,0
+16,21282,384,1,0
+17,21282,408,1,0
+18,21282,432,1,0
+19,21282,456,1,0
+20,21282,480,1,0
+21,21282,504,1,0
+22,21282,528,1,0
+23,21282,552,1,0
+24,21282,576,1,0
+25,21282,600,1,0
+26,21282,624,1,0
+27,21282,648,1,0
+28,21282,672,1,0
+29,21282,696,1,0
+30,21282,720,1,0
+31,21282,744,1,0
+32,21282,768,1,0
+33,21282,792,1,0
+34,21282,816,1,0
+35,21282,840,1,0

@@ -1,626 +1,626 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"nursery, kindergarden_classroom, playroom, childs_room, art_gallery",54788
-1,24,outdoor,"hospital, tower, skyscraper, industrial_area, office_building",54788
-2,48,indoor,"hospital, pharmacy, beauty_salon, hospital_room, ice_cream_parlor",54788
-3,72,indoor,"pharmacy, drugstore, hospital, beauty_salon, ice_cream_parlor",54788
-4,96,indoor,"pharmacy, drugstore, beauty_salon, hospital, ice_cream_parlor",54788
-5,120,indoor,"pharmacy, drugstore, beauty_salon, hospital, ice_cream_parlor",54788
-6,144,indoor,"pharmacy, drugstore, beauty_salon, hospital, ice_cream_parlor",54788
-7,168,indoor,"pharmacy, drugstore, ice_cream_parlor, beauty_salon, hospital",54788
-8,192,indoor,"motel, beauty_salon, ice_cream_parlor, coffee_shop, drugstore",54788
-9,216,indoor,"motel, coffee_shop, diner/outdoor, fastfood_restaurant, ice_cream_parlor",54788
-10,240,indoor,"motel, fastfood_restaurant, coffee_shop, diner/outdoor, ice_cream_parlor",54788
-11,264,indoor,"motel, fastfood_restaurant, diner/outdoor, coffee_shop, ice_cream_parlor",54788
-12,288,indoor,"motel, diner/outdoor, coffee_shop, fastfood_restaurant, ice_cream_parlor",54788
-13,312,indoor,"motel, coffee_shop, ice_cream_parlor, diner/outdoor, fastfood_restaurant",54788
-14,336,indoor,"beauty_salon, drugstore, bookstore, candy_store, museum/indoor",54788
-15,360,indoor,"museum/indoor, elevator/door, elevator_lobby, lobby, candy_store",54788
-16,384,indoor,"museum/indoor, elevator/door, elevator_lobby, candy_store, ice_cream_parlor",54788
-17,408,indoor,"elevator/door, museum/indoor, elevator_lobby, coffee_shop, ice_cream_parlor",54788
-18,432,indoor,"elevator/door, museum/indoor, candy_store, elevator_lobby, ice_cream_parlor",54788
-19,456,indoor,"elevator/door, museum/indoor, ice_cream_parlor, candy_store, elevator_lobby",54788
-20,480,indoor,"pharmacy, ice_cream_parlor, beauty_salon, drugstore, booth/indoor",54788
-21,504,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-22,528,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-23,552,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-24,576,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-25,600,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-26,624,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-27,648,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-28,672,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-29,696,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-30,720,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-31,744,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-32,768,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, pharmacy, drugstore",54788
-33,792,indoor,"booth/indoor, museum/indoor, ice_cream_parlor, pharmacy, beauty_salon",54788
-34,816,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, museum/indoor",54788
-35,840,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-36,864,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-37,888,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-38,912,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, museum/indoor",54788
-39,936,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, ticket_booth",54788
-40,960,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-41,984,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-42,1008,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, museum/indoor",54788
-43,1032,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-44,1056,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-45,1080,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-46,1104,indoor,"booth/indoor, ice_cream_parlor, pharmacy, beauty_salon, drugstore",54788
-47,1128,indoor,"booth/indoor, museum/indoor, burial_chamber, pharmacy, ice_cream_parlor",54788
-48,1152,indoor,"booth/indoor, bookstore, beauty_salon, ice_cream_parlor, kindergarden_classroom",54788
-49,1176,indoor,"booth/indoor, bookstore, beauty_salon, ice_cream_parlor, department_store",54788
-50,1200,indoor,"booth/indoor, bookstore, department_store, beauty_salon, ice_cream_parlor",54788
-51,1224,indoor,"booth/indoor, bookstore, department_store, beauty_salon, ice_cream_parlor",54788
-52,1248,indoor,"booth/indoor, bookstore, beauty_salon, ice_cream_parlor, department_store",54788
-53,1272,indoor,"booth/indoor, bookstore, department_store, beauty_salon, ice_cream_parlor",54788
-54,1296,indoor,"booth/indoor, bookstore, beauty_salon, department_store, ice_cream_parlor",54788
-55,1320,indoor,"booth/indoor, bookstore, beauty_salon, department_store, ice_cream_parlor",54788
-56,1344,indoor,"booth/indoor, beauty_salon, bookstore, ice_cream_parlor, kindergarden_classroom",54788
-57,1368,indoor,"booth/indoor, ice_cream_parlor, bookstore, kindergarden_classroom, candy_store",54788
-58,1392,indoor,"booth/indoor, clothing_store, ice_cream_parlor, reception, candy_store",54788
-59,1416,indoor,"booth/indoor, ice_cream_parlor, clothing_store, candy_store, beauty_salon",54788
-60,1440,indoor,"booth/indoor, ice_cream_parlor, clothing_store, candy_store, beauty_salon",54788
-61,1464,indoor,"booth/indoor, ice_cream_parlor, clothing_store, candy_store, beauty_salon",54788
-62,1488,indoor,"booth/indoor, ice_cream_parlor, kindergarden_classroom, reception, bookstore",54788
-63,1512,indoor,"booth/indoor, ice_cream_parlor, bookstore, beauty_salon, ticket_booth",54788
-64,1536,indoor,"booth/indoor, beauty_salon, department_store, ice_cream_parlor, candy_store",54788
-65,1560,indoor,"booth/indoor, beauty_salon, ice_cream_parlor, department_store, candy_store",54788
-66,1584,indoor,"booth/indoor, beauty_salon, ice_cream_parlor, department_store, candy_store",54788
-67,1608,indoor,"booth/indoor, beauty_salon, department_store, ice_cream_parlor, candy_store",54788
-68,1632,indoor,"booth/indoor, beauty_salon, department_store, ice_cream_parlor, bookstore",54788
-69,1656,indoor,"booth/indoor, ice_cream_parlor, beauty_salon, bookstore, ticket_booth",54788
-70,1680,indoor,"booth/indoor, ice_cream_parlor, museum/indoor, burial_chamber, elevator_lobby",54788
-71,1704,indoor,"booth/indoor, beauty_salon, bakery/shop, clothing_store, hospital",54788
-72,1728,indoor,"booth/indoor, beauty_salon, clothing_store, hospital, bakery/shop",54788
-73,1752,indoor,"booth/indoor, beauty_salon, hospital, clothing_store, bakery/shop",54788
-74,1776,indoor,"booth/indoor, beauty_salon, clothing_store, hospital, bakery/shop",54788
-75,1800,indoor,"booth/indoor, beauty_salon, hospital, conference_center, clothing_store",54788
-76,1824,indoor,"booth/indoor, beauty_salon, clothing_store, hospital, shopfront",54788
-77,1848,indoor,"booth/indoor, beauty_salon, hospital, clothing_store, conference_center",54788
-78,1872,indoor,"booth/indoor, beauty_salon, hospital, clothing_store, conference_center",54788
-79,1896,indoor,"booth/indoor, beauty_salon, clothing_store, hospital, conference_center",54788
-80,1920,indoor,"booth/indoor, beauty_salon, clothing_store, hospital, conference_center",54788
-81,1944,indoor,"booth/indoor, beauty_salon, clothing_store, hospital, conference_center",54788
-82,1968,indoor,"booth/indoor, museum/indoor, conference_center, science_museum, hospital",54788
-83,1992,indoor,"booth/indoor, hospital, museum/indoor, drugstore, pharmacy",54788
-84,2016,indoor,"booth/indoor, hospital, museum/indoor, drugstore, pharmacy",54788
-85,2040,indoor,"booth/indoor, hospital, drugstore, pharmacy, museum/indoor",54788
-86,2064,indoor,"booth/indoor, hospital, museum/indoor, pharmacy, drugstore",54788
-87,2088,indoor,"booth/indoor, hospital, museum/indoor, pharmacy, drugstore",54788
-88,2112,indoor,"booth/indoor, hospital, museum/indoor, pharmacy, drugstore",54788
-89,2136,indoor,"booth/indoor, hospital, pharmacy, museum/indoor, drugstore",54788
-90,2160,indoor,"booth/indoor, museum/indoor, pharmacy, cemetery, drugstore",54788
-91,2184,indoor,"booth/indoor, ice_cream_parlor, pharmacy, museum/indoor, beauty_salon",54788
-92,2208,indoor,"booth/indoor, ice_cream_parlor, hospital, beauty_salon, drugstore",54788
-93,2232,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-94,2256,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-95,2280,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-96,2304,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-97,2328,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-98,2352,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-99,2376,indoor,"booth/indoor, hospital, ice_cream_parlor, beauty_salon, drugstore",54788
-100,2400,indoor,"booth/indoor, beauty_salon, ice_cream_parlor, pharmacy, drugstore",54788
-101,2424,indoor,"booth/indoor, nursery, beauty_salon, childs_room, hospital",54788
-102,2448,indoor,"booth/indoor, nursery, childs_room, beauty_salon, bakery/shop",54788
-103,2472,indoor,"booth/indoor, nursery, childs_room, beauty_salon, bedchamber",54788
-104,2496,indoor,"booth/indoor, nursery, childs_room, beauty_salon, bedchamber",54788
-105,2520,indoor,"booth/indoor, nursery, childs_room, hospital_room, bakery/shop",54788
-106,2544,indoor,"nursery, booth/indoor, childs_room, clothing_store, gift_shop",54788
-107,2568,indoor,"nursery, booth/indoor, childs_room, clothing_store, gift_shop",54788
-108,2592,indoor,"nursery, booth/indoor, childs_room, clothing_store, gift_shop",54788
-109,2616,indoor,"nursery, booth/indoor, childs_room, clothing_store, gift_shop",54788
-110,2640,indoor,"nursery, booth/indoor, childs_room, clothing_store, gift_shop",54788
-111,2664,indoor,"booth/indoor, nursery, clothing_store, pharmacy, gift_shop",54788
-112,2688,indoor,"pharmacy, hospital, drugstore, booth/indoor, beauty_salon",54788
-113,2712,indoor,"auditorium, discotheque, stage/indoor, arena/performance, pond",54788
-114,2736,outdoor,"desert/sand, beach, ocean, coast, desert_road",54788
-115,2760,outdoor,"desert/sand, desert_road, beach, desert/vegetation, valley",54788
-116,2784,outdoor,"desert/sand, desert_road, beach, desert/vegetation, valley",54788
-117,2808,outdoor,"desert/sand, desert_road, beach, desert/vegetation, valley",54788
-118,2832,outdoor,"desert/sand, desert_road, beach, desert/vegetation, valley",54788
-119,2856,outdoor,"desert/sand, desert_road, desert/vegetation, beach, valley",54788
-120,2880,outdoor,"desert/sand, desert/vegetation, badlands, sky, beach",54788
-121,2904,outdoor,"desert/sand, desert/vegetation, badlands, snowfield, desert_road",54788
-122,2928,outdoor,"desert/sand, snowfield, badlands, tundra, ice_floe",54788
-123,2952,outdoor,"snowfield, desert/sand, ice_floe, tundra, ice_shelf",54788
-124,2976,outdoor,"desert/sand, badlands, ocean, beach, desert/vegetation",54788
-125,3000,outdoor,"desert/sand, desert/vegetation, desert_road, valley, field/cultivated",54788
-126,3024,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-127,3048,outdoor,"desert/sand, desert/vegetation, valley, desert_road, tundra",54788
-128,3072,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-129,3096,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-130,3120,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-131,3144,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-132,3168,outdoor,"desert/sand, desert/vegetation, valley, mountain, tundra",54788
-133,3192,outdoor,"desert/sand, desert/vegetation, desert_road, tundra, badlands",54788
-134,3216,outdoor,"desert/sand, desert/vegetation, desert_road, valley, badlands",54788
-135,3240,outdoor,"desert/sand, desert/vegetation, desert_road, tundra, badlands",54788
-136,3264,outdoor,"desert/sand, desert/vegetation, desert_road, tundra, badlands",54788
-137,3288,outdoor,"beach, ocean, tundra, desert/sand, coast",54788
-138,3312,outdoor,"desert/sand, beach, tundra, desert_road, desert/vegetation",54788
-139,3336,outdoor,"desert/sand, tundra, beach, desert_road, field/cultivated",54788
-140,3360,outdoor,"desert/sand, beach, tundra, desert_road, ocean",54788
-141,3384,outdoor,"desert/sand, beach, desert_road, tundra, desert/vegetation",54788
-142,3408,outdoor,"desert/sand, beach, ocean, tundra, desert/vegetation",54788
-143,3432,outdoor,"desert/sand, snowfield, desert/vegetation, beach, tundra",54788
-144,3456,outdoor,"desert/sand, desert/vegetation, snowfield, tundra, beach",54788
-145,3480,outdoor,"desert/sand, desert/vegetation, snowfield, tundra, valley",54788
-146,3504,outdoor,"desert/sand, desert/vegetation, snowfield, beach, tundra",54788
-147,3528,outdoor,"desert/sand, desert/vegetation, valley, desert_road, beach",54788
-148,3552,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-149,3576,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-150,3600,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-151,3624,outdoor,"desert/sand, desert/vegetation, valley, desert_road, mountain",54788
-152,3648,outdoor,"desert/sand, desert/vegetation, desert_road, valley, mountain",54788
-153,3672,outdoor,"desert/sand, desert/vegetation, beach, desert_road, valley",54788
-154,3696,outdoor,"kasbah, mosque/outdoor, mausoleum, church/outdoor, arch",54788
-155,3720,outdoor,"kasbah, mosque/outdoor, medina, mausoleum, synagogue/outdoor",54788
-156,3744,outdoor,"kasbah, museum/outdoor, mosque/outdoor, church/outdoor, medina",54788
-157,3768,outdoor,"kasbah, museum/outdoor, medina, courtyard, church/outdoor",54788
-158,3792,outdoor,"kasbah, museum/outdoor, courtyard, mausoleum, mosque/outdoor",54788
-159,3816,outdoor,"museum/outdoor, kasbah, courtyard, ruin, tower",54788
-160,3840,outdoor,"moat/water, loading_dock, courtyard, kasbah, art_gallery",54788
-161,3864,outdoor,"library/outdoor, courtyard, office_building, museum/outdoor, loading_dock",54788
-162,3888,outdoor,"loading_dock, library/outdoor, shower, schoolhouse, hot_spring",54788
-163,3912,outdoor,"library/outdoor, museum/outdoor, building_facade, hospital, fountain",54788
-164,3936,outdoor,"oast_house, museum/outdoor, kasbah, campus, building_facade",54788
-165,3960,outdoor,"kasbah, museum/outdoor, mosque/outdoor, courtyard, industrial_area",54788
-166,3984,outdoor,"mosque/outdoor, lighthouse, kasbah, fountain, tower",54788
-167,4008,outdoor,"mosque/outdoor, mansion, inn/outdoor, beach_house, kasbah",54788
-168,4032,outdoor,"mosque/outdoor, kasbah, lighthouse, mansion, church/outdoor",54788
-169,4056,outdoor,"mosque/outdoor, kasbah, lighthouse, mansion, church/outdoor",54788
-170,4080,outdoor,"mosque/outdoor, kasbah, lighthouse, mansion, museum/outdoor",54788
-171,4104,indoor,"shower, bow_window/indoor, bathroom, aquarium, alcove",54788
-172,4128,indoor,"bow_window/indoor, shower, alcove, jacuzzi/indoor, nursery",54788
-173,4152,indoor,"shower, jacuzzi/indoor, bow_window/indoor, swimming_pool/indoor, bathroom",54788
-174,4176,indoor,"shower, bow_window/indoor, nursery, bathroom, jacuzzi/indoor",54788
-175,4200,indoor,"shower, bow_window/indoor, jacuzzi/indoor, ice_floe, bathroom",54788
-176,4224,outdoor,"bow_window/indoor, desert/sand, beach, ocean, desert/vegetation",54788
-177,4248,indoor,"bow_window/indoor, balcony/interior, beach, nursery, sauna",54788
-178,4272,indoor,"bow_window/indoor, stable, attic, staircase, artists_loft",54788
-179,4296,indoor,"bow_window/indoor, stable, balcony/interior, corral, artists_loft",54788
-180,4320,indoor,"stage/indoor, arena/performance, music_studio, discotheque, wheat_field",54788
-181,4344,indoor,"music_studio, discotheque, stage/indoor, arena/performance, science_museum",54788
-182,4368,indoor,"music_studio, discotheque, stage/indoor, arena/performance, wheat_field",54788
-183,4392,indoor,"music_studio, discotheque, stage/indoor, science_museum, natural_history_museum",54788
-184,4416,indoor,"stage/indoor, arena/performance, discotheque, music_studio, museum/indoor",54788
-185,4440,indoor,"stage/indoor, discotheque, arena/performance, music_studio, museum/indoor",54788
-186,4464,indoor,"natural_history_museum, museum/indoor, art_gallery, science_museum, stage/indoor",54788
-187,4488,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, stage/indoor",54788
-188,4512,indoor,"natural_history_museum, museum/indoor, science_museum, stage/indoor, music_studio",54788
-189,4536,indoor,"natural_history_museum, museum/indoor, science_museum, art_gallery, music_studio",54788
-190,4560,indoor,"natural_history_museum, museum/indoor, stage/indoor, art_gallery, science_museum",54788
-191,4584,indoor,"natural_history_museum, museum/indoor, art_gallery, science_museum, stage/indoor",54788
-192,4608,indoor,"gymnasium/indoor, locker_room, ballroom, music_studio, martial_arts_gym",54788
-193,4632,indoor,"ballroom, locker_room, gymnasium/indoor, music_studio, martial_arts_gym",54788
-194,4656,indoor,"ballroom, locker_room, music_studio, gymnasium/indoor, stage/indoor",54788
-195,4680,indoor,"ballroom, music_studio, locker_room, gymnasium/indoor, martial_arts_gym",54788
-196,4704,indoor,"locker_room, music_studio, ballroom, nursing_home, gymnasium/indoor",54788
-197,4728,indoor,"locker_room, martial_arts_gym, ballroom, nursing_home, office",54788
-198,4752,indoor,"martial_arts_gym, locker_room, ballroom, gymnasium/indoor, shoe_shop",54788
-199,4776,indoor,"locker_room, martial_arts_gym, gymnasium/indoor, shoe_shop, dressing_room",54788
-200,4800,indoor,"locker_room, martial_arts_gym, dressing_room, gymnasium/indoor, museum/indoor",54788
-201,4824,indoor,"locker_room, ballroom, martial_arts_gym, gymnasium/indoor, dressing_room",54788
-202,4848,indoor,"locker_room, martial_arts_gym, clean_room, dressing_room, gymnasium/indoor",54788
-203,4872,indoor,"locker_room, martial_arts_gym, gymnasium/indoor, dressing_room, chemistry_lab",54788
-204,4896,indoor,"locker_room, martial_arts_gym, gymnasium/indoor, dressing_room, clean_room",54788
-205,4920,indoor,"ballroom, locker_room, martial_arts_gym, museum/indoor, jewelry_shop",54788
-206,4944,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, dressing_room",54788
-207,4968,indoor,"museum/indoor, clothing_store, locker_room, dressing_room, science_museum",54788
-208,4992,indoor,"dressing_room, locker_room, clothing_store, jewelry_shop, museum/indoor",54788
-209,5016,indoor,"jewelry_shop, dressing_room, museum/indoor, clothing_store, locker_room",54788
-210,5040,indoor,"dressing_room, jewelry_shop, clothing_store, museum/indoor, shoe_shop",54788
-211,5064,indoor,"clothing_store, jewelry_shop, clean_room, chemistry_lab, bakery/shop",54788
-212,5088,indoor,"dressing_room, jewelry_shop, arena/performance, chemistry_lab, stage/indoor",54788
-213,5112,indoor,"jewelry_shop, banquet_hall, stage/indoor, chemistry_lab, dining_hall",54788
-214,5136,indoor,"church/indoor, museum/indoor, swimming_pool/indoor, throne_room, entrance_hall",54788
-215,5160,indoor,"museum/indoor, atrium/public, church/indoor, mezzanine, natural_history_museum",54788
-216,5184,indoor,"atrium/public, museum/indoor, entrance_hall, throne_room, church/indoor",54788
-217,5208,indoor,"church/indoor, museum/indoor, throne_room, entrance_hall, mezzanine",54788
-218,5232,indoor,"church/indoor, throne_room, entrance_hall, museum/indoor, lobby",54788
-219,5256,indoor,"throne_room, church/indoor, elevator_lobby, lobby, museum/indoor",54788
-220,5280,indoor,"church/indoor, throne_room, lobby, museum/indoor, atrium/public",54788
-221,5304,indoor,"church/indoor, throne_room, museum/indoor, atrium/public, mausoleum",54788
-222,5328,indoor,"throne_room, church/indoor, entrance_hall, museum/indoor, temple/asia",54788
-223,5352,indoor,"throne_room, entrance_hall, lobby, atrium/public, church/indoor",54788
-224,5376,indoor,"throne_room, entrance_hall, lobby, museum/indoor, church/indoor",54788
-225,5400,indoor,"throne_room, entrance_hall, lobby, church/indoor, atrium/public",54788
-226,5424,indoor,"entrance_hall, throne_room, lobby, church/indoor, ballroom",54788
-227,5448,indoor,"entrance_hall, throne_room, lobby, ballroom, elevator_lobby",54788
-228,5472,indoor,"entrance_hall, lobby, throne_room, ballroom, elevator_lobby",54788
-229,5496,indoor,"entrance_hall, lobby, throne_room, ballroom, elevator_lobby",54788
-230,5520,indoor,"entrance_hall, lobby, throne_room, ballroom, elevator_lobby",54788
-231,5544,indoor,"museum/indoor, beauty_salon, clean_room, art_gallery, science_museum",54788
-232,5568,indoor,"museum/indoor, science_museum, art_gallery, clean_room, natural_history_museum",54788
-233,5592,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, artists_loft",54788
-234,5616,indoor,"museum/indoor, dining_room, art_gallery, entrance_hall, science_museum",54788
-235,5640,indoor,"museum/indoor, clean_room, science_museum, entrance_hall, art_gallery",54788
-236,5664,indoor,"museum/indoor, art_gallery, science_museum, clean_room, entrance_hall",54788
-237,5688,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",54788
-238,5712,indoor,"chemistry_lab, clean_room, museum/indoor, science_museum, natural_history_museum",54788
-239,5736,indoor,"museum/indoor, banquet_hall, science_museum, dressing_room, chemistry_lab",54788
-240,5760,indoor,"museum/indoor, science_museum, natural_history_museum, jewelry_shop, chemistry_lab",54788
-241,5784,indoor,"jewelry_shop, chemistry_lab, museum/indoor, gift_shop, natural_history_museum",54788
-242,5808,indoor,"museum/indoor, art_gallery, art_studio, artists_loft, art_school",54788
-243,5832,indoor,"museum/indoor, art_gallery, art_studio, jewelry_shop, science_museum",54788
-244,5856,indoor,"museum/indoor, art_gallery, jewelry_shop, art_studio, science_museum",54788
-245,5880,indoor,"museum/indoor, art_gallery, art_studio, science_museum, jewelry_shop",54788
-246,5904,indoor,"museum/indoor, art_gallery, art_studio, jewelry_shop, science_museum",54788
-247,5928,indoor,"museum/indoor, art_gallery, science_museum, natural_history_museum, art_studio",54788
-248,5952,indoor,"museum/indoor, art_gallery, jewelry_shop, art_studio, science_museum",54788
-249,5976,indoor,"museum/indoor, art_gallery, jewelry_shop, art_studio, science_museum",54788
-250,6000,indoor,"museum/indoor, art_gallery, art_studio, jewelry_shop, science_museum",54788
-251,6024,indoor,"dressing_room, clothing_store, museum/indoor, nursery, locker_room",54788
-252,6048,indoor,"dressing_room, clothing_store, nursery, ballroom, museum/indoor",54788
-253,6072,indoor,"dressing_room, clothing_store, nursery, beauty_salon, museum/indoor",54788
-254,6096,indoor,"dressing_room, clothing_store, jewelry_shop, nursery, locker_room",54788
-255,6120,indoor,"dressing_room, clothing_store, jewelry_shop, nursery, ballroom",54788
-256,6144,indoor,"jewelry_shop, dressing_room, clothing_store, beauty_salon, gift_shop",54788
-257,6168,indoor,"dressing_room, jewelry_shop, clothing_store, beauty_salon, locker_room",54788
-258,6192,indoor,"dressing_room, jewelry_shop, clothing_store, beauty_salon, ballroom",54788
-259,6216,indoor,"dressing_room, clothing_store, jewelry_shop, museum/indoor, natural_history_museum",54788
-260,6240,indoor,"dressing_room, clothing_store, jewelry_shop, gift_shop, natural_history_museum",54788
-261,6264,indoor,"museum/indoor, jewelry_shop, clothing_store, bank_vault, elevator_lobby",54788
-262,6288,indoor,"museum/indoor, art_gallery, bank_vault, jewelry_shop, elevator_lobby",54788
-263,6312,indoor,"museum/indoor, jewelry_shop, art_gallery, bank_vault, clothing_store",54788
-264,6336,indoor,"dressing_room, clothing_store, museum/indoor, jewelry_shop, natural_history_museum",54788
-265,6360,indoor,"jewelry_shop, dressing_room, clothing_store, museum/indoor, clean_room",54788
-266,6384,indoor,"dressing_room, jewelry_shop, museum/indoor, clothing_store, natural_history_museum",54788
-267,6408,indoor,"jewelry_shop, dressing_room, museum/indoor, clothing_store, natural_history_museum",54788
-268,6432,indoor,"jewelry_shop, dressing_room, clothing_store, museum/indoor, natural_history_museum",54788
-269,6456,indoor,"dressing_room, jewelry_shop, museum/indoor, clothing_store, gift_shop",54788
-270,6480,indoor,"jewelry_shop, dressing_room, museum/indoor, clothing_store, natural_history_museum",54788
-271,6504,indoor,"jewelry_shop, museum/indoor, dressing_room, clothing_store, natural_history_museum",54788
-272,6528,indoor,"dressing_room, jewelry_shop, museum/indoor, clothing_store, natural_history_museum",54788
-273,6552,indoor,"dressing_room, clothing_store, clean_room, beauty_salon, jewelry_shop",54788
-274,6576,indoor,"dressing_room, clothing_store, beauty_salon, clean_room, jewelry_shop",54788
-275,6600,indoor,"dressing_room, clean_room, clothing_store, museum/indoor, locker_room",54788
-276,6624,indoor,"clean_room, dressing_room, clothing_store, jewelry_shop, science_museum",54788
-277,6648,indoor,"museum/indoor, dressing_room, clothing_store, clean_room, science_museum",54788
-278,6672,indoor,"clothing_store, clean_room, dressing_room, museum/indoor, science_museum",54788
-279,6696,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, science_museum",54788
-280,6720,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, art_gallery",54788
-281,6744,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, jewelry_shop",54788
-282,6768,indoor,"dressing_room, museum/indoor, clothing_store, clean_room, art_gallery",54788
-283,6792,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, art_gallery",54788
-284,6816,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, art_gallery",54788
-285,6840,indoor,"dressing_room, clean_room, clothing_store, museum/indoor, science_museum",54788
-286,6864,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, science_museum",54788
-287,6888,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, jewelry_shop",54788
-288,6912,indoor,"dressing_room, clothing_store, clean_room, jewelry_shop, museum/indoor",54788
-289,6936,indoor,"dressing_room, clothing_store, museum/indoor, science_museum, locker_room",54788
-290,6960,indoor,"dressing_room, museum/indoor, clothing_store, art_gallery, clean_room",54788
-291,6984,indoor,"museum/indoor, dressing_room, art_gallery, science_museum, clothing_store",54788
-292,7008,indoor,"dressing_room, clothing_store, banquet_hall, jewelry_shop, beauty_salon",54788
-293,7032,indoor,"dressing_room, clothing_store, jewelry_shop, museum/indoor, stage/indoor",54788
-294,7056,indoor,"dressing_room, clothing_store, locker_room, jewelry_shop, clean_room",54788
-295,7080,indoor,"dressing_room, clothing_store, stage/indoor, ballroom, shower",54788
-296,7104,indoor,"dressing_room, shower, fountain, clothing_store, bathroom",54788
-297,7128,indoor,"dressing_room, clothing_store, museum/indoor, discotheque, art_gallery",54788
-298,7152,indoor,"dressing_room, clothing_store, beauty_salon, ballroom, clean_room",54788
-299,7176,indoor,"dressing_room, clothing_store, clean_room, beauty_salon, ballroom",54788
-300,7200,indoor,"dressing_room, clothing_store, banquet_hall, clean_room, art_gallery",54788
-301,7224,indoor,"dressing_room, clothing_store, clean_room, locker_room, bathroom",54788
-302,7248,indoor,"dressing_room, shower, clean_room, clothing_store, bathroom",54788
-303,7272,indoor,"dressing_room, clothing_store, shower, closet, clean_room",54788
-304,7296,indoor,"burial_chamber, nursery, alcove, museum/indoor, bedroom",54788
-305,7320,indoor,"nursery, jewelry_shop, museum/indoor, clean_room, childs_room",54788
-306,7344,indoor,"clean_room, nursery, hospital_room, hotel_room, bedroom",54788
-307,7368,indoor,"shower, beauty_salon, bathroom, ice_cream_parlor, car_interior",54788
-308,7392,indoor,"nursery, igloo, clean_room, hospital_room, bedroom",54788
-309,7416,indoor,"bedroom, hospital_room, hotel_room, nursery, ice_floe",54788
-310,7440,indoor,"shower, clean_room, bow_window/indoor, dressing_room, bathroom",54788
-311,7464,indoor,"shower, bow_window/indoor, bathroom, dressing_room, jacuzzi/indoor",54788
-312,7488,indoor,"shower, bow_window/indoor, bathroom, dressing_room, beauty_salon",54788
-313,7512,indoor,"bow_window/indoor, shower, bathroom, clean_room, greenhouse/indoor",54788
-314,7536,indoor,"bedroom, bow_window/indoor, hospital_room, hotel_room, nursery",54788
-315,7560,indoor,"bow_window/indoor, shower, nursery, hospital_room, bedroom",54788
-316,7584,indoor,"shower, bathroom, dressing_room, clothing_store, art_gallery",54788
-317,7608,indoor,"dressing_room, clothing_store, shower, beauty_salon, chemistry_lab",54788
-318,7632,indoor,"jewelry_shop, art_gallery, science_museum, gift_shop, museum/indoor",54788
-319,7656,indoor,"science_museum, clothing_store, museum/indoor, art_gallery, natural_history_museum",54788
-320,7680,indoor,"science_museum, art_gallery, museum/indoor, clean_room, jewelry_shop",54788
-321,7704,indoor,"science_museum, art_gallery, clean_room, museum/indoor, natural_history_museum",54788
-322,7728,indoor,"science_museum, art_gallery, museum/indoor, clean_room, natural_history_museum",54788
-323,7752,indoor,"science_museum, museum/indoor, art_gallery, natural_history_museum, clean_room",54788
-324,7776,indoor,"science_museum, art_gallery, museum/indoor, clean_room, natural_history_museum",54788
-325,7800,indoor,"science_museum, art_gallery, museum/indoor, reception, clean_room",54788
-326,7824,indoor,"science_museum, art_gallery, reception, jewelry_shop, clean_room",54788
-327,7848,indoor,"candy_store, science_museum, gift_shop, clothing_store, ice_cream_parlor",54788
-328,7872,indoor,"chemistry_lab, clothing_store, candy_store, clean_room, jewelry_shop",54788
-329,7896,indoor,"candy_store, clothing_store, jewelry_shop, science_museum, ice_cream_parlor",54788
-330,7920,indoor,"clothing_store, department_store, jewelry_shop, shoe_shop, beauty_salon",54788
-331,7944,indoor,"beauty_salon, clean_room, jewelry_shop, candy_store, clothing_store",54788
-332,7968,indoor,"clothing_store, clean_room, science_museum, shoe_shop, beauty_salon",54788
-333,7992,indoor,"chemistry_lab, science_museum, natural_history_museum, museum/indoor, biology_laboratory",54788
-334,8016,indoor,"shower, elevator_lobby, bathroom, laundromat, natural_history_museum",54788
-335,8040,indoor,"shower, locker_room, closet, bathroom, clothing_store",54788
-336,8064,indoor,"clothing_store, dressing_room, museum/indoor, science_museum, natural_history_museum",54788
-337,8088,indoor,"clothing_store, museum/indoor, science_museum, dressing_room, jewelry_shop",54788
-338,8112,indoor,"museum/indoor, clothing_store, science_museum, dressing_room, natural_history_museum",54788
-339,8136,indoor,"museum/indoor, clothing_store, science_museum, jewelry_shop, dressing_room",54788
-340,8160,indoor,"clothing_store, stage/indoor, auditorium, throne_room, ballroom",54788
-341,8184,indoor,"clothing_store, throne_room, dressing_room, stage/indoor, clean_room",54788
-342,8208,indoor,"clothing_store, throne_room, jewelry_shop, clean_room, stage/indoor",54788
-343,8232,indoor,"clean_room, chemistry_lab, stage/indoor, clothing_store, throne_room",54788
-344,8256,indoor,"church/indoor, auditorium, stage/indoor, throne_room, clothing_store",54788
-345,8280,indoor,"banquet_hall, ballroom, clothing_store, stage/indoor, auditorium",54788
-346,8304,indoor,"clothing_store, throne_room, clean_room, stage/indoor, department_store",54788
-347,8328,indoor,"clothing_store, throne_room, clean_room, jewelry_shop, department_store",54788
-348,8352,indoor,"clothing_store, throne_room, stage/indoor, clean_room, jewelry_shop",54788
-349,8376,indoor,"clothing_store, jewelry_shop, clean_room, throne_room, department_store",54788
-350,8400,indoor,"clothing_store, throne_room, clean_room, stage/indoor, church/indoor",54788
-351,8424,indoor,"clothing_store, throne_room, jewelry_shop, clean_room, department_store",54788
-352,8448,indoor,"clean_room, clothing_store, throne_room, jewelry_shop, museum/indoor",54788
-353,8472,indoor,"clothing_store, clean_room, stage/indoor, museum/indoor, throne_room",54788
-354,8496,indoor,"clothing_store, clean_room, museum/indoor, science_museum, dressing_room",54788
-355,8520,indoor,"clothing_store, clean_room, museum/indoor, stage/indoor, science_museum",54788
-356,8544,indoor,"museum/indoor, clean_room, clothing_store, science_museum, jewelry_shop",54788
-357,8568,indoor,"clean_room, clothing_store, science_museum, museum/indoor, chemistry_lab",54788
-358,8592,indoor,"clean_room, museum/indoor, science_museum, natural_history_museum, clothing_store",54788
-359,8616,indoor,"clean_room, museum/indoor, science_museum, clothing_store, natural_history_museum",54788
-360,8640,indoor,"clean_room, clothing_store, museum/indoor, science_museum, nursery",54788
-361,8664,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",54788
-362,8688,indoor,"museum/indoor, clean_room, science_museum, art_gallery, natural_history_museum",54788
-363,8712,indoor,"museum/indoor, clean_room, science_museum, art_gallery, natural_history_museum",54788
-364,8736,indoor,"clean_room, museum/indoor, clothing_store, science_museum, art_gallery",54788
-365,8760,indoor,"clean_room, museum/indoor, clothing_store, dressing_room, art_gallery",54788
-366,8784,indoor,"clean_room, museum/indoor, science_museum, clothing_store, natural_history_museum",54788
-367,8808,indoor,"museum/indoor, clean_room, science_museum, clothing_store, natural_history_museum",54788
-368,8832,indoor,"museum/indoor, clean_room, science_museum, natural_history_museum, art_gallery",54788
-369,8856,indoor,"museum/indoor, clothing_store, dressing_room, science_museum, natural_history_museum",54788
-370,8880,indoor,"clothing_store, museum/indoor, dressing_room, science_museum, art_gallery",54788
-371,8904,indoor,"clothing_store, museum/indoor, dressing_room, science_museum, clean_room",54788
-372,8928,indoor,"clothing_store, museum/indoor, dressing_room, clean_room, jewelry_shop",54788
-373,8952,indoor,"lobby, corridor, clean_room, museum/indoor, elevator_lobby",54788
-374,8976,indoor,"lobby, clean_room, corridor, elevator_lobby, artists_loft",54788
-375,9000,indoor,"lobby, clean_room, reception, chemistry_lab, airport_terminal",54788
-376,9024,indoor,"lobby, entrance_hall, museum/indoor, corridor, elevator_lobby",54788
-377,9048,indoor,"clean_room, museum/indoor, lobby, science_museum, art_gallery",54788
-378,9072,indoor,"train_station/platform, railroad_track, clean_room, subway_station/platform, museum/indoor",54788
-379,9096,indoor,"crosswalk, throne_room, entrance_hall, church/indoor, staircase",54788
-380,9120,indoor,"crosswalk, throne_room, entrance_hall, staircase, amphitheater",54788
-381,9144,indoor,"crosswalk, throne_room, entrance_hall, church/indoor, amphitheater",54788
-382,9168,indoor,"jewelry_shop, clothing_store, beauty_salon, dressing_room, department_store",54788
-383,9192,indoor,"clothing_store, jewelry_shop, science_museum, television_studio, stage/indoor",54788
-384,9216,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, science_museum",54788
-385,9240,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, science_museum",54788
-386,9264,indoor,"clothing_store, jewelry_shop, beauty_salon, dressing_room, ice_cream_parlor",54788
-387,9288,indoor,"jewelry_shop, clothing_store, beauty_salon, dressing_room, ice_cream_parlor",54788
-388,9312,indoor,"clothing_store, jewelry_shop, beauty_salon, dressing_room, ice_cream_parlor",54788
-389,9336,indoor,"clothing_store, dressing_room, jewelry_shop, beauty_salon, ice_cream_parlor",54788
-390,9360,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-391,9384,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-392,9408,indoor,"clothing_store, jewelry_shop, dressing_room, ice_cream_parlor, beauty_salon",54788
-393,9432,indoor,"music_studio, art_gallery, clean_room, museum/indoor, office",54788
-394,9456,indoor,"music_studio, clean_room, office, art_gallery, museum/indoor",54788
-395,9480,indoor,"clean_room, music_studio, art_gallery, office, museum/indoor",54788
-396,9504,indoor,"music_studio, clean_room, office, museum/indoor, art_gallery",54788
-397,9528,indoor,"clean_room, music_studio, art_gallery, dressing_room, museum/indoor",54788
-398,9552,indoor,"jewelry_shop, clothing_store, dressing_room, ice_cream_parlor, beauty_salon",54788
-399,9576,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-400,9600,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-401,9624,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-402,9648,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-403,9672,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, ice_cream_parlor",54788
-404,9696,indoor,"clothing_store, jewelry_shop, dressing_room, beauty_salon, department_store",54788
-405,9720,indoor,"dressing_room, clothing_store, art_gallery, music_studio, museum/indoor",54788
-406,9744,indoor,"clean_room, clothing_store, office, dressing_room, bow_window/indoor",54788
-407,9768,indoor,"office, clean_room, bow_window/indoor, clothing_store, dressing_room",54788
-408,9792,indoor,"clothing_store, dressing_room, beauty_salon, stage/indoor, science_museum",54788
-409,9816,indoor,"clothing_store, dressing_room, science_museum, stage/indoor, arena/performance",54788
-410,9840,indoor,"clothing_store, dressing_room, science_museum, beauty_salon, stage/indoor",54788
-411,9864,indoor,"clothing_store, dressing_room, beauty_salon, stage/indoor, science_museum",54788
-412,9888,indoor,"clothing_store, dressing_room, beauty_salon, science_museum, jewelry_shop",54788
-413,9912,indoor,"clothing_store, science_museum, dressing_room, museum/indoor, beauty_salon",54788
-414,9936,indoor,"clothing_store, dressing_room, beauty_salon, science_museum, department_store",54788
-415,9960,indoor,"clothing_store, dressing_room, museum/indoor, science_museum, beauty_salon",54788
-416,9984,indoor,"clothing_store, jewelry_shop, science_museum, museum/indoor, dressing_room",54788
-417,10008,indoor,"clothing_store, science_museum, jewelry_shop, museum/indoor, department_store",54788
-418,10032,indoor,"dressing_room, clothing_store, clean_room, beauty_salon, office",54788
-419,10056,indoor,"clothing_store, dressing_room, museum/indoor, art_gallery, office",54788
-420,10080,indoor,"clothing_store, museum/indoor, department_store, shopfront, natural_history_museum",54788
-421,10104,indoor,"clothing_store, museum/indoor, department_store, shopfront, natural_history_museum",54788
-422,10128,indoor,"clothing_store, museum/indoor, department_store, natural_history_museum, shopfront",54788
-423,10152,indoor,"clothing_store, museum/indoor, department_store, beauty_salon, clean_room",54788
-424,10176,indoor,"clothing_store, museum/indoor, department_store, clean_room, beauty_salon",54788
-425,10200,indoor,"museum/indoor, clothing_store, clean_room, beauty_salon, physics_laboratory",54788
-426,10224,indoor,"museum/indoor, clean_room, physics_laboratory, chemistry_lab, bank_vault",54788
-427,10248,indoor,"museum/indoor, clean_room, physics_laboratory, clothing_store, jewelry_shop",54788
-428,10272,indoor,"museum/indoor, clean_room, physics_laboratory, science_museum, jewelry_shop",54788
-429,10296,indoor,"museum/indoor, clothing_store, clean_room, jewelry_shop, department_store",54788
-430,10320,indoor,"museum/indoor, clean_room, clothing_store, jewelry_shop, department_store",54788
-431,10344,indoor,"museum/indoor, clean_room, clothing_store, department_store, science_museum",54788
-432,10368,indoor,"museum/indoor, television_studio, department_store, clothing_store, clean_room",54788
-433,10392,indoor,"museum/indoor, clean_room, clothing_store, physics_laboratory, department_store",54788
-434,10416,indoor,"museum/indoor, locker_room, martial_arts_gym, clothing_store, beauty_salon",54788
-435,10440,indoor,"clothing_store, museum/indoor, beauty_salon, dressing_room, art_gallery",54788
-436,10464,indoor,"museum/indoor, clothing_store, throne_room, stage/indoor, art_gallery",54788
-437,10488,indoor,"museum/indoor, art_gallery, art_studio, art_school, archive",54788
-438,10512,indoor,"museum/indoor, clothing_store, throne_room, art_gallery, art_studio",54788
-439,10536,indoor,"museum/indoor, clothing_store, jewelry_shop, art_gallery, natural_history_museum",54788
-440,10560,indoor,"museum/indoor, jewelry_shop, art_gallery, clothing_store, natural_history_museum",54788
-441,10584,indoor,"museum/indoor, jewelry_shop, clothing_store, art_gallery, natural_history_museum",54788
-442,10608,indoor,"museum/indoor, clothing_store, art_gallery, jewelry_shop, throne_room",54788
-443,10632,indoor,"clothing_store, dressing_room, science_museum, beauty_salon, museum/indoor",54788
-444,10656,indoor,"clothing_store, dressing_room, science_museum, beauty_salon, museum/indoor",54788
-445,10680,indoor,"clothing_store, dressing_room, beauty_salon, department_store, science_museum",54788
-446,10704,indoor,"museum/indoor, throne_room, jewelry_shop, clothing_store, art_gallery",54788
-447,10728,indoor,"museum/indoor, jewelry_shop, throne_room, clothing_store, art_gallery",54788
-448,10752,indoor,"museum/indoor, throne_room, jewelry_shop, clothing_store, art_gallery",54788
-449,10776,indoor,"museum/indoor, throne_room, jewelry_shop, clothing_store, art_gallery",54788
-450,10800,indoor,"museum/indoor, throne_room, clothing_store, art_gallery, jewelry_shop",54788
-451,10824,indoor,"museum/indoor, throne_room, art_gallery, clothing_store, church/indoor",54788
-452,10848,indoor,"museum/indoor, throne_room, art_gallery, clothing_store, jewelry_shop",54788
-453,10872,indoor,"museum/indoor, throne_room, art_gallery, jewelry_shop, clothing_store",54788
-454,10896,indoor,"clothing_store, ballroom, stage/indoor, discotheque, dressing_room",54788
-455,10920,indoor,"clothing_store, stage/indoor, ballroom, music_studio, dressing_room",54788
-456,10944,indoor,"clothing_store, ballroom, dressing_room, music_studio, stage/indoor",54788
-457,10968,indoor,"clothing_store, dressing_room, ballroom, shower, stage/indoor",54788
-458,10992,indoor,"clean_room, biology_laboratory, chemistry_lab, department_store, clothing_store",54788
-459,11016,indoor,"clean_room, chemistry_lab, biology_laboratory, physics_laboratory, science_museum",54788
-460,11040,indoor,"clean_room, chemistry_lab, biology_laboratory, physics_laboratory, science_museum",54788
-461,11064,indoor,"clean_room, chemistry_lab, biology_laboratory, pharmacy, physics_laboratory",54788
-462,11088,indoor,"clothing_store, dressing_room, shower, museum/indoor, ballroom",54788
-463,11112,indoor,"clothing_store, dressing_room, shower, jewelry_shop, chemistry_lab",54788
-464,11136,indoor,"clothing_store, shower, dressing_room, church/indoor, jewelry_shop",54788
-465,11160,indoor,"clothing_store, science_museum, museum/indoor, jewelry_shop, natural_history_museum",54788
-466,11184,indoor,"clothing_store, science_museum, museum/indoor, jewelry_shop, natural_history_museum",54788
-467,11208,indoor,"clothing_store, science_museum, museum/indoor, jewelry_shop, natural_history_museum",54788
-468,11232,indoor,"clothing_store, science_museum, jewelry_shop, museum/indoor, dressing_room",54788
-469,11256,indoor,"clothing_store, science_museum, museum/indoor, jewelry_shop, natural_history_museum",54788
-470,11280,indoor,"clothing_store, science_museum, jewelry_shop, museum/indoor, clean_room",54788
-471,11304,indoor,"clothing_store, science_museum, jewelry_shop, museum/indoor, natural_history_museum",54788
-472,11328,indoor,"science_museum, clothing_store, museum/indoor, jewelry_shop, clean_room",54788
-473,11352,indoor,"clean_room, locker_room, dressing_room, clothing_store, museum/indoor",54788
-474,11376,indoor,"clean_room, dressing_room, locker_room, clothing_store, museum/indoor",54788
-475,11400,indoor,"clean_room, locker_room, dressing_room, museum/indoor, physics_laboratory",54788
-476,11424,indoor,"clean_room, dressing_room, clothing_store, locker_room, museum/indoor",54788
-477,11448,indoor,"clean_room, dressing_room, locker_room, clothing_store, museum/indoor",54788
-478,11472,indoor,"clean_room, dressing_room, clothing_store, locker_room, chemistry_lab",54788
-479,11496,indoor,"clean_room, dressing_room, clothing_store, locker_room, museum/indoor",54788
-480,11520,indoor,"clean_room, dressing_room, clothing_store, locker_room, chemistry_lab",54788
-481,11544,indoor,"clothing_store, dressing_room, jewelry_shop, department_store, museum/indoor",54788
-482,11568,indoor,"clothing_store, museum/indoor, jewelry_shop, department_store, dressing_room",54788
-483,11592,indoor,"clothing_store, jewelry_shop, museum/indoor, department_store, elevator_lobby",54788
-484,11616,indoor,"clothing_store, dressing_room, museum/indoor, elevator_lobby, department_store",54788
-485,11640,indoor,"clothing_store, locker_room, dressing_room, elevator_lobby, shower",54788
-486,11664,indoor,"clothing_store, dressing_room, department_store, jewelry_shop, locker_room",54788
-487,11688,indoor,"chemistry_lab, ballroom, banquet_hall, biology_laboratory, museum/indoor",54788
-488,11712,indoor,"banquet_hall, ballroom, dining_hall, chemistry_lab, restaurant",54788
-489,11736,indoor,"banquet_hall, dining_hall, ballroom, restaurant, cafeteria",54788
-490,11760,indoor,"clean_room, biology_laboratory, assembly_line, cafeteria, chemistry_lab",54788
-491,11784,indoor,"jewelry_shop, dressing_room, science_museum, museum/indoor, natural_history_museum",54788
-492,11808,indoor,"museum/indoor, entrance_hall, dining_hall, lobby, archive",54788
-493,11832,indoor,"lobby, beauty_salon, museum/indoor, natural_history_museum, entrance_hall",54788
-494,11856,indoor,"lobby, entrance_hall, museum/indoor, ballroom, beauty_salon",54788
-495,11880,indoor,"lobby, museum/indoor, entrance_hall, science_museum, beauty_salon",54788
-496,11904,indoor,"beauty_salon, lobby, clean_room, office, chemistry_lab",54788
-497,11928,indoor,"lobby, beauty_salon, chemistry_lab, biology_laboratory, museum/indoor",54788
-498,11952,indoor,"lobby, entrance_hall, museum/indoor, corridor, elevator_lobby",54788
-499,11976,indoor,"lobby, airport_terminal, entrance_hall, museum/indoor, corridor",54788
-500,12000,indoor,"lobby, entrance_hall, elevator_lobby, atrium/public, airport_terminal",54788
-501,12024,indoor,"clean_room, dressing_room, clothing_store, locker_room, chemistry_lab",54788
-502,12048,indoor,"lobby, elevator_lobby, entrance_hall, corridor, atrium/public",54788
-503,12072,indoor,"lobby, entrance_hall, elevator_lobby, atrium/public, living_room",54788
-504,12096,indoor,"lobby, entrance_hall, corridor, elevator_lobby, airport_terminal",54788
-505,12120,indoor,"lobby, entrance_hall, corridor, elevator_lobby, atrium/public",54788
-506,12144,indoor,"entrance_hall, lobby, corridor, elevator_lobby, bow_window/indoor",54788
-507,12168,indoor,"lobby, entrance_hall, elevator_lobby, bow_window/indoor, corridor",54788
-508,12192,indoor,"lobby, entrance_hall, church/indoor, elevator_lobby, throne_room",54788
-509,12216,indoor,"lobby, entrance_hall, throne_room, church/indoor, elevator_lobby",54788
-510,12240,indoor,"lobby, entrance_hall, church/indoor, elevator_lobby, throne_room",54788
-511,12264,indoor,"lobby, entrance_hall, elevator_lobby, church/indoor, throne_room",54788
-512,12288,indoor,"lobby, entrance_hall, elevator_lobby, church/indoor, throne_room",54788
-513,12312,indoor,"lobby, entrance_hall, church/indoor, elevator_lobby, throne_room",54788
-514,12336,indoor,"lobby, entrance_hall, church/indoor, throne_room, elevator_lobby",54788
-515,12360,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, clothing_store",54788
-516,12384,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, clothing_store",54788
-517,12408,indoor,"museum/indoor, science_museum, art_gallery, natural_history_museum, clothing_store",54788
-518,12432,indoor,"museum/indoor, clothing_store, science_museum, dressing_room, art_gallery",54788
-519,12456,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",54788
-520,12480,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",54788
-521,12504,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",54788
-522,12528,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, jewelry_shop",54788
-523,12552,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",54788
-524,12576,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, jewelry_shop",54788
-525,12600,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, jewelry_shop",54788
-526,12624,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, jewelry_shop",54788
-527,12648,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, jewelry_shop",54788
-528,12672,indoor,"clean_room, clothing_store, museum/indoor, dressing_room, beauty_salon",54788
-529,12696,indoor,"clothing_store, dressing_room, beauty_salon, museum/indoor, department_store",54788
-530,12720,indoor,"dressing_room, clothing_store, beauty_salon, clean_room, department_store",54788
-531,12744,indoor,"clothing_store, dressing_room, department_store, beauty_salon, museum/indoor",54788
-532,12768,indoor,"clothing_store, dressing_room, department_store, museum/indoor, beauty_salon",54788
-533,12792,indoor,"dressing_room, clothing_store, department_store, clean_room, beauty_salon",54788
-534,12816,indoor,"dressing_room, clothing_store, department_store, clean_room, locker_room",54788
-535,12840,indoor,"clothing_store, dressing_room, department_store, museum/indoor, locker_room",54788
-536,12864,indoor,"clothing_store, dressing_room, museum/indoor, department_store, beauty_salon",54788
-537,12888,indoor,"dressing_room, clothing_store, museum/indoor, department_store, clean_room",54788
-538,12912,indoor,"dressing_room, clothing_store, department_store, museum/indoor, clean_room",54788
-539,12936,indoor,"dressing_room, clothing_store, beauty_salon, museum/indoor, department_store",54788
-540,12960,indoor,"dressing_room, clothing_store, beauty_salon, museum/indoor, department_store",54788
-541,12984,indoor,"dressing_room, clothing_store, beauty_salon, department_store, museum/indoor",54788
-542,13008,indoor,"dressing_room, clothing_store, beauty_salon, department_store, museum/indoor",54788
-543,13032,indoor,"dressing_room, clothing_store, museum/indoor, department_store, clean_room",54788
-544,13056,indoor,"dressing_room, clothing_store, museum/indoor, department_store, locker_room",54788
-545,13080,indoor,"attic, entrance_hall, lobby, reception, elevator_lobby",54788
-546,13104,indoor,"entrance_hall, attic, lobby, reception, elevator_lobby",54788
-547,13128,indoor,"attic, lobby, reception, entrance_hall, elevator_lobby",54788
-548,13152,indoor,"attic, lobby, reception, elevator_lobby, entrance_hall",54788
-549,13176,indoor,"dressing_room, clothing_store, beauty_salon, locker_room, museum/indoor",54788
-550,13200,indoor,"dressing_room, clothing_store, beauty_salon, museum/indoor, department_store",54788
-551,13224,indoor,"museum/indoor, clean_room, art_gallery, science_museum, archive",54788
-552,13248,indoor,"museum/indoor, clean_room, art_gallery, science_museum, clothing_store",54788
-553,13272,indoor,"museum/indoor, clean_room, science_museum, art_gallery, clothing_store",54788
-554,13296,indoor,"museum/indoor, clean_room, science_museum, art_gallery, clothing_store",54788
-555,13320,indoor,"museum/indoor, clean_room, science_museum, art_gallery, clothing_store",54788
-556,13344,indoor,"museum/indoor, clean_room, science_museum, art_gallery, clothing_store",54788
-557,13368,indoor,"museum/indoor, clean_room, science_museum, art_gallery, clothing_store",54788
-558,13392,indoor,"museum/indoor, clean_room, science_museum, art_gallery, clothing_store",54788
-559,13416,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, locker_room",54788
-560,13440,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, art_gallery",54788
-561,13464,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, locker_room",54788
-562,13488,indoor,"clean_room, museum/indoor, dressing_room, physics_laboratory, archive",54788
-563,13512,indoor,"clean_room, museum/indoor, physics_laboratory, art_gallery, archive",54788
-564,13536,indoor,"clean_room, music_studio, physics_laboratory, museum/indoor, beauty_salon",54788
-565,13560,indoor,"dressing_room, clothing_store, clean_room, locker_room, elevator/door",54788
-566,13584,indoor,"dressing_room, clothing_store, clean_room, locker_room, elevator/door",54788
-567,13608,indoor,"dressing_room, clothing_store, clean_room, locker_room, elevator/door",54788
-568,13632,indoor,"dressing_room, clothing_store, clean_room, locker_room, elevator_lobby",54788
-569,13656,indoor,"dressing_room, clothing_store, clean_room, locker_room, elevator_lobby",54788
-570,13680,indoor,"dressing_room, clothing_store, clean_room, locker_room, elevator/door",54788
-571,13704,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, locker_room",54788
-572,13728,indoor,"clean_room, museum/indoor, dressing_room, physics_laboratory, beauty_salon",54788
-573,13752,indoor,"clean_room, museum/indoor, physics_laboratory, music_studio, art_gallery",54788
-574,13776,indoor,"clean_room, physics_laboratory, museum/indoor, music_studio, art_gallery",54788
-575,13800,indoor,"clean_room, physics_laboratory, music_studio, museum/indoor, beauty_salon",54788
-576,13824,indoor,"clean_room, physics_laboratory, museum/indoor, music_studio, nursing_home",54788
-577,13848,indoor,"dressing_room, clean_room, clothing_store, locker_room, elevator_lobby",54788
-578,13872,indoor,"dressing_room, clothing_store, clean_room, locker_room, museum/indoor",54788
-579,13896,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, locker_room",54788
-580,13920,indoor,"dressing_room, clothing_store, clean_room, museum/indoor, art_gallery",54788
-581,13944,indoor,"clothing_store, clean_room, dressing_room, museum/indoor, art_gallery",54788
-582,13968,indoor,"clothing_store, clean_room, dressing_room, museum/indoor, art_gallery",54788
-583,13992,indoor,"clothing_store, clean_room, dressing_room, museum/indoor, art_gallery",54788
-584,14016,indoor,"nursing_home, clean_room, physics_laboratory, museum/indoor, art_gallery",54788
-585,14040,indoor,"clean_room, nursing_home, physics_laboratory, museum/indoor, art_gallery",54788
-586,14064,indoor,"clean_room, nursing_home, museum/indoor, physics_laboratory, art_gallery",54788
-587,14088,indoor,"clean_room, museum/indoor, nursing_home, art_gallery, physics_laboratory",54788
-588,14112,indoor,"clean_room, museum/indoor, art_gallery, physics_laboratory, art_studio",54788
-589,14136,indoor,"clean_room, museum/indoor, art_gallery, physics_laboratory, art_studio",54788
-590,14160,indoor,"clean_room, museum/indoor, art_gallery, physics_laboratory, art_studio",54788
-591,14184,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, church/indoor",54788
-592,14208,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, church/indoor",54788
-593,14232,indoor,"museum/indoor, art_gallery, church/indoor, natural_history_museum, science_museum",54788
-594,14256,indoor,"museum/indoor, art_gallery, church/indoor, natural_history_museum, clothing_store",54788
-595,14280,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-596,14304,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-597,14328,indoor,"museum/indoor, art_gallery, church/indoor, stage/indoor, dressing_room",54788
-598,14352,indoor,"museum/indoor, art_gallery, church/indoor, stage/indoor, natural_history_museum",54788
-599,14376,indoor,"museum/indoor, art_gallery, church/indoor, natural_history_museum, clothing_store",54788
-600,14400,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-601,14424,indoor,"museum/indoor, art_gallery, church/indoor, natural_history_museum, science_museum",54788
-602,14448,indoor,"museum/indoor, art_gallery, church/indoor, natural_history_museum, science_museum",54788
-603,14472,indoor,"museum/indoor, art_gallery, church/indoor, stage/indoor, science_museum",54788
-604,14496,indoor,"museum/indoor, art_gallery, clean_room, art_studio, physics_laboratory",54788
-605,14520,indoor,"museum/indoor, art_gallery, clean_room, music_studio, art_studio",54788
-606,14544,indoor,"museum/indoor, art_gallery, music_studio, physics_laboratory, art_studio",54788
-607,14568,indoor,"museum/indoor, art_gallery, music_studio, art_studio, physics_laboratory",54788
-608,14592,indoor,"museum/indoor, art_gallery, art_studio, music_studio, physics_laboratory",54788
-609,14616,indoor,"museum/indoor, art_gallery, music_studio, clean_room, art_studio",54788
-610,14640,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-611,14664,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-612,14688,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-613,14712,indoor,"museum/indoor, art_gallery, science_museum, church/indoor, natural_history_museum",54788
-614,14736,indoor,"museum/indoor, art_gallery, church/indoor, science_museum, natural_history_museum",54788
-615,14760,indoor,"museum/indoor, art_gallery, science_museum, church/indoor, natural_history_museum",54788
-616,14784,indoor,"museum/indoor, art_gallery, science_museum, church/indoor, natural_history_museum",54788
-617,14808,indoor,"museum/indoor, art_gallery, science_museum, church/indoor, natural_history_museum",54788
-618,14832,indoor,"museum/indoor, art_gallery, science_museum, church/indoor, natural_history_museum",54788
-619,14856,indoor,"museum/indoor, art_gallery, science_museum, church/indoor, natural_history_museum",54788
-620,14880,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, music_studio",54788
-621,14904,indoor,"museum/indoor, clean_room, art_gallery, music_studio, physics_laboratory",54788
-622,14928,indoor,"museum/indoor, clean_room, art_gallery, art_studio, physics_laboratory",54788
-623,14952,indoor,"museum/indoor, clean_room, art_gallery, art_studio, physics_laboratory",54788
-624,14976,indoor,"clean_room, museum/indoor, art_gallery, art_studio, music_studio",54788
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,54788,0,0,1
+1,54788,24,1,0
+2,54788,48,0,1
+3,54788,72,0,1
+4,54788,96,0,1
+5,54788,120,0,1
+6,54788,144,0,1
+7,54788,168,0,1
+8,54788,192,0,1
+9,54788,216,0,1
+10,54788,240,0,1
+11,54788,264,0,1
+12,54788,288,0,1
+13,54788,312,0,1
+14,54788,336,0,1
+15,54788,360,0,1
+16,54788,384,0,1
+17,54788,408,0,1
+18,54788,432,0,1
+19,54788,456,0,1
+20,54788,480,0,1
+21,54788,504,0,1
+22,54788,528,0,1
+23,54788,552,0,1
+24,54788,576,0,1
+25,54788,600,0,1
+26,54788,624,0,1
+27,54788,648,0,1
+28,54788,672,0,1
+29,54788,696,0,1
+30,54788,720,0,1
+31,54788,744,0,1
+32,54788,768,0,1
+33,54788,792,0,1
+34,54788,816,0,1
+35,54788,840,0,1
+36,54788,864,0,1
+37,54788,888,0,1
+38,54788,912,0,1
+39,54788,936,0,1
+40,54788,960,0,1
+41,54788,984,0,1
+42,54788,1008,0,1
+43,54788,1032,0,1
+44,54788,1056,0,1
+45,54788,1080,0,1
+46,54788,1104,0,1
+47,54788,1128,0,1
+48,54788,1152,0,1
+49,54788,1176,0,1
+50,54788,1200,0,1
+51,54788,1224,0,1
+52,54788,1248,0,1
+53,54788,1272,0,1
+54,54788,1296,0,1
+55,54788,1320,0,1
+56,54788,1344,0,1
+57,54788,1368,0,1
+58,54788,1392,0,1
+59,54788,1416,0,1
+60,54788,1440,0,1
+61,54788,1464,0,1
+62,54788,1488,0,1
+63,54788,1512,0,1
+64,54788,1536,0,1
+65,54788,1560,0,1
+66,54788,1584,0,1
+67,54788,1608,0,1
+68,54788,1632,0,1
+69,54788,1656,0,1
+70,54788,1680,0,1
+71,54788,1704,0,1
+72,54788,1728,0,1
+73,54788,1752,0,1
+74,54788,1776,0,1
+75,54788,1800,0,1
+76,54788,1824,0,1
+77,54788,1848,0,1
+78,54788,1872,0,1
+79,54788,1896,0,1
+80,54788,1920,0,1
+81,54788,1944,0,1
+82,54788,1968,0,1
+83,54788,1992,0,1
+84,54788,2016,0,1
+85,54788,2040,0,1
+86,54788,2064,0,1
+87,54788,2088,0,1
+88,54788,2112,0,1
+89,54788,2136,0,1
+90,54788,2160,0,1
+91,54788,2184,0,1
+92,54788,2208,0,1
+93,54788,2232,0,1
+94,54788,2256,0,1
+95,54788,2280,0,1
+96,54788,2304,0,1
+97,54788,2328,0,1
+98,54788,2352,0,1
+99,54788,2376,0,1
+100,54788,2400,0,1
+101,54788,2424,0,1
+102,54788,2448,0,1
+103,54788,2472,0,1
+104,54788,2496,0,1
+105,54788,2520,0,1
+106,54788,2544,0,1
+107,54788,2568,0,1
+108,54788,2592,0,1
+109,54788,2616,0,1
+110,54788,2640,0,1
+111,54788,2664,0,1
+112,54788,2688,0,1
+113,54788,2712,0,1
+114,54788,2736,1,0
+115,54788,2760,1,0
+116,54788,2784,1,0
+117,54788,2808,1,0
+118,54788,2832,1,0
+119,54788,2856,1,0
+120,54788,2880,1,0
+121,54788,2904,1,0
+122,54788,2928,1,0
+123,54788,2952,1,0
+124,54788,2976,1,0
+125,54788,3000,1,0
+126,54788,3024,1,0
+127,54788,3048,1,0
+128,54788,3072,1,0
+129,54788,3096,1,0
+130,54788,3120,1,0
+131,54788,3144,1,0
+132,54788,3168,1,0
+133,54788,3192,1,0
+134,54788,3216,1,0
+135,54788,3240,1,0
+136,54788,3264,1,0
+137,54788,3288,1,0
+138,54788,3312,1,0
+139,54788,3336,1,0
+140,54788,3360,1,0
+141,54788,3384,1,0
+142,54788,3408,1,0
+143,54788,3432,1,0
+144,54788,3456,1,0
+145,54788,3480,1,0
+146,54788,3504,1,0
+147,54788,3528,1,0
+148,54788,3552,1,0
+149,54788,3576,1,0
+150,54788,3600,1,0
+151,54788,3624,1,0
+152,54788,3648,1,0
+153,54788,3672,1,0
+154,54788,3696,1,0
+155,54788,3720,1,0
+156,54788,3744,1,0
+157,54788,3768,1,0
+158,54788,3792,1,0
+159,54788,3816,1,0
+160,54788,3840,1,0
+161,54788,3864,1,0
+162,54788,3888,1,0
+163,54788,3912,1,0
+164,54788,3936,1,0
+165,54788,3960,1,0
+166,54788,3984,1,0
+167,54788,4008,1,0
+168,54788,4032,1,0
+169,54788,4056,1,0
+170,54788,4080,1,0
+171,54788,4104,0,1
+172,54788,4128,0,1
+173,54788,4152,0,1
+174,54788,4176,0,1
+175,54788,4200,0,1
+176,54788,4224,1,0
+177,54788,4248,0,1
+178,54788,4272,0,1
+179,54788,4296,0,1
+180,54788,4320,0,1
+181,54788,4344,0,1
+182,54788,4368,0,1
+183,54788,4392,0,1
+184,54788,4416,0,1
+185,54788,4440,0,1
+186,54788,4464,0,1
+187,54788,4488,0,1
+188,54788,4512,0,1
+189,54788,4536,0,1
+190,54788,4560,0,1
+191,54788,4584,0,1
+192,54788,4608,0,1
+193,54788,4632,0,1
+194,54788,4656,0,1
+195,54788,4680,0,1
+196,54788,4704,0,1
+197,54788,4728,0,1
+198,54788,4752,0,1
+199,54788,4776,0,1
+200,54788,4800,0,1
+201,54788,4824,0,1
+202,54788,4848,0,1
+203,54788,4872,0,1
+204,54788,4896,0,1
+205,54788,4920,0,1
+206,54788,4944,0,1
+207,54788,4968,0,1
+208,54788,4992,0,1
+209,54788,5016,0,1
+210,54788,5040,0,1
+211,54788,5064,0,1
+212,54788,5088,0,1
+213,54788,5112,0,1
+214,54788,5136,0,1
+215,54788,5160,0,1
+216,54788,5184,0,1
+217,54788,5208,0,1
+218,54788,5232,0,1
+219,54788,5256,0,1
+220,54788,5280,0,1
+221,54788,5304,0,1
+222,54788,5328,0,1
+223,54788,5352,0,1
+224,54788,5376,0,1
+225,54788,5400,0,1
+226,54788,5424,0,1
+227,54788,5448,0,1
+228,54788,5472,0,1
+229,54788,5496,0,1
+230,54788,5520,0,1
+231,54788,5544,0,1
+232,54788,5568,0,1
+233,54788,5592,0,1
+234,54788,5616,0,1
+235,54788,5640,0,1
+236,54788,5664,0,1
+237,54788,5688,0,1
+238,54788,5712,0,1
+239,54788,5736,0,1
+240,54788,5760,0,1
+241,54788,5784,0,1
+242,54788,5808,0,1
+243,54788,5832,0,1
+244,54788,5856,0,1
+245,54788,5880,0,1
+246,54788,5904,0,1
+247,54788,5928,0,1
+248,54788,5952,0,1
+249,54788,5976,0,1
+250,54788,6000,0,1
+251,54788,6024,0,1
+252,54788,6048,0,1
+253,54788,6072,0,1
+254,54788,6096,0,1
+255,54788,6120,0,1
+256,54788,6144,0,1
+257,54788,6168,0,1
+258,54788,6192,0,1
+259,54788,6216,0,1
+260,54788,6240,0,1
+261,54788,6264,0,1
+262,54788,6288,0,1
+263,54788,6312,0,1
+264,54788,6336,0,1
+265,54788,6360,0,1
+266,54788,6384,0,1
+267,54788,6408,0,1
+268,54788,6432,0,1
+269,54788,6456,0,1
+270,54788,6480,0,1
+271,54788,6504,0,1
+272,54788,6528,0,1
+273,54788,6552,0,1
+274,54788,6576,0,1
+275,54788,6600,0,1
+276,54788,6624,0,1
+277,54788,6648,0,1
+278,54788,6672,0,1
+279,54788,6696,0,1
+280,54788,6720,0,1
+281,54788,6744,0,1
+282,54788,6768,0,1
+283,54788,6792,0,1
+284,54788,6816,0,1
+285,54788,6840,0,1
+286,54788,6864,0,1
+287,54788,6888,0,1
+288,54788,6912,0,1
+289,54788,6936,0,1
+290,54788,6960,0,1
+291,54788,6984,0,1
+292,54788,7008,0,1
+293,54788,7032,0,1
+294,54788,7056,0,1
+295,54788,7080,0,1
+296,54788,7104,0,1
+297,54788,7128,0,1
+298,54788,7152,0,1
+299,54788,7176,0,1
+300,54788,7200,0,1
+301,54788,7224,0,1
+302,54788,7248,0,1
+303,54788,7272,0,1
+304,54788,7296,0,1
+305,54788,7320,0,1
+306,54788,7344,0,1
+307,54788,7368,0,1
+308,54788,7392,0,1
+309,54788,7416,0,1
+310,54788,7440,0,1
+311,54788,7464,0,1
+312,54788,7488,0,1
+313,54788,7512,0,1
+314,54788,7536,0,1
+315,54788,7560,0,1
+316,54788,7584,0,1
+317,54788,7608,0,1
+318,54788,7632,0,1
+319,54788,7656,0,1
+320,54788,7680,0,1
+321,54788,7704,0,1
+322,54788,7728,0,1
+323,54788,7752,0,1
+324,54788,7776,0,1
+325,54788,7800,0,1
+326,54788,7824,0,1
+327,54788,7848,0,1
+328,54788,7872,0,1
+329,54788,7896,0,1
+330,54788,7920,0,1
+331,54788,7944,0,1
+332,54788,7968,0,1
+333,54788,7992,0,1
+334,54788,8016,0,1
+335,54788,8040,0,1
+336,54788,8064,0,1
+337,54788,8088,0,1
+338,54788,8112,0,1
+339,54788,8136,0,1
+340,54788,8160,0,1
+341,54788,8184,0,1
+342,54788,8208,0,1
+343,54788,8232,0,1
+344,54788,8256,0,1
+345,54788,8280,0,1
+346,54788,8304,0,1
+347,54788,8328,0,1
+348,54788,8352,0,1
+349,54788,8376,0,1
+350,54788,8400,0,1
+351,54788,8424,0,1
+352,54788,8448,0,1
+353,54788,8472,0,1
+354,54788,8496,0,1
+355,54788,8520,0,1
+356,54788,8544,0,1
+357,54788,8568,0,1
+358,54788,8592,0,1
+359,54788,8616,0,1
+360,54788,8640,0,1
+361,54788,8664,0,1
+362,54788,8688,0,1
+363,54788,8712,0,1
+364,54788,8736,0,1
+365,54788,8760,0,1
+366,54788,8784,0,1
+367,54788,8808,0,1
+368,54788,8832,0,1
+369,54788,8856,0,1
+370,54788,8880,0,1
+371,54788,8904,0,1
+372,54788,8928,0,1
+373,54788,8952,0,1
+374,54788,8976,0,1
+375,54788,9000,0,1
+376,54788,9024,0,1
+377,54788,9048,0,1
+378,54788,9072,0,1
+379,54788,9096,0,1
+380,54788,9120,0,1
+381,54788,9144,0,1
+382,54788,9168,0,1
+383,54788,9192,0,1
+384,54788,9216,0,1
+385,54788,9240,0,1
+386,54788,9264,0,1
+387,54788,9288,0,1
+388,54788,9312,0,1
+389,54788,9336,0,1
+390,54788,9360,0,1
+391,54788,9384,0,1
+392,54788,9408,0,1
+393,54788,9432,0,1
+394,54788,9456,0,1
+395,54788,9480,0,1
+396,54788,9504,0,1
+397,54788,9528,0,1
+398,54788,9552,0,1
+399,54788,9576,0,1
+400,54788,9600,0,1
+401,54788,9624,0,1
+402,54788,9648,0,1
+403,54788,9672,0,1
+404,54788,9696,0,1
+405,54788,9720,0,1
+406,54788,9744,0,1
+407,54788,9768,0,1
+408,54788,9792,0,1
+409,54788,9816,0,1
+410,54788,9840,0,1
+411,54788,9864,0,1
+412,54788,9888,0,1
+413,54788,9912,0,1
+414,54788,9936,0,1
+415,54788,9960,0,1
+416,54788,9984,0,1
+417,54788,10008,0,1
+418,54788,10032,0,1
+419,54788,10056,0,1
+420,54788,10080,0,1
+421,54788,10104,0,1
+422,54788,10128,0,1
+423,54788,10152,0,1
+424,54788,10176,0,1
+425,54788,10200,0,1
+426,54788,10224,0,1
+427,54788,10248,0,1
+428,54788,10272,0,1
+429,54788,10296,0,1
+430,54788,10320,0,1
+431,54788,10344,0,1
+432,54788,10368,0,1
+433,54788,10392,0,1
+434,54788,10416,0,1
+435,54788,10440,0,1
+436,54788,10464,0,1
+437,54788,10488,0,1
+438,54788,10512,0,1
+439,54788,10536,0,1
+440,54788,10560,0,1
+441,54788,10584,0,1
+442,54788,10608,0,1
+443,54788,10632,0,1
+444,54788,10656,0,1
+445,54788,10680,0,1
+446,54788,10704,0,1
+447,54788,10728,0,1
+448,54788,10752,0,1
+449,54788,10776,0,1
+450,54788,10800,0,1
+451,54788,10824,0,1
+452,54788,10848,0,1
+453,54788,10872,0,1
+454,54788,10896,0,1
+455,54788,10920,0,1
+456,54788,10944,0,1
+457,54788,10968,0,1
+458,54788,10992,0,1
+459,54788,11016,0,1
+460,54788,11040,0,1
+461,54788,11064,0,1
+462,54788,11088,0,1
+463,54788,11112,0,1
+464,54788,11136,0,1
+465,54788,11160,0,1
+466,54788,11184,0,1
+467,54788,11208,0,1
+468,54788,11232,0,1
+469,54788,11256,0,1
+470,54788,11280,0,1
+471,54788,11304,0,1
+472,54788,11328,0,1
+473,54788,11352,0,1
+474,54788,11376,0,1
+475,54788,11400,0,1
+476,54788,11424,0,1
+477,54788,11448,0,1
+478,54788,11472,0,1
+479,54788,11496,0,1
+480,54788,11520,0,1
+481,54788,11544,0,1
+482,54788,11568,0,1
+483,54788,11592,0,1
+484,54788,11616,0,1
+485,54788,11640,0,1
+486,54788,11664,0,1
+487,54788,11688,0,1
+488,54788,11712,0,1
+489,54788,11736,0,1
+490,54788,11760,0,1
+491,54788,11784,0,1
+492,54788,11808,0,1
+493,54788,11832,0,1
+494,54788,11856,0,1
+495,54788,11880,0,1
+496,54788,11904,0,1
+497,54788,11928,0,1
+498,54788,11952,0,1
+499,54788,11976,0,1
+500,54788,12000,0,1
+501,54788,12024,0,1
+502,54788,12048,0,1
+503,54788,12072,0,1
+504,54788,12096,0,1
+505,54788,12120,0,1
+506,54788,12144,0,1
+507,54788,12168,0,1
+508,54788,12192,0,1
+509,54788,12216,0,1
+510,54788,12240,0,1
+511,54788,12264,0,1
+512,54788,12288,0,1
+513,54788,12312,0,1
+514,54788,12336,0,1
+515,54788,12360,0,1
+516,54788,12384,0,1
+517,54788,12408,0,1
+518,54788,12432,0,1
+519,54788,12456,0,1
+520,54788,12480,0,1
+521,54788,12504,0,1
+522,54788,12528,0,1
+523,54788,12552,0,1
+524,54788,12576,0,1
+525,54788,12600,0,1
+526,54788,12624,0,1
+527,54788,12648,0,1
+528,54788,12672,0,1
+529,54788,12696,0,1
+530,54788,12720,0,1
+531,54788,12744,0,1
+532,54788,12768,0,1
+533,54788,12792,0,1
+534,54788,12816,0,1
+535,54788,12840,0,1
+536,54788,12864,0,1
+537,54788,12888,0,1
+538,54788,12912,0,1
+539,54788,12936,0,1
+540,54788,12960,0,1
+541,54788,12984,0,1
+542,54788,13008,0,1
+543,54788,13032,0,1
+544,54788,13056,0,1
+545,54788,13080,0,1
+546,54788,13104,0,1
+547,54788,13128,0,1
+548,54788,13152,0,1
+549,54788,13176,0,1
+550,54788,13200,0,1
+551,54788,13224,0,1
+552,54788,13248,0,1
+553,54788,13272,0,1
+554,54788,13296,0,1
+555,54788,13320,0,1
+556,54788,13344,0,1
+557,54788,13368,0,1
+558,54788,13392,0,1
+559,54788,13416,0,1
+560,54788,13440,0,1
+561,54788,13464,0,1
+562,54788,13488,0,1
+563,54788,13512,0,1
+564,54788,13536,0,1
+565,54788,13560,0,1
+566,54788,13584,0,1
+567,54788,13608,0,1
+568,54788,13632,0,1
+569,54788,13656,0,1
+570,54788,13680,0,1
+571,54788,13704,0,1
+572,54788,13728,0,1
+573,54788,13752,0,1
+574,54788,13776,0,1
+575,54788,13800,0,1
+576,54788,13824,0,1
+577,54788,13848,0,1
+578,54788,13872,0,1
+579,54788,13896,0,1
+580,54788,13920,0,1
+581,54788,13944,0,1
+582,54788,13968,0,1
+583,54788,13992,0,1
+584,54788,14016,0,1
+585,54788,14040,0,1
+586,54788,14064,0,1
+587,54788,14088,0,1
+588,54788,14112,0,1
+589,54788,14136,0,1
+590,54788,14160,0,1
+591,54788,14184,0,1
+592,54788,14208,0,1
+593,54788,14232,0,1
+594,54788,14256,0,1
+595,54788,14280,0,1
+596,54788,14304,0,1
+597,54788,14328,0,1
+598,54788,14352,0,1
+599,54788,14376,0,1
+600,54788,14400,0,1
+601,54788,14424,0,1
+602,54788,14448,0,1
+603,54788,14472,0,1
+604,54788,14496,0,1
+605,54788,14520,0,1
+606,54788,14544,0,1
+607,54788,14568,0,1
+608,54788,14592,0,1
+609,54788,14616,0,1
+610,54788,14640,0,1
+611,54788,14664,0,1
+612,54788,14688,0,1
+613,54788,14712,0,1
+614,54788,14736,0,1
+615,54788,14760,0,1
+616,54788,14784,0,1
+617,54788,14808,0,1
+618,54788,14832,0,1
+619,54788,14856,0,1
+620,54788,14880,0,1
+621,54788,14904,0,1
+622,54788,14928,0,1
+623,54788,14952,0,1
+624,54788,14976,0,1

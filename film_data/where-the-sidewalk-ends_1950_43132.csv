@@ -1,135 +1,135 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"desert/sand, sky, beach, lake/natural, marsh",43132
-1,24,outdoor,"desert/sand, sky, beach, lake/natural, marsh",43132
-2,48,indoor,"shower, bathroom, ice_floe, atrium/public, airport_terminal",43132
-3,72,indoor,"ice_floe, shower, bathroom, fountain, airport_terminal",43132
-4,96,indoor,"bathroom, shower, parking_garage/indoor, ice_floe, crosswalk",43132
-5,120,indoor,"shower, bathroom, hotel_room, clean_room, beauty_salon",43132
-6,144,indoor,"clean_room, dressing_room, shower, locker_room, museum/indoor",43132
-7,168,indoor,"clean_room, dressing_room, chemistry_lab, operating_room, hospital_room",43132
-8,192,indoor,"clean_room, dressing_room, chemistry_lab, operating_room, hospital_room",43132
-9,216,indoor,"clean_room, dressing_room, chemistry_lab, operating_room, hospital_room",43132
-10,240,indoor,"clean_room, dressing_room, operating_room, chemistry_lab, hospital_room",43132
-11,264,indoor,"clean_room, dressing_room, chemistry_lab, shower, archive",43132
-12,288,indoor,"clean_room, dressing_room, shower, archive, beauty_salon",43132
-13,312,indoor,"dressing_room, clean_room, shower, archive, locker_room",43132
-14,336,indoor,"clean_room, dressing_room, hospital_room, operating_room, archive",43132
-15,360,indoor,"clean_room, dressing_room, archive, chemistry_lab, hospital_room",43132
-16,384,indoor,"clean_room, dressing_room, archive, museum/indoor, office",43132
-17,408,indoor,"archive, clean_room, beauty_salon, music_studio, office",43132
-18,432,indoor,"archive, clean_room, bookstore, music_studio, museum/indoor",43132
-19,456,indoor,"clean_room, archive, office, physics_laboratory, museum/indoor",43132
-20,480,indoor,"office, office_cubicles, home_office, archive, computer_room",43132
-21,504,indoor,"dressing_room, office, hospital_room, locker_room, clean_room",43132
-22,528,indoor,"clean_room, museum/indoor, dressing_room, chemistry_lab, hospital_room",43132
-23,552,indoor,"nursery, clean_room, locker_room, dressing_room, hospital_room",43132
-24,576,indoor,"clean_room, locker_room, nursery, dressing_room, hospital_room",43132
-25,600,indoor,"clean_room, locker_room, nursery, dressing_room, hospital_room",43132
-26,624,indoor,"clean_room, locker_room, nursery, dressing_room, hospital_room",43132
-27,648,indoor,"nursery, clean_room, dressing_room, bedroom, childs_room",43132
-28,672,indoor,"boxing_ring, discotheque, stage/indoor, martial_arts_gym, dressing_room",43132
-29,696,indoor,"dressing_room, boxing_ring, stage/indoor, discotheque, martial_arts_gym",43132
-30,720,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, stage/indoor",43132
-31,744,indoor,"shower, bathroom, airport_terminal, sauna, lobby",43132
-32,768,indoor,"shower, bathroom, patio, airport_terminal, crosswalk",43132
-33,792,indoor,"shower, bathroom, driveway, sauna, locker_room",43132
-34,816,indoor,"airport_terminal, department_store, clothing_store, drugstore, pharmacy",43132
-35,840,indoor,"bookstore, clothing_store, crosswalk, department_store, airport_terminal",43132
-36,864,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-37,888,indoor,"clean_room, dressing_room, locker_room, hospital_room, operating_room",43132
-38,912,indoor,"clean_room, dressing_room, locker_room, hospital_room, operating_room",43132
-39,936,indoor,"clean_room, dressing_room, locker_room, hospital_room, operating_room",43132
-40,960,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-41,984,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-42,1008,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-43,1032,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-44,1056,indoor,"clean_room, dressing_room, hospital_room, nursing_home, locker_room",43132
-45,1080,indoor,"clean_room, dressing_room, hospital_room, locker_room, nursing_home",43132
-46,1104,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-47,1128,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-48,1152,indoor,"clean_room, dressing_room, locker_room, hospital_room, nursing_home",43132
-49,1176,indoor,"clean_room, dressing_room, locker_room, hospital_room, operating_room",43132
-50,1200,indoor,"clean_room, dressing_room, locker_room, hospital_room, operating_room",43132
-51,1224,indoor,"clean_room, dressing_room, hospital_room, locker_room, operating_room",43132
-52,1248,indoor,"clean_room, dressing_room, nursing_home, hospital_room, locker_room",43132
-53,1272,indoor,"dressing_room, clean_room, locker_room, hospital_room, operating_room",43132
-54,1296,indoor,"dressing_room, airplane_cabin, chemistry_lab, hospital_room, music_studio",43132
-55,1320,indoor,"dressing_room, chemistry_lab, discotheque, hospital_room, music_studio",43132
-56,1344,indoor,"dressing_room, chemistry_lab, music_studio, discotheque, hospital_room",43132
-57,1368,indoor,"dressing_room, chemistry_lab, biology_laboratory, hospital_room, beauty_salon",43132
-58,1392,indoor,"dressing_room, chemistry_lab, hospital_room, biology_laboratory, airplane_cabin",43132
-59,1416,indoor,"dressing_room, discotheque, music_studio, beauty_salon, chemistry_lab",43132
-60,1440,indoor,"dressing_room, discotheque, music_studio, chemistry_lab, beauty_salon",43132
-61,1464,indoor,"dressing_room, discotheque, music_studio, chemistry_lab, beauty_salon",43132
-62,1488,indoor,"dressing_room, discotheque, chemistry_lab, music_studio, beauty_salon",43132
-63,1512,indoor,"dressing_room, discotheque, chemistry_lab, hospital_room, airplane_cabin",43132
-64,1536,indoor,"dressing_room, chemistry_lab, discotheque, hospital_room, music_studio",43132
-65,1560,indoor,"dressing_room, chemistry_lab, hospital_room, music_studio, discotheque",43132
-66,1584,indoor,"dressing_room, chemistry_lab, biology_laboratory, hospital_room, discotheque",43132
-67,1608,indoor,"dressing_room, chemistry_lab, hospital_room, biology_laboratory, discotheque",43132
-68,1632,indoor,"dressing_room, hospital_room, chemistry_lab, music_studio, beauty_salon",43132
-69,1656,indoor,"dressing_room, discotheque, music_studio, stage/indoor, beauty_salon",43132
-70,1680,indoor,"dressing_room, discotheque, music_studio, chemistry_lab, beauty_salon",43132
-71,1704,indoor,"dressing_room, clean_room, art_gallery, archive, museum/indoor",43132
-72,1728,indoor,"dressing_room, clean_room, archive, chemistry_lab, biology_laboratory",43132
-73,1752,indoor,"clean_room, dressing_room, archive, art_gallery, office",43132
-74,1776,indoor,"clean_room, dressing_room, art_gallery, museum/indoor, archive",43132
-75,1800,indoor,"museum/indoor, art_gallery, clean_room, science_museum, dressing_room",43132
-76,1824,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, science_museum",43132
-77,1848,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, science_museum",43132
-78,1872,indoor,"museum/indoor, clean_room, dressing_room, shower, art_gallery",43132
-79,1896,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, shower",43132
-80,1920,indoor,"clean_room, dressing_room, art_gallery, museum/indoor, operating_room",43132
-81,1944,indoor,"clean_room, dressing_room, art_gallery, museum/indoor, operating_room",43132
-82,1968,indoor,"clean_room, art_gallery, museum/indoor, martial_arts_gym, dressing_room",43132
-83,1992,indoor,"museum/indoor, clean_room, dressing_room, natural_history_museum, art_gallery",43132
-84,2016,indoor,"airplane_cabin, airport_terminal, beauty_salon, aquarium, boxing_ring",43132
-85,2040,indoor,"clean_room, office_cubicles, dressing_room, office, shower",43132
-86,2064,indoor,"clean_room, locker_room, dressing_room, archive, airport_terminal",43132
-87,2088,indoor,"nursery, clean_room, museum/indoor, hospital_room, operating_room",43132
-88,2112,indoor,"dressing_room, bathroom, clean_room, locker_room, shower",43132
-89,2136,indoor,"coffee_shop, dressing_room, bowling_alley, chemistry_lab, locker_room",43132
-90,2160,indoor,"dressing_room, locker_room, classroom, clean_room, hospital_room",43132
-91,2184,indoor,"locker_room, dressing_room, closet, clean_room, clothing_store",43132
-92,2208,indoor,"clean_room, chemistry_lab, biology_laboratory, locker_room, hospital_room",43132
-93,2232,indoor,"dressing_room, locker_room, office_cubicles, clean_room, office",43132
-94,2256,indoor,"locker_room, dressing_room, clean_room, nursery, clothing_store",43132
-95,2280,indoor,"clean_room, dressing_room, locker_room, clothing_store, nursery",43132
-96,2304,indoor,"clean_room, dressing_room, closet, clothing_store, locker_room",43132
-97,2328,indoor,"dressing_room, closet, clean_room, clothing_store, locker_room",43132
-98,2352,indoor,"dressing_room, closet, locker_room, clothing_store, clean_room",43132
-99,2376,indoor,"dressing_room, clean_room, clothing_store, locker_room, closet",43132
-100,2400,indoor,"clean_room, museum/indoor, science_museum, operating_room, locker_room",43132
-101,2424,indoor,"clean_room, museum/indoor, nursery, art_gallery, clothing_store",43132
-102,2448,indoor,"clean_room, museum/indoor, hospital_room, nursery, operating_room",43132
-103,2472,indoor,"clean_room, dressing_room, hospital_room, locker_room, operating_room",43132
-104,2496,indoor,"clean_room, archive, physics_laboratory, locker_room, dressing_room",43132
-105,2520,indoor,"clean_room, dressing_room, locker_room, server_room, office",43132
-106,2544,indoor,"discotheque, dressing_room, stage/indoor, bar, music_studio",43132
-107,2568,indoor,"airport_terminal, hospital_room, hospital, pharmacy, reception",43132
-108,2592,indoor,"airport_terminal, hospital_room, reception, hospital, pharmacy",43132
-109,2616,indoor,"airport_terminal, hospital_room, hospital, reception, subway_station/platform",43132
-110,2640,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-111,2664,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-112,2688,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-113,2712,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-114,2736,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-115,2760,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-116,2784,indoor,"airport_terminal, hospital_room, hospital, reception, elevator_lobby",43132
-117,2808,indoor,"pharmacy, drugstore, beauty_salon, airport_terminal, department_store",43132
-118,2832,indoor,"pharmacy, airport_terminal, drugstore, hospital, hospital_room",43132
-119,2856,indoor,"pharmacy, drugstore, airport_terminal, hospital, reception",43132
-120,2880,indoor,"pharmacy, reception, airport_terminal, drugstore, hospital",43132
-121,2904,indoor,"shower, bathroom, art_gallery, staircase, crosswalk",43132
-122,2928,indoor,"clean_room, airplane_cabin, airport_terminal, operating_room, science_museum",43132
-123,2952,indoor,"atrium/public, shopping_mall/indoor, clothing_store, clean_room, jewelry_shop",43132
-124,2976,indoor,"shopping_mall/indoor, atrium/public, beauty_salon, department_store, clothing_store",43132
-125,3000,indoor,"discotheque, stage/indoor, martial_arts_gym, clothing_store, iceberg",43132
-126,3024,indoor,"airport_terminal, clothing_store, martial_arts_gym, clean_room, atrium/public",43132
-127,3048,indoor,"airport_terminal, clean_room, locker_room, elevator_lobby, subway_station/platform",43132
-128,3072,indoor,"clean_room, shower, museum/indoor, bathroom, art_gallery",43132
-129,3096,indoor,"hospital, hospital_room, reception, nursery, locker_room",43132
-130,3120,indoor,"airport_terminal, hospital, reception, shopping_mall/indoor, hospital_room",43132
-131,3144,indoor,"elevator/door, elevator_lobby, locker_room, hospital, bank_vault",43132
-132,3168,indoor,"hospital, elevator/door, hospital_room, elevator_lobby, reception",43132
-133,3192,indoor,"hospital, reception, elevator/door, pharmacy, hospital_room",43132
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,43132,0,1,0
+1,43132,24,1,0
+2,43132,48,0,1
+3,43132,72,0,1
+4,43132,96,0,1
+5,43132,120,0,1
+6,43132,144,0,1
+7,43132,168,0,1
+8,43132,192,0,1
+9,43132,216,0,1
+10,43132,240,0,1
+11,43132,264,0,1
+12,43132,288,0,1
+13,43132,312,0,1
+14,43132,336,0,1
+15,43132,360,0,1
+16,43132,384,0,1
+17,43132,408,0,1
+18,43132,432,0,1
+19,43132,456,0,1
+20,43132,480,0,1
+21,43132,504,0,1
+22,43132,528,0,1
+23,43132,552,0,1
+24,43132,576,0,1
+25,43132,600,0,1
+26,43132,624,0,1
+27,43132,648,0,1
+28,43132,672,0,1
+29,43132,696,0,1
+30,43132,720,0,1
+31,43132,744,0,1
+32,43132,768,0,1
+33,43132,792,0,1
+34,43132,816,0,1
+35,43132,840,0,1
+36,43132,864,0,1
+37,43132,888,0,1
+38,43132,912,0,1
+39,43132,936,0,1
+40,43132,960,0,1
+41,43132,984,0,1
+42,43132,1008,0,1
+43,43132,1032,0,1
+44,43132,1056,0,1
+45,43132,1080,0,1
+46,43132,1104,0,1
+47,43132,1128,0,1
+48,43132,1152,0,1
+49,43132,1176,0,1
+50,43132,1200,0,1
+51,43132,1224,0,1
+52,43132,1248,0,1
+53,43132,1272,0,1
+54,43132,1296,0,1
+55,43132,1320,0,1
+56,43132,1344,0,1
+57,43132,1368,0,1
+58,43132,1392,0,1
+59,43132,1416,0,1
+60,43132,1440,0,1
+61,43132,1464,0,1
+62,43132,1488,0,1
+63,43132,1512,0,1
+64,43132,1536,0,1
+65,43132,1560,0,1
+66,43132,1584,0,1
+67,43132,1608,0,1
+68,43132,1632,0,1
+69,43132,1656,0,1
+70,43132,1680,0,1
+71,43132,1704,0,1
+72,43132,1728,0,1
+73,43132,1752,0,1
+74,43132,1776,0,1
+75,43132,1800,0,1
+76,43132,1824,0,1
+77,43132,1848,0,1
+78,43132,1872,0,1
+79,43132,1896,0,1
+80,43132,1920,0,1
+81,43132,1944,0,1
+82,43132,1968,0,1
+83,43132,1992,0,1
+84,43132,2016,0,1
+85,43132,2040,0,1
+86,43132,2064,0,1
+87,43132,2088,0,1
+88,43132,2112,0,1
+89,43132,2136,0,1
+90,43132,2160,0,1
+91,43132,2184,0,1
+92,43132,2208,0,1
+93,43132,2232,0,1
+94,43132,2256,0,1
+95,43132,2280,0,1
+96,43132,2304,0,1
+97,43132,2328,0,1
+98,43132,2352,0,1
+99,43132,2376,0,1
+100,43132,2400,0,1
+101,43132,2424,0,1
+102,43132,2448,0,1
+103,43132,2472,0,1
+104,43132,2496,0,1
+105,43132,2520,0,1
+106,43132,2544,0,1
+107,43132,2568,0,1
+108,43132,2592,0,1
+109,43132,2616,0,1
+110,43132,2640,0,1
+111,43132,2664,0,1
+112,43132,2688,0,1
+113,43132,2712,0,1
+114,43132,2736,0,1
+115,43132,2760,0,1
+116,43132,2784,0,1
+117,43132,2808,0,1
+118,43132,2832,0,1
+119,43132,2856,0,1
+120,43132,2880,0,1
+121,43132,2904,0,1
+122,43132,2928,0,1
+123,43132,2952,0,1
+124,43132,2976,0,1
+125,43132,3000,0,1
+126,43132,3024,0,1
+127,43132,3048,0,1
+128,43132,3072,0,1
+129,43132,3096,0,1
+130,43132,3120,0,1
+131,43132,3144,0,1
+132,43132,3168,0,1
+133,43132,3192,0,1

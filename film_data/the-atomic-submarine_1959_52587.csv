@@ -1,1600 +1,1600 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"snowfield, ice_shelf, desert/sand, ice_floe, beach",52587
-1,24,outdoor,"snowfield, ice_shelf, desert/sand, beach, lake/natural",52587
-2,48,outdoor,"clean_room, ice_shelf, igloo, ice_floe, iceberg",52587
-3,72,indoor,"clean_room, assembly_line, chemistry_lab, auto_factory, physics_laboratory",52587
-4,96,indoor,"clean_room, chemistry_lab, assembly_line, physics_laboratory, auto_factory",52587
-5,120,indoor,"clean_room, chemistry_lab, physics_laboratory, assembly_line, engine_room",52587
-6,144,indoor,"department_store, clean_room, archive, library/indoor, drugstore",52587
-7,168,indoor,"drugstore, clean_room, pharmacy, archive, department_store",52587
-8,192,indoor,"drugstore, pharmacy, archive, department_store, clean_room",52587
-9,216,indoor,"drugstore, pharmacy, archive, clean_room, bookstore",52587
-10,240,indoor,"clean_room, drugstore, pharmacy, biology_laboratory, archive",52587
-11,264,indoor,"archive, clean_room, biology_laboratory, drugstore, pharmacy",52587
-12,288,indoor,"clean_room, chemistry_lab, biology_laboratory, ice_cream_parlor, bowling_alley",52587
-13,312,indoor,"beauty_salon, clean_room, ice_cream_parlor, pharmacy, drugstore",52587
-14,336,indoor,"beauty_salon, coffee_shop, clean_room, drugstore, pharmacy",52587
-15,360,indoor,"beauty_salon, drugstore, pharmacy, coffee_shop, restaurant",52587
-16,384,indoor,"clean_room, auto_factory, assembly_line, operating_room, physics_laboratory",52587
-17,408,indoor,"clean_room, auto_factory, assembly_line, archive, computer_room",52587
-18,432,indoor,"clean_room, auto_factory, assembly_line, supermarket, drugstore",52587
-19,456,indoor,"clean_room, auto_factory, assembly_line, chemistry_lab, hospital_room",52587
-20,480,indoor,"clean_room, chemistry_lab, assembly_line, cafeteria, hospital_room",52587
-21,504,indoor,"clean_room, hospital_room, operating_room, chemistry_lab, biology_laboratory",52587
-22,528,indoor,"clean_room, hospital_room, chemistry_lab, operating_room, biology_laboratory",52587
-23,552,indoor,"clean_room, chemistry_lab, coffee_shop, dining_room, operating_room",52587
-24,576,indoor,"clean_room, restaurant, coffee_shop, cafeteria, laundromat",52587
-25,600,indoor,"clean_room, classroom, biology_laboratory, chemistry_lab, cafeteria",52587
-26,624,indoor,"clean_room, hospital_room, operating_room, restaurant, dining_room",52587
-27,648,indoor,"clean_room, hospital_room, operating_room, coffee_shop, restaurant",52587
-28,672,indoor,"clean_room, hospital_room, restaurant, dining_room, operating_room",52587
-29,696,indoor,"clean_room, restaurant, hospital_room, cafeteria, coffee_shop",52587
-30,720,indoor,"clean_room, hospital_room, restaurant, operating_room, bathroom",52587
-31,744,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-32,768,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-33,792,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-34,816,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-35,840,indoor,"clean_room, hospital_room, coffee_shop, cafeteria, classroom",52587
-36,864,indoor,"clean_room, hospital_room, classroom, cafeteria, restaurant",52587
-37,888,indoor,"clean_room, waiting_room, hospital_room, classroom, airplane_cabin",52587
-38,912,indoor,"clean_room, classroom, computer_room, waiting_room, office_cubicles",52587
-39,936,indoor,"clean_room, classroom, computer_room, bathroom, waiting_room",52587
-40,960,indoor,"clean_room, computer_room, classroom, operating_room, hospital_room",52587
-41,984,indoor,"clean_room, computer_room, operating_room, hospital_room, classroom",52587
-42,1008,indoor,"clean_room, operating_room, hospital_room, computer_room, bathroom",52587
-43,1032,indoor,"clean_room, hospital_room, operating_room, laundromat, biology_laboratory",52587
-44,1056,indoor,"clean_room, hospital_room, biology_laboratory, operating_room, chemistry_lab",52587
-45,1080,indoor,"natural_history_museum, nursery, jewelry_shop, museum/indoor, art_gallery",52587
-46,1104,indoor,"natural_history_museum, nursery, jewelry_shop, museum/indoor, art_gallery",52587
-47,1128,indoor,"natural_history_museum, nursery, jewelry_shop, bow_window/indoor, museum/indoor",52587
-48,1152,indoor,"nursery, natural_history_museum, jewelry_shop, museum/indoor, clean_room",52587
-49,1176,indoor,"nursery, clean_room, museum/indoor, natural_history_museum, shower",52587
-50,1200,indoor,"nursery, museum/indoor, natural_history_museum, clean_room, shower",52587
-51,1224,indoor,"nursery, museum/indoor, natural_history_museum, jewelry_shop, bow_window/indoor",52587
-52,1248,indoor,"clean_room, airplane_cabin, office, waiting_room, beauty_salon",52587
-53,1272,indoor,"clean_room, airplane_cabin, hospital_room, beauty_salon, bathroom",52587
-54,1296,indoor,"clean_room, airplane_cabin, dressing_room, beauty_salon, hospital_room",52587
-55,1320,indoor,"clean_room, airplane_cabin, dressing_room, hospital_room, beauty_salon",52587
-56,1344,indoor,"airplane_cabin, clean_room, bathroom, dressing_room, beauty_salon",52587
-57,1368,indoor,"clean_room, airplane_cabin, bathroom, beauty_salon, dressing_room",52587
-58,1392,indoor,"airplane_cabin, clean_room, bathroom, dressing_room, beauty_salon",52587
-59,1416,indoor,"clean_room, bathroom, airplane_cabin, dressing_room, beauty_salon",52587
-60,1440,indoor,"airplane_cabin, clean_room, beauty_salon, dressing_room, bathroom",52587
-61,1464,indoor,"clean_room, dressing_room, beauty_salon, airplane_cabin, bathroom",52587
-62,1488,indoor,"clean_room, airplane_cabin, bathroom, dressing_room, beauty_salon",52587
-63,1512,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-64,1536,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-65,1560,indoor,"airplane_cabin, dressing_room, clean_room, beauty_salon, waiting_room",52587
-66,1584,indoor,"airplane_cabin, dressing_room, clean_room, beauty_salon, hospital_room",52587
-67,1608,indoor,"beauty_salon, clean_room, waiting_room, dressing_room, hospital_room",52587
-68,1632,indoor,"airplane_cabin, beauty_salon, clean_room, dressing_room, waiting_room",52587
-69,1656,indoor,"airplane_cabin, beauty_salon, dressing_room, clean_room, waiting_room",52587
-70,1680,indoor,"beauty_salon, airplane_cabin, dressing_room, clean_room, bathroom",52587
-71,1704,indoor,"discotheque, stage/indoor, music_studio, television_studio, martial_arts_gym",52587
-72,1728,indoor,"clean_room, beauty_salon, locker_room, chemistry_lab, airport_terminal",52587
-73,1752,indoor,"shower, bathroom, clean_room, hospital_room, lobby",52587
-74,1776,indoor,"clean_room, conference_room, shower, bathroom, reception",52587
-75,1800,indoor,"conference_room, reception, clean_room, office, office_cubicles",52587
-76,1824,indoor,"clean_room, jewelry_shop, chemistry_lab, reception, office",52587
-77,1848,indoor,"clean_room, reception, art_gallery, office, jewelry_shop",52587
-78,1872,indoor,"clean_room, chemistry_lab, biology_laboratory, office, art_gallery",52587
-79,1896,indoor,"clean_room, office, office_cubicles, art_gallery, reception",52587
-80,1920,indoor,"clean_room, office, chemistry_lab, reception, biology_laboratory",52587
-81,1944,indoor,"clean_room, beauty_salon, office, dressing_room, jewelry_shop",52587
-82,1968,indoor,"dressing_room, jewelry_shop, beauty_salon, office, clean_room",52587
-83,1992,indoor,"jewelry_shop, dressing_room, music_studio, clean_room, beauty_salon",52587
-84,2016,indoor,"dressing_room, clean_room, music_studio, discotheque, chemistry_lab",52587
-85,2040,indoor,"clean_room, dressing_room, music_studio, bathroom, jewelry_shop",52587
-86,2064,indoor,"dressing_room, clean_room, music_studio, bathroom, shower",52587
-87,2088,indoor,"dressing_room, clean_room, beauty_salon, jewelry_shop, office",52587
-88,2112,indoor,"office, reception, jewelry_shop, clean_room, dressing_room",52587
-89,2136,indoor,"clean_room, dressing_room, office, music_studio, chemistry_lab",52587
-90,2160,indoor,"clean_room, chemistry_lab, dressing_room, office, biology_laboratory",52587
-91,2184,indoor,"clean_room, dressing_room, office, reception, chemistry_lab",52587
-92,2208,indoor,"office, clean_room, computer_room, office_cubicles, chemistry_lab",52587
-93,2232,indoor,"dressing_room, office, clean_room, chemistry_lab, beauty_salon",52587
-94,2256,indoor,"clean_room, office, chemistry_lab, dressing_room, computer_room",52587
-95,2280,indoor,"clean_room, office, chemistry_lab, dressing_room, biology_laboratory",52587
-96,2304,indoor,"office, clean_room, dressing_room, chemistry_lab, reception",52587
-97,2328,indoor,"office, dressing_room, clean_room, office_cubicles, computer_room",52587
-98,2352,indoor,"clean_room, dressing_room, office, chemistry_lab, beauty_salon",52587
-99,2376,indoor,"clean_room, dressing_room, chemistry_lab, office, biology_laboratory",52587
-100,2400,indoor,"clean_room, office, dressing_room, chemistry_lab, music_studio",52587
-101,2424,indoor,"dressing_room, clean_room, chemistry_lab, jewelry_shop, beauty_salon",52587
-102,2448,indoor,"office, dressing_room, clean_room, jewelry_shop, reception",52587
-103,2472,indoor,"dressing_room, office, clean_room, jewelry_shop, beauty_salon",52587
-104,2496,indoor,"dressing_room, office, clean_room, jewelry_shop, chemistry_lab",52587
-105,2520,indoor,"clean_room, dressing_room, office, chemistry_lab, jewelry_shop",52587
-106,2544,indoor,"clean_room, office, dressing_room, chemistry_lab, physics_laboratory",52587
-107,2568,indoor,"office, dressing_room, office_cubicles, clean_room, music_studio",52587
-108,2592,indoor,"dressing_room, office, clean_room, beauty_salon, office_cubicles",52587
-109,2616,indoor,"dressing_room, office, beauty_salon, clean_room, office_cubicles",52587
-110,2640,indoor,"dressing_room, office, beauty_salon, reception, jewelry_shop",52587
-111,2664,indoor,"dressing_room, office, beauty_salon, clean_room, chemistry_lab",52587
-112,2688,outdoor,"ice_shelf, snowfield, beach, desert/sand, ocean",52587
-113,2712,outdoor,"snowfield, ice_shelf, desert/sand, ice_floe, beach",52587
-114,2736,outdoor,"snowfield, ice_shelf, desert/sand, beach, sky",52587
-115,2760,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-116,2784,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-117,2808,indoor,"pharmacy, hospital_room, drugstore, hospital, nursery",52587
-118,2832,indoor,"pharmacy, hospital_room, hospital, drugstore, motel",52587
-119,2856,indoor,"pharmacy, hospital_room, hospital, drugstore, nursery",52587
-120,2880,outdoor,"ice_shelf, ice_floe, clean_room, shower, loading_dock",52587
-121,2904,indoor,"clean_room, ice_shelf, shower, ice_floe, bathroom",52587
-122,2928,indoor,"bedroom, hotel_room, clean_room, ice_shelf, ice_floe",52587
-123,2952,outdoor,"shower, ice_floe, wind_farm, ice_shelf, bathroom",52587
-124,2976,outdoor,"runway, wind_farm, shower, heliport, hangar/outdoor",52587
-125,3000,outdoor,"runway, wind_farm, heliport, boat_deck, clean_room",52587
-126,3024,indoor,"atrium/public, museum/indoor, art_gallery, shopping_mall/indoor, clean_room",52587
-127,3048,indoor,"atrium/public, museum/indoor, art_gallery, shopping_mall/indoor, clean_room",52587
-128,3072,indoor,"atrium/public, museum/indoor, art_gallery, shopping_mall/indoor, clean_room",52587
-129,3096,indoor,"atrium/public, museum/indoor, art_gallery, shopping_mall/indoor, clean_room",52587
-130,3120,indoor,"atrium/public, museum/indoor, art_gallery, shopping_mall/indoor, airport_terminal",52587
-131,3144,outdoor,"wind_farm, bow_window/indoor, runway, ice_floe, shower",52587
-132,3168,indoor,"runway, bow_window/indoor, conference_room, ice_floe, clean_room",52587
-133,3192,outdoor,"runway, boat_deck, landing_deck, shower, ice_floe",52587
-134,3216,outdoor,"ice_floe, wind_farm, runway, ice_shelf, mosque/outdoor",52587
-135,3240,outdoor,"clean_room, ice_floe, wind_farm, museum/indoor, runway",52587
-136,3264,indoor,"bathroom, shower, wind_farm, bow_window/indoor, clean_room",52587
-137,3288,indoor,"bow_window/indoor, artists_loft, balcony/interior, patio, waiting_room",52587
-138,3312,indoor,"clean_room, museum/indoor, operating_room, elevator/door, art_gallery",52587
-139,3336,indoor,"clean_room, beauty_salon, dressing_room, locker_room, drugstore",52587
-140,3360,indoor,"clean_room, chemistry_lab, biology_laboratory, martial_arts_gym, beauty_salon",52587
-141,3384,indoor,"atrium/public, museum/indoor, clean_room, airport_terminal, shopping_mall/indoor",52587
-142,3408,indoor,"atrium/public, museum/indoor, airport_terminal, shopping_mall/indoor, clean_room",52587
-143,3432,indoor,"atrium/public, museum/indoor, shopping_mall/indoor, art_gallery, staircase",52587
-144,3456,indoor,"clean_room, chemistry_lab, pharmacy, drugstore, biology_laboratory",52587
-145,3480,indoor,"clean_room, chemistry_lab, biology_laboratory, pharmacy, hospital_room",52587
-146,3504,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, biology_laboratory",52587
-147,3528,indoor,"clean_room, chemistry_lab, pharmacy, biology_laboratory, beauty_salon",52587
-148,3552,indoor,"clean_room, archive, chemistry_lab, pharmacy, operating_room",52587
-149,3576,indoor,"clean_room, chemistry_lab, beauty_salon, operating_room, biology_laboratory",52587
-150,3600,indoor,"clean_room, chemistry_lab, operating_room, hospital_room, archive",52587
-151,3624,indoor,"clean_room, chemistry_lab, biology_laboratory, operating_room, hospital_room",52587
-152,3648,indoor,"clean_room, chemistry_lab, biology_laboratory, operating_room, archive",52587
-153,3672,indoor,"clean_room, chemistry_lab, operating_room, archive, biology_laboratory",52587
-154,3696,indoor,"clean_room, chemistry_lab, operating_room, biology_laboratory, hospital_room",52587
-155,3720,indoor,"clean_room, chemistry_lab, operating_room, pharmacy, biology_laboratory",52587
-156,3744,indoor,"clean_room, chemistry_lab, archive, biology_laboratory, hospital_room",52587
-157,3768,indoor,"shower, locker_room, clean_room, jail_cell, dressing_room",52587
-158,3792,indoor,"bedroom, hotel_room, bedchamber, hospital_room, operating_room",52587
-159,3816,indoor,"bedroom, clean_room, hospital_room, hotel_room, bedchamber",52587
-160,3840,indoor,"clean_room, bedroom, hospital_room, boat_deck, hotel_room",52587
-161,3864,indoor,"bedroom, hospital_room, clean_room, hotel_room, operating_room",52587
-162,3888,indoor,"hospital_room, clean_room, operating_room, bedroom, hotel_room",52587
-163,3912,indoor,"clean_room, bedroom, hospital_room, hotel_room, operating_room",52587
-164,3936,indoor,"bedroom, hospital_room, hotel_room, clean_room, bedchamber",52587
-165,3960,indoor,"bedroom, hospital_room, clean_room, hotel_room, bedchamber",52587
-166,3984,indoor,"bedroom, clean_room, hotel_room, hospital_room, bedchamber",52587
-167,4008,indoor,"bedroom, hospital_room, hotel_room, bedchamber, clean_room",52587
-168,4032,indoor,"bedroom, hospital_room, bedchamber, hotel_room, childs_room",52587
-169,4056,indoor,"clean_room, bedroom, hospital_room, operating_room, hotel_room",52587
-170,4080,indoor,"clean_room, hospital_room, bedroom, operating_room, hotel_room",52587
-171,4104,indoor,"clean_room, hospital_room, operating_room, chemistry_lab, boat_deck",52587
-172,4128,outdoor,"industrial_area, ice_floe, playground, harbor, volleyball_court/outdoor",52587
-173,4152,outdoor,"playground, industrial_area, ice_floe, volleyball_court/outdoor, harbor",52587
-174,4176,outdoor,"ice_floe, ice_shelf, sky, snowfield, shower",52587
-175,4200,outdoor,"playground, industrial_area, ice_floe, construction_site, harbor",52587
-176,4224,outdoor,"industrial_area, harbor, construction_site, oilrig, playground",52587
-177,4248,outdoor,"industrial_area, construction_site, harbor, playground, oilrig",52587
-178,4272,indoor,"playground, clean_room, chemistry_lab, volleyball_court/outdoor, gymnasium/indoor",52587
-179,4296,indoor,"clean_room, playground, chemistry_lab, gymnasium/indoor, engine_room",52587
-180,4320,outdoor,"playground, clean_room, chemistry_lab, boat_deck, ice_floe",52587
-181,4344,indoor,"clean_room, playground, amusement_park, bowling_alley, assembly_line",52587
-182,4368,indoor,"playground, chemistry_lab, clean_room, biology_laboratory, amusement_park",52587
-183,4392,indoor,"clean_room, playground, chemistry_lab, amusement_park, assembly_line",52587
-184,4416,indoor,"playground, amusement_park, chemistry_lab, kindergarden_classroom, biology_laboratory",52587
-185,4440,outdoor,"ice_floe, ice_shelf, sky, snowfield, ocean",52587
-186,4464,outdoor,"playground, chemistry_lab, clean_room, boat_deck, volleyball_court/outdoor",52587
-187,4488,indoor,"clean_room, chemistry_lab, biology_laboratory, assembly_line, auto_factory",52587
-188,4512,indoor,"clean_room, chemistry_lab, assembly_line, biology_laboratory, auto_factory",52587
-189,4536,indoor,"clean_room, assembly_line, chemistry_lab, auto_factory, biology_laboratory",52587
-190,4560,outdoor,"volleyball_court/outdoor, playground, industrial_area, harbor, construction_site",52587
-191,4584,outdoor,"construction_site, industrial_area, harbor, volleyball_court/outdoor, boat_deck",52587
-192,4608,outdoor,"industrial_area, construction_site, harbor, volleyball_court/outdoor, playground",52587
-193,4632,outdoor,"ice_floe, ice_shelf, snowfield, sky, glacier",52587
-194,4656,outdoor,"ice_floe, ice_shelf, snowfield, sky, ocean",52587
-195,4680,outdoor,"industrial_area, harbor, construction_site, boat_deck, ice_floe",52587
-196,4704,outdoor,"industrial_area, construction_site, railroad_track, harbor, playground",52587
-197,4728,outdoor,"industrial_area, construction_site, playground, volleyball_court/outdoor, loading_dock",52587
-198,4752,outdoor,"industrial_area, construction_site, railroad_track, playground, loading_dock",52587
-199,4776,outdoor,"industrial_area, construction_site, harbor, playground, pier",52587
-200,4800,outdoor,"industrial_area, construction_site, harbor, boat_deck, oilrig",52587
-201,4824,outdoor,"construction_site, industrial_area, dam, lock_chamber, loading_dock",52587
-202,4848,outdoor,"harbor, boat_deck, ice_floe, oilrig, pier",52587
-203,4872,outdoor,"harbor, ice_floe, boat_deck, pier, ice_skating_rink/outdoor",52587
-204,4896,outdoor,"harbor, boat_deck, ice_floe, playground, oilrig",52587
-205,4920,outdoor,"harbor, boat_deck, oilrig, ice_floe, construction_site",52587
-206,4944,outdoor,"harbor, boat_deck, oilrig, ice_floe, ocean",52587
-207,4968,outdoor,"boat_deck, harbor, oilrig, ice_floe, ocean",52587
-208,4992,indoor,"clean_room, chemistry_lab, beauty_salon, shower, hospital_room",52587
-209,5016,indoor,"clean_room, beauty_salon, chemistry_lab, shower, bathroom",52587
-210,5040,indoor,"clean_room, chemistry_lab, beauty_salon, shower, nursery",52587
-211,5064,indoor,"clean_room, shower, chemistry_lab, dressing_room, bathroom",52587
-212,5088,indoor,"clean_room, shower, chemistry_lab, dressing_room, beauty_salon",52587
-213,5112,indoor,"clean_room, shower, chemistry_lab, dressing_room, beauty_salon",52587
-214,5136,indoor,"clean_room, shower, dressing_room, chemistry_lab, beauty_salon",52587
-215,5160,indoor,"clean_room, beauty_salon, chemistry_lab, operating_room, hospital_room",52587
-216,5184,indoor,"clean_room, beauty_salon, chemistry_lab, operating_room, shower",52587
-217,5208,indoor,"clean_room, chemistry_lab, beauty_salon, nursery, operating_room",52587
-218,5232,indoor,"clean_room, chemistry_lab, beauty_salon, biology_laboratory, operating_room",52587
-219,5256,indoor,"clean_room, chemistry_lab, shower, beauty_salon, hospital_room",52587
-220,5280,indoor,"clean_room, shower, dressing_room, chemistry_lab, beauty_salon",52587
-221,5304,outdoor,"boat_deck, harbor, oilrig, ice_floe, ocean",52587
-222,5328,outdoor,"boat_deck, harbor, ice_floe, oilrig, ocean",52587
-223,5352,outdoor,"boat_deck, harbor, construction_site, oilrig, ice_floe",52587
-224,5376,indoor,"airport_terminal, restaurant, clean_room, ice_cream_parlor, hospital_room",52587
-225,5400,indoor,"airport_terminal, restaurant, cafeteria, hospital_room, biology_laboratory",52587
-226,5424,indoor,"airport_terminal, biology_laboratory, chemistry_lab, restaurant, clean_room",52587
-227,5448,indoor,"shower, chemistry_lab, beauty_salon, biology_laboratory, pharmacy",52587
-228,5472,indoor,"shower, chemistry_lab, pharmacy, biology_laboratory, beauty_salon",52587
-229,5496,indoor,"shower, chemistry_lab, pharmacy, biology_laboratory, clean_room",52587
-230,5520,indoor,"shower, chemistry_lab, pharmacy, clean_room, biology_laboratory",52587
-231,5544,indoor,"airport_terminal, clean_room, biology_laboratory, chemistry_lab, office_cubicles",52587
-232,5568,indoor,"airport_terminal, biology_laboratory, restaurant, chemistry_lab, hospital_room",52587
-233,5592,indoor,"restaurant, chemistry_lab, biology_laboratory, airport_terminal, hospital_room",52587
-234,5616,indoor,"airport_terminal, restaurant, biology_laboratory, chemistry_lab, hospital_room",52587
-235,5640,indoor,"restaurant, airport_terminal, hospital_room, biology_laboratory, chemistry_lab",52587
-236,5664,indoor,"clean_room, chemistry_lab, beauty_salon, hospital_room, operating_room",52587
-237,5688,indoor,"clean_room, shower, chemistry_lab, hospital_room, beauty_salon",52587
-238,5712,indoor,"clean_room, chemistry_lab, biology_laboratory, beauty_salon, operating_room",52587
-239,5736,indoor,"clean_room, beauty_salon, chemistry_lab, airplane_cabin, shower",52587
-240,5760,indoor,"shower, clean_room, bathroom, dressing_room, beauty_salon",52587
-241,5784,indoor,"clean_room, shower, beauty_salon, chemistry_lab, bathroom",52587
-242,5808,indoor,"clean_room, beauty_salon, shower, bathroom, airplane_cabin",52587
-243,5832,indoor,"bathroom, shower, boxing_ring, sauna, coffee_shop",52587
-244,5856,indoor,"bathroom, shower, bank_vault, laundromat, utility_room",52587
-245,5880,indoor,"bathroom, utility_room, shower, laundromat, bank_vault",52587
-246,5904,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-247,5928,indoor,"clean_room, operating_room, archive, chemistry_lab, biology_laboratory",52587
-248,5952,indoor,"clean_room, operating_room, archive, chemistry_lab, hospital_room",52587
-249,5976,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",52587
-250,6000,indoor,"clean_room, operating_room, chemistry_lab, biology_laboratory, hospital_room",52587
-251,6024,indoor,"clean_room, chemistry_lab, dressing_room, shower, beauty_salon",52587
-252,6048,indoor,"clean_room, hospital_room, dressing_room, chemistry_lab, operating_room",52587
-253,6072,indoor,"clean_room, chemistry_lab, hospital_room, dressing_room, physics_laboratory",52587
-254,6096,indoor,"clean_room, chemistry_lab, dressing_room, hospital_room, shower",52587
-255,6120,indoor,"clean_room, dressing_room, locker_room, airplane_cabin, discotheque",52587
-256,6144,indoor,"clean_room, dressing_room, locker_room, airplane_cabin, discotheque",52587
-257,6168,indoor,"clean_room, dressing_room, locker_room, discotheque, music_studio",52587
-258,6192,indoor,"clean_room, dressing_room, locker_room, discotheque, airplane_cabin",52587
-259,6216,indoor,"clean_room, dressing_room, locker_room, discotheque, music_studio",52587
-260,6240,indoor,"nursery, clean_room, natural_history_museum, museum/indoor, closet",52587
-261,6264,indoor,"clean_room, nursery, museum/indoor, natural_history_museum, closet",52587
-262,6288,indoor,"nursery, clean_room, natural_history_museum, museum/indoor, shower",52587
-263,6312,indoor,"nursery, clean_room, museum/indoor, natural_history_museum, closet",52587
-264,6336,indoor,"clean_room, dressing_room, locker_room, airplane_cabin, discotheque",52587
-265,6360,indoor,"dressing_room, clean_room, locker_room, clothing_store, discotheque",52587
-266,6384,indoor,"dressing_room, clean_room, locker_room, clothing_store, discotheque",52587
-267,6408,indoor,"dressing_room, clean_room, locker_room, clothing_store, discotheque",52587
-268,6432,indoor,"discotheque, clean_room, dressing_room, airplane_cabin, chemistry_lab",52587
-269,6456,indoor,"dressing_room, clean_room, discotheque, archive, beauty_salon",52587
-270,6480,indoor,"clean_room, bathroom, elevator/door, corridor, locker_room",52587
-271,6504,indoor,"dressing_room, bathroom, clean_room, television_studio, beauty_salon",52587
-272,6528,indoor,"bathroom, clean_room, beauty_salon, dressing_room, television_studio",52587
-273,6552,indoor,"bathroom, dressing_room, beauty_salon, shower, clean_room",52587
-274,6576,indoor,"clean_room, bathroom, beauty_salon, shower, dressing_room",52587
-275,6600,indoor,"bathroom, clean_room, shower, beauty_salon, dressing_room",52587
-276,6624,indoor,"clean_room, dressing_room, beauty_salon, bathroom, shower",52587
-277,6648,indoor,"bathroom, clean_room, dressing_room, beauty_salon, shower",52587
-278,6672,indoor,"bathroom, dressing_room, clean_room, shower, locker_room",52587
-279,6696,indoor,"bathroom, clean_room, shower, dressing_room, beauty_salon",52587
-280,6720,indoor,"clean_room, dressing_room, locker_room, archive, clothing_store",52587
-281,6744,indoor,"clean_room, dressing_room, clothing_store, archive, locker_room",52587
-282,6768,indoor,"clean_room, dressing_room, locker_room, clothing_store, archive",52587
-283,6792,indoor,"clean_room, dressing_room, clothing_store, locker_room, archive",52587
-284,6816,indoor,"clean_room, dressing_room, locker_room, clothing_store, archive",52587
-285,6840,indoor,"clean_room, dressing_room, locker_room, archive, clothing_store",52587
-286,6864,indoor,"clean_room, dressing_room, locker_room, archive, clothing_store",52587
-287,6888,indoor,"clean_room, dressing_room, locker_room, clothing_store, archive",52587
-288,6912,indoor,"clean_room, dressing_room, archive, clothing_store, airport_terminal",52587
-289,6936,indoor,"clean_room, locker_room, dressing_room, hospital_room, server_room",52587
-290,6960,indoor,"clean_room, locker_room, office_cubicles, chemistry_lab, dressing_room",52587
-291,6984,indoor,"clean_room, dressing_room, archive, biology_laboratory, chemistry_lab",52587
-292,7008,indoor,"clean_room, archive, computer_room, chemistry_lab, office_cubicles",52587
-293,7032,indoor,"clean_room, dressing_room, locker_room, chemistry_lab, archive",52587
-294,7056,indoor,"clean_room, chemistry_lab, biology_laboratory, physics_laboratory, office_cubicles",52587
-295,7080,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, physics_laboratory",52587
-296,7104,indoor,"clean_room, dressing_room, chemistry_lab, biology_laboratory, physics_laboratory",52587
-297,7128,indoor,"clean_room, dressing_room, chemistry_lab, locker_room, biology_laboratory",52587
-298,7152,indoor,"clean_room, dressing_room, chemistry_lab, biology_laboratory, physics_laboratory",52587
-299,7176,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, physics_laboratory",52587
-300,7200,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, physics_laboratory",52587
-301,7224,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, physics_laboratory",52587
-302,7248,indoor,"clean_room, dressing_room, locker_room, hospital_room, archive",52587
-303,7272,indoor,"dressing_room, locker_room, clean_room, archive, hospital_room",52587
-304,7296,indoor,"locker_room, dressing_room, clean_room, archive, hospital_room",52587
-305,7320,indoor,"dressing_room, clean_room, locker_room, elevator/door, hospital_room",52587
-306,7344,indoor,"clean_room, locker_room, dressing_room, science_museum, hospital_room",52587
-307,7368,indoor,"clean_room, chemistry_lab, dressing_room, discotheque, beauty_salon",52587
-308,7392,indoor,"clean_room, chemistry_lab, biology_laboratory, operating_room, dressing_room",52587
-309,7416,indoor,"dressing_room, clean_room, locker_room, nursery, science_museum",52587
-310,7440,indoor,"dressing_room, clean_room, locker_room, hospital_room, nursery",52587
-311,7464,indoor,"dressing_room, locker_room, clean_room, closet, nursery",52587
-312,7488,indoor,"dressing_room, clean_room, locker_room, nursery, hospital_room",52587
-313,7512,indoor,"dressing_room, locker_room, clean_room, closet, elevator/door",52587
-314,7536,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-315,7560,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-316,7584,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-317,7608,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-318,7632,indoor,"discotheque, dressing_room, clean_room, bowling_alley, chemistry_lab",52587
-319,7656,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-320,7680,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-321,7704,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-322,7728,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-323,7752,indoor,"discotheque, dressing_room, clean_room, chemistry_lab, bowling_alley",52587
-324,7776,indoor,"clean_room, dressing_room, hospital_room, locker_room, operating_room",52587
-325,7800,indoor,"clean_room, hospital_room, dressing_room, locker_room, operating_room",52587
-326,7824,indoor,"clean_room, chemistry_lab, dressing_room, pharmacy, beauty_salon",52587
-327,7848,indoor,"clean_room, dressing_room, chemistry_lab, locker_room, pharmacy",52587
-328,7872,indoor,"clean_room, chemistry_lab, dressing_room, pharmacy, locker_room",52587
-329,7896,indoor,"clean_room, chemistry_lab, dressing_room, pharmacy, locker_room",52587
-330,7920,indoor,"clean_room, dressing_room, chemistry_lab, locker_room, pharmacy",52587
-331,7944,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, hospital_room",52587
-332,7968,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, beauty_salon",52587
-333,7992,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, discotheque",52587
-334,8016,indoor,"clean_room, chemistry_lab, dressing_room, operating_room, biology_laboratory",52587
-335,8040,indoor,"clean_room, chemistry_lab, operating_room, biology_laboratory, dressing_room",52587
-336,8064,indoor,"clean_room, chemistry_lab, biology_laboratory, operating_room, dressing_room",52587
-337,8088,indoor,"clean_room, chemistry_lab, biology_laboratory, dressing_room, operating_room",52587
-338,8112,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, operating_room",52587
-339,8136,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, shower",52587
-340,8160,indoor,"clean_room, beauty_salon, dressing_room, archive, shower",52587
-341,8184,indoor,"clean_room, beauty_salon, shower, museum/indoor, dressing_room",52587
-342,8208,indoor,"clean_room, discotheque, beauty_salon, music_studio, operating_room",52587
-343,8232,indoor,"clean_room, beauty_salon, chemistry_lab, shower, biology_laboratory",52587
-344,8256,indoor,"discotheque, clean_room, shower, beauty_salon, music_studio",52587
-345,8280,indoor,"clean_room, museum/indoor, beauty_salon, shower, chemistry_lab",52587
-346,8304,indoor,"clean_room, sauna, shower, museum/indoor, beauty_salon",52587
-347,8328,indoor,"clean_room, sauna, discotheque, shower, museum/indoor",52587
-348,8352,indoor,"clean_room, discotheque, sauna, shower, museum/indoor",52587
-349,8376,indoor,"bathroom, utility_room, shower, laundromat, bank_vault",52587
-350,8400,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-351,8424,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-352,8448,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-353,8472,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-354,8496,outdoor,"mosque/outdoor, oilrig, boat_deck, ocean, harbor",52587
-355,8520,outdoor,"mosque/outdoor, pagoda, temple/asia, tower, ice_floe",52587
-356,8544,outdoor,"pagoda, mosque/outdoor, temple/asia, lighthouse, tower",52587
-357,8568,outdoor,"runway, ice_floe, ice_shelf, landing_deck, iceberg",52587
-358,8592,outdoor,"ice_floe, ice_shelf, snowfield, beach, ocean",52587
-359,8616,outdoor,"ice_shelf, ocean, beach, ice_floe, snowfield",52587
-360,8640,outdoor,"runway, landing_deck, ice_floe, ocean, ice_shelf",52587
-361,8664,outdoor,"beach, ocean, ice_shelf, ice_floe, coast",52587
-362,8688,outdoor,"ice_shelf, ice_floe, ocean, runway, landing_deck",52587
-363,8712,outdoor,"ice_floe, ice_shelf, ocean, wind_farm, runway",52587
-364,8736,outdoor,"wind_farm, runway, windmill, ice_floe, landing_deck",52587
-365,8760,outdoor,"ice_floe, wind_farm, runway, windmill, ice_shelf",52587
-366,8784,outdoor,"ice_floe, ice_shelf, ocean, snowfield, coast",52587
-367,8808,outdoor,"ice_floe, snowfield, ice_shelf, ocean, iceberg",52587
-368,8832,indoor,"clean_room, chemistry_lab, sauna, shower, beauty_salon",52587
-369,8856,indoor,"clean_room, museum/indoor, archive, beauty_salon, chemistry_lab",52587
-370,8880,indoor,"clean_room, museum/indoor, archive, beauty_salon, chemistry_lab",52587
-371,8904,indoor,"utility_room, nursery, bathroom, shower, closet",52587
-372,8928,indoor,"bathroom, utility_room, shower, bank_vault, jail_cell",52587
-373,8952,indoor,"bathroom, shower, utility_room, television_room, youth_hostel",52587
-374,8976,indoor,"bathroom, shower, utility_room, youth_hostel, sauna",52587
-375,9000,indoor,"bathroom, shower, utility_room, youth_hostel, sauna",52587
-376,9024,indoor,"clean_room, museum/indoor, archive, chemistry_lab, art_gallery",52587
-377,9048,indoor,"clean_room, archive, museum/indoor, chemistry_lab, biology_laboratory",52587
-378,9072,indoor,"kennel/outdoor, server_room, airplane_cabin, shower, car_interior",52587
-379,9096,indoor,"server_room, kennel/outdoor, airplane_cabin, car_interior, bank_vault",52587
-380,9120,indoor,"shower, kennel/outdoor, bathroom, closet, server_room",52587
-381,9144,outdoor,"ocean, islet, ice_shelf, beach, coast",52587
-382,9168,outdoor,"ocean, islet, coast, beach, lake/natural",52587
-383,9192,outdoor,"islet, ocean, coast, beach, sky",52587
-384,9216,outdoor,"islet, ocean, sky, beach, lake/natural",52587
-385,9240,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-386,9264,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-387,9288,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-388,9312,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-389,9336,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-390,9360,outdoor,"iceberg, ice_floe, ice_shelf, ocean, coast",52587
-391,9384,outdoor,"iceberg, ice_floe, ice_shelf, sky, mountain_snowy",52587
-392,9408,outdoor,"iceberg, ice_floe, ice_shelf, glacier, sky",52587
-393,9432,outdoor,"iceberg, ice_floe, ice_shelf, sky, ocean",52587
-394,9456,outdoor,"ice_floe, iceberg, sky, ice_shelf, ocean",52587
-395,9480,indoor,"kennel/outdoor, airplane_cabin, bank_vault, car_interior, shower",52587
-396,9504,indoor,"kennel/outdoor, shower, bank_vault, airplane_cabin, clean_room",52587
-397,9528,indoor,"kennel/outdoor, server_room, clean_room, bank_vault, airplane_cabin",52587
-398,9552,indoor,"kennel/outdoor, clean_room, bank_vault, doorway/outdoor, laundromat",52587
-399,9576,indoor,"kennel/outdoor, airplane_cabin, clean_room, elevator/door, doorway/outdoor",52587
-400,9600,outdoor,"ocean, beach, coast, desert/sand, sky",52587
-401,9624,outdoor,"ocean, beach, coast, islet, ice_shelf",52587
-402,9648,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-403,9672,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-404,9696,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-405,9720,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-406,9744,indoor,"kennel/outdoor, airplane_cabin, car_interior, bus_interior, train_interior",52587
-407,9768,indoor,"kennel/outdoor, clean_room, airplane_cabin, laundromat, bank_vault",52587
-408,9792,indoor,"kennel/outdoor, airplane_cabin, clean_room, doorway/outdoor, elevator/door",52587
-409,9816,indoor,"kennel/outdoor, clean_room, doorway/outdoor, airplane_cabin, car_interior",52587
-410,9840,indoor,"kennel/outdoor, airplane_cabin, car_interior, clean_room, train_interior",52587
-411,9864,indoor,"kennel/outdoor, airplane_cabin, car_interior, train_interior, doorway/outdoor",52587
-412,9888,indoor,"airplane_cabin, car_interior, kennel/outdoor, train_interior, bank_vault",52587
-413,9912,indoor,"airplane_cabin, kennel/outdoor, car_interior, train_interior, bus_interior",52587
-414,9936,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-415,9960,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-416,9984,indoor,"airplane_cabin, car_interior, train_interior, kennel/outdoor, laundromat",52587
-417,10008,indoor,"airplane_cabin, car_interior, train_interior, kennel/outdoor, laundromat",52587
-418,10032,outdoor,"landing_deck, oilrig, boat_deck, harbor, ocean",52587
-419,10056,outdoor,"landing_deck, oilrig, boat_deck, harbor, mosque/outdoor",52587
-420,10080,outdoor,"landing_deck, oilrig, boat_deck, harbor, mosque/outdoor",52587
-421,10104,outdoor,"landing_deck, oilrig, boat_deck, harbor, mosque/outdoor",52587
-422,10128,outdoor,"landing_deck, oilrig, boat_deck, mosque/outdoor, harbor",52587
-423,10152,indoor,"clean_room, operating_room, hospital_room, archive, chemistry_lab",52587
-424,10176,indoor,"clean_room, operating_room, chemistry_lab, hospital_room, biology_laboratory",52587
-425,10200,indoor,"clean_room, chemistry_lab, beauty_salon, operating_room, hospital_room",52587
-426,10224,indoor,"clean_room, dressing_room, hospital_room, operating_room, biology_laboratory",52587
-427,10248,indoor,"clean_room, beauty_salon, dressing_room, operating_room, biology_laboratory",52587
-428,10272,indoor,"clean_room, chemistry_lab, biology_laboratory, beauty_salon, operating_room",52587
-429,10296,indoor,"clean_room, chemistry_lab, biology_laboratory, operating_room, hospital_room",52587
-430,10320,indoor,"clean_room, operating_room, chemistry_lab, beauty_salon, museum/indoor",52587
-431,10344,indoor,"clean_room, discotheque, beauty_salon, chemistry_lab, operating_room",52587
-432,10368,indoor,"clean_room, discotheque, chemistry_lab, beauty_salon, hospital_room",52587
-433,10392,indoor,"clean_room, discotheque, dressing_room, beauty_salon, operating_room",52587
-434,10416,indoor,"clean_room, discotheque, operating_room, hospital_room, chemistry_lab",52587
-435,10440,indoor,"clean_room, operating_room, discotheque, chemistry_lab, hospital_room",52587
-436,10464,indoor,"clean_room, operating_room, chemistry_lab, discotheque, hospital_room",52587
-437,10488,indoor,"clean_room, operating_room, chemistry_lab, biology_laboratory, hospital_room",52587
-438,10512,indoor,"clean_room, chemistry_lab, operating_room, discotheque, biology_laboratory",52587
-439,10536,indoor,"clean_room, operating_room, chemistry_lab, discotheque, hospital_room",52587
-440,10560,indoor,"clean_room, operating_room, chemistry_lab, discotheque, biology_laboratory",52587
-441,10584,indoor,"clean_room, discotheque, chemistry_lab, operating_room, hospital_room",52587
-442,10608,indoor,"clean_room, operating_room, hospital_room, dressing_room, chemistry_lab",52587
-443,10632,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, discotheque",52587
-444,10656,indoor,"clean_room, operating_room, hospital_room, discotheque, dressing_room",52587
-445,10680,indoor,"clean_room, dressing_room, chemistry_lab, hospital_room, beauty_salon",52587
-446,10704,indoor,"clean_room, operating_room, hospital_room, chemistry_lab, discotheque",52587
-447,10728,indoor,"clean_room, discotheque, chemistry_lab, beauty_salon, dressing_room",52587
-448,10752,indoor,"clean_room, dressing_room, chemistry_lab, restaurant, bathroom",52587
-449,10776,indoor,"discotheque, clean_room, dressing_room, banquet_hall, iceberg",52587
-450,10800,indoor,"clean_room, chemistry_lab, dressing_room, discotheque, biology_laboratory",52587
-451,10824,indoor,"clean_room, chemistry_lab, discotheque, biology_laboratory, beauty_salon",52587
-452,10848,indoor,"clean_room, discotheque, dressing_room, hospital_room, chemistry_lab",52587
-453,10872,indoor,"clean_room, discotheque, dressing_room, chemistry_lab, hospital_room",52587
-454,10896,indoor,"clean_room, chemistry_lab, hospital_room, biology_laboratory, discotheque",52587
-455,10920,indoor,"clean_room, dressing_room, museum/indoor, reception, art_gallery",52587
-456,10944,indoor,"clean_room, dressing_room, discotheque, museum/indoor, locker_room",52587
-457,10968,indoor,"clean_room, dressing_room, museum/indoor, discotheque, locker_room",52587
-458,10992,indoor,"clean_room, dressing_room, museum/indoor, discotheque, locker_room",52587
-459,11016,indoor,"clean_room, dressing_room, discotheque, museum/indoor, locker_room",52587
-460,11040,indoor,"clean_room, dressing_room, museum/indoor, locker_room, science_museum",52587
-461,11064,indoor,"clean_room, discotheque, dressing_room, locker_room, museum/indoor",52587
-462,11088,indoor,"clean_room, dressing_room, discotheque, museum/indoor, locker_room",52587
-463,11112,indoor,"clean_room, discotheque, museum/indoor, dressing_room, locker_room",52587
-464,11136,indoor,"clean_room, discotheque, dressing_room, museum/indoor, locker_room",52587
-465,11160,indoor,"clean_room, discotheque, dressing_room, museum/indoor, science_museum",52587
-466,11184,indoor,"clean_room, discotheque, dressing_room, locker_room, stage/indoor",52587
-467,11208,indoor,"discotheque, stage/indoor, sauna, museum/indoor, locker_room",52587
-468,11232,indoor,"discotheque, stage/indoor, dressing_room, locker_room, sauna",52587
-469,11256,indoor,"discotheque, stage/indoor, clean_room, locker_room, dressing_room",52587
-470,11280,indoor,"discotheque, stage/indoor, ballroom, dressing_room, shower",52587
-471,11304,indoor,"discotheque, clean_room, stage/indoor, locker_room, museum/indoor",52587
-472,11328,indoor,"discotheque, clean_room, locker_room, museum/indoor, gymnasium/indoor",52587
-473,11352,indoor,"discotheque, dressing_room, locker_room, sauna, clean_room",52587
-474,11376,indoor,"discotheque, clean_room, museum/indoor, locker_room, dressing_room",52587
-475,11400,indoor,"museum/indoor, clean_room, discotheque, locker_room, dressing_room",52587
-476,11424,indoor,"discotheque, clean_room, dressing_room, locker_room, museum/indoor",52587
-477,11448,indoor,"discotheque, clean_room, stage/indoor, locker_room, hospital_room",52587
-478,11472,indoor,"clean_room, discotheque, hospital_room, stage/indoor, bowling_alley",52587
-479,11496,indoor,"discotheque, clean_room, hospital_room, stage/indoor, airplane_cabin",52587
-480,11520,indoor,"clean_room, discotheque, locker_room, stage/indoor, dressing_room",52587
-481,11544,indoor,"clean_room, discotheque, dressing_room, nursery, locker_room",52587
-482,11568,indoor,"discotheque, clean_room, stage/indoor, nursery, locker_room",52587
-483,11592,indoor,"clean_room, discotheque, stage/indoor, chemistry_lab, hospital_room",52587
-484,11616,indoor,"clean_room, chemistry_lab, shower, discotheque, museum/indoor",52587
-485,11640,indoor,"clean_room, shower, operating_room, chemistry_lab, hospital_room",52587
-486,11664,indoor,"clean_room, discotheque, chemistry_lab, hospital_room, operating_room",52587
-487,11688,indoor,"clean_room, discotheque, stage/indoor, music_studio, chemistry_lab",52587
-488,11712,indoor,"pharmacy, drugstore, hospital_room, beauty_salon, hospital",52587
-489,11736,indoor,"pharmacy, drugstore, hospital_room, hospital, beauty_salon",52587
-490,11760,indoor,"pharmacy, drugstore, hospital_room, beauty_salon, hospital",52587
-491,11784,outdoor,"ice_shelf, snowfield, hot_spring, ice_floe, desert/sand",52587
-492,11808,outdoor,"ice_shelf, snowfield, ice_floe, hot_spring, beach",52587
-493,11832,outdoor,"ice_shelf, snowfield, ice_floe, hot_spring, beach",52587
-494,11856,outdoor,"ice_shelf, ice_floe, iceberg, runway, clean_room",52587
-495,11880,outdoor,"ice_shelf, iceberg, ice_floe, clean_room, shower",52587
-496,11904,indoor,"clean_room, shower, staircase, attic, entrance_hall",52587
-497,11928,indoor,"clean_room, chemistry_lab, dressing_room, archive, biology_laboratory",52587
-498,11952,indoor,"clean_room, dressing_room, chemistry_lab, playroom, biology_laboratory",52587
-499,11976,indoor,"clean_room, chemistry_lab, playroom, biology_laboratory, dressing_room",52587
-500,12000,indoor,"clean_room, chemistry_lab, playroom, dressing_room, nursery",52587
-501,12024,indoor,"clean_room, dressing_room, chemistry_lab, nursery, playroom",52587
-502,12048,indoor,"clean_room, dressing_room, chemistry_lab, biology_laboratory, beauty_salon",52587
-503,12072,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, physics_laboratory",52587
-504,12096,indoor,"clean_room, chemistry_lab, biology_laboratory, dressing_room, operating_room",52587
-505,12120,indoor,"clean_room, dressing_room, chemistry_lab, nursery, music_studio",52587
-506,12144,indoor,"clean_room, nursery, dressing_room, playroom, chemistry_lab",52587
-507,12168,indoor,"clean_room, dressing_room, chemistry_lab, operating_room, biology_laboratory",52587
-508,12192,indoor,"clean_room, dressing_room, operating_room, chemistry_lab, biology_laboratory",52587
-509,12216,outdoor,"snowfield, ice_shelf, desert/sand, hot_spring, beach",52587
-510,12240,outdoor,"snowfield, ice_shelf, desert/sand, beach, hot_spring",52587
-511,12264,indoor,"discotheque, shower, clean_room, stage/indoor, chemistry_lab",52587
-512,12288,indoor,"shower, discotheque, clean_room, chemistry_lab, music_studio",52587
-513,12312,indoor,"discotheque, shower, clean_room, music_studio, stage/indoor",52587
-514,12336,indoor,"shower, discotheque, bathroom, dressing_room, clean_room",52587
-515,12360,indoor,"clean_room, dressing_room, shower, beauty_salon, museum/indoor",52587
-516,12384,indoor,"clean_room, shower, dressing_room, discotheque, beauty_salon",52587
-517,12408,indoor,"clean_room, shower, chemistry_lab, bathroom, beauty_salon",52587
-518,12432,indoor,"shower, discotheque, clean_room, chemistry_lab, museum/indoor",52587
-519,12456,indoor,"shower, discotheque, clean_room, dressing_room, chemistry_lab",52587
-520,12480,indoor,"shower, discotheque, dressing_room, clean_room, bathroom",52587
-521,12504,indoor,"discotheque, shower, dressing_room, clean_room, chemistry_lab",52587
-522,12528,indoor,"clean_room, chemistry_lab, physics_laboratory, operating_room, biology_laboratory",52587
-523,12552,indoor,"clean_room, chemistry_lab, operating_room, shower, biology_laboratory",52587
-524,12576,indoor,"clean_room, chemistry_lab, biology_laboratory, science_museum, physics_laboratory",52587
-525,12600,indoor,"dressing_room, clean_room, nursery, chemistry_lab, discotheque",52587
-526,12624,indoor,"clean_room, dressing_room, chemistry_lab, biology_laboratory, music_studio",52587
-527,12648,indoor,"clean_room, dressing_room, chemistry_lab, biology_laboratory, office",52587
-528,12672,indoor,"clean_room, dressing_room, chemistry_lab, biology_laboratory, hospital_room",52587
-529,12696,indoor,"igloo, aquarium, science_museum, shower, ice_floe",52587
-530,12720,indoor,"igloo, science_museum, aquarium, shower, natural_history_museum",52587
-531,12744,indoor,"igloo, science_museum, aquarium, shower, museum/indoor",52587
-532,12768,indoor,"igloo, science_museum, aquarium, natural_history_museum, museum/indoor",52587
-533,12792,outdoor,"igloo, science_museum, aquarium, ice_floe, underwater/ocean_deep",52587
-534,12816,indoor,"shower, clean_room, discotheque, chemistry_lab, bathroom",52587
-535,12840,indoor,"shower, discotheque, clean_room, chemistry_lab, bathroom",52587
-536,12864,indoor,"shower, discotheque, clean_room, chemistry_lab, bathroom",52587
-537,12888,indoor,"discotheque, shower, stage/indoor, music_studio, chemistry_lab",52587
-538,12912,indoor,"shower, discotheque, chemistry_lab, bathroom, stage/indoor",52587
-539,12936,indoor,"chemistry_lab, shower, clean_room, art_gallery, science_museum",52587
-540,12960,indoor,"elevator/door, basement, elevator_lobby, closet, locker_room",52587
-541,12984,indoor,"basement, elevator/door, closet, elevator_lobby, locker_room",52587
-542,13008,indoor,"basement, elevator/door, closet, elevator_lobby, locker_room",52587
-543,13032,indoor,"basement, corridor, elevator/door, lighthouse, locker_room",52587
-544,13056,indoor,"basement, lighthouse, corridor, beach, clean_room",52587
-545,13080,indoor,"basement, lighthouse, corridor, attic, oilrig",52587
-546,13104,indoor,"lighthouse, basement, art_gallery, oilrig, corridor",52587
-547,13128,outdoor,"lighthouse, tower, oilrig, chemistry_lab, museum/indoor",52587
-548,13152,outdoor,"lighthouse, tower, museum/indoor, chemistry_lab, oilrig",52587
-549,13176,outdoor,"lighthouse, tower, museum/indoor, chemistry_lab, oilrig",52587
-550,13200,indoor,"science_museum, aquarium, igloo, natural_history_museum, museum/indoor",52587
-551,13224,indoor,"science_museum, igloo, aquarium, natural_history_museum, museum/indoor",52587
-552,13248,indoor,"science_museum, aquarium, igloo, shower, natural_history_museum",52587
-553,13272,indoor,"science_museum, igloo, aquarium, shower, museum/indoor",52587
-554,13296,indoor,"science_museum, igloo, aquarium, museum/indoor, shower",52587
-555,13320,indoor,"shower, bathroom, clean_room, chemistry_lab, bow_window/indoor",52587
-556,13344,indoor,"clean_room, shower, dressing_room, operating_room, museum/indoor",52587
-557,13368,indoor,"dressing_room, clean_room, shower, bathroom, locker_room",52587
-558,13392,indoor,"dressing_room, clean_room, shower, locker_room, beauty_salon",52587
-559,13416,outdoor,"tower, skyscraper, wind_farm, sky, fountain",52587
-560,13440,outdoor,"beach, ocean, ice_shelf, sky, coast",52587
-561,13464,outdoor,"sky, snowfield, wind_farm, beach, ice_shelf",52587
-562,13488,indoor,"discotheque, dressing_room, chemistry_lab, biology_laboratory, shower",52587
-563,13512,indoor,"clean_room, chemistry_lab, locker_room, classroom, bowling_alley",52587
-564,13536,outdoor,"hot_spring, ice_shelf, shower, waterfall, fountain",52587
-565,13560,outdoor,"ice_shelf, hot_spring, shower, snowfield, ice_floe",52587
-566,13584,indoor,"clean_room, shower, bathroom, chemistry_lab, hospital_room",52587
-567,13608,indoor,"airplane_cabin, clean_room, bathroom, locker_room, chemistry_lab",52587
-568,13632,indoor,"airplane_cabin, clean_room, classroom, hospital_room, bathroom",52587
-569,13656,indoor,"clean_room, biology_laboratory, chemistry_lab, hospital_room, operating_room",52587
-570,13680,indoor,"clean_room, biology_laboratory, chemistry_lab, hospital_room, operating_room",52587
-571,13704,indoor,"clean_room, biology_laboratory, chemistry_lab, hospital_room, dressing_room",52587
-572,13728,indoor,"clean_room, biology_laboratory, dressing_room, hospital_room, chemistry_lab",52587
-573,13752,indoor,"dressing_room, clean_room, hospital_room, classroom, bathroom",52587
-574,13776,indoor,"discotheque, stage/indoor, dressing_room, music_studio, museum/indoor",52587
-575,13800,indoor,"discotheque, stage/indoor, dressing_room, music_studio, chemistry_lab",52587
-576,13824,indoor,"discotheque, stage/indoor, music_studio, dressing_room, clean_room",52587
-577,13848,outdoor,"snowfield, ice_shelf, beach, desert/sand, ice_floe",52587
-578,13872,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-579,13896,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-580,13920,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-581,13944,outdoor,"ice_shelf, snowfield, desert/sand, beach, sky",52587
-582,13968,outdoor,"snowfield, ice_shelf, desert/sand, beach, ocean",52587
-583,13992,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-584,14016,outdoor,"ice_shelf, snowfield, desert/sand, hot_spring, sky",52587
-585,14040,outdoor,"ice_shelf, snowfield, hot_spring, shower, ocean",52587
-586,14064,outdoor,"tower, lighthouse, skyscraper, chemistry_lab, shower",52587
-587,14088,outdoor,"tower, lighthouse, skyscraper, chemistry_lab, shower",52587
-588,14112,outdoor,"iceberg, ice_floe, chemistry_lab, ice_shelf, shower",52587
-589,14136,outdoor,"iceberg, ice_floe, chemistry_lab, ice_shelf, discotheque",52587
-590,14160,indoor,"iceberg, ice_floe, chemistry_lab, shower, discotheque",52587
-591,14184,outdoor,"iceberg, ice_floe, discotheque, ice_shelf, chemistry_lab",52587
-592,14208,outdoor,"lighthouse, tower, beach, oilrig, ocean",52587
-593,14232,outdoor,"lighthouse, beach, tower, ocean, sky",52587
-594,14256,outdoor,"desert/sand, lighthouse, beach, sky, snowfield",52587
-595,14280,outdoor,"iceberg, igloo, ice_floe, ice_shelf, crevasse",52587
-596,14304,indoor,"clean_room, chemistry_lab, biology_laboratory, dressing_room, discotheque",52587
-597,14328,indoor,"dressing_room, clean_room, operating_room, museum/indoor, chemistry_lab",52587
-598,14352,indoor,"dressing_room, clean_room, operating_room, chemistry_lab, hospital_room",52587
-599,14376,indoor,"dressing_room, clean_room, clothing_store, museum/indoor, operating_room",52587
-600,14400,indoor,"clean_room, dressing_room, clothing_store, museum/indoor, operating_room",52587
-601,14424,indoor,"dressing_room, clean_room, museum/indoor, clothing_store, operating_room",52587
-602,14448,indoor,"dressing_room, clean_room, museum/indoor, operating_room, clothing_store",52587
-603,14472,indoor,"clean_room, dressing_room, operating_room, chemistry_lab, archive",52587
-604,14496,indoor,"clean_room, dressing_room, chemistry_lab, museum/indoor, operating_room",52587
-605,14520,indoor,"clean_room, dressing_room, museum/indoor, chemistry_lab, operating_room",52587
-606,14544,indoor,"dressing_room, clean_room, clothing_store, museum/indoor, nursery",52587
-607,14568,indoor,"clean_room, dressing_room, museum/indoor, clothing_store, chemistry_lab",52587
-608,14592,indoor,"clean_room, dressing_room, museum/indoor, chemistry_lab, operating_room",52587
-609,14616,indoor,"clean_room, dressing_room, operating_room, museum/indoor, chemistry_lab",52587
-610,14640,indoor,"clean_room, operating_room, chemistry_lab, dressing_room, biology_laboratory",52587
-611,14664,indoor,"clean_room, chemistry_lab, operating_room, dressing_room, biology_laboratory",52587
-612,14688,indoor,"clean_room, dressing_room, operating_room, museum/indoor, chemistry_lab",52587
-613,14712,indoor,"clean_room, dressing_room, clothing_store, chemistry_lab, operating_room",52587
-614,14736,indoor,"clean_room, dressing_room, operating_room, chemistry_lab, museum/indoor",52587
-615,14760,indoor,"clean_room, dressing_room, chemistry_lab, museum/indoor, art_gallery",52587
-616,14784,indoor,"clean_room, shower, dressing_room, operating_room, bathroom",52587
-617,14808,indoor,"clean_room, operating_room, museum/indoor, chemistry_lab, biology_laboratory",52587
-618,14832,indoor,"clean_room, museum/indoor, art_gallery, chemistry_lab, operating_room",52587
-619,14856,indoor,"clean_room, museum/indoor, operating_room, art_gallery, archive",52587
-620,14880,indoor,"clean_room, museum/indoor, art_gallery, operating_room, dressing_room",52587
-621,14904,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, operating_room",52587
-622,14928,outdoor,"ice_shelf, hot_spring, crevasse, iceberg, shower",52587
-623,14952,outdoor,"ice_shelf, iceberg, beach, desert/sand, ocean",52587
-624,14976,indoor,"bathroom, chemistry_lab, shower, clean_room, physics_laboratory",52587
-625,15000,indoor,"bathroom, chemistry_lab, shower, clean_room, jewelry_shop",52587
-626,15024,indoor,"bathroom, chemistry_lab, clean_room, jewelry_shop, shower",52587
-627,15048,indoor,"bathroom, chemistry_lab, clean_room, utility_room, shower",52587
-628,15072,indoor,"bathroom, shower, attic, utility_room, chemistry_lab",52587
-629,15096,indoor,"bathroom, jewelry_shop, shower, clean_room, utility_room",52587
-630,15120,indoor,"bathroom, shower, utility_room, attic, clean_room",52587
-631,15144,indoor,"utility_room, server_room, laundromat, airplane_cabin, clean_room",52587
-632,15168,indoor,"utility_room, laundromat, clean_room, elevator/door, server_room",52587
-633,15192,indoor,"server_room, airplane_cabin, utility_room, clean_room, laundromat",52587
-634,15216,indoor,"utility_room, laundromat, clean_room, airplane_cabin, elevator/door",52587
-635,15240,indoor,"clean_room, dressing_room, discotheque, chemistry_lab, operating_room",52587
-636,15264,indoor,"clean_room, chemistry_lab, dressing_room, shower, biology_laboratory",52587
-637,15288,indoor,"clean_room, dressing_room, museum/indoor, discotheque, stage/indoor",52587
-638,15312,indoor,"clean_room, museum/indoor, dressing_room, discotheque, stage/indoor",52587
-639,15336,indoor,"clean_room, museum/indoor, operating_room, dressing_room, archive",52587
-640,15360,indoor,"clean_room, museum/indoor, operating_room, chemistry_lab, science_museum",52587
-641,15384,indoor,"clean_room, museum/indoor, operating_room, dressing_room, archive",52587
-642,15408,indoor,"clean_room, museum/indoor, operating_room, archive, dressing_room",52587
-643,15432,indoor,"clean_room, museum/indoor, archive, science_museum, chemistry_lab",52587
-644,15456,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, operating_room",52587
-645,15480,indoor,"clean_room, museum/indoor, operating_room, chemistry_lab, archive",52587
-646,15504,indoor,"bathroom, shower, clean_room, dressing_room, utility_room",52587
-647,15528,indoor,"bathroom, shower, clean_room, dressing_room, beauty_salon",52587
-648,15552,indoor,"bathroom, shower, clean_room, dressing_room, beauty_salon",52587
-649,15576,indoor,"bathroom, shower, clean_room, utility_room, beauty_salon",52587
-650,15600,indoor,"clean_room, chemistry_lab, shower, biology_laboratory, bathroom",52587
-651,15624,indoor,"clean_room, operating_room, dressing_room, chemistry_lab, discotheque",52587
-652,15648,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, shower",52587
-653,15672,indoor,"clean_room, shower, chemistry_lab, biology_laboratory, discotheque",52587
-654,15696,indoor,"clean_room, shower, chemistry_lab, operating_room, science_museum",52587
-655,15720,indoor,"clean_room, chemistry_lab, biology_laboratory, operating_room, shower",52587
-656,15744,indoor,"clean_room, shower, operating_room, chemistry_lab, discotheque",52587
-657,15768,indoor,"clean_room, dressing_room, museum/indoor, chemistry_lab, art_gallery",52587
-658,15792,indoor,"shower, closet, dressing_room, bathroom, museum/indoor",52587
-659,15816,indoor,"shower, museum/indoor, clean_room, corridor, art_gallery",52587
-660,15840,indoor,"shower, bathroom, museum/indoor, dressing_room, clean_room",52587
-661,15864,indoor,"shower, museum/indoor, bathroom, dressing_room, art_gallery",52587
-662,15888,indoor,"shower, bathroom, museum/indoor, clean_room, dressing_room",52587
-663,15912,indoor,"clean_room, museum/indoor, chemistry_lab, operating_room, archive",52587
-664,15936,indoor,"clean_room, museum/indoor, chemistry_lab, operating_room, science_museum",52587
-665,15960,indoor,"clean_room, museum/indoor, chemistry_lab, operating_room, archive",52587
-666,15984,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, archive",52587
-667,16008,indoor,"clean_room, museum/indoor, operating_room, chemistry_lab, archive",52587
-668,16032,indoor,"clean_room, museum/indoor, operating_room, chemistry_lab, archive",52587
-669,16056,indoor,"clean_room, museum/indoor, science_museum, operating_room, dressing_room",52587
-670,16080,indoor,"clean_room, museum/indoor, operating_room, archive, science_museum",52587
-671,16104,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, art_gallery",52587
-672,16128,indoor,"museum/indoor, clean_room, natural_history_museum, science_museum, archive",52587
-673,16152,indoor,"clean_room, museum/indoor, archive, science_museum, natural_history_museum",52587
-674,16176,indoor,"museum/indoor, clean_room, archive, science_museum, natural_history_museum",52587
-675,16200,indoor,"museum/indoor, clean_room, science_museum, archive, natural_history_museum",52587
-676,16224,indoor,"clean_room, museum/indoor, archive, science_museum, natural_history_museum",52587
-677,16248,outdoor,"snowfield, ice_shelf, desert/sand, basement, ice_floe",52587
-678,16272,outdoor,"snowfield, desert/sand, ice_shelf, basement, glacier",52587
-679,16296,outdoor,"snowfield, sky, hot_spring, ice_shelf, desert/sand",52587
-680,16320,outdoor,"snowfield, hot_spring, sky, ice_shelf, mountain_snowy",52587
-681,16344,outdoor,"snowfield, sky, hot_spring, ice_shelf, desert/sand",52587
-682,16368,indoor,"utility_room, laundromat, clean_room, airplane_cabin, elevator/door",52587
-683,16392,indoor,"utility_room, laundromat, clean_room, bathroom, closet",52587
-684,16416,indoor,"discotheque, clean_room, chemistry_lab, stage/indoor, museum/indoor",52587
-685,16440,indoor,"clean_room, discotheque, museum/indoor, stage/indoor, chemistry_lab",52587
-686,16464,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, art_gallery",52587
-687,16488,indoor,"shower, bathroom, clean_room, elevator/door, locker_room",52587
-688,16512,indoor,"shower, bathroom, clean_room, elevator/door, locker_room",52587
-689,16536,indoor,"clean_room, museum/indoor, art_gallery, chemistry_lab, science_museum",52587
-690,16560,indoor,"clean_room, museum/indoor, art_gallery, science_museum, art_studio",52587
-691,16584,indoor,"clean_room, museum/indoor, art_gallery, chemistry_lab, discotheque",52587
-692,16608,indoor,"clean_room, museum/indoor, art_gallery, art_studio, dressing_room",52587
-693,16632,indoor,"clean_room, museum/indoor, art_gallery, science_museum, art_studio",52587
-694,16656,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, art_gallery",52587
-695,16680,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, discotheque",52587
-696,16704,indoor,"clean_room, museum/indoor, chemistry_lab, discotheque, art_gallery",52587
-697,16728,indoor,"clean_room, museum/indoor, chemistry_lab, discotheque, art_gallery",52587
-698,16752,indoor,"clean_room, chemistry_lab, museum/indoor, discotheque, science_museum",52587
-699,16776,indoor,"clean_room, museum/indoor, art_gallery, science_museum, art_studio",52587
-700,16800,indoor,"clean_room, museum/indoor, art_gallery, art_studio, science_museum",52587
-701,16824,indoor,"museum/indoor, clean_room, art_gallery, art_studio, science_museum",52587
-702,16848,indoor,"museum/indoor, clean_room, art_gallery, science_museum, art_studio",52587
-703,16872,indoor,"clean_room, museum/indoor, science_museum, discotheque, art_gallery",52587
-704,16896,indoor,"museum/indoor, clean_room, art_gallery, discotheque, science_museum",52587
-705,16920,indoor,"clean_room, museum/indoor, discotheque, science_museum, art_gallery",52587
-706,16944,indoor,"museum/indoor, clean_room, art_gallery, science_museum, discotheque",52587
-707,16968,indoor,"museum/indoor, clean_room, science_museum, art_gallery, art_studio",52587
-708,16992,indoor,"clean_room, museum/indoor, science_museum, chemistry_lab, discotheque",52587
-709,17016,indoor,"shower, underwater/ocean_deep, ocean, museum/indoor, discotheque",52587
-710,17040,indoor,"shower, chemistry_lab, underwater/ocean_deep, bathroom, stage/indoor",52587
-711,17064,outdoor,"underwater/ocean_deep, shower, aquarium, ocean, ice_floe",52587
-712,17088,indoor,"discotheque, pond, iceberg, shower, chemistry_lab",52587
-713,17112,indoor,"iceberg, stage/indoor, underwater/ocean_deep, shower, discotheque",52587
-714,17136,indoor,"iceberg, shower, ice_shelf, clean_room, art_gallery",52587
-715,17160,outdoor,"iceberg, stage/indoor, discotheque, wind_farm, sky",52587
-716,17184,indoor,"sky, shower, iceberg, aquarium, discotheque",52587
-717,17208,indoor,"clean_room, museum/indoor, operating_room, nursery, art_gallery",52587
-718,17232,indoor,"clean_room, museum/indoor, operating_room, art_gallery, nursery",52587
-719,17256,indoor,"clean_room, operating_room, museum/indoor, hospital_room, nursery",52587
-720,17280,indoor,"clean_room, discotheque, chemistry_lab, museum/indoor, nursery",52587
-721,17304,outdoor,"ice_floe, iceberg, ice_shelf, aquarium, underwater/ocean_deep",52587
-722,17328,outdoor,"ice_floe, iceberg, ice_shelf, igloo, aquarium",52587
-723,17352,outdoor,"iceberg, ice_floe, ice_shelf, igloo, fountain",52587
-724,17376,outdoor,"iceberg, ice_floe, ice_shelf, igloo, snowfield",52587
-725,17400,outdoor,"iceberg, igloo, ice_shelf, ice_floe, snowfield",52587
-726,17424,indoor,"shower, bathroom, elevator/door, locker_room, elevator_lobby",52587
-727,17448,indoor,"shower, bathroom, elevator/door, locker_room, server_room",52587
-728,17472,indoor,"shower, bathroom, elevator/door, locker_room, server_room",52587
-729,17496,indoor,"clean_room, discotheque, museum/indoor, stage/indoor, art_gallery",52587
-730,17520,indoor,"clean_room, discotheque, museum/indoor, stage/indoor, science_museum",52587
-731,17544,indoor,"clean_room, chemistry_lab, museum/indoor, operating_room, dressing_room",52587
-732,17568,indoor,"clean_room, museum/indoor, dressing_room, discotheque, art_gallery",52587
-733,17592,indoor,"clean_room, museum/indoor, chemistry_lab, art_gallery, science_museum",52587
-734,17616,indoor,"dressing_room, clean_room, art_gallery, shower, museum/indoor",52587
-735,17640,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, art_studio",52587
-736,17664,indoor,"museum/indoor, natural_history_museum, science_museum, art_gallery, clean_room",52587
-737,17688,indoor,"clean_room, museum/indoor, chemistry_lab, science_museum, art_gallery",52587
-738,17712,indoor,"clean_room, museum/indoor, chemistry_lab, art_gallery, science_museum",52587
-739,17736,indoor,"clean_room, chemistry_lab, museum/indoor, science_museum, biology_laboratory",52587
-740,17760,outdoor,"iceberg, ice_floe, ice_shelf, ocean, glacier",52587
-741,17784,outdoor,"iceberg, ice_shelf, ice_floe, glacier, ocean",52587
-742,17808,outdoor,"iceberg, ice_floe, ice_shelf, ocean, pond",52587
-743,17832,outdoor,"iceberg, ice_shelf, ice_floe, sky, ocean",52587
-744,17856,outdoor,"iceberg, ice_shelf, ice_floe, ocean, sky",52587
-745,17880,outdoor,"ice_shelf, ice_floe, iceberg, clean_room, discotheque",52587
-746,17904,outdoor,"iceberg, discotheque, ice_floe, underwater/ocean_deep, clean_room",52587
-747,17928,outdoor,"shower, ice_floe, underwater/ocean_deep, discotheque, iceberg",52587
-748,17952,indoor,"shower, clean_room, beauty_salon, chemistry_lab, conference_room",52587
-749,17976,indoor,"clean_room, shower, server_room, chemistry_lab, beauty_salon",52587
-750,18000,indoor,"clean_room, shower, discotheque, airport_terminal, corridor",52587
-751,18024,indoor,"clean_room, discotheque, shower, science_museum, chemistry_lab",52587
-752,18048,indoor,"clean_room, shower, chemistry_lab, discotheque, physics_laboratory",52587
-753,18072,indoor,"discotheque, chemistry_lab, stage/indoor, clean_room, shower",52587
-754,18096,outdoor,"iceberg, ice_floe, ice_shelf, glacier, ocean",52587
-755,18120,outdoor,"iceberg, ice_floe, ice_shelf, sky, ocean",52587
-756,18144,outdoor,"iceberg, ice_shelf, sky, ice_floe, ocean",52587
-757,18168,indoor,"clean_room, airport_terminal, server_room, corridor, discotheque",52587
-758,18192,indoor,"airport_terminal, ice_skating_rink/outdoor, ice_skating_rink/indoor, discotheque, clean_room",52587
-759,18216,indoor,"clean_room, server_room, airport_terminal, corridor, locker_room",52587
-760,18240,outdoor,"elevator/door, hot_spring, basement, snowfield, sky",52587
-761,18264,indoor,"elevator/door, corridor, locker_room, discotheque, elevator_lobby",52587
-762,18288,outdoor,"discotheque, iceberg, ice_shelf, airport_terminal, igloo",52587
-763,18312,indoor,"elevator/door, corridor, locker_room, parking_garage/indoor, airport_terminal",52587
-764,18336,indoor,"clean_room, airport_terminal, corridor, elevator_lobby, airplane_cabin",52587
-765,18360,indoor,"elevator/door, shower, locker_room, elevator_lobby, bathroom",52587
-766,18384,indoor,"locker_room, elevator/door, shower, corridor, basement",52587
-767,18408,indoor,"shower, corridor, elevator/door, clean_room, basement",52587
-768,18432,indoor,"basement, shower, corridor, wet_bar, server_room",52587
-769,18456,outdoor,"basement, shower, tower, skyscraper, lighthouse",52587
-770,18480,outdoor,"iceberg, ice_floe, ice_shelf, igloo, snowfield",52587
-771,18504,outdoor,"iceberg, ice_shelf, ice_floe, snowfield, glacier",52587
-772,18528,outdoor,"ice_floe, ice_shelf, iceberg, shower, snowfield",52587
-773,18552,outdoor,"ice_floe, shower, ice_shelf, iceberg, beach",52587
-774,18576,outdoor,"ice_floe, shower, iceberg, ice_shelf, chemistry_lab",52587
-775,18600,outdoor,"ice_floe, iceberg, ice_shelf, shower, igloo",52587
-776,18624,outdoor,"ice_floe, iceberg, ice_shelf, underwater/ocean_deep, igloo",52587
-777,18648,outdoor,"ice_floe, pond, ice_shelf, shower, watering_hole",52587
-778,18672,outdoor,"ice_floe, pond, ice_shelf, iceberg, lake/natural",52587
-779,18696,outdoor,"ice_floe, ice_shelf, underwater/ocean_deep, iceberg, pond",52587
-780,18720,outdoor,"ice_shelf, iceberg, sky, ocean, beach",52587
-781,18744,outdoor,"iceberg, ice_shelf, sky, ice_floe, ocean",52587
-782,18768,outdoor,"iceberg, ice_shelf, ocean, ice_floe, sky",52587
-783,18792,outdoor,"hot_spring, sky, iceberg, ice_shelf, ice_floe",52587
-784,18816,outdoor,"sky, hot_spring, iceberg, ice_shelf, discotheque",52587
-785,18840,outdoor,"discotheque, shower, sky, hot_spring, ice_shelf",52587
-786,18864,outdoor,"hot_spring, sky, discotheque, ice_shelf, volcano",52587
-787,18888,outdoor,"sky, igloo, hot_spring, snowfield, ski_slope",52587
-788,18912,outdoor,"sky, hot_spring, igloo, ice_shelf, iceberg",52587
-789,18936,outdoor,"hot_spring, fountain, sky, desert/sand, volcano",52587
-790,18960,outdoor,"hot_spring, sky, volcano, snowfield, mountain_snowy",52587
-791,18984,outdoor,"hot_spring, sky, snowfield, ice_shelf, volcano",52587
-792,19008,indoor,"museum/indoor, clean_room, natural_history_museum, shower, discotheque",52587
-793,19032,indoor,"clean_room, museum/indoor, shower, dressing_room, discotheque",52587
-794,19056,indoor,"clean_room, museum/indoor, discotheque, shower, dressing_room",52587
-795,19080,indoor,"clean_room, museum/indoor, discotheque, dressing_room, art_gallery",52587
-796,19104,indoor,"clean_room, museum/indoor, discotheque, chemistry_lab, igloo",52587
-797,19128,indoor,"discotheque, clean_room, museum/indoor, igloo, chemistry_lab",52587
-798,19152,indoor,"discotheque, clean_room, stage/indoor, chemistry_lab, museum/indoor",52587
-799,19176,indoor,"discotheque, clean_room, chemistry_lab, stage/indoor, iceberg",52587
-800,19200,indoor,"clean_room, discotheque, chemistry_lab, stage/indoor, museum/indoor",52587
-801,19224,indoor,"discotheque, clean_room, museum/indoor, chemistry_lab, stage/indoor",52587
-802,19248,indoor,"discotheque, clean_room, museum/indoor, chemistry_lab, stage/indoor",52587
-803,19272,outdoor,"igloo, sky, volcano, ice_shelf, mountain_snowy",52587
-804,19296,outdoor,"igloo, ice_shelf, sky, ice_floe, iceberg",52587
-805,19320,outdoor,"igloo, courthouse, sky, mosque/outdoor, arch",52587
-806,19344,indoor,"clean_room, discotheque, museum/indoor, natural_history_museum, stage/indoor",52587
-807,19368,indoor,"museum/indoor, clean_room, discotheque, natural_history_museum, stage/indoor",52587
-808,19392,indoor,"museum/indoor, clean_room, discotheque, natural_history_museum, aquarium",52587
-809,19416,indoor,"clean_room, museum/indoor, discotheque, natural_history_museum, stage/indoor",52587
-810,19440,indoor,"clean_room, shower, museum/indoor, science_museum, chemistry_lab",52587
-811,19464,indoor,"shower, clean_room, museum/indoor, science_museum, aquarium",52587
-812,19488,indoor,"clean_room, museum/indoor, natural_history_museum, discotheque, nursery",52587
-813,19512,indoor,"clean_room, museum/indoor, discotheque, natural_history_museum, stage/indoor",52587
-814,19536,indoor,"shower, clean_room, bathroom, museum/indoor, science_museum",52587
-815,19560,indoor,"clean_room, shower, discotheque, chemistry_lab, beauty_salon",52587
-816,19584,indoor,"clean_room, shower, igloo, discotheque, science_museum",52587
-817,19608,indoor,"clean_room, shower, museum/indoor, science_museum, bathroom",52587
-818,19632,indoor,"clean_room, discotheque, museum/indoor, stage/indoor, airport_terminal",52587
-819,19656,indoor,"clean_room, discotheque, museum/indoor, ballroom, chemistry_lab",52587
-820,19680,indoor,"discotheque, clean_room, stage/indoor, chemistry_lab, bowling_alley",52587
-821,19704,indoor,"discotheque, clean_room, stage/indoor, chemistry_lab, ballroom",52587
-822,19728,indoor,"discotheque, clean_room, stage/indoor, beauty_salon, chemistry_lab",52587
-823,19752,indoor,"discotheque, clean_room, stage/indoor, chemistry_lab, arena/performance",52587
-824,19776,indoor,"clean_room, discotheque, chemistry_lab, biology_laboratory, stage/indoor",52587
-825,19800,indoor,"clean_room, chemistry_lab, biology_laboratory, discotheque, physics_laboratory",52587
-826,19824,indoor,"clean_room, chemistry_lab, discotheque, operating_room, biology_laboratory",52587
-827,19848,indoor,"clean_room, swimming_pool/indoor, museum/indoor, chemistry_lab, discotheque",52587
-828,19872,indoor,"nursery, clean_room, playroom, discotheque, kindergarden_classroom",52587
-829,19896,indoor,"clean_room, museum/indoor, dressing_room, shower, bathroom",52587
-830,19920,indoor,"clean_room, dressing_room, shower, museum/indoor, bathroom",52587
-831,19944,indoor,"martial_arts_gym, clean_room, stage/indoor, ballroom, dressing_room",52587
-832,19968,indoor,"martial_arts_gym, dressing_room, clean_room, museum/indoor, locker_room",52587
-833,19992,indoor,"dressing_room, martial_arts_gym, ballroom, clean_room, stage/indoor",52587
-834,20016,indoor,"dressing_room, ballroom, clean_room, martial_arts_gym, stage/indoor",52587
-835,20040,indoor,"dressing_room, clean_room, ballroom, martial_arts_gym, stage/indoor",52587
-836,20064,indoor,"dressing_room, clean_room, ballroom, stage/indoor, martial_arts_gym",52587
-837,20088,indoor,"dressing_room, ballroom, clean_room, martial_arts_gym, stage/indoor",52587
-838,20112,indoor,"dressing_room, clean_room, martial_arts_gym, ballroom, stage/indoor",52587
-839,20136,indoor,"dressing_room, ballroom, clean_room, stage/indoor, discotheque",52587
-840,20160,indoor,"dressing_room, clean_room, ballroom, stage/indoor, locker_room",52587
-841,20184,indoor,"clean_room, dressing_room, art_gallery, museum/indoor, nursery",52587
-842,20208,indoor,"dressing_room, clean_room, ballroom, museum/indoor, art_gallery",52587
-843,20232,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, ballroom",52587
-844,20256,indoor,"clean_room, dressing_room, ballroom, museum/indoor, sauna",52587
-845,20280,indoor,"dressing_room, clean_room, ballroom, museum/indoor, sauna",52587
-846,20304,indoor,"discotheque, clean_room, dressing_room, biology_laboratory, hospital_room",52587
-847,20328,indoor,"discotheque, dressing_room, clean_room, hospital_room, bowling_alley",52587
-848,20352,indoor,"bowling_alley, discotheque, clean_room, airplane_cabin, dressing_room",52587
-849,20376,indoor,"dressing_room, discotheque, clean_room, airplane_cabin, hospital_room",52587
-850,20400,indoor,"discotheque, dressing_room, clean_room, airplane_cabin, hospital_room",52587
-851,20424,indoor,"dressing_room, discotheque, clean_room, airplane_cabin, beauty_salon",52587
-852,20448,indoor,"dressing_room, clean_room, discotheque, airplane_cabin, bathroom",52587
-853,20472,indoor,"discotheque, dressing_room, clean_room, biology_laboratory, airplane_cabin",52587
-854,20496,indoor,"stage/indoor, discotheque, music_studio, shower, dressing_room",52587
-855,20520,indoor,"stage/indoor, discotheque, music_studio, shower, dressing_room",52587
-856,20544,indoor,"stage/indoor, discotheque, music_studio, shower, dressing_room",52587
-857,20568,indoor,"stage/indoor, discotheque, music_studio, shower, beauty_salon",52587
-858,20592,indoor,"stage/indoor, discotheque, music_studio, shower, dressing_room",52587
-859,20616,indoor,"shower, chemistry_lab, beauty_salon, biology_laboratory, bathroom",52587
-860,20640,indoor,"beauty_salon, shower, chemistry_lab, bathroom, biology_laboratory",52587
-861,20664,indoor,"beauty_salon, shower, chemistry_lab, bathroom, biology_laboratory",52587
-862,20688,indoor,"chemistry_lab, beauty_salon, shower, biology_laboratory, bathroom",52587
-863,20712,indoor,"beauty_salon, chemistry_lab, shower, bathroom, biology_laboratory",52587
-864,20736,indoor,"chemistry_lab, shower, beauty_salon, bathroom, biology_laboratory",52587
-865,20760,indoor,"chemistry_lab, beauty_salon, shower, biology_laboratory, bathroom",52587
-866,20784,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, sauna",52587
-867,20808,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, beauty_salon",52587
-868,20832,indoor,"clean_room, museum/indoor, art_gallery, nursery, science_museum",52587
-869,20856,indoor,"museum/indoor, clean_room, art_gallery, natural_history_museum, science_museum",52587
-870,20880,indoor,"clean_room, dressing_room, museum/indoor, chemistry_lab, discotheque",52587
-871,20904,indoor,"clean_room, dressing_room, museum/indoor, shower, chemistry_lab",52587
-872,20928,indoor,"clean_room, dressing_room, museum/indoor, operating_room, archive",52587
-873,20952,indoor,"clean_room, operating_room, dressing_room, martial_arts_gym, chemistry_lab",52587
-874,20976,indoor,"clean_room, dressing_room, operating_room, martial_arts_gym, museum/indoor",52587
-875,21000,indoor,"clean_room, operating_room, dressing_room, museum/indoor, chemistry_lab",52587
-876,21024,indoor,"clean_room, dressing_room, museum/indoor, operating_room, art_gallery",52587
-877,21048,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, discotheque",52587
-878,21072,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, martial_arts_gym",52587
-879,21096,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, art_gallery",52587
-880,21120,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, art_gallery",52587
-881,21144,indoor,"clean_room, dressing_room, museum/indoor, operating_room, martial_arts_gym",52587
-882,21168,indoor,"clean_room, dressing_room, museum/indoor, operating_room, art_gallery",52587
-883,21192,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, operating_room",52587
-884,21216,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, archive",52587
-885,21240,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, art_gallery",52587
-886,21264,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, operating_room",52587
-887,21288,indoor,"clean_room, dressing_room, museum/indoor, operating_room, art_gallery",52587
-888,21312,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, art_gallery",52587
-889,21336,indoor,"clean_room, dressing_room, museum/indoor, martial_arts_gym, art_gallery",52587
-890,21360,indoor,"clean_room, dressing_room, museum/indoor, operating_room, martial_arts_gym",52587
-891,21384,indoor,"dressing_room, clean_room, art_gallery, museum/indoor, art_studio",52587
-892,21408,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, clothing_store",52587
-893,21432,indoor,"dressing_room, clean_room, museum/indoor, discotheque, art_gallery",52587
-894,21456,indoor,"dressing_room, clean_room, museum/indoor, discotheque, art_gallery",52587
-895,21480,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, discotheque",52587
-896,21504,indoor,"dressing_room, museum/indoor, clean_room, discotheque, art_gallery",52587
-897,21528,indoor,"dressing_room, museum/indoor, discotheque, clean_room, stage/indoor",52587
-898,21552,indoor,"dressing_room, discotheque, clean_room, museum/indoor, stage/indoor",52587
-899,21576,outdoor,"sky, snowfield, hot_spring, beach, ice_shelf",52587
-900,21600,outdoor,"snowfield, sky, ice_shelf, hot_spring, desert/sand",52587
-901,21624,indoor,"clean_room, underwater/ocean_deep, chemistry_lab, shower, ice_floe",52587
-902,21648,indoor,"clean_room, shower, underwater/ocean_deep, museum/indoor, natural_history_museum",52587
-903,21672,outdoor,"underwater/ocean_deep, iceberg, ice_floe, clean_room, ice_shelf",52587
-904,21696,outdoor,"clean_room, underwater/ocean_deep, iceberg, ice_shelf, ice_floe",52587
-905,21720,indoor,"discotheque, underwater/ocean_deep, clean_room, shower, chemistry_lab",52587
-906,21744,indoor,"underwater/ocean_deep, clean_room, iceberg, discotheque, aquarium",52587
-907,21768,indoor,"clean_room, chemistry_lab, shower, biology_laboratory, underwater/ocean_deep",52587
-908,21792,indoor,"clean_room, museum/indoor, igloo, shower, science_museum",52587
-909,21816,indoor,"museum/indoor, clean_room, science_museum, igloo, shower",52587
-910,21840,indoor,"clean_room, biology_laboratory, chemistry_lab, pharmacy, gift_shop",52587
-911,21864,indoor,"clean_room, biology_laboratory, chemistry_lab, dressing_room, operating_room",52587
-912,21888,indoor,"clean_room, discotheque, shower, basement, igloo",52587
-913,21912,indoor,"discotheque, underwater/ocean_deep, ice_skating_rink/indoor, clean_room, igloo",52587
-914,21936,indoor,"stage/indoor, discotheque, museum/indoor, clean_room, shower",52587
-915,21960,indoor,"clean_room, museum/indoor, stage/indoor, discotheque, archive",52587
-916,21984,outdoor,"museum/indoor, ice_floe, iceberg, underwater/ocean_deep, clean_room",52587
-917,22008,indoor,"clean_room, stage/indoor, discotheque, shower, chemistry_lab",52587
-918,22032,indoor,"stage/indoor, discotheque, clean_room, music_studio, dressing_room",52587
-919,22056,indoor,"clean_room, chemistry_lab, museum/indoor, shower, biology_laboratory",52587
-920,22080,indoor,"stage/indoor, clean_room, discotheque, dressing_room, music_studio",52587
-921,22104,indoor,"discotheque, stage/indoor, music_studio, dressing_room, clean_room",52587
-922,22128,indoor,"stage/indoor, discotheque, music_studio, dressing_room, clean_room",52587
-923,22152,indoor,"museum/indoor, clean_room, igloo, shower, science_museum",52587
-924,22176,indoor,"museum/indoor, shower, clean_room, igloo, beauty_salon",52587
-925,22200,indoor,"clean_room, museum/indoor, science_museum, shower, beauty_salon",52587
-926,22224,indoor,"discotheque, stage/indoor, music_studio, shower, chemistry_lab",52587
-927,22248,indoor,"discotheque, stage/indoor, music_studio, shower, dressing_room",52587
-928,22272,indoor,"discotheque, stage/indoor, music_studio, shower, chemistry_lab",52587
-929,22296,indoor,"discotheque, stage/indoor, music_studio, shower, aquarium",52587
-930,22320,indoor,"discotheque, stage/indoor, music_studio, dressing_room, shower",52587
-931,22344,indoor,"discotheque, stage/indoor, shower, music_studio, science_museum",52587
-932,22368,indoor,"museum/indoor, clean_room, shower, chemistry_lab, science_museum",52587
-933,22392,indoor,"museum/indoor, clean_room, science_museum, igloo, shower",52587
-934,22416,indoor,"museum/indoor, shower, clean_room, bathroom, science_museum",52587
-935,22440,indoor,"discotheque, stage/indoor, dressing_room, pond, clean_room",52587
-936,22464,indoor,"discotheque, stage/indoor, clean_room, dressing_room, music_studio",52587
-937,22488,indoor,"clean_room, museum/indoor, chemistry_lab, dressing_room, discotheque",52587
-938,22512,indoor,"clean_room, dressing_room, shower, museum/indoor, discotheque",52587
-939,22536,indoor,"clean_room, chemistry_lab, museum/indoor, dressing_room, biology_laboratory",52587
-940,22560,indoor,"clean_room, dressing_room, chemistry_lab, museum/indoor, beauty_salon",52587
-941,22584,indoor,"clean_room, dressing_room, museum/indoor, chemistry_lab, ballroom",52587
-942,22608,indoor,"clean_room, museum/indoor, archive, stage/indoor, art_gallery",52587
-943,22632,indoor,"clean_room, museum/indoor, archive, discotheque, chemistry_lab",52587
-944,22656,indoor,"clean_room, museum/indoor, art_gallery, archive, discotheque",52587
-945,22680,indoor,"clean_room, museum/indoor, discotheque, art_gallery, archive",52587
-946,22704,indoor,"clean_room, chemistry_lab, museum/indoor, art_gallery, biology_laboratory",52587
-947,22728,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, physics_laboratory",52587
-948,22752,outdoor,"clean_room, iceberg, museum/indoor, ice_shelf, ice_floe",52587
-949,22776,indoor,"clean_room, drugstore, archive, pharmacy, discotheque",52587
-950,22800,indoor,"clean_room, chemistry_lab, shower, discotheque, biology_laboratory",52587
-951,22824,indoor,"clean_room, chemistry_lab, server_room, shower, ice_shelf",52587
-952,22848,indoor,"clean_room, chemistry_lab, server_room, biology_laboratory, ice_shelf",52587
-953,22872,indoor,"bathroom, shower, coffee_shop, chemistry_lab, nursery",52587
-954,22896,indoor,"bathroom, coffee_shop, shower, beauty_salon, chemistry_lab",52587
-955,22920,outdoor,"water_tower, tower, shower, skyscraper, museum/indoor",52587
-956,22944,indoor,"alcove, attic, sauna, bow_window/indoor, basement",52587
-957,22968,indoor,"music_studio, dressing_room, nursery, living_room, dorm_room",52587
-958,22992,indoor,"clean_room, chemistry_lab, biology_laboratory, corridor, museum/indoor",52587
-959,23016,indoor,"discotheque, stage/indoor, chemistry_lab, music_studio, shower",52587
-960,23040,indoor,"discotheque, stage/indoor, clean_room, music_studio, basement",52587
-961,23064,indoor,"stage/indoor, discotheque, clean_room, basement, music_studio",52587
-962,23088,indoor,"museum/indoor, stage/indoor, clean_room, shower, art_gallery",52587
-963,23112,indoor,"clean_room, server_room, shower, skyscraper, airport_terminal",52587
-964,23136,indoor,"clean_room, chemistry_lab, shower, discotheque, tower",52587
-965,23160,indoor,"clean_room, chemistry_lab, discotheque, shower, underwater/ocean_deep",52587
-966,23184,indoor,"clean_room, shower, chemistry_lab, bathroom, museum/indoor",52587
-967,23208,indoor,"clean_room, chemistry_lab, biology_laboratory, shower, iceberg",52587
-968,23232,indoor,"booth/indoor, cemetery, museum/indoor, drugstore, ticket_booth",52587
-969,23256,indoor,"booth/indoor, cemetery, museum/indoor, jewelry_shop, drugstore",52587
-970,23280,indoor,"clean_room, shower, discotheque, locker_room, chemistry_lab",52587
-971,23304,indoor,"clean_room, chemistry_lab, discotheque, locker_room, biology_laboratory",52587
-972,23328,indoor,"clean_room, shower, museum/indoor, chemistry_lab, beauty_salon",52587
-973,23352,indoor,"clean_room, museum/indoor, shower, bathroom, chemistry_lab",52587
-974,23376,indoor,"museum/indoor, clean_room, science_museum, shower, igloo",52587
-975,23400,indoor,"clean_room, chemistry_lab, biology_laboratory, dressing_room, operating_room",52587
-976,23424,indoor,"clean_room, chemistry_lab, biology_laboratory, dressing_room, beauty_salon",52587
-977,23448,indoor,"clean_room, biology_laboratory, chemistry_lab, dressing_room, gift_shop",52587
-978,23472,indoor,"clean_room, chemistry_lab, dressing_room, biology_laboratory, hospital_room",52587
-979,23496,indoor,"clean_room, dressing_room, hospital_room, museum/indoor, operating_room",52587
-980,23520,indoor,"discotheque, stage/indoor, arena/performance, music_studio, underwater/ocean_deep",52587
-981,23544,indoor,"discotheque, stage/indoor, bar, music_studio, arena/performance",52587
-982,23568,indoor,"discotheque, stage/indoor, music_studio, arena/performance, bowling_alley",52587
-983,23592,indoor,"discotheque, stage/indoor, music_studio, arena/performance, clean_room",52587
-984,23616,indoor,"discotheque, chemistry_lab, bar, bowling_alley, biology_laboratory",52587
-985,23640,indoor,"discotheque, bowling_alley, playground, gymnasium/indoor, soccer_field",52587
-986,23664,indoor,"clean_room, dressing_room, discotheque, chemistry_lab, hospital_room",52587
-987,23688,indoor,"clean_room, chemistry_lab, dressing_room, discotheque, hospital_room",52587
-988,23712,indoor,"clean_room, dressing_room, chemistry_lab, discotheque, hospital_room",52587
-989,23736,indoor,"clean_room, dressing_room, discotheque, ballroom, chemistry_lab",52587
-990,23760,indoor,"clean_room, dressing_room, discotheque, chemistry_lab, ballroom",52587
-991,23784,indoor,"clean_room, discotheque, dressing_room, chemistry_lab, ballroom",52587
-992,23808,indoor,"clean_room, discotheque, ballroom, dressing_room, hospital_room",52587
-993,23832,indoor,"clean_room, discotheque, dressing_room, stage/indoor, museum/indoor",52587
-994,23856,indoor,"clean_room, dressing_room, discotheque, ballroom, museum/indoor",52587
-995,23880,indoor,"discotheque, stage/indoor, museum/indoor, clean_room, science_museum",52587
-996,23904,indoor,"discotheque, stage/indoor, music_studio, auditorium, arena/performance",52587
-997,23928,indoor,"discotheque, stage/indoor, clean_room, music_studio, chemistry_lab",52587
-998,23952,indoor,"discotheque, stage/indoor, clean_room, chemistry_lab, music_studio",52587
-999,23976,indoor,"clean_room, locker_room, museum/indoor, archive, dressing_room",52587
-1000,24000,indoor,"clean_room, discotheque, museum/indoor, chemistry_lab, stage/indoor",52587
-1001,24024,indoor,"clean_room, chemistry_lab, biology_laboratory, airport_terminal, discotheque",52587
-1002,24048,indoor,"clean_room, chemistry_lab, shower, discotheque, museum/indoor",52587
-1003,24072,indoor,"clean_room, discotheque, museum/indoor, stage/indoor, chemistry_lab",52587
-1004,24096,indoor,"clean_room, shower, museum/indoor, art_gallery, archive",52587
-1005,24120,indoor,"clean_room, museum/indoor, beauty_salon, iceberg, dressing_room",52587
-1006,24144,indoor,"igloo, discotheque, shower, basement, underwater/ocean_deep",52587
-1007,24168,outdoor,"ice_shelf, iceberg, shower, sky, ice_floe",52587
-1008,24192,outdoor,"ice_shelf, sky, desert/sand, iceberg, hot_spring",52587
-1009,24216,outdoor,"ice_shelf, iceberg, ice_floe, igloo, snowfield",52587
-1010,24240,outdoor,"iceberg, ice_shelf, ice_floe, crevasse, igloo",52587
-1011,24264,outdoor,"ice_shelf, iceberg, snowfield, underwater/ocean_deep, ice_floe",52587
-1012,24288,outdoor,"sky, hot_spring, volcano, ice_shelf, snowfield",52587
-1013,24312,outdoor,"sky, volcano, desert/sand, hot_spring, ice_shelf",52587
-1014,24336,outdoor,"sky, desert/sand, hot_spring, snowfield, ocean",52587
-1015,24360,outdoor,"sky, hot_spring, volcano, mountain, snowfield",52587
-1016,24384,outdoor,"sky, hot_spring, snowfield, volcano, mountain_snowy",52587
-1017,24408,indoor,"bathroom, alcove, shower, clean_room, utility_room",52587
-1018,24432,indoor,"utility_room, bathroom, alcove, shower, closet",52587
-1019,24456,indoor,"clean_room, dressing_room, discotheque, stage/indoor, operating_room",52587
-1020,24480,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1021,24504,indoor,"clean_room, operating_room, dressing_room, hospital_room, chemistry_lab",52587
-1022,24528,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1023,24552,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1024,24576,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",52587
-1025,24600,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",52587
-1026,24624,indoor,"clean_room, dressing_room, operating_room, hospital_room, chemistry_lab",52587
-1027,24648,indoor,"clean_room, dressing_room, operating_room, hospital_room, shower",52587
-1028,24672,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1029,24696,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1030,24720,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1031,24744,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1032,24768,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1033,24792,indoor,"clean_room, dressing_room, operating_room, hospital_room, clothing_store",52587
-1034,24816,indoor,"clean_room, operating_room, dressing_room, hospital_room, martial_arts_gym",52587
-1035,24840,indoor,"clean_room, operating_room, dressing_room, hospital_room, chemistry_lab",52587
-1036,24864,indoor,"bathroom, clean_room, shower, nursery, archive",52587
-1037,24888,indoor,"clean_room, shower, nursery, bathroom, utility_room",52587
-1038,24912,indoor,"clean_room, nursery, shower, archive, utility_room",52587
-1039,24936,indoor,"clean_room, nursery, shower, utility_room, bathroom",52587
-1040,24960,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",52587
-1041,24984,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1042,25008,indoor,"clean_room, dressing_room, hospital_room, operating_room, discotheque",52587
-1043,25032,indoor,"clean_room, dressing_room, operating_room, hospital_room, discotheque",52587
-1044,25056,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",52587
-1045,25080,indoor,"clean_room, dressing_room, operating_room, hospital_room, beauty_salon",52587
-1046,25104,indoor,"clean_room, dressing_room, operating_room, hospital_room, museum/indoor",52587
-1047,25128,indoor,"clean_room, dressing_room, operating_room, hospital_room, museum/indoor",52587
-1048,25152,outdoor,"snowfield, desert/sand, ice_shelf, beach, ice_floe",52587
-1049,25176,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1050,25200,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1051,25224,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1052,25248,outdoor,"igloo, ice_shelf, hot_spring, snowfield, ice_floe",52587
-1053,25272,outdoor,"arch, igloo, attic, alcove, bridge",52587
-1054,25296,outdoor,"arch, igloo, alcove, attic, viaduct",52587
-1055,25320,outdoor,"arch, igloo, alcove, attic, bridge",52587
-1056,25344,outdoor,"igloo, arch, alcove, attic, ice_shelf",52587
-1057,25368,outdoor,"iceberg, discotheque, aquarium, igloo, ice_shelf",52587
-1058,25392,outdoor,"iceberg, aquarium, underwater/ocean_deep, igloo, ice_floe",52587
-1059,25416,outdoor,"iceberg, aquarium, underwater/ocean_deep, ice_floe, ice_shelf",52587
-1060,25440,outdoor,"aquarium, iceberg, underwater/ocean_deep, igloo, discotheque",52587
-1061,25464,outdoor,"iceberg, ice_floe, ice_shelf, discotheque, igloo",52587
-1062,25488,outdoor,"snowfield, sky, ocean, glacier, ski_slope",52587
-1063,25512,outdoor,"ice_shelf, iceberg, glacier, sky, ocean",52587
-1064,25536,outdoor,"sky, desert/sand, ice_shelf, snowfield, underwater/ocean_deep",52587
-1065,25560,outdoor,"iceberg, ice_shelf, discotheque, ice_floe, igloo",52587
-1066,25584,outdoor,"iceberg, discotheque, ice_shelf, igloo, ice_floe",52587
-1067,25608,outdoor,"iceberg, discotheque, ice_shelf, igloo, ice_floe",52587
-1068,25632,outdoor,"discotheque, iceberg, ice_shelf, igloo, ice_floe",52587
-1069,25656,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1070,25680,indoor,"clean_room, chemistry_lab, biology_laboratory, shower, museum/indoor",52587
-1071,25704,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1072,25728,outdoor,"clean_room, runway, ice_shelf, iceberg, attic",52587
-1073,25752,outdoor,"clean_room, runway, ice_shelf, iceberg, attic",52587
-1074,25776,indoor,"clean_room, museum/indoor, runway, operating_room, ice_shelf",52587
-1075,25800,outdoor,"clean_room, iceberg, ice_shelf, runway, igloo",52587
-1076,25824,outdoor,"ice_shelf, desert/sand, igloo, snowfield, ski_slope",52587
-1077,25848,outdoor,"ice_shelf, tower, desert/sand, shower, igloo",52587
-1078,25872,outdoor,"tower, beach, ocean, shower, lighthouse",52587
-1079,25896,outdoor,"tower, shower, beach, lighthouse, ice_shelf",52587
-1080,25920,outdoor,"runway, landing_deck, hangar/outdoor, airfield, ice_shelf",52587
-1081,25944,outdoor,"runway, landing_deck, hangar/outdoor, airfield, ice_shelf",52587
-1082,25968,outdoor,"runway, landing_deck, ice_shelf, desert/sand, parking_garage/indoor",52587
-1083,25992,outdoor,"ice_shelf, ocean, beach, coast, shower",52587
-1084,26016,outdoor,"tower, lighthouse, beach, shower, ocean",52587
-1085,26040,outdoor,"tower, lighthouse, beach, shower, wind_farm",52587
-1086,26064,outdoor,"tower, lighthouse, beach, shower, ocean",52587
-1087,26088,outdoor,"tower, lighthouse, ocean, beach, coast",52587
-1088,26112,outdoor,"tower, lighthouse, beach, ocean, skyscraper",52587
-1089,26136,outdoor,"iceberg, ice_floe, igloo, ice_shelf, chemistry_lab",52587
-1090,26160,outdoor,"iceberg, ice_floe, ice_shelf, igloo, glacier",52587
-1091,26184,outdoor,"runway, landing_deck, airfield, hangar/outdoor, heliport",52587
-1092,26208,outdoor,"runway, landing_deck, ice_shelf, ice_floe, desert/sand",52587
-1093,26232,outdoor,"runway, landing_deck, shower, ice_shelf, desert/sand",52587
-1094,26256,outdoor,"runway, landing_deck, ice_shelf, airfield, ice_floe",52587
-1095,26280,indoor,"clean_room, chemistry_lab, biology_laboratory, shower, physics_laboratory",52587
-1096,26304,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1097,26328,indoor,"chemistry_lab, clean_room, biology_laboratory, museum/indoor, physics_laboratory",52587
-1098,26352,indoor,"basement, elevator/door, shower, closet, wind_farm",52587
-1099,26376,indoor,"basement, elevator/door, wind_farm, closet, shower",52587
-1100,26400,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, shower",52587
-1101,26424,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1102,26448,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, shower",52587
-1103,26472,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, shower",52587
-1104,26496,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1105,26520,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1106,26544,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, museum/indoor",52587
-1107,26568,indoor,"chemistry_lab, clean_room, biology_laboratory, physics_laboratory, shower",52587
-1108,26592,indoor,"chemistry_lab, clean_room, biology_laboratory, shower, physics_laboratory",52587
-1109,26616,indoor,"chemistry_lab, clean_room, biology_laboratory, shower, physics_laboratory",52587
-1110,26640,indoor,"ice_floe, iceberg, nursery, clean_room, chemistry_lab",52587
-1111,26664,outdoor,"iceberg, ice_floe, clean_room, ice_shelf, pond",52587
-1112,26688,outdoor,"clean_room, chemistry_lab, iceberg, ice_floe, ice_shelf",52587
-1113,26712,indoor,"clean_room, ice_floe, chemistry_lab, iceberg, shower",52587
-1114,26736,indoor,"clean_room, ice_floe, iceberg, chemistry_lab, shower",52587
-1115,26760,outdoor,"ice_floe, iceberg, clean_room, chemistry_lab, pond",52587
-1116,26784,outdoor,"basement, ice_shelf, tower, lighthouse, ocean",52587
-1117,26808,outdoor,"ocean, ice_shelf, lighthouse, shower, tower",52587
-1118,26832,outdoor,"basement, shower, sky, desert/sand, ocean",52587
-1119,26856,outdoor,"tower, lighthouse, ocean, corridor, shower",52587
-1120,26880,outdoor,"tower, lighthouse, sky, beach, ocean",52587
-1121,26904,outdoor,"sky, tower, ice_shelf, lighthouse, beach",52587
-1122,26928,outdoor,"ice_shelf, discotheque, iceberg, sky, basement",52587
-1123,26952,outdoor,"basement, ice_shelf, ocean, beach, jail_cell",52587
-1124,26976,outdoor,"ice_shelf, iceberg, ice_floe, ocean, igloo",52587
-1125,27000,outdoor,"ice_shelf, iceberg, ice_floe, ocean, igloo",52587
-1126,27024,outdoor,"iceberg, ice_shelf, ice_floe, igloo, ocean",52587
-1127,27048,outdoor,"ice_shelf, ocean, beach, iceberg, ice_floe",52587
-1128,27072,outdoor,"ice_shelf, ocean, museum/indoor, beach, coast",52587
-1129,27096,outdoor,"ice_shelf, iceberg, ice_floe, ocean, coast",52587
-1130,27120,outdoor,"ice_shelf, iceberg, ocean, sky, ice_floe",52587
-1131,27144,indoor,"chemistry_lab, clean_room, museum/indoor, shower, biology_laboratory",52587
-1132,27168,indoor,"clean_room, chemistry_lab, shower, museum/indoor, art_gallery",52587
-1133,27192,indoor,"clean_room, museum/indoor, chemistry_lab, shower, underwater/ocean_deep",52587
-1134,27216,indoor,"clean_room, iceberg, museum/indoor, ice_floe, art_gallery",52587
-1135,27240,outdoor,"iceberg, ice_floe, clean_room, ice_shelf, pond",52587
-1136,27264,outdoor,"iceberg, clean_room, ice_floe, igloo, natural_history_museum",52587
-1137,27288,outdoor,"clean_room, iceberg, igloo, ice_floe, museum/indoor",52587
-1138,27312,outdoor,"wind_farm, windmill, shower, ice_shelf, ice_floe",52587
-1139,27336,outdoor,"ice_shelf, iceberg, ice_floe, lake/natural, ocean",52587
-1140,27360,outdoor,"wind_farm, sky, desert/sand, ice_shelf, lake/natural",52587
-1141,27384,indoor,"discotheque, clean_room, science_museum, airport_terminal, locker_room",52587
-1142,27408,indoor,"discotheque, shower, hot_spring, museum/indoor, stage/indoor",52587
-1143,27432,indoor,"discotheque, clean_room, shower, igloo, bathroom",52587
-1144,27456,outdoor,"sky, snowfield, hot_spring, desert/sand, ice_shelf",52587
-1145,27480,outdoor,"wind_farm, shower, ice_shelf, basement, windmill",52587
-1146,27504,outdoor,"wind_farm, sky, shower, windmill, hot_spring",52587
-1147,27528,outdoor,"wind_farm, windmill, shower, desert/sand, ice_shelf",52587
-1148,27552,outdoor,"wind_farm, shower, windmill, snowfield, ice_shelf",52587
-1149,27576,outdoor,"wind_farm, shower, snowfield, desert/sand, windmill",52587
-1150,27600,indoor,"wind_farm, shower, closet, windmill, basement",52587
-1151,27624,indoor,"wind_farm, shower, windmill, closet, basement",52587
-1152,27648,indoor,"wind_farm, shower, windmill, basement, attic",52587
-1153,27672,indoor,"shower, tower, skyscraper, server_room, locker_room",52587
-1154,27696,outdoor,"wind_farm, tower, shower, skyscraper, windmill",52587
-1155,27720,outdoor,"wind_farm, shower, tower, windmill, skyscraper",52587
-1156,27744,outdoor,"tower, skyscraper, shower, sky, office_building",52587
-1157,27768,outdoor,"tower, skyscraper, shower, server_room, sky",52587
-1158,27792,outdoor,"tower, shower, skyscraper, lighthouse, chemistry_lab",52587
-1159,27816,outdoor,"shower, tower, skyscraper, wind_farm, water_tower",52587
-1160,27840,indoor,"shower, chemistry_lab, clean_room, bathroom, tower",52587
-1161,27864,indoor,"clean_room, shower, bathroom, locker_room, server_room",52587
-1162,27888,indoor,"clean_room, shower, chemistry_lab, bathroom, locker_room",52587
-1163,27912,indoor,"clean_room, shower, chemistry_lab, bathroom, discotheque",52587
-1164,27936,outdoor,"underwater/ocean_deep, iceberg, ice_shelf, ice_floe, aquarium",52587
-1165,27960,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, discotheque, ice_floe",52587
-1166,27984,outdoor,"iceberg, ice_shelf, ice_floe, underwater/ocean_deep, igloo",52587
-1167,28008,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, ice_floe, discotheque",52587
-1168,28032,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, ice_floe, chemistry_lab",52587
-1169,28056,outdoor,"iceberg, underwater/ocean_deep, ice_shelf, ice_floe, aquarium",52587
-1170,28080,outdoor,"underwater/ocean_deep, iceberg, ice_shelf, aquarium, ice_floe",52587
-1171,28104,outdoor,"underwater/ocean_deep, iceberg, ice_shelf, ice_floe, chemistry_lab",52587
-1172,28128,outdoor,"underwater/ocean_deep, ice_shelf, iceberg, chemistry_lab, discotheque",52587
-1173,28152,outdoor,"underwater/ocean_deep, chemistry_lab, iceberg, ice_shelf, ice_floe",52587
-1174,28176,outdoor,"sky, underwater/ocean_deep, igloo, pond, ice_shelf",52587
-1175,28200,outdoor,"sky, volcano, hot_spring, desert/sand, ice_shelf",52587
-1176,28224,outdoor,"lighthouse, tower, ocean, beach, coast",52587
-1177,28248,outdoor,"igloo, ice_shelf, ocean, beach, lighthouse",52587
-1178,28272,outdoor,"ocean, beach, ice_shelf, coast, tower",52587
-1179,28296,outdoor,"ocean, ice_shelf, beach, desert/sand, coast",52587
-1180,28320,outdoor,"beach, ocean, ice_shelf, coast, hot_spring",52587
-1181,28344,outdoor,"iceberg, ice_floe, volcano, ice_shelf, igloo",52587
-1182,28368,outdoor,"iceberg, ice_floe, ice_shelf, igloo, pond",52587
-1183,28392,outdoor,"sky, hot_spring, ice_shelf, ice_floe, igloo",52587
-1184,28416,outdoor,"sky, hot_spring, desert/sand, ice_shelf, pond",52587
-1185,28440,outdoor,"sky, hot_spring, desert/sand, volcano, ice_shelf",52587
-1186,28464,outdoor,"sky, desert/sand, hot_spring, volcano, ice_shelf",52587
-1187,28488,outdoor,"sky, desert/sand, igloo, snowfield, ice_shelf",52587
-1188,28512,outdoor,"snowfield, ice_shelf, desert/sand, hot_spring, sky",52587
-1189,28536,indoor,"server_room, clean_room, elevator/door, shower, skyscraper",52587
-1190,28560,indoor,"server_room, shower, elevator/door, clean_room, skyscraper",52587
-1191,28584,indoor,"server_room, shower, tower, skyscraper, elevator/door",52587
-1192,28608,indoor,"shower, server_room, clean_room, elevator/door, art_gallery",52587
-1193,28632,outdoor,"snowfield, ice_shelf, shower, sky, art_gallery",52587
-1194,28656,indoor,"clean_room, server_room, bank_vault, underwater/ocean_deep, corridor",52587
-1195,28680,indoor,"server_room, shower, skyscraper, tower, clean_room",52587
-1196,28704,indoor,"server_room, clean_room, locker_room, basement, corridor",52587
-1197,28728,indoor,"server_room, clean_room, shower, tower, ice_shelf",52587
-1198,28752,indoor,"server_room, clean_room, basement, corridor, ice_shelf",52587
-1199,28776,indoor,"underwater/ocean_deep, clean_room, discotheque, art_gallery, museum/indoor",52587
-1200,28800,indoor,"clean_room, shower, locker_room, chemistry_lab, bathroom",52587
-1201,28824,indoor,"clean_room, shower, bathroom, chemistry_lab, locker_room",52587
-1202,28848,indoor,"clean_room, shower, chemistry_lab, bathroom, discotheque",52587
-1203,28872,indoor,"clean_room, discotheque, chemistry_lab, stage/indoor, museum/indoor",52587
-1204,28896,indoor,"clean_room, discotheque, shower, stage/indoor, museum/indoor",52587
-1205,28920,indoor,"discotheque, clean_room, stage/indoor, museum/indoor, chemistry_lab",52587
-1206,28944,outdoor,"underwater/ocean_deep, pond, ice_floe, aquarium, iceberg",52587
-1207,28968,indoor,"shower, wind_farm, elevator/door, jail_cell, tower",52587
-1208,28992,indoor,"elevator_lobby, locker_room, shower, elevator/door, basement",52587
-1209,29016,indoor,"corridor, elevator_lobby, clean_room, locker_room, elevator/door",52587
-1210,29040,indoor,"iceberg, clean_room, corridor, ice_shelf, airport_terminal",52587
-1211,29064,indoor,"clean_room, corridor, chemistry_lab, elevator_lobby, airport_terminal",52587
-1212,29088,indoor,"clean_room, elevator_lobby, corridor, lobby, elevator/door",52587
-1213,29112,indoor,"discotheque, airport_terminal, shower, elevator/door, clean_room",52587
-1214,29136,outdoor,"underwater/ocean_deep, ice_floe, clean_room, iceberg, chemistry_lab",52587
-1215,29160,indoor,"clean_room, chemistry_lab, underwater/ocean_deep, museum/indoor, ice_floe",52587
-1216,29184,indoor,"clean_room, ice_floe, chemistry_lab, museum/indoor, underwater/ocean_deep",52587
-1217,29208,indoor,"clean_room, museum/indoor, chemistry_lab, ice_floe, iceberg",52587
-1218,29232,indoor,"museum/indoor, clean_room, chemistry_lab, iceberg, natural_history_museum",52587
-1219,29256,indoor,"museum/indoor, clean_room, ice_floe, chemistry_lab, iceberg",52587
-1220,29280,outdoor,"ice_floe, chemistry_lab, underwater/ocean_deep, clean_room, iceberg",52587
-1221,29304,indoor,"museum/indoor, clean_room, underwater/ocean_deep, chemistry_lab, pond",52587
-1222,29328,outdoor,"ice_floe, iceberg, underwater/ocean_deep, ice_shelf, chemistry_lab",52587
-1223,29352,indoor,"discotheque, museum/indoor, ice_shelf, iceberg, stage/indoor",52587
-1224,29376,indoor,"discotheque, stage/indoor, museum/indoor, martial_arts_gym, boxing_ring",52587
-1225,29400,indoor,"discotheque, stage/indoor, museum/indoor, dressing_room, nursery",52587
-1226,29424,indoor,"clean_room, shower, chemistry_lab, bathroom, discotheque",52587
-1227,29448,indoor,"clean_room, shower, chemistry_lab, bathroom, locker_room",52587
-1228,29472,indoor,"igloo, chemistry_lab, clean_room, iceberg, discotheque",52587
-1229,29496,outdoor,"iceberg, igloo, ice_shelf, ice_floe, discotheque",52587
-1230,29520,outdoor,"igloo, iceberg, ice_shelf, discotheque, ice_floe",52587
-1231,29544,outdoor,"igloo, sky, ice_shelf, ice_floe, shower",52587
-1232,29568,outdoor,"igloo, ice_shelf, hot_spring, iceberg, ocean",52587
-1233,29592,outdoor,"igloo, ice_shelf, sky, iceberg, ice_floe",52587
-1234,29616,indoor,"clean_room, discotheque, underwater/ocean_deep, ice_floe, museum/indoor",52587
-1235,29640,outdoor,"clean_room, ice_floe, museum/indoor, iceberg, underwater/ocean_deep",52587
-1236,29664,outdoor,"ice_floe, underwater/ocean_deep, clean_room, museum/indoor, iceberg",52587
-1237,29688,outdoor,"ice_floe, iceberg, underwater/ocean_deep, museum/indoor, clean_room",52587
-1238,29712,outdoor,"ice_floe, underwater/ocean_deep, iceberg, ice_shelf, clean_room",52587
-1239,29736,outdoor,"clean_room, museum/indoor, ice_floe, underwater/ocean_deep, iceberg",52587
-1240,29760,outdoor,"underwater/ocean_deep, ice_floe, iceberg, discotheque, clean_room",52587
-1241,29784,outdoor,"ice_floe, clean_room, underwater/ocean_deep, chemistry_lab, ice_shelf",52587
-1242,29808,outdoor,"ice_floe, underwater/ocean_deep, clean_room, ice_shelf, iceberg",52587
-1243,29832,outdoor,"ice_floe, museum/indoor, iceberg, ice_shelf, clean_room",52587
-1244,29856,outdoor,"iceberg, ice_floe, ice_shelf, underwater/ocean_deep, museum/indoor",52587
-1245,29880,outdoor,"igloo, ice_shelf, hot_spring, ice_floe, shower",52587
-1246,29904,outdoor,"ice_shelf, igloo, ocean, hot_spring, ice_floe",52587
-1247,29928,outdoor,"igloo, ice_shelf, ice_floe, basement, archive",52587
-1248,29952,outdoor,"sky, ice_shelf, hot_spring, ocean, volcano",52587
-1249,29976,outdoor,"ice_shelf, ice_floe, iceberg, discotheque, clean_room",52587
-1250,30000,indoor,"discotheque, shower, chemistry_lab, ice_shelf, clean_room",52587
-1251,30024,indoor,"discotheque, shower, ice_shelf, chemistry_lab, iceberg",52587
-1252,30048,indoor,"shower, discotheque, pond, stage/indoor, underwater/ocean_deep",52587
-1253,30072,indoor,"discotheque, shower, stage/indoor, igloo, underwater/ocean_deep",52587
-1254,30096,indoor,"discotheque, shower, stage/indoor, pond, art_gallery",52587
-1255,30120,outdoor,"discotheque, clean_room, iceberg, igloo, ice_shelf",52587
-1256,30144,indoor,"aquarium, shower, discotheque, igloo, iceberg",52587
-1257,30168,indoor,"clean_room, shower, ice_floe, art_gallery, ice_shelf",52587
-1258,30192,outdoor,"ice_floe, shower, hot_spring, ice_shelf, pond",52587
-1259,30216,indoor,"discotheque, stage/indoor, igloo, ice_shelf, museum/indoor",52587
-1260,30240,indoor,"clean_room, museum/indoor, art_gallery, discotheque, stage/indoor",52587
-1261,30264,indoor,"clean_room, museum/indoor, archive, ice_floe, igloo",52587
-1262,30288,outdoor,"desert/sand, sky, snowfield, igloo, volcano",52587
-1263,30312,outdoor,"desert/sand, sky, snowfield, igloo, volcano",52587
-1264,30336,indoor,"discotheque, clean_room, shower, chemistry_lab, stage/indoor",52587
-1265,30360,indoor,"discotheque, clean_room, museum/indoor, stage/indoor, iceberg",52587
-1266,30384,indoor,"museum/indoor, clean_room, discotheque, underwater/ocean_deep, science_museum",52587
-1267,30408,outdoor,"museum/indoor, underwater/ocean_deep, pond, ice_floe, science_museum",52587
-1268,30432,outdoor,"underwater/ocean_deep, museum/indoor, pond, clean_room, ice_floe",52587
-1269,30456,indoor,"shower, bathroom, chemistry_lab, clean_room, igloo",52587
-1270,30480,indoor,"shower, bathroom, chemistry_lab, clean_room, igloo",52587
-1271,30504,indoor,"shower, bathroom, chemistry_lab, igloo, clean_room",52587
-1272,30528,indoor,"clean_room, stage/indoor, discotheque, chemistry_lab, iceberg",52587
-1273,30552,indoor,"clean_room, chemistry_lab, discotheque, stage/indoor, music_studio",52587
-1274,30576,indoor,"clean_room, chemistry_lab, music_studio, stage/indoor, discotheque",52587
-1275,30600,indoor,"clean_room, chemistry_lab, discotheque, stage/indoor, music_studio",52587
-1276,30624,indoor,"clean_room, chemistry_lab, discotheque, stage/indoor, music_studio",52587
-1277,30648,indoor,"clean_room, shower, dressing_room, chemistry_lab, operating_room",52587
-1278,30672,indoor,"dressing_room, clean_room, discotheque, shower, music_studio",52587
-1279,30696,indoor,"dressing_room, clean_room, nursery, shower, sauna",52587
-1280,30720,indoor,"clean_room, dressing_room, martial_arts_gym, nursery, discotheque",52587
-1281,30744,indoor,"clean_room, dressing_room, nursery, discotheque, shower",52587
-1282,30768,indoor,"clean_room, discotheque, dressing_room, nursery, stage/indoor",52587
-1283,30792,indoor,"clean_room, dressing_room, discotheque, stage/indoor, nursery",52587
-1284,30816,indoor,"discotheque, dressing_room, clean_room, stage/indoor, shower",52587
-1285,30840,indoor,"dressing_room, discotheque, clean_room, stage/indoor, music_studio",52587
-1286,30864,indoor,"discotheque, dressing_room, clean_room, stage/indoor, shower",52587
-1287,30888,indoor,"discotheque, dressing_room, clean_room, stage/indoor, music_studio",52587
-1288,30912,indoor,"dressing_room, clean_room, discotheque, stage/indoor, shower",52587
-1289,30936,indoor,"dressing_room, clean_room, shower, discotheque, stage/indoor",52587
-1290,30960,indoor,"dressing_room, discotheque, clean_room, shower, music_studio",52587
-1291,30984,indoor,"dressing_room, clean_room, discotheque, shower, music_studio",52587
-1292,31008,indoor,"dressing_room, discotheque, clean_room, shower, stage/indoor",52587
-1293,31032,indoor,"dressing_room, clean_room, discotheque, music_studio, stage/indoor",52587
-1294,31056,indoor,"shower, bathroom, chemistry_lab, clean_room, biology_laboratory",52587
-1295,31080,indoor,"bathroom, shower, chemistry_lab, clean_room, biology_laboratory",52587
-1296,31104,indoor,"bathroom, shower, chemistry_lab, clean_room, biology_laboratory",52587
-1297,31128,indoor,"bathroom, shower, chemistry_lab, clean_room, biology_laboratory",52587
-1298,31152,indoor,"dressing_room, clean_room, discotheque, beauty_salon, shower",52587
-1299,31176,indoor,"dressing_room, clean_room, discotheque, shower, beauty_salon",52587
-1300,31200,indoor,"dressing_room, discotheque, stage/indoor, shower, clean_room",52587
-1301,31224,indoor,"dressing_room, discotheque, shower, clean_room, stage/indoor",52587
-1302,31248,indoor,"dressing_room, discotheque, stage/indoor, clean_room, music_studio",52587
-1303,31272,indoor,"dressing_room, discotheque, clean_room, shower, stage/indoor",52587
-1304,31296,indoor,"dressing_room, clean_room, discotheque, shower, beauty_salon",52587
-1305,31320,indoor,"dressing_room, clean_room, discotheque, beauty_salon, shower",52587
-1306,31344,indoor,"shower, bathroom, clean_room, chemistry_lab, pharmacy",52587
-1307,31368,indoor,"shower, clean_room, chemistry_lab, bathroom, biology_laboratory",52587
-1308,31392,indoor,"shower, clean_room, bathroom, chemistry_lab, pharmacy",52587
-1309,31416,indoor,"shower, bathroom, clean_room, chemistry_lab, biology_laboratory",52587
-1310,31440,indoor,"chemistry_lab, shower, bathroom, clean_room, biology_laboratory",52587
-1311,31464,indoor,"shower, bathroom, chemistry_lab, clean_room, jail_cell",52587
-1312,31488,indoor,"shower, bathroom, chemistry_lab, clean_room, biology_laboratory",52587
-1313,31512,indoor,"shower, bathroom, clean_room, chemistry_lab, igloo",52587
-1314,31536,indoor,"shower, bathroom, clean_room, chemistry_lab, biology_laboratory",52587
-1315,31560,indoor,"bathroom, shower, chemistry_lab, clean_room, biology_laboratory",52587
-1316,31584,indoor,"clean_room, shower, chemistry_lab, bathroom, biology_laboratory",52587
-1317,31608,indoor,"chemistry_lab, clean_room, shower, bathroom, biology_laboratory",52587
-1318,31632,indoor,"bathroom, shower, chemistry_lab, clean_room, biology_laboratory",52587
-1319,31656,indoor,"shower, chemistry_lab, clean_room, bathroom, biology_laboratory",52587
-1320,31680,indoor,"dressing_room, clean_room, shower, discotheque, ballroom",52587
-1321,31704,indoor,"dressing_room, clean_room, shower, discotheque, stage/indoor",52587
-1322,31728,indoor,"dressing_room, clean_room, discotheque, shower, ballroom",52587
-1323,31752,indoor,"dressing_room, shower, ballroom, stage/indoor, discotheque",52587
-1324,31776,indoor,"dressing_room, shower, clean_room, ballroom, discotheque",52587
-1325,31800,indoor,"dressing_room, clean_room, shower, ballroom, stage/indoor",52587
-1326,31824,indoor,"dressing_room, ballroom, discotheque, shower, stage/indoor",52587
-1327,31848,indoor,"stage/indoor, ballroom, dressing_room, discotheque, clean_room",52587
-1328,31872,indoor,"stage/indoor, dressing_room, discotheque, ballroom, shower",52587
-1329,31896,indoor,"dressing_room, stage/indoor, ballroom, discotheque, shower",52587
-1330,31920,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-1331,31944,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-1332,31968,indoor,"bathroom, utility_room, laundromat, shower, bank_vault",52587
-1333,31992,indoor,"dressing_room, clean_room, discotheque, stage/indoor, shower",52587
-1334,32016,indoor,"dressing_room, shower, clean_room, ballroom, stage/indoor",52587
-1335,32040,indoor,"shower, dressing_room, stage/indoor, ballroom, clean_room",52587
-1336,32064,indoor,"dressing_room, stage/indoor, clean_room, discotheque, shower",52587
-1337,32088,indoor,"dressing_room, stage/indoor, discotheque, shower, clean_room",52587
-1338,32112,indoor,"discotheque, stage/indoor, clean_room, dressing_room, music_studio",52587
-1339,32136,indoor,"discotheque, stage/indoor, clean_room, dressing_room, chemistry_lab",52587
-1340,32160,indoor,"dressing_room, stage/indoor, discotheque, clean_room, ballroom",52587
-1341,32184,indoor,"clean_room, shower, museum/indoor, art_gallery, dressing_room",52587
-1342,32208,indoor,"shower, museum/indoor, art_gallery, clean_room, dressing_room",52587
-1343,32232,indoor,"shower, clean_room, museum/indoor, art_gallery, dressing_room",52587
-1344,32256,indoor,"shower, museum/indoor, clean_room, art_gallery, dressing_room",52587
-1345,32280,indoor,"museum/indoor, clean_room, art_gallery, shower, natural_history_museum",52587
-1346,32304,indoor,"clean_room, archive, locker_room, chemistry_lab, museum/indoor",52587
-1347,32328,indoor,"clean_room, museum/indoor, chemistry_lab, shower, locker_room",52587
-1348,32352,indoor,"clean_room, museum/indoor, art_gallery, chemistry_lab, locker_room",52587
-1349,32376,indoor,"museum/indoor, clean_room, shower, art_gallery, chemistry_lab",52587
-1350,32400,indoor,"museum/indoor, archive, art_gallery, discotheque, dressing_room",52587
-1351,32424,indoor,"museum/indoor, shower, discotheque, art_gallery, clean_room",52587
-1352,32448,indoor,"museum/indoor, art_gallery, clean_room, archive, dressing_room",52587
-1353,32472,indoor,"museum/indoor, art_gallery, discotheque, clean_room, archive",52587
-1354,32496,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, archive",52587
-1355,32520,indoor,"museum/indoor, art_gallery, clean_room, archive, discotheque",52587
-1356,32544,indoor,"museum/indoor, art_gallery, discotheque, dressing_room, clean_room",52587
-1357,32568,indoor,"museum/indoor, clean_room, art_gallery, archive, science_museum",52587
-1358,32592,indoor,"discotheque, shower, basement, underwater/ocean_deep, stage/indoor",52587
-1359,32616,indoor,"discotheque, basement, shower, stage/indoor, bar",52587
-1360,32640,indoor,"discotheque, shower, basement, stage/indoor, underwater/ocean_deep",52587
-1361,32664,indoor,"discotheque, shower, aquarium, underwater/ocean_deep, basement",52587
-1362,32688,indoor,"discotheque, shower, basement, underwater/ocean_deep, bar",52587
-1363,32712,indoor,"shower, discotheque, basement, bathroom, underwater/ocean_deep",52587
-1364,32736,indoor,"discotheque, shower, basement, underwater/ocean_deep, stage/indoor",52587
-1365,32760,indoor,"discotheque, shower, basement, aquarium, bathroom",52587
-1366,32784,indoor,"discotheque, shower, underwater/ocean_deep, aquarium, basement",52587
-1367,32808,indoor,"discotheque, shower, basement, aquarium, underwater/ocean_deep",52587
-1368,32832,indoor,"shower, discotheque, underwater/ocean_deep, aquarium, basement",52587
-1369,32856,indoor,"discotheque, shower, basement, underwater/ocean_deep, aquarium",52587
-1370,32880,indoor,"discotheque, basement, shower, stage/indoor, bar",52587
-1371,32904,indoor,"discotheque, basement, shower, bar, underwater/ocean_deep",52587
-1372,32928,indoor,"discotheque, stage/indoor, museum/indoor, art_gallery, shower",52587
-1373,32952,indoor,"discotheque, shower, basement, underwater/ocean_deep, aquarium",52587
-1374,32976,indoor,"discotheque, stage/indoor, clean_room, chemistry_lab, iceberg",52587
-1375,33000,indoor,"discotheque, stage/indoor, clean_room, iceberg, chemistry_lab",52587
-1376,33024,indoor,"discotheque, clean_room, stage/indoor, chemistry_lab, iceberg",52587
-1377,33048,indoor,"discotheque, stage/indoor, clean_room, music_studio, iceberg",52587
-1378,33072,indoor,"discotheque, stage/indoor, clean_room, chemistry_lab, iceberg",52587
-1379,33096,indoor,"discotheque, stage/indoor, clean_room, chemistry_lab, music_studio",52587
-1380,33120,indoor,"museum/indoor, shower, locker_room, archive, art_gallery",52587
-1381,33144,indoor,"shower, museum/indoor, locker_room, archive, art_gallery",52587
-1382,33168,indoor,"clean_room, museum/indoor, shower, art_gallery, locker_room",52587
-1383,33192,indoor,"museum/indoor, clean_room, art_gallery, shower, archive",52587
-1384,33216,indoor,"museum/indoor, clean_room, shower, art_gallery, archive",52587
-1385,33240,indoor,"museum/indoor, archive, clean_room, art_gallery, shower",52587
-1386,33264,indoor,"museum/indoor, clean_room, art_gallery, shower, archive",52587
-1387,33288,indoor,"shower, clean_room, locker_room, museum/indoor, art_gallery",52587
-1388,33312,indoor,"discotheque, stage/indoor, clean_room, chemistry_lab, shower",52587
-1389,33336,indoor,"clean_room, shower, museum/indoor, art_gallery, dressing_room",52587
-1390,33360,indoor,"clean_room, museum/indoor, archive, dressing_room, locker_room",52587
-1391,33384,indoor,"clean_room, museum/indoor, archive, dressing_room, shower",52587
-1392,33408,indoor,"clean_room, museum/indoor, archive, science_museum, art_gallery",52587
-1393,33432,indoor,"clean_room, museum/indoor, archive, science_museum, operating_room",52587
-1394,33456,indoor,"clean_room, museum/indoor, archive, science_museum, art_gallery",52587
-1395,33480,outdoor,"igloo, arch, rock_arch, ice_floe, ice_shelf",52587
-1396,33504,indoor,"igloo, arch, aquarium, shower, science_museum",52587
-1397,33528,indoor,"igloo, arch, shower, aquarium, science_museum",52587
-1398,33552,indoor,"clean_room, beauty_salon, art_gallery, dressing_room, museum/indoor",52587
-1399,33576,indoor,"clean_room, discotheque, dressing_room, beauty_salon, bathroom",52587
-1400,33600,indoor,"clean_room, dressing_room, beauty_salon, discotheque, museum/indoor",52587
-1401,33624,indoor,"clean_room, dressing_room, beauty_salon, museum/indoor, bathroom",52587
-1402,33648,indoor,"clean_room, dressing_room, beauty_salon, museum/indoor, discotheque",52587
-1403,33672,indoor,"discotheque, museum/indoor, shower, bathroom, dressing_room",52587
-1404,33696,indoor,"clean_room, discotheque, dressing_room, chemistry_lab, beauty_salon",52587
-1405,33720,indoor,"shower, bathroom, igloo, discotheque, chemistry_lab",52587
-1406,33744,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1407,33768,indoor,"clean_room, server_room, shower, corridor, chemistry_lab",52587
-1408,33792,indoor,"clean_room, shower, corridor, server_room, locker_room",52587
-1409,33816,indoor,"clean_room, server_room, elevator/door, corridor, locker_room",52587
-1410,33840,outdoor,"wind_farm, corridor, tower, skyscraper, clean_room",52587
-1411,33864,indoor,"clean_room, corridor, basement, locker_room, elevator/door",52587
-1412,33888,indoor,"clean_room, corridor, museum/indoor, art_gallery, basement",52587
-1413,33912,indoor,"clean_room, martial_arts_gym, locker_room, corridor, basement",52587
-1414,33936,indoor,"clean_room, locker_room, corridor, elevator/door, museum/indoor",52587
-1415,33960,indoor,"locker_room, clean_room, corridor, basement, discotheque",52587
-1416,33984,indoor,"basement, corridor, clean_room, chemistry_lab, discotheque",52587
-1417,34008,indoor,"clean_room, corridor, chemistry_lab, basement, dressing_room",52587
-1418,34032,indoor,"clean_room, chemistry_lab, basement, discotheque, locker_room",52587
-1419,34056,indoor,"clean_room, locker_room, basement, corridor, airport_terminal",52587
-1420,34080,indoor,"chemistry_lab, underwater/ocean_deep, biology_laboratory, discotheque, iceberg",52587
-1421,34104,outdoor,"chemistry_lab, biology_laboratory, ice_shelf, iceberg, underwater/ocean_deep",52587
-1422,34128,outdoor,"ice_shelf, iceberg, shower, ice_floe, aquarium",52587
-1423,34152,indoor,"shower, chemistry_lab, ice_shelf, ice_floe, aquarium",52587
-1424,34176,outdoor,"shower, chemistry_lab, ice_shelf, underwater/ocean_deep, ice_floe",52587
-1425,34200,indoor,"chemistry_lab, biology_laboratory, museum/indoor, discotheque, tower",52587
-1426,34224,outdoor,"shower, bathroom, runway, igloo, ice_shelf",52587
-1427,34248,outdoor,"ice_shelf, ice_floe, shower, igloo, bathroom",52587
-1428,34272,outdoor,"ice_shelf, iceberg, shower, basement, ice_floe",52587
-1429,34296,indoor,"basement, shower, ice_shelf, clean_room, iceberg",52587
-1430,34320,indoor,"basement, locker_room, shower, server_room, clean_room",52587
-1431,34344,indoor,"shower, locker_room, skyscraper, server_room, underwater/ocean_deep",52587
-1432,34368,outdoor,"shower, ice_shelf, clean_room, igloo, iceberg",52587
-1433,34392,indoor,"shower, ice_shelf, server_room, clean_room, basement",52587
-1434,34416,outdoor,"iceberg, ice_shelf, shower, igloo, ice_floe",52587
-1435,34440,outdoor,"igloo, shower, pond, ice_floe, ice_shelf",52587
-1436,34464,outdoor,"iceberg, ice_floe, ice_shelf, igloo, snowfield",52587
-1437,34488,outdoor,"igloo, iceberg, ice_floe, museum/indoor, natural_history_museum",52587
-1438,34512,indoor,"museum/indoor, underwater/ocean_deep, shower, ice_shelf, art_gallery",52587
-1439,34536,indoor,"chemistry_lab, clean_room, underwater/ocean_deep, iceberg, biology_laboratory",52587
-1440,34560,indoor,"chemistry_lab, underwater/ocean_deep, museum/indoor, shower, science_museum",52587
-1441,34584,indoor,"chemistry_lab, shower, underwater/ocean_deep, physics_laboratory, biology_laboratory",52587
-1442,34608,indoor,"chemistry_lab, biology_laboratory, discotheque, clean_room, stage/indoor",52587
-1443,34632,indoor,"chemistry_lab, biology_laboratory, discotheque, underwater/ocean_deep, ice_shelf",52587
-1444,34656,indoor,"clean_room, chemistry_lab, museum/indoor, ice_floe, biology_laboratory",52587
-1445,34680,indoor,"clean_room, chemistry_lab, museum/indoor, ice_floe, ice_shelf",52587
-1446,34704,indoor,"museum/indoor, clean_room, art_gallery, chemistry_lab, science_museum",52587
-1447,34728,indoor,"museum/indoor, clean_room, art_gallery, chemistry_lab, science_museum",52587
-1448,34752,indoor,"museum/indoor, art_gallery, clean_room, chemistry_lab, ice_floe",52587
-1449,34776,indoor,"museum/indoor, art_gallery, clean_room, chemistry_lab, ice_floe",52587
-1450,34800,indoor,"chemistry_lab, discotheque, biology_laboratory, stage/indoor, museum/indoor",52587
-1451,34824,indoor,"chemistry_lab, biology_laboratory, museum/indoor, discotheque, stage/indoor",52587
-1452,34848,indoor,"clean_room, chemistry_lab, basement, discotheque, attic",52587
-1453,34872,indoor,"clean_room, basement, attic, corridor, chemistry_lab",52587
-1454,34896,indoor,"clean_room, discotheque, stage/indoor, chemistry_lab, biology_laboratory",52587
-1455,34920,indoor,"clean_room, chemistry_lab, basement, discotheque, biology_laboratory",52587
-1456,34944,indoor,"clean_room, basement, chemistry_lab, attic, discotheque",52587
-1457,34968,indoor,"clean_room, discotheque, chemistry_lab, stage/indoor, basement",52587
-1458,34992,indoor,"attic, basement, shower, clean_room, discotheque",52587
-1459,35016,indoor,"clean_room, chemistry_lab, stage/indoor, discotheque, basement",52587
-1460,35040,indoor,"clean_room, chemistry_lab, shower, physics_laboratory, discotheque",52587
-1461,35064,indoor,"clean_room, shower, discotheque, chemistry_lab, corridor",52587
-1462,35088,indoor,"clean_room, chemistry_lab, corridor, basement, discotheque",52587
-1463,35112,indoor,"clean_room, basement, chemistry_lab, locker_room, corridor",52587
-1464,35136,indoor,"clean_room, server_room, corridor, elevator/door, basement",52587
-1465,35160,indoor,"clean_room, shower, elevator/door, bathroom, locker_room",52587
-1466,35184,indoor,"chemistry_lab, tower, biology_laboratory, museum/indoor, shower",52587
-1467,35208,indoor,"chemistry_lab, museum/indoor, biology_laboratory, tower, art_gallery",52587
-1468,35232,indoor,"clean_room, discotheque, chemistry_lab, stage/indoor, shower",52587
-1469,35256,indoor,"clean_room, chemistry_lab, art_gallery, museum/indoor, shower",52587
-1470,35280,indoor,"chemistry_lab, clean_room, discotheque, shower, dressing_room",52587
-1471,35304,indoor,"clean_room, chemistry_lab, archive, biology_laboratory, physics_laboratory",52587
-1472,35328,indoor,"clean_room, chemistry_lab, museum/indoor, biology_laboratory, art_gallery",52587
-1473,35352,indoor,"discotheque, chemistry_lab, igloo, museum/indoor, bar",52587
-1474,35376,indoor,"clean_room, chemistry_lab, shower, museum/indoor, dining_room",52587
-1475,35400,outdoor,"iceberg, ice_shelf, ice_floe, crevasse, ocean",52587
-1476,35424,outdoor,"iceberg, ice_shelf, crevasse, ice_floe, fountain",52587
-1477,35448,indoor,"chemistry_lab, discotheque, clean_room, shower, physics_laboratory",52587
-1478,35472,indoor,"discotheque, chemistry_lab, shower, biology_laboratory, tower",52587
-1479,35496,outdoor,"discotheque, igloo, tower, mosque/outdoor, skyscraper",52587
-1480,35520,outdoor,"discotheque, chemistry_lab, igloo, tower, wind_farm",52587
-1481,35544,indoor,"discotheque, tower, chemistry_lab, shower, mosque/outdoor",52587
-1482,35568,outdoor,"tower, oilrig, lighthouse, skyscraper, chemistry_lab",52587
-1483,35592,indoor,"chemistry_lab, oilrig, museum/indoor, clean_room, ice_shelf",52587
-1484,35616,outdoor,"discotheque, iceberg, underwater/ocean_deep, ice_shelf, aquarium",52587
-1485,35640,outdoor,"iceberg, discotheque, ice_shelf, ice_floe, underwater/ocean_deep",52587
-1486,35664,outdoor,"discotheque, iceberg, underwater/ocean_deep, stage/indoor, ice_shelf",52587
-1487,35688,indoor,"museum/indoor, clean_room, stage/indoor, chemistry_lab, shower",52587
-1488,35712,outdoor,"iceberg, ice_shelf, ice_floe, glacier, snowfield",52587
-1489,35736,outdoor,"runway, shower, ice_shelf, wind_farm, ice_floe",52587
-1490,35760,indoor,"stage/indoor, discotheque, underwater/ocean_deep, museum/indoor, field/wild",52587
-1491,35784,indoor,"shower, bathroom, ice_shelf, ice_floe, parking_garage/indoor",52587
-1492,35808,indoor,"stage/indoor, discotheque, wind_farm, shower, windmill",52587
-1493,35832,outdoor,"shower, runway, bathroom, ice_floe, ice_shelf",52587
-1494,35856,indoor,"chemistry_lab, biology_laboratory, discotheque, underwater/ocean_deep, shower",52587
-1495,35880,indoor,"clean_room, discotheque, chemistry_lab, shower, stage/indoor",52587
-1496,35904,indoor,"discotheque, wind_farm, museum/indoor, tower, stage/indoor",52587
-1497,35928,indoor,"iceberg, underwater/ocean_deep, natural_history_museum, art_gallery, museum/indoor",52587
-1498,35952,indoor,"stage/indoor, museum/indoor, discotheque, art_gallery, clean_room",52587
-1499,35976,indoor,"clean_room, chemistry_lab, server_room, physics_laboratory, museum/indoor",52587
-1500,36000,indoor,"discotheque, clean_room, chemistry_lab, biology_laboratory, airport_terminal",52587
-1501,36024,indoor,"chemistry_lab, clean_room, ice_shelf, discotheque, biology_laboratory",52587
-1502,36048,outdoor,"oilrig, tower, lighthouse, harbor, lake/natural",52587
-1503,36072,outdoor,"oilrig, tower, lake/natural, lighthouse, skyscraper",52587
-1504,36096,outdoor,"tower, skyscraper, oilrig, water_tower, sky",52587
-1505,36120,outdoor,"iceberg, ice_shelf, ice_floe, snowfield, glacier",52587
-1506,36144,outdoor,"iceberg, ice_shelf, ice_floe, igloo, runway",52587
-1507,36168,outdoor,"iceberg, ice_shelf, igloo, ice_floe, ocean",52587
-1508,36192,outdoor,"tower, mosque/outdoor, skyscraper, oilrig, lighthouse",52587
-1509,36216,outdoor,"tower, mosque/outdoor, oilrig, chemistry_lab, lighthouse",52587
-1510,36240,outdoor,"ice_floe, lake/natural, discotheque, ice_shelf, iceberg",52587
-1511,36264,indoor,"discotheque, chemistry_lab, tower, stage/indoor, mosque/outdoor",52587
-1512,36288,outdoor,"ice_shelf, discotheque, iceberg, ice_floe, igloo",52587
-1513,36312,outdoor,"iceberg, ice_shelf, chemistry_lab, igloo, clean_room",52587
-1514,36336,outdoor,"iceberg, ice_shelf, ice_floe, ocean, clean_room",52587
-1515,36360,outdoor,"iceberg, ice_shelf, ice_floe, mountain_snowy, volcano",52587
-1516,36384,outdoor,"iceberg, ice_shelf, oilrig, ice_floe, chemistry_lab",52587
-1517,36408,indoor,"clean_room, basement, chemistry_lab, locker_room, corridor",52587
-1518,36432,indoor,"clean_room, basement, locker_room, chemistry_lab, corridor",52587
-1519,36456,indoor,"discotheque, shower, clean_room, music_studio, stage/indoor",52587
-1520,36480,indoor,"discotheque, shower, chemistry_lab, clean_room, bathroom",52587
-1521,36504,outdoor,"discotheque, shower, sky, ice_floe, igloo",52587
-1522,36528,outdoor,"snowfield, ice_shelf, hot_spring, ice_floe, sky",52587
-1523,36552,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1524,36576,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1525,36600,outdoor,"snowfield, ice_shelf, desert/sand, beach, ice_floe",52587
-1526,36624,outdoor,"snowfield, desert/sand, ice_shelf, beach, ice_floe",52587
-1527,36648,outdoor,"shower, ice_shelf, ice_floe, underwater/ocean_deep, fountain",52587
-1528,36672,indoor,"discotheque, aquarium, clean_room, iceberg, science_museum",52587
-1529,36696,indoor,"aquarium, discotheque, iceberg, clean_room, underwater/ocean_deep",52587
-1530,36720,outdoor,"aquarium, discotheque, underwater/ocean_deep, iceberg, pond",52587
-1531,36744,outdoor,"aquarium, discotheque, iceberg, underwater/ocean_deep, pond",52587
-1532,36768,indoor,"clean_room, bathroom, dressing_room, operating_room, chemistry_lab",52587
-1533,36792,indoor,"clean_room, operating_room, chemistry_lab, discotheque, biology_laboratory",52587
-1534,36816,indoor,"clean_room, chemistry_lab, discotheque, operating_room, beauty_salon",52587
-1535,36840,indoor,"clean_room, discotheque, museum/indoor, nursery, operating_room",52587
-1536,36864,indoor,"discotheque, shower, museum/indoor, stage/indoor, dressing_room",52587
-1537,36888,indoor,"discotheque, shower, clean_room, stage/indoor, dressing_room",52587
-1538,36912,indoor,"discotheque, clean_room, stage/indoor, iceberg, igloo",52587
-1539,36936,outdoor,"iceberg, aquarium, ice_floe, discotheque, underwater/ocean_deep",52587
-1540,36960,outdoor,"aquarium, iceberg, pond, underwater/ocean_deep, discotheque",52587
-1541,36984,outdoor,"aquarium, iceberg, underwater/ocean_deep, pond, ice_floe",52587
-1542,37008,indoor,"clean_room, discotheque, stage/indoor, chemistry_lab, iceberg",52587
-1543,37032,indoor,"discotheque, clean_room, stage/indoor, chemistry_lab, museum/indoor",52587
-1544,37056,indoor,"discotheque, clean_room, museum/indoor, stage/indoor, chemistry_lab",52587
-1545,37080,indoor,"discotheque, stage/indoor, museum/indoor, clean_room, chemistry_lab",52587
-1546,37104,indoor,"discotheque, stage/indoor, chemistry_lab, clean_room, museum/indoor",52587
-1547,37128,indoor,"discotheque, stage/indoor, chemistry_lab, clean_room, ballroom",52587
-1548,37152,outdoor,"aquarium, underwater/ocean_deep, pond, discotheque, iceberg",52587
-1549,37176,outdoor,"aquarium, underwater/ocean_deep, pond, iceberg, shower",52587
-1550,37200,outdoor,"aquarium, iceberg, underwater/ocean_deep, pond, ice_floe",52587
-1551,37224,indoor,"aquarium, underwater/ocean_deep, discotheque, shower, pond",52587
-1552,37248,indoor,"aquarium, shower, underwater/ocean_deep, pond, discotheque",52587
-1553,37272,indoor,"aquarium, underwater/ocean_deep, shower, discotheque, pond",52587
-1554,37296,indoor,"shower, discotheque, bathroom, chemistry_lab, clean_room",52587
-1555,37320,indoor,"shower, discotheque, bathroom, chemistry_lab, clean_room",52587
-1556,37344,indoor,"shower, bathroom, discotheque, clean_room, chemistry_lab",52587
-1557,37368,indoor,"shower, discotheque, bathroom, clean_room, dressing_room",52587
-1558,37392,indoor,"aquarium, shower, underwater/ocean_deep, pond, discotheque",52587
-1559,37416,indoor,"aquarium, underwater/ocean_deep, discotheque, iceberg, shower",52587
-1560,37440,indoor,"aquarium, discotheque, underwater/ocean_deep, iceberg, shower",52587
-1561,37464,indoor,"underwater/ocean_deep, science_museum, elevator/door, bank_vault, shower",52587
-1562,37488,outdoor,"underwater/ocean_deep, ocean, ice_shelf, corridor, shower",52587
-1563,37512,indoor,"basement, desert/sand, elevator/door, snowfield, locker_room",52587
-1564,37536,indoor,"ice_shelf, shower, underwater/ocean_deep, chemistry_lab, museum/indoor",52587
-1565,37560,indoor,"shower, museum/indoor, clean_room, underwater/ocean_deep, wind_farm",52587
-1566,37584,outdoor,"tower, shower, wind_farm, underwater/ocean_deep, skyscraper",52587
-1567,37608,indoor,"shower, museum/indoor, underwater/ocean_deep, natural_history_museum, science_museum",52587
-1568,37632,outdoor,"ice_shelf, pharmacy, iceberg, drugstore, desert/sand",52587
-1569,37656,outdoor,"pharmacy, drugstore, ice_shelf, sky, iceberg",52587
-1570,37680,outdoor,"ice_shelf, water_tower, cemetery, hot_spring, ocean",52587
-1571,37704,indoor,"cemetery, beauty_salon, drugstore, pharmacy, ice_shelf",52587
-1572,37728,outdoor,"discotheque, ice_shelf, cemetery, sky, motel",52587
-1573,37752,indoor,"pharmacy, drugstore, ice_shelf, discotheque, iceberg",52587
-1574,37776,outdoor,"ice_shelf, hot_spring, ocean, water_tower, underwater/ocean_deep",52587
-1575,37800,indoor,"cemetery, beauty_salon, ice_shelf, pharmacy, drugstore",52587
-1576,37824,indoor,"elevator/door, beauty_salon, pharmacy, drugstore, discotheque",52587
-1577,37848,outdoor,"pharmacy, hospital, drugstore, motel, sky",52587
-1578,37872,outdoor,"ice_shelf, pharmacy, hospital, cemetery, reception",52587
-1579,37896,indoor,"ice_shelf, natural_history_museum, museum/indoor, drugstore, science_museum",52587
-1580,37920,indoor,"museum/indoor, beauty_salon, natural_history_museum, science_museum, drugstore",52587
-1581,37944,indoor,"drugstore, pharmacy, beauty_salon, museum/indoor, cemetery",52587
-1582,37968,indoor,"drugstore, museum/indoor, pharmacy, natural_history_museum, cemetery",52587
-1583,37992,indoor,"drugstore, booth/indoor, museum/indoor, pharmacy, archive",52587
-1584,38016,indoor,"booth/indoor, museum/indoor, drugstore, pharmacy, natural_history_museum",52587
-1585,38040,indoor,"museum/indoor, archive, natural_history_museum, bookstore, drugstore",52587
-1586,38064,indoor,"booth/indoor, drugstore, museum/indoor, science_museum, pharmacy",52587
-1587,38088,indoor,"drugstore, ice_shelf, pharmacy, cemetery, museum/indoor",52587
-1588,38112,indoor,"museum/indoor, booth/indoor, natural_history_museum, drugstore, science_museum",52587
-1589,38136,indoor,"museum/indoor, booth/indoor, drugstore, pharmacy, natural_history_museum",52587
-1590,38160,indoor,"museum/indoor, classroom, conference_center, lecture_room, stage/indoor",52587
-1591,38184,indoor,"museum/indoor, natural_history_museum, science_museum, booth/indoor, kindergarden_classroom",52587
-1592,38208,indoor,"discotheque, natural_history_museum, museum/indoor, science_museum, underwater/ocean_deep",52587
-1593,38232,outdoor,"pharmacy, drugstore, underwater/ocean_deep, hospital, ice_shelf",52587
-1594,38256,outdoor,"iceberg, islet, ice_shelf, ice_floe, ocean",52587
-1595,38280,outdoor,"iceberg, ice_shelf, underwater/ocean_deep, ice_floe, ocean",52587
-1596,38304,outdoor,"snowfield, ice_shelf, desert/sand, sky, beach",52587
-1597,38328,outdoor,"snowfield, ice_shelf, desert/sand, ice_floe, beach",52587
-1598,38352,outdoor,"snowfield, ice_shelf, desert/sand, ice_floe, beach",52587
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,52587,0,1,0
+1,52587,24,1,0
+2,52587,48,1,0
+3,52587,72,0,1
+4,52587,96,0,1
+5,52587,120,0,1
+6,52587,144,0,1
+7,52587,168,0,1
+8,52587,192,0,1
+9,52587,216,0,1
+10,52587,240,0,1
+11,52587,264,0,1
+12,52587,288,0,1
+13,52587,312,0,1
+14,52587,336,0,1
+15,52587,360,0,1
+16,52587,384,0,1
+17,52587,408,0,1
+18,52587,432,0,1
+19,52587,456,0,1
+20,52587,480,0,1
+21,52587,504,0,1
+22,52587,528,0,1
+23,52587,552,0,1
+24,52587,576,0,1
+25,52587,600,0,1
+26,52587,624,0,1
+27,52587,648,0,1
+28,52587,672,0,1
+29,52587,696,0,1
+30,52587,720,0,1
+31,52587,744,0,1
+32,52587,768,0,1
+33,52587,792,0,1
+34,52587,816,0,1
+35,52587,840,0,1
+36,52587,864,0,1
+37,52587,888,0,1
+38,52587,912,0,1
+39,52587,936,0,1
+40,52587,960,0,1
+41,52587,984,0,1
+42,52587,1008,0,1
+43,52587,1032,0,1
+44,52587,1056,0,1
+45,52587,1080,0,1
+46,52587,1104,0,1
+47,52587,1128,0,1
+48,52587,1152,0,1
+49,52587,1176,0,1
+50,52587,1200,0,1
+51,52587,1224,0,1
+52,52587,1248,0,1
+53,52587,1272,0,1
+54,52587,1296,0,1
+55,52587,1320,0,1
+56,52587,1344,0,1
+57,52587,1368,0,1
+58,52587,1392,0,1
+59,52587,1416,0,1
+60,52587,1440,0,1
+61,52587,1464,0,1
+62,52587,1488,0,1
+63,52587,1512,0,1
+64,52587,1536,0,1
+65,52587,1560,0,1
+66,52587,1584,0,1
+67,52587,1608,0,1
+68,52587,1632,0,1
+69,52587,1656,0,1
+70,52587,1680,0,1
+71,52587,1704,0,1
+72,52587,1728,0,1
+73,52587,1752,0,1
+74,52587,1776,0,1
+75,52587,1800,0,1
+76,52587,1824,0,1
+77,52587,1848,0,1
+78,52587,1872,0,1
+79,52587,1896,0,1
+80,52587,1920,0,1
+81,52587,1944,0,1
+82,52587,1968,0,1
+83,52587,1992,0,1
+84,52587,2016,0,1
+85,52587,2040,0,1
+86,52587,2064,0,1
+87,52587,2088,0,1
+88,52587,2112,0,1
+89,52587,2136,0,1
+90,52587,2160,0,1
+91,52587,2184,0,1
+92,52587,2208,0,1
+93,52587,2232,0,1
+94,52587,2256,0,1
+95,52587,2280,0,1
+96,52587,2304,0,1
+97,52587,2328,0,1
+98,52587,2352,0,1
+99,52587,2376,0,1
+100,52587,2400,0,1
+101,52587,2424,0,1
+102,52587,2448,0,1
+103,52587,2472,0,1
+104,52587,2496,0,1
+105,52587,2520,0,1
+106,52587,2544,0,1
+107,52587,2568,0,1
+108,52587,2592,0,1
+109,52587,2616,0,1
+110,52587,2640,0,1
+111,52587,2664,0,1
+112,52587,2688,1,0
+113,52587,2712,1,0
+114,52587,2736,1,0
+115,52587,2760,1,0
+116,52587,2784,1,0
+117,52587,2808,0,1
+118,52587,2832,0,1
+119,52587,2856,0,1
+120,52587,2880,1,0
+121,52587,2904,0,1
+122,52587,2928,0,1
+123,52587,2952,1,0
+124,52587,2976,1,0
+125,52587,3000,1,0
+126,52587,3024,0,1
+127,52587,3048,0,1
+128,52587,3072,0,1
+129,52587,3096,0,1
+130,52587,3120,0,1
+131,52587,3144,1,0
+132,52587,3168,0,1
+133,52587,3192,1,0
+134,52587,3216,1,0
+135,52587,3240,1,0
+136,52587,3264,0,1
+137,52587,3288,0,1
+138,52587,3312,0,1
+139,52587,3336,0,1
+140,52587,3360,0,1
+141,52587,3384,0,1
+142,52587,3408,0,1
+143,52587,3432,0,1
+144,52587,3456,0,1
+145,52587,3480,0,1
+146,52587,3504,0,1
+147,52587,3528,0,1
+148,52587,3552,0,1
+149,52587,3576,0,1
+150,52587,3600,0,1
+151,52587,3624,0,1
+152,52587,3648,0,1
+153,52587,3672,0,1
+154,52587,3696,0,1
+155,52587,3720,0,1
+156,52587,3744,0,1
+157,52587,3768,0,1
+158,52587,3792,0,1
+159,52587,3816,0,1
+160,52587,3840,0,1
+161,52587,3864,0,1
+162,52587,3888,0,1
+163,52587,3912,0,1
+164,52587,3936,0,1
+165,52587,3960,0,1
+166,52587,3984,0,1
+167,52587,4008,0,1
+168,52587,4032,0,1
+169,52587,4056,0,1
+170,52587,4080,0,1
+171,52587,4104,0,1
+172,52587,4128,1,0
+173,52587,4152,1,0
+174,52587,4176,1,0
+175,52587,4200,1,0
+176,52587,4224,1,0
+177,52587,4248,1,0
+178,52587,4272,0,1
+179,52587,4296,0,1
+180,52587,4320,1,0
+181,52587,4344,0,1
+182,52587,4368,0,1
+183,52587,4392,0,1
+184,52587,4416,0,1
+185,52587,4440,1,0
+186,52587,4464,1,0
+187,52587,4488,0,1
+188,52587,4512,0,1
+189,52587,4536,0,1
+190,52587,4560,1,0
+191,52587,4584,1,0
+192,52587,4608,1,0
+193,52587,4632,1,0
+194,52587,4656,1,0
+195,52587,4680,1,0
+196,52587,4704,1,0
+197,52587,4728,1,0
+198,52587,4752,1,0
+199,52587,4776,1,0
+200,52587,4800,1,0
+201,52587,4824,1,0
+202,52587,4848,1,0
+203,52587,4872,1,0
+204,52587,4896,1,0
+205,52587,4920,1,0
+206,52587,4944,1,0
+207,52587,4968,1,0
+208,52587,4992,0,1
+209,52587,5016,0,1
+210,52587,5040,0,1
+211,52587,5064,0,1
+212,52587,5088,0,1
+213,52587,5112,0,1
+214,52587,5136,0,1
+215,52587,5160,0,1
+216,52587,5184,0,1
+217,52587,5208,0,1
+218,52587,5232,0,1
+219,52587,5256,0,1
+220,52587,5280,0,1
+221,52587,5304,1,0
+222,52587,5328,1,0
+223,52587,5352,1,0
+224,52587,5376,0,1
+225,52587,5400,0,1
+226,52587,5424,0,1
+227,52587,5448,0,1
+228,52587,5472,0,1
+229,52587,5496,0,1
+230,52587,5520,0,1
+231,52587,5544,0,1
+232,52587,5568,0,1
+233,52587,5592,0,1
+234,52587,5616,0,1
+235,52587,5640,0,1
+236,52587,5664,0,1
+237,52587,5688,0,1
+238,52587,5712,0,1
+239,52587,5736,0,1
+240,52587,5760,0,1
+241,52587,5784,0,1
+242,52587,5808,0,1
+243,52587,5832,0,1
+244,52587,5856,0,1
+245,52587,5880,0,1
+246,52587,5904,0,1
+247,52587,5928,0,1
+248,52587,5952,0,1
+249,52587,5976,0,1
+250,52587,6000,0,1
+251,52587,6024,0,1
+252,52587,6048,0,1
+253,52587,6072,0,1
+254,52587,6096,0,1
+255,52587,6120,0,1
+256,52587,6144,0,1
+257,52587,6168,0,1
+258,52587,6192,0,1
+259,52587,6216,0,1
+260,52587,6240,0,1
+261,52587,6264,0,1
+262,52587,6288,0,1
+263,52587,6312,0,1
+264,52587,6336,0,1
+265,52587,6360,0,1
+266,52587,6384,0,1
+267,52587,6408,0,1
+268,52587,6432,0,1
+269,52587,6456,0,1
+270,52587,6480,0,1
+271,52587,6504,0,1
+272,52587,6528,0,1
+273,52587,6552,0,1
+274,52587,6576,0,1
+275,52587,6600,0,1
+276,52587,6624,0,1
+277,52587,6648,0,1
+278,52587,6672,0,1
+279,52587,6696,0,1
+280,52587,6720,0,1
+281,52587,6744,0,1
+282,52587,6768,0,1
+283,52587,6792,0,1
+284,52587,6816,0,1
+285,52587,6840,0,1
+286,52587,6864,0,1
+287,52587,6888,0,1
+288,52587,6912,0,1
+289,52587,6936,0,1
+290,52587,6960,0,1
+291,52587,6984,0,1
+292,52587,7008,0,1
+293,52587,7032,0,1
+294,52587,7056,0,1
+295,52587,7080,0,1
+296,52587,7104,0,1
+297,52587,7128,0,1
+298,52587,7152,0,1
+299,52587,7176,0,1
+300,52587,7200,0,1
+301,52587,7224,0,1
+302,52587,7248,0,1
+303,52587,7272,0,1
+304,52587,7296,0,1
+305,52587,7320,0,1
+306,52587,7344,0,1
+307,52587,7368,0,1
+308,52587,7392,0,1
+309,52587,7416,0,1
+310,52587,7440,0,1
+311,52587,7464,0,1
+312,52587,7488,0,1
+313,52587,7512,0,1
+314,52587,7536,0,1
+315,52587,7560,0,1
+316,52587,7584,0,1
+317,52587,7608,0,1
+318,52587,7632,0,1
+319,52587,7656,0,1
+320,52587,7680,0,1
+321,52587,7704,0,1
+322,52587,7728,0,1
+323,52587,7752,0,1
+324,52587,7776,0,1
+325,52587,7800,0,1
+326,52587,7824,0,1
+327,52587,7848,0,1
+328,52587,7872,0,1
+329,52587,7896,0,1
+330,52587,7920,0,1
+331,52587,7944,0,1
+332,52587,7968,0,1
+333,52587,7992,0,1
+334,52587,8016,0,1
+335,52587,8040,0,1
+336,52587,8064,0,1
+337,52587,8088,0,1
+338,52587,8112,0,1
+339,52587,8136,0,1
+340,52587,8160,0,1
+341,52587,8184,0,1
+342,52587,8208,0,1
+343,52587,8232,0,1
+344,52587,8256,0,1
+345,52587,8280,0,1
+346,52587,8304,0,1
+347,52587,8328,0,1
+348,52587,8352,0,1
+349,52587,8376,0,1
+350,52587,8400,0,1
+351,52587,8424,0,1
+352,52587,8448,0,1
+353,52587,8472,0,1
+354,52587,8496,1,0
+355,52587,8520,1,0
+356,52587,8544,1,0
+357,52587,8568,1,0
+358,52587,8592,1,0
+359,52587,8616,1,0
+360,52587,8640,1,0
+361,52587,8664,1,0
+362,52587,8688,1,0
+363,52587,8712,1,0
+364,52587,8736,1,0
+365,52587,8760,1,0
+366,52587,8784,1,0
+367,52587,8808,1,0
+368,52587,8832,0,1
+369,52587,8856,0,1
+370,52587,8880,0,1
+371,52587,8904,0,1
+372,52587,8928,0,1
+373,52587,8952,0,1
+374,52587,8976,0,1
+375,52587,9000,0,1
+376,52587,9024,0,1
+377,52587,9048,0,1
+378,52587,9072,0,1
+379,52587,9096,0,1
+380,52587,9120,0,1
+381,52587,9144,1,0
+382,52587,9168,1,0
+383,52587,9192,1,0
+384,52587,9216,1,0
+385,52587,9240,0,1
+386,52587,9264,0,1
+387,52587,9288,0,1
+388,52587,9312,0,1
+389,52587,9336,0,1
+390,52587,9360,1,0
+391,52587,9384,1,0
+392,52587,9408,1,0
+393,52587,9432,1,0
+394,52587,9456,1,0
+395,52587,9480,0,1
+396,52587,9504,0,1
+397,52587,9528,0,1
+398,52587,9552,0,1
+399,52587,9576,0,1
+400,52587,9600,1,0
+401,52587,9624,1,0
+402,52587,9648,0,1
+403,52587,9672,0,1
+404,52587,9696,0,1
+405,52587,9720,0,1
+406,52587,9744,0,1
+407,52587,9768,0,1
+408,52587,9792,0,1
+409,52587,9816,0,1
+410,52587,9840,0,1
+411,52587,9864,0,1
+412,52587,9888,0,1
+413,52587,9912,0,1
+414,52587,9936,0,1
+415,52587,9960,0,1
+416,52587,9984,0,1
+417,52587,10008,0,1
+418,52587,10032,1,0
+419,52587,10056,1,0
+420,52587,10080,1,0
+421,52587,10104,1,0
+422,52587,10128,1,0
+423,52587,10152,0,1
+424,52587,10176,0,1
+425,52587,10200,0,1
+426,52587,10224,0,1
+427,52587,10248,0,1
+428,52587,10272,0,1
+429,52587,10296,0,1
+430,52587,10320,0,1
+431,52587,10344,0,1
+432,52587,10368,0,1
+433,52587,10392,0,1
+434,52587,10416,0,1
+435,52587,10440,0,1
+436,52587,10464,0,1
+437,52587,10488,0,1
+438,52587,10512,0,1
+439,52587,10536,0,1
+440,52587,10560,0,1
+441,52587,10584,0,1
+442,52587,10608,0,1
+443,52587,10632,0,1
+444,52587,10656,0,1
+445,52587,10680,0,1
+446,52587,10704,0,1
+447,52587,10728,0,1
+448,52587,10752,0,1
+449,52587,10776,0,1
+450,52587,10800,0,1
+451,52587,10824,0,1
+452,52587,10848,0,1
+453,52587,10872,0,1
+454,52587,10896,0,1
+455,52587,10920,0,1
+456,52587,10944,0,1
+457,52587,10968,0,1
+458,52587,10992,0,1
+459,52587,11016,0,1
+460,52587,11040,0,1
+461,52587,11064,0,1
+462,52587,11088,0,1
+463,52587,11112,0,1
+464,52587,11136,0,1
+465,52587,11160,0,1
+466,52587,11184,0,1
+467,52587,11208,0,1
+468,52587,11232,0,1
+469,52587,11256,0,1
+470,52587,11280,0,1
+471,52587,11304,0,1
+472,52587,11328,0,1
+473,52587,11352,0,1
+474,52587,11376,0,1
+475,52587,11400,0,1
+476,52587,11424,0,1
+477,52587,11448,0,1
+478,52587,11472,0,1
+479,52587,11496,0,1
+480,52587,11520,0,1
+481,52587,11544,0,1
+482,52587,11568,0,1
+483,52587,11592,0,1
+484,52587,11616,0,1
+485,52587,11640,0,1
+486,52587,11664,0,1
+487,52587,11688,0,1
+488,52587,11712,0,1
+489,52587,11736,0,1
+490,52587,11760,0,1
+491,52587,11784,1,0
+492,52587,11808,1,0
+493,52587,11832,1,0
+494,52587,11856,1,0
+495,52587,11880,1,0
+496,52587,11904,0,1
+497,52587,11928,0,1
+498,52587,11952,0,1
+499,52587,11976,0,1
+500,52587,12000,0,1
+501,52587,12024,0,1
+502,52587,12048,0,1
+503,52587,12072,0,1
+504,52587,12096,0,1
+505,52587,12120,0,1
+506,52587,12144,0,1
+507,52587,12168,0,1
+508,52587,12192,0,1
+509,52587,12216,1,0
+510,52587,12240,1,0
+511,52587,12264,0,1
+512,52587,12288,0,1
+513,52587,12312,0,1
+514,52587,12336,0,1
+515,52587,12360,0,1
+516,52587,12384,0,1
+517,52587,12408,0,1
+518,52587,12432,0,1
+519,52587,12456,0,1
+520,52587,12480,0,1
+521,52587,12504,0,1
+522,52587,12528,0,1
+523,52587,12552,0,1
+524,52587,12576,0,1
+525,52587,12600,0,1
+526,52587,12624,0,1
+527,52587,12648,0,1
+528,52587,12672,0,1
+529,52587,12696,0,1
+530,52587,12720,0,1
+531,52587,12744,0,1
+532,52587,12768,0,1
+533,52587,12792,1,0
+534,52587,12816,0,1
+535,52587,12840,0,1
+536,52587,12864,0,1
+537,52587,12888,0,1
+538,52587,12912,0,1
+539,52587,12936,0,1
+540,52587,12960,0,1
+541,52587,12984,0,1
+542,52587,13008,0,1
+543,52587,13032,0,1
+544,52587,13056,0,1
+545,52587,13080,0,1
+546,52587,13104,0,1
+547,52587,13128,1,0
+548,52587,13152,1,0
+549,52587,13176,1,0
+550,52587,13200,0,1
+551,52587,13224,0,1
+552,52587,13248,0,1
+553,52587,13272,0,1
+554,52587,13296,0,1
+555,52587,13320,0,1
+556,52587,13344,0,1
+557,52587,13368,0,1
+558,52587,13392,0,1
+559,52587,13416,1,0
+560,52587,13440,1,0
+561,52587,13464,1,0
+562,52587,13488,0,1
+563,52587,13512,0,1
+564,52587,13536,1,0
+565,52587,13560,1,0
+566,52587,13584,0,1
+567,52587,13608,0,1
+568,52587,13632,0,1
+569,52587,13656,0,1
+570,52587,13680,0,1
+571,52587,13704,0,1
+572,52587,13728,0,1
+573,52587,13752,0,1
+574,52587,13776,0,1
+575,52587,13800,0,1
+576,52587,13824,0,1
+577,52587,13848,1,0
+578,52587,13872,1,0
+579,52587,13896,1,0
+580,52587,13920,1,0
+581,52587,13944,1,0
+582,52587,13968,1,0
+583,52587,13992,1,0
+584,52587,14016,1,0
+585,52587,14040,1,0
+586,52587,14064,1,0
+587,52587,14088,1,0
+588,52587,14112,1,0
+589,52587,14136,1,0
+590,52587,14160,0,1
+591,52587,14184,1,0
+592,52587,14208,1,0
+593,52587,14232,1,0
+594,52587,14256,1,0
+595,52587,14280,1,0
+596,52587,14304,0,1
+597,52587,14328,0,1
+598,52587,14352,0,1
+599,52587,14376,0,1
+600,52587,14400,0,1
+601,52587,14424,0,1
+602,52587,14448,0,1
+603,52587,14472,0,1
+604,52587,14496,0,1
+605,52587,14520,0,1
+606,52587,14544,0,1
+607,52587,14568,0,1
+608,52587,14592,0,1
+609,52587,14616,0,1
+610,52587,14640,0,1
+611,52587,14664,0,1
+612,52587,14688,0,1
+613,52587,14712,0,1
+614,52587,14736,0,1
+615,52587,14760,0,1
+616,52587,14784,0,1
+617,52587,14808,0,1
+618,52587,14832,0,1
+619,52587,14856,0,1
+620,52587,14880,0,1
+621,52587,14904,0,1
+622,52587,14928,1,0
+623,52587,14952,1,0
+624,52587,14976,0,1
+625,52587,15000,0,1
+626,52587,15024,0,1
+627,52587,15048,0,1
+628,52587,15072,0,1
+629,52587,15096,0,1
+630,52587,15120,0,1
+631,52587,15144,0,1
+632,52587,15168,0,1
+633,52587,15192,0,1
+634,52587,15216,0,1
+635,52587,15240,0,1
+636,52587,15264,0,1
+637,52587,15288,0,1
+638,52587,15312,0,1
+639,52587,15336,0,1
+640,52587,15360,0,1
+641,52587,15384,0,1
+642,52587,15408,0,1
+643,52587,15432,0,1
+644,52587,15456,0,1
+645,52587,15480,0,1
+646,52587,15504,0,1
+647,52587,15528,0,1
+648,52587,15552,0,1
+649,52587,15576,0,1
+650,52587,15600,0,1
+651,52587,15624,0,1
+652,52587,15648,0,1
+653,52587,15672,0,1
+654,52587,15696,0,1
+655,52587,15720,0,1
+656,52587,15744,0,1
+657,52587,15768,0,1
+658,52587,15792,0,1
+659,52587,15816,0,1
+660,52587,15840,0,1
+661,52587,15864,0,1
+662,52587,15888,0,1
+663,52587,15912,0,1
+664,52587,15936,0,1
+665,52587,15960,0,1
+666,52587,15984,0,1
+667,52587,16008,0,1
+668,52587,16032,0,1
+669,52587,16056,0,1
+670,52587,16080,0,1
+671,52587,16104,0,1
+672,52587,16128,0,1
+673,52587,16152,0,1
+674,52587,16176,0,1
+675,52587,16200,0,1
+676,52587,16224,0,1
+677,52587,16248,1,0
+678,52587,16272,1,0
+679,52587,16296,1,0
+680,52587,16320,1,0
+681,52587,16344,1,0
+682,52587,16368,0,1
+683,52587,16392,0,1
+684,52587,16416,0,1
+685,52587,16440,0,1
+686,52587,16464,0,1
+687,52587,16488,0,1
+688,52587,16512,0,1
+689,52587,16536,0,1
+690,52587,16560,0,1
+691,52587,16584,0,1
+692,52587,16608,0,1
+693,52587,16632,0,1
+694,52587,16656,0,1
+695,52587,16680,0,1
+696,52587,16704,0,1
+697,52587,16728,0,1
+698,52587,16752,0,1
+699,52587,16776,0,1
+700,52587,16800,0,1
+701,52587,16824,0,1
+702,52587,16848,0,1
+703,52587,16872,0,1
+704,52587,16896,0,1
+705,52587,16920,0,1
+706,52587,16944,0,1
+707,52587,16968,0,1
+708,52587,16992,0,1
+709,52587,17016,0,1
+710,52587,17040,0,1
+711,52587,17064,1,0
+712,52587,17088,0,1
+713,52587,17112,0,1
+714,52587,17136,0,1
+715,52587,17160,1,0
+716,52587,17184,0,1
+717,52587,17208,0,1
+718,52587,17232,0,1
+719,52587,17256,0,1
+720,52587,17280,0,1
+721,52587,17304,1,0
+722,52587,17328,1,0
+723,52587,17352,1,0
+724,52587,17376,1,0
+725,52587,17400,1,0
+726,52587,17424,0,1
+727,52587,17448,0,1
+728,52587,17472,0,1
+729,52587,17496,0,1
+730,52587,17520,0,1
+731,52587,17544,0,1
+732,52587,17568,0,1
+733,52587,17592,0,1
+734,52587,17616,0,1
+735,52587,17640,0,1
+736,52587,17664,0,1
+737,52587,17688,0,1
+738,52587,17712,0,1
+739,52587,17736,0,1
+740,52587,17760,1,0
+741,52587,17784,1,0
+742,52587,17808,1,0
+743,52587,17832,1,0
+744,52587,17856,1,0
+745,52587,17880,1,0
+746,52587,17904,1,0
+747,52587,17928,1,0
+748,52587,17952,0,1
+749,52587,17976,0,1
+750,52587,18000,0,1
+751,52587,18024,0,1
+752,52587,18048,0,1
+753,52587,18072,0,1
+754,52587,18096,1,0
+755,52587,18120,1,0
+756,52587,18144,1,0
+757,52587,18168,0,1
+758,52587,18192,0,1
+759,52587,18216,0,1
+760,52587,18240,1,0
+761,52587,18264,0,1
+762,52587,18288,1,0
+763,52587,18312,0,1
+764,52587,18336,0,1
+765,52587,18360,0,1
+766,52587,18384,0,1
+767,52587,18408,0,1
+768,52587,18432,0,1
+769,52587,18456,1,0
+770,52587,18480,1,0
+771,52587,18504,1,0
+772,52587,18528,1,0
+773,52587,18552,1,0
+774,52587,18576,1,0
+775,52587,18600,1,0
+776,52587,18624,1,0
+777,52587,18648,1,0
+778,52587,18672,1,0
+779,52587,18696,1,0
+780,52587,18720,1,0
+781,52587,18744,1,0
+782,52587,18768,1,0
+783,52587,18792,1,0
+784,52587,18816,1,0
+785,52587,18840,1,0
+786,52587,18864,1,0
+787,52587,18888,1,0
+788,52587,18912,1,0
+789,52587,18936,1,0
+790,52587,18960,1,0
+791,52587,18984,1,0
+792,52587,19008,0,1
+793,52587,19032,0,1
+794,52587,19056,0,1
+795,52587,19080,0,1
+796,52587,19104,0,1
+797,52587,19128,0,1
+798,52587,19152,0,1
+799,52587,19176,0,1
+800,52587,19200,0,1
+801,52587,19224,0,1
+802,52587,19248,0,1
+803,52587,19272,1,0
+804,52587,19296,1,0
+805,52587,19320,1,0
+806,52587,19344,0,1
+807,52587,19368,0,1
+808,52587,19392,0,1
+809,52587,19416,0,1
+810,52587,19440,0,1
+811,52587,19464,0,1
+812,52587,19488,0,1
+813,52587,19512,0,1
+814,52587,19536,0,1
+815,52587,19560,0,1
+816,52587,19584,0,1
+817,52587,19608,0,1
+818,52587,19632,0,1
+819,52587,19656,0,1
+820,52587,19680,0,1
+821,52587,19704,0,1
+822,52587,19728,0,1
+823,52587,19752,0,1
+824,52587,19776,0,1
+825,52587,19800,0,1
+826,52587,19824,0,1
+827,52587,19848,0,1
+828,52587,19872,0,1
+829,52587,19896,0,1
+830,52587,19920,0,1
+831,52587,19944,0,1
+832,52587,19968,0,1
+833,52587,19992,0,1
+834,52587,20016,0,1
+835,52587,20040,0,1
+836,52587,20064,0,1
+837,52587,20088,0,1
+838,52587,20112,0,1
+839,52587,20136,0,1
+840,52587,20160,0,1
+841,52587,20184,0,1
+842,52587,20208,0,1
+843,52587,20232,0,1
+844,52587,20256,0,1
+845,52587,20280,0,1
+846,52587,20304,0,1
+847,52587,20328,0,1
+848,52587,20352,0,1
+849,52587,20376,0,1
+850,52587,20400,0,1
+851,52587,20424,0,1
+852,52587,20448,0,1
+853,52587,20472,0,1
+854,52587,20496,0,1
+855,52587,20520,0,1
+856,52587,20544,0,1
+857,52587,20568,0,1
+858,52587,20592,0,1
+859,52587,20616,0,1
+860,52587,20640,0,1
+861,52587,20664,0,1
+862,52587,20688,0,1
+863,52587,20712,0,1
+864,52587,20736,0,1
+865,52587,20760,0,1
+866,52587,20784,0,1
+867,52587,20808,0,1
+868,52587,20832,0,1
+869,52587,20856,0,1
+870,52587,20880,0,1
+871,52587,20904,0,1
+872,52587,20928,0,1
+873,52587,20952,0,1
+874,52587,20976,0,1
+875,52587,21000,0,1
+876,52587,21024,0,1
+877,52587,21048,0,1
+878,52587,21072,0,1
+879,52587,21096,0,1
+880,52587,21120,0,1
+881,52587,21144,0,1
+882,52587,21168,0,1
+883,52587,21192,0,1
+884,52587,21216,0,1
+885,52587,21240,0,1
+886,52587,21264,0,1
+887,52587,21288,0,1
+888,52587,21312,0,1
+889,52587,21336,0,1
+890,52587,21360,0,1
+891,52587,21384,0,1
+892,52587,21408,0,1
+893,52587,21432,0,1
+894,52587,21456,0,1
+895,52587,21480,0,1
+896,52587,21504,0,1
+897,52587,21528,0,1
+898,52587,21552,0,1
+899,52587,21576,1,0
+900,52587,21600,1,0
+901,52587,21624,0,1
+902,52587,21648,0,1
+903,52587,21672,1,0
+904,52587,21696,1,0
+905,52587,21720,0,1
+906,52587,21744,0,1
+907,52587,21768,0,1
+908,52587,21792,0,1
+909,52587,21816,0,1
+910,52587,21840,0,1
+911,52587,21864,0,1
+912,52587,21888,0,1
+913,52587,21912,0,1
+914,52587,21936,0,1
+915,52587,21960,0,1
+916,52587,21984,1,0
+917,52587,22008,0,1
+918,52587,22032,0,1
+919,52587,22056,0,1
+920,52587,22080,0,1
+921,52587,22104,0,1
+922,52587,22128,0,1
+923,52587,22152,0,1
+924,52587,22176,0,1
+925,52587,22200,0,1
+926,52587,22224,0,1
+927,52587,22248,0,1
+928,52587,22272,0,1
+929,52587,22296,0,1
+930,52587,22320,0,1
+931,52587,22344,0,1
+932,52587,22368,0,1
+933,52587,22392,0,1
+934,52587,22416,0,1
+935,52587,22440,0,1
+936,52587,22464,0,1
+937,52587,22488,0,1
+938,52587,22512,0,1
+939,52587,22536,0,1
+940,52587,22560,0,1
+941,52587,22584,0,1
+942,52587,22608,0,1
+943,52587,22632,0,1
+944,52587,22656,0,1
+945,52587,22680,0,1
+946,52587,22704,0,1
+947,52587,22728,0,1
+948,52587,22752,1,0
+949,52587,22776,0,1
+950,52587,22800,0,1
+951,52587,22824,0,1
+952,52587,22848,0,1
+953,52587,22872,0,1
+954,52587,22896,0,1
+955,52587,22920,1,0
+956,52587,22944,0,1
+957,52587,22968,0,1
+958,52587,22992,0,1
+959,52587,23016,0,1
+960,52587,23040,0,1
+961,52587,23064,0,1
+962,52587,23088,0,1
+963,52587,23112,0,1
+964,52587,23136,0,1
+965,52587,23160,0,1
+966,52587,23184,0,1
+967,52587,23208,0,1
+968,52587,23232,0,1
+969,52587,23256,0,1
+970,52587,23280,0,1
+971,52587,23304,0,1
+972,52587,23328,0,1
+973,52587,23352,0,1
+974,52587,23376,0,1
+975,52587,23400,0,1
+976,52587,23424,0,1
+977,52587,23448,0,1
+978,52587,23472,0,1
+979,52587,23496,0,1
+980,52587,23520,0,1
+981,52587,23544,0,1
+982,52587,23568,0,1
+983,52587,23592,0,1
+984,52587,23616,0,1
+985,52587,23640,0,1
+986,52587,23664,0,1
+987,52587,23688,0,1
+988,52587,23712,0,1
+989,52587,23736,0,1
+990,52587,23760,0,1
+991,52587,23784,0,1
+992,52587,23808,0,1
+993,52587,23832,0,1
+994,52587,23856,0,1
+995,52587,23880,0,1
+996,52587,23904,0,1
+997,52587,23928,0,1
+998,52587,23952,0,1
+999,52587,23976,0,1
+1000,52587,24000,0,1
+1001,52587,24024,0,1
+1002,52587,24048,0,1
+1003,52587,24072,0,1
+1004,52587,24096,0,1
+1005,52587,24120,0,1
+1006,52587,24144,0,1
+1007,52587,24168,1,0
+1008,52587,24192,1,0
+1009,52587,24216,1,0
+1010,52587,24240,1,0
+1011,52587,24264,1,0
+1012,52587,24288,1,0
+1013,52587,24312,1,0
+1014,52587,24336,1,0
+1015,52587,24360,1,0
+1016,52587,24384,1,0
+1017,52587,24408,0,1
+1018,52587,24432,0,1
+1019,52587,24456,0,1
+1020,52587,24480,0,1
+1021,52587,24504,0,1
+1022,52587,24528,0,1
+1023,52587,24552,0,1
+1024,52587,24576,0,1
+1025,52587,24600,0,1
+1026,52587,24624,0,1
+1027,52587,24648,0,1
+1028,52587,24672,0,1
+1029,52587,24696,0,1
+1030,52587,24720,0,1
+1031,52587,24744,0,1
+1032,52587,24768,0,1
+1033,52587,24792,0,1
+1034,52587,24816,0,1
+1035,52587,24840,0,1
+1036,52587,24864,0,1
+1037,52587,24888,0,1
+1038,52587,24912,0,1
+1039,52587,24936,0,1
+1040,52587,24960,0,1
+1041,52587,24984,0,1
+1042,52587,25008,0,1
+1043,52587,25032,0,1
+1044,52587,25056,0,1
+1045,52587,25080,0,1
+1046,52587,25104,0,1
+1047,52587,25128,0,1
+1048,52587,25152,1,0
+1049,52587,25176,1,0
+1050,52587,25200,1,0
+1051,52587,25224,1,0
+1052,52587,25248,1,0
+1053,52587,25272,1,0
+1054,52587,25296,1,0
+1055,52587,25320,1,0
+1056,52587,25344,1,0
+1057,52587,25368,1,0
+1058,52587,25392,1,0
+1059,52587,25416,1,0
+1060,52587,25440,1,0
+1061,52587,25464,1,0
+1062,52587,25488,1,0
+1063,52587,25512,1,0
+1064,52587,25536,1,0
+1065,52587,25560,1,0
+1066,52587,25584,1,0
+1067,52587,25608,1,0
+1068,52587,25632,1,0
+1069,52587,25656,0,1
+1070,52587,25680,0,1
+1071,52587,25704,0,1
+1072,52587,25728,1,0
+1073,52587,25752,1,0
+1074,52587,25776,0,1
+1075,52587,25800,1,0
+1076,52587,25824,1,0
+1077,52587,25848,1,0
+1078,52587,25872,1,0
+1079,52587,25896,1,0
+1080,52587,25920,1,0
+1081,52587,25944,1,0
+1082,52587,25968,1,0
+1083,52587,25992,1,0
+1084,52587,26016,1,0
+1085,52587,26040,1,0
+1086,52587,26064,1,0
+1087,52587,26088,1,0
+1088,52587,26112,1,0
+1089,52587,26136,1,0
+1090,52587,26160,1,0
+1091,52587,26184,1,0
+1092,52587,26208,1,0
+1093,52587,26232,1,0
+1094,52587,26256,1,0
+1095,52587,26280,0,1
+1096,52587,26304,0,1
+1097,52587,26328,0,1
+1098,52587,26352,0,1
+1099,52587,26376,0,1
+1100,52587,26400,0,1
+1101,52587,26424,0,1
+1102,52587,26448,0,1
+1103,52587,26472,0,1
+1104,52587,26496,0,1
+1105,52587,26520,0,1
+1106,52587,26544,0,1
+1107,52587,26568,0,1
+1108,52587,26592,0,1
+1109,52587,26616,0,1
+1110,52587,26640,0,1
+1111,52587,26664,1,0
+1112,52587,26688,1,0
+1113,52587,26712,0,1
+1114,52587,26736,0,1
+1115,52587,26760,1,0
+1116,52587,26784,1,0
+1117,52587,26808,1,0
+1118,52587,26832,1,0
+1119,52587,26856,1,0
+1120,52587,26880,1,0
+1121,52587,26904,1,0
+1122,52587,26928,1,0
+1123,52587,26952,1,0
+1124,52587,26976,1,0
+1125,52587,27000,1,0
+1126,52587,27024,1,0
+1127,52587,27048,1,0
+1128,52587,27072,1,0
+1129,52587,27096,1,0
+1130,52587,27120,1,0
+1131,52587,27144,0,1
+1132,52587,27168,0,1
+1133,52587,27192,0,1
+1134,52587,27216,0,1
+1135,52587,27240,1,0
+1136,52587,27264,1,0
+1137,52587,27288,1,0
+1138,52587,27312,1,0
+1139,52587,27336,1,0
+1140,52587,27360,1,0
+1141,52587,27384,0,1
+1142,52587,27408,0,1
+1143,52587,27432,0,1
+1144,52587,27456,1,0
+1145,52587,27480,1,0
+1146,52587,27504,1,0
+1147,52587,27528,1,0
+1148,52587,27552,1,0
+1149,52587,27576,1,0
+1150,52587,27600,0,1
+1151,52587,27624,0,1
+1152,52587,27648,0,1
+1153,52587,27672,0,1
+1154,52587,27696,1,0
+1155,52587,27720,1,0
+1156,52587,27744,1,0
+1157,52587,27768,1,0
+1158,52587,27792,1,0
+1159,52587,27816,1,0
+1160,52587,27840,0,1
+1161,52587,27864,0,1
+1162,52587,27888,0,1
+1163,52587,27912,0,1
+1164,52587,27936,1,0
+1165,52587,27960,1,0
+1166,52587,27984,1,0
+1167,52587,28008,1,0
+1168,52587,28032,1,0
+1169,52587,28056,1,0
+1170,52587,28080,1,0
+1171,52587,28104,1,0
+1172,52587,28128,1,0
+1173,52587,28152,1,0
+1174,52587,28176,1,0
+1175,52587,28200,1,0
+1176,52587,28224,1,0
+1177,52587,28248,1,0
+1178,52587,28272,1,0
+1179,52587,28296,1,0
+1180,52587,28320,1,0
+1181,52587,28344,1,0
+1182,52587,28368,1,0
+1183,52587,28392,1,0
+1184,52587,28416,1,0
+1185,52587,28440,1,0
+1186,52587,28464,1,0
+1187,52587,28488,1,0
+1188,52587,28512,1,0
+1189,52587,28536,0,1
+1190,52587,28560,0,1
+1191,52587,28584,0,1
+1192,52587,28608,0,1
+1193,52587,28632,1,0
+1194,52587,28656,0,1
+1195,52587,28680,0,1
+1196,52587,28704,0,1
+1197,52587,28728,0,1
+1198,52587,28752,0,1
+1199,52587,28776,0,1
+1200,52587,28800,0,1
+1201,52587,28824,0,1
+1202,52587,28848,0,1
+1203,52587,28872,0,1
+1204,52587,28896,0,1
+1205,52587,28920,0,1
+1206,52587,28944,1,0
+1207,52587,28968,0,1
+1208,52587,28992,0,1
+1209,52587,29016,0,1
+1210,52587,29040,0,1
+1211,52587,29064,0,1
+1212,52587,29088,0,1
+1213,52587,29112,0,1
+1214,52587,29136,1,0
+1215,52587,29160,0,1
+1216,52587,29184,0,1
+1217,52587,29208,0,1
+1218,52587,29232,0,1
+1219,52587,29256,0,1
+1220,52587,29280,1,0
+1221,52587,29304,0,1
+1222,52587,29328,1,0
+1223,52587,29352,0,1
+1224,52587,29376,0,1
+1225,52587,29400,0,1
+1226,52587,29424,0,1
+1227,52587,29448,0,1
+1228,52587,29472,0,1
+1229,52587,29496,1,0
+1230,52587,29520,1,0
+1231,52587,29544,1,0
+1232,52587,29568,1,0
+1233,52587,29592,1,0
+1234,52587,29616,0,1
+1235,52587,29640,1,0
+1236,52587,29664,1,0
+1237,52587,29688,1,0
+1238,52587,29712,1,0
+1239,52587,29736,1,0
+1240,52587,29760,1,0
+1241,52587,29784,1,0
+1242,52587,29808,1,0
+1243,52587,29832,1,0
+1244,52587,29856,1,0
+1245,52587,29880,1,0
+1246,52587,29904,1,0
+1247,52587,29928,1,0
+1248,52587,29952,1,0
+1249,52587,29976,1,0
+1250,52587,30000,0,1
+1251,52587,30024,0,1
+1252,52587,30048,0,1
+1253,52587,30072,0,1
+1254,52587,30096,0,1
+1255,52587,30120,1,0
+1256,52587,30144,0,1
+1257,52587,30168,0,1
+1258,52587,30192,1,0
+1259,52587,30216,0,1
+1260,52587,30240,0,1
+1261,52587,30264,0,1
+1262,52587,30288,1,0
+1263,52587,30312,1,0
+1264,52587,30336,0,1
+1265,52587,30360,0,1
+1266,52587,30384,0,1
+1267,52587,30408,1,0
+1268,52587,30432,1,0
+1269,52587,30456,0,1
+1270,52587,30480,0,1
+1271,52587,30504,0,1
+1272,52587,30528,0,1
+1273,52587,30552,0,1
+1274,52587,30576,0,1
+1275,52587,30600,0,1
+1276,52587,30624,0,1
+1277,52587,30648,0,1
+1278,52587,30672,0,1
+1279,52587,30696,0,1
+1280,52587,30720,0,1
+1281,52587,30744,0,1
+1282,52587,30768,0,1
+1283,52587,30792,0,1
+1284,52587,30816,0,1
+1285,52587,30840,0,1
+1286,52587,30864,0,1
+1287,52587,30888,0,1
+1288,52587,30912,0,1
+1289,52587,30936,0,1
+1290,52587,30960,0,1
+1291,52587,30984,0,1
+1292,52587,31008,0,1
+1293,52587,31032,0,1
+1294,52587,31056,0,1
+1295,52587,31080,0,1
+1296,52587,31104,0,1
+1297,52587,31128,0,1
+1298,52587,31152,0,1
+1299,52587,31176,0,1
+1300,52587,31200,0,1
+1301,52587,31224,0,1
+1302,52587,31248,0,1
+1303,52587,31272,0,1
+1304,52587,31296,0,1
+1305,52587,31320,0,1
+1306,52587,31344,0,1
+1307,52587,31368,0,1
+1308,52587,31392,0,1
+1309,52587,31416,0,1
+1310,52587,31440,0,1
+1311,52587,31464,0,1
+1312,52587,31488,0,1
+1313,52587,31512,0,1
+1314,52587,31536,0,1
+1315,52587,31560,0,1
+1316,52587,31584,0,1
+1317,52587,31608,0,1
+1318,52587,31632,0,1
+1319,52587,31656,0,1
+1320,52587,31680,0,1
+1321,52587,31704,0,1
+1322,52587,31728,0,1
+1323,52587,31752,0,1
+1324,52587,31776,0,1
+1325,52587,31800,0,1
+1326,52587,31824,0,1
+1327,52587,31848,0,1
+1328,52587,31872,0,1
+1329,52587,31896,0,1
+1330,52587,31920,0,1
+1331,52587,31944,0,1
+1332,52587,31968,0,1
+1333,52587,31992,0,1
+1334,52587,32016,0,1
+1335,52587,32040,0,1
+1336,52587,32064,0,1
+1337,52587,32088,0,1
+1338,52587,32112,0,1
+1339,52587,32136,0,1
+1340,52587,32160,0,1
+1341,52587,32184,0,1
+1342,52587,32208,0,1
+1343,52587,32232,0,1
+1344,52587,32256,0,1
+1345,52587,32280,0,1
+1346,52587,32304,0,1
+1347,52587,32328,0,1
+1348,52587,32352,0,1
+1349,52587,32376,0,1
+1350,52587,32400,0,1
+1351,52587,32424,0,1
+1352,52587,32448,0,1
+1353,52587,32472,0,1
+1354,52587,32496,0,1
+1355,52587,32520,0,1
+1356,52587,32544,0,1
+1357,52587,32568,0,1
+1358,52587,32592,0,1
+1359,52587,32616,0,1
+1360,52587,32640,0,1
+1361,52587,32664,0,1
+1362,52587,32688,0,1
+1363,52587,32712,0,1
+1364,52587,32736,0,1
+1365,52587,32760,0,1
+1366,52587,32784,0,1
+1367,52587,32808,0,1
+1368,52587,32832,0,1
+1369,52587,32856,0,1
+1370,52587,32880,0,1
+1371,52587,32904,0,1
+1372,52587,32928,0,1
+1373,52587,32952,0,1
+1374,52587,32976,0,1
+1375,52587,33000,0,1
+1376,52587,33024,0,1
+1377,52587,33048,0,1
+1378,52587,33072,0,1
+1379,52587,33096,0,1
+1380,52587,33120,0,1
+1381,52587,33144,0,1
+1382,52587,33168,0,1
+1383,52587,33192,0,1
+1384,52587,33216,0,1
+1385,52587,33240,0,1
+1386,52587,33264,0,1
+1387,52587,33288,0,1
+1388,52587,33312,0,1
+1389,52587,33336,0,1
+1390,52587,33360,0,1
+1391,52587,33384,0,1
+1392,52587,33408,0,1
+1393,52587,33432,0,1
+1394,52587,33456,0,1
+1395,52587,33480,1,0
+1396,52587,33504,0,1
+1397,52587,33528,0,1
+1398,52587,33552,0,1
+1399,52587,33576,0,1
+1400,52587,33600,0,1
+1401,52587,33624,0,1
+1402,52587,33648,0,1
+1403,52587,33672,0,1
+1404,52587,33696,0,1
+1405,52587,33720,0,1
+1406,52587,33744,1,0
+1407,52587,33768,0,1
+1408,52587,33792,0,1
+1409,52587,33816,0,1
+1410,52587,33840,1,0
+1411,52587,33864,0,1
+1412,52587,33888,0,1
+1413,52587,33912,0,1
+1414,52587,33936,0,1
+1415,52587,33960,0,1
+1416,52587,33984,0,1
+1417,52587,34008,0,1
+1418,52587,34032,0,1
+1419,52587,34056,0,1
+1420,52587,34080,0,1
+1421,52587,34104,1,0
+1422,52587,34128,1,0
+1423,52587,34152,0,1
+1424,52587,34176,1,0
+1425,52587,34200,0,1
+1426,52587,34224,1,0
+1427,52587,34248,1,0
+1428,52587,34272,1,0
+1429,52587,34296,0,1
+1430,52587,34320,0,1
+1431,52587,34344,0,1
+1432,52587,34368,1,0
+1433,52587,34392,0,1
+1434,52587,34416,1,0
+1435,52587,34440,1,0
+1436,52587,34464,1,0
+1437,52587,34488,1,0
+1438,52587,34512,0,1
+1439,52587,34536,0,1
+1440,52587,34560,0,1
+1441,52587,34584,0,1
+1442,52587,34608,0,1
+1443,52587,34632,0,1
+1444,52587,34656,0,1
+1445,52587,34680,0,1
+1446,52587,34704,0,1
+1447,52587,34728,0,1
+1448,52587,34752,0,1
+1449,52587,34776,0,1
+1450,52587,34800,0,1
+1451,52587,34824,0,1
+1452,52587,34848,0,1
+1453,52587,34872,0,1
+1454,52587,34896,0,1
+1455,52587,34920,0,1
+1456,52587,34944,0,1
+1457,52587,34968,0,1
+1458,52587,34992,0,1
+1459,52587,35016,0,1
+1460,52587,35040,0,1
+1461,52587,35064,0,1
+1462,52587,35088,0,1
+1463,52587,35112,0,1
+1464,52587,35136,0,1
+1465,52587,35160,0,1
+1466,52587,35184,0,1
+1467,52587,35208,0,1
+1468,52587,35232,0,1
+1469,52587,35256,0,1
+1470,52587,35280,0,1
+1471,52587,35304,0,1
+1472,52587,35328,0,1
+1473,52587,35352,0,1
+1474,52587,35376,0,1
+1475,52587,35400,1,0
+1476,52587,35424,1,0
+1477,52587,35448,0,1
+1478,52587,35472,0,1
+1479,52587,35496,1,0
+1480,52587,35520,1,0
+1481,52587,35544,0,1
+1482,52587,35568,1,0
+1483,52587,35592,0,1
+1484,52587,35616,1,0
+1485,52587,35640,1,0
+1486,52587,35664,1,0
+1487,52587,35688,0,1
+1488,52587,35712,1,0
+1489,52587,35736,1,0
+1490,52587,35760,0,1
+1491,52587,35784,0,1
+1492,52587,35808,0,1
+1493,52587,35832,1,0
+1494,52587,35856,0,1
+1495,52587,35880,0,1
+1496,52587,35904,0,1
+1497,52587,35928,0,1
+1498,52587,35952,0,1
+1499,52587,35976,0,1
+1500,52587,36000,0,1
+1501,52587,36024,0,1
+1502,52587,36048,1,0
+1503,52587,36072,1,0
+1504,52587,36096,1,0
+1505,52587,36120,1,0
+1506,52587,36144,1,0
+1507,52587,36168,1,0
+1508,52587,36192,1,0
+1509,52587,36216,1,0
+1510,52587,36240,1,0
+1511,52587,36264,0,1
+1512,52587,36288,1,0
+1513,52587,36312,1,0
+1514,52587,36336,1,0
+1515,52587,36360,1,0
+1516,52587,36384,1,0
+1517,52587,36408,0,1
+1518,52587,36432,0,1
+1519,52587,36456,0,1
+1520,52587,36480,0,1
+1521,52587,36504,1,0
+1522,52587,36528,1,0
+1523,52587,36552,1,0
+1524,52587,36576,1,0
+1525,52587,36600,1,0
+1526,52587,36624,1,0
+1527,52587,36648,1,0
+1528,52587,36672,0,1
+1529,52587,36696,0,1
+1530,52587,36720,1,0
+1531,52587,36744,1,0
+1532,52587,36768,0,1
+1533,52587,36792,0,1
+1534,52587,36816,0,1
+1535,52587,36840,0,1
+1536,52587,36864,0,1
+1537,52587,36888,0,1
+1538,52587,36912,0,1
+1539,52587,36936,1,0
+1540,52587,36960,1,0
+1541,52587,36984,1,0
+1542,52587,37008,0,1
+1543,52587,37032,0,1
+1544,52587,37056,0,1
+1545,52587,37080,0,1
+1546,52587,37104,0,1
+1547,52587,37128,0,1
+1548,52587,37152,1,0
+1549,52587,37176,1,0
+1550,52587,37200,1,0
+1551,52587,37224,0,1
+1552,52587,37248,0,1
+1553,52587,37272,0,1
+1554,52587,37296,0,1
+1555,52587,37320,0,1
+1556,52587,37344,0,1
+1557,52587,37368,0,1
+1558,52587,37392,0,1
+1559,52587,37416,0,1
+1560,52587,37440,0,1
+1561,52587,37464,0,1
+1562,52587,37488,1,0
+1563,52587,37512,0,1
+1564,52587,37536,0,1
+1565,52587,37560,0,1
+1566,52587,37584,1,0
+1567,52587,37608,0,1
+1568,52587,37632,1,0
+1569,52587,37656,1,0
+1570,52587,37680,1,0
+1571,52587,37704,0,1
+1572,52587,37728,1,0
+1573,52587,37752,0,1
+1574,52587,37776,1,0
+1575,52587,37800,0,1
+1576,52587,37824,0,1
+1577,52587,37848,1,0
+1578,52587,37872,1,0
+1579,52587,37896,0,1
+1580,52587,37920,0,1
+1581,52587,37944,0,1
+1582,52587,37968,0,1
+1583,52587,37992,0,1
+1584,52587,38016,0,1
+1585,52587,38040,0,1
+1586,52587,38064,0,1
+1587,52587,38088,0,1
+1588,52587,38112,0,1
+1589,52587,38136,0,1
+1590,52587,38160,0,1
+1591,52587,38184,0,1
+1592,52587,38208,0,1
+1593,52587,38232,1,0
+1594,52587,38256,1,0
+1595,52587,38280,1,0
+1596,52587,38304,1,0
+1597,52587,38328,1,0
+1598,52587,38352,1,0

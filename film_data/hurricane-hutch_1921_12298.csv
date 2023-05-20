@@ -1,181 +1,181 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"archive, classroom, art_gallery, nursery, museum/indoor",12298
-1,24,indoor,"drugstore, pharmacy, hospital, hospital_room, cemetery",12298
-2,48,indoor,"drugstore, pharmacy, hospital, hospital_room, beauty_salon",12298
-3,72,indoor,"drugstore, pharmacy, hospital, hospital_room, cemetery",12298
-4,96,indoor,"drugstore, pharmacy, hospital, hospital_room, cemetery",12298
-5,120,indoor,"drugstore, pharmacy, hospital, hospital_room, beauty_salon",12298
-6,144,indoor,"drugstore, pharmacy, hospital, hospital_room, beauty_salon",12298
-7,168,indoor,"drugstore, pharmacy, hospital, hospital_room, beauty_salon",12298
-8,192,indoor,"drugstore, pharmacy, hospital, hospital_room, beauty_salon",12298
-9,216,indoor,"drugstore, pharmacy, hospital, hospital_room, cemetery",12298
-10,240,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-11,264,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-12,288,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-13,312,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-14,336,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-15,360,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-16,384,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-17,408,indoor,"pharmacy, reception, drugstore, hospital, beauty_salon",12298
-18,432,indoor,"pharmacy, reception, hospital, drugstore, art_gallery",12298
-19,456,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-20,480,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-21,504,indoor,"hospital, booth/indoor, hospital_room, drugstore, pharmacy",12298
-22,528,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-23,552,indoor,"hospital, booth/indoor, hospital_room, drugstore, pharmacy",12298
-24,576,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-25,600,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-26,624,indoor,"hospital, booth/indoor, hospital_room, drugstore, pharmacy",12298
-27,648,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-28,672,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-29,696,indoor,"hospital, booth/indoor, hospital_room, drugstore, pharmacy",12298
-30,720,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-31,744,indoor,"hospital, booth/indoor, hospital_room, pharmacy, drugstore",12298
-32,768,indoor,"classroom, booth/indoor, lecture_room, archive, natural_history_museum",12298
-33,792,indoor,"booth/indoor, museum/indoor, natural_history_museum, archive, science_museum",12298
-34,816,indoor,"booth/indoor, museum/indoor, natural_history_museum, archive, science_museum",12298
-35,840,indoor,"booth/indoor, museum/indoor, natural_history_museum, archive, science_museum",12298
-36,864,indoor,"booth/indoor, museum/indoor, archive, natural_history_museum, science_museum",12298
-37,888,indoor,"booth/indoor, archive, museum/indoor, natural_history_museum, science_museum",12298
-38,912,indoor,"booth/indoor, archive, museum/indoor, natural_history_museum, science_museum",12298
-39,936,indoor,"booth/indoor, archive, museum/indoor, natural_history_museum, science_museum",12298
-40,960,indoor,"booth/indoor, archive, museum/indoor, natural_history_museum, science_museum",12298
-41,984,indoor,"booth/indoor, archive, museum/indoor, natural_history_museum, science_museum",12298
-42,1008,indoor,"museum/indoor, tree_farm, art_gallery, art_studio, orchard",12298
-43,1032,indoor,"museum/indoor, tree_farm, bow_window/indoor, art_studio, art_gallery",12298
-44,1056,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, stage/indoor",12298
-45,1080,outdoor,"ice_floe, iceberg, ice_shelf, hot_spring, lake/natural",12298
-46,1104,outdoor,"hot_spring, ice_floe, elevator/door, ice_shelf, lake/natural",12298
-47,1128,indoor,"elevator/door, alcove, home_theater, barndoor, bank_vault",12298
-48,1152,indoor,"elevator/door, home_theater, alcove, barndoor, server_room",12298
-49,1176,indoor,"tree_farm, museum/indoor, art_gallery, art_studio, orchard",12298
-50,1200,outdoor,"ice_floe, cemetery, tree_farm, ice_shelf, archive",12298
-51,1224,outdoor,"ice_floe, pond, lake/natural, ice_shelf, cemetery",12298
-52,1248,outdoor,"ice_floe, ice_shelf, iceberg, sky, lake/natural",12298
-53,1272,outdoor,"sky, ice_floe, ice_shelf, tree_farm, iceberg",12298
-54,1296,outdoor,"sky, ice_floe, ice_shelf, tree_farm, iceberg",12298
-55,1320,outdoor,"sky, ice_floe, ice_shelf, iceberg, glacier",12298
-56,1344,outdoor,"sky, ice_shelf, ice_floe, iceberg, volcano",12298
-57,1368,outdoor,"sky, ice_shelf, ice_floe, iceberg, mountain_snowy",12298
-58,1392,outdoor,"sky, ice_shelf, mountain_snowy, ice_floe, snowfield",12298
-59,1416,outdoor,"ice_shelf, sky, mountain_snowy, glacier, ice_floe",12298
-60,1440,outdoor,"ice_shelf, mountain_snowy, snowfield, sky, ice_floe",12298
-61,1464,outdoor,"ice_shelf, mountain_snowy, iceberg, ice_floe, glacier",12298
-62,1488,indoor,"reception, elevator/door, alcove, ice_shelf, pharmacy",12298
-63,1512,indoor,"reception, elevator/door, ice_shelf, pharmacy, beauty_salon",12298
-64,1536,indoor,"reception, elevator/door, alcove, elevator_lobby, beauty_salon",12298
-65,1560,outdoor,"bow_window/indoor, museum/indoor, cemetery, amusement_park, mausoleum",12298
-66,1584,outdoor,"oast_house, schoolhouse, mausoleum, cemetery, shed",12298
-67,1608,outdoor,"museum/indoor, bow_window/indoor, cemetery, schoolhouse, mausoleum",12298
-68,1632,outdoor,"schoolhouse, museum/indoor, oast_house, cemetery, mausoleum",12298
-69,1656,outdoor,"museum/indoor, art_studio, arch, amusement_park, mausoleum",12298
-70,1680,outdoor,"schoolhouse, oast_house, mausoleum, museum/indoor, mosque/outdoor",12298
-71,1704,indoor,"hospital, archive, pharmacy, clean_room, hospital_room",12298
-72,1728,indoor,"hospital, archive, pharmacy, clean_room, hospital_room",12298
-73,1752,indoor,"hospital, archive, pharmacy, hospital_room, clean_room",12298
-74,1776,outdoor,"raceway, boardwalk, bowling_alley, playground, bridge",12298
-75,1800,outdoor,"raceway, auto_factory, boardwalk, racecourse, playground",12298
-76,1824,outdoor,"playground, raceway, amusement_park, auto_factory, bowling_alley",12298
-77,1848,outdoor,"playground, picnic_area, raceway, railroad_track, amusement_park",12298
-78,1872,outdoor,"playground, corn_field, boardwalk, raceway, field/cultivated",12298
-79,1896,outdoor,"gas_station, bowling_alley, amusement_park, playground, motel",12298
-80,1920,outdoor,"runway, raceway, hangar/indoor, gas_station, cemetery",12298
-81,1944,indoor,"server_room, clean_room, archive, locker_room, basement",12298
-82,1968,indoor,"locker_room, archive, basement, server_room, clean_room",12298
-83,1992,outdoor,"ice_floe, ice_shelf, supermarket, runway, clean_room",12298
-84,2016,indoor,"ice_shelf, ice_floe, supermarket, drugstore, auto_factory",12298
-85,2040,indoor,"archive, cemetery, bookstore, museum/indoor, ice_shelf",12298
-86,2064,outdoor,"cemetery, archive, tree_farm, baseball_field, ice_shelf",12298
-87,2088,outdoor,"ice_shelf, archive, cemetery, fountain, tree_farm",12298
-88,2112,outdoor,"ice_floe, ice_shelf, iceberg, aquarium, art_gallery",12298
-89,2136,outdoor,"ice_floe, ice_shelf, iceberg, aquarium, glacier",12298
-90,2160,outdoor,"tree_farm, cemetery, oast_house, orchard, ruin",12298
-91,2184,outdoor,"tree_farm, cemetery, orchard, ice_shelf, sky",12298
-92,2208,outdoor,"tree_farm, ice_shelf, aqueduct, cemetery, ruin",12298
-93,2232,outdoor,"ice_shelf, ice_floe, snowfield, wave, ocean",12298
-94,2256,outdoor,"ice_shelf, ice_floe, wave, ocean, sky",12298
-95,2280,indoor,"basement, elevator/door, alcove, shower, jail_cell",12298
-96,2304,outdoor,"sky, hot_spring, wheat_field, field/wild, ocean",12298
-97,2328,outdoor,"sky, wheat_field, wind_farm, field/wild, hot_spring",12298
-98,2352,outdoor,"sky, wind_farm, windmill, movie_theater/indoor, home_theater",12298
-99,2376,outdoor,"sky, ocean, hot_spring, wheat_field, aquarium",12298
-100,2400,outdoor,"sky, wind_farm, hot_spring, wheat_field, ocean",12298
-101,2424,outdoor,"sky, hot_spring, wind_farm, aquarium, windmill",12298
-102,2448,outdoor,"sky, hot_spring, aquarium, wheat_field, wind_farm",12298
-103,2472,outdoor,"sky, windmill, water_tower, hot_spring, wind_farm",12298
-104,2496,outdoor,"sky, hot_spring, wheat_field, wind_farm, field/wild",12298
-105,2520,outdoor,"sky, hot_spring, ocean, art_gallery, water_tower",12298
-106,2544,outdoor,"sky, wind_farm, hot_spring, wheat_field, volcano",12298
-107,2568,outdoor,"sky, ocean, coast, hot_spring, wheat_field",12298
-108,2592,outdoor,"sky, wheat_field, ocean, wind_farm, hot_spring",12298
-109,2616,indoor,"elevator/door, pharmacy, locker_room, clean_room, hospital",12298
-110,2640,indoor,"hospital, archive, locker_room, pharmacy, museum/indoor",12298
-111,2664,indoor,"archive, locker_room, server_room, basement, elevator/door",12298
-112,2688,outdoor,"hangar/outdoor, schoolhouse, ice_shelf, runway, classroom",12298
-113,2712,indoor,"classroom, schoolhouse, lecture_room, hangar/outdoor, archive",12298
-114,2736,indoor,"pharmacy, hospital, museum/indoor, drugstore, archive",12298
-115,2760,indoor,"pharmacy, hospital, archive, museum/indoor, drugstore",12298
-116,2784,indoor,"hospital, pharmacy, archive, museum/indoor, hospital_room",12298
-117,2808,outdoor,"ice_shelf, bedroom, wave, igloo, ice_floe",12298
-118,2832,indoor,"ice_shelf, airplane_cabin, clean_room, iceberg, chemistry_lab",12298
-119,2856,indoor,"pharmacy, hospital, drugstore, elevator/door, museum/indoor",12298
-120,2880,indoor,"pharmacy, hospital, drugstore, elevator/door, hospital_room",12298
-121,2904,outdoor,"railroad_track, subway_station/platform, highway, train_station/platform, forest_road",12298
-122,2928,indoor,"subway_station/platform, train_station/platform, railroad_track, corridor, street",12298
-123,2952,indoor,"subway_station/platform, railroad_track, train_station/platform, highway, escalator/indoor",12298
-124,2976,indoor,"escalator/indoor, subway_station/platform, railroad_track, train_station/platform, airport_terminal",12298
-125,3000,indoor,"train_station/platform, railroad_track, subway_station/platform, escalator/indoor, water_tower",12298
-126,3024,outdoor,"sky, iceberg, bridge, wind_farm, wheat_field",12298
-127,3048,outdoor,"bridge, dam, viaduct, sky, wind_farm",12298
-128,3072,outdoor,"dam, bridge, viaduct, ocean, wave",12298
-129,3096,outdoor,"dam, bridge, hot_spring, igloo, waterfall",12298
-130,3120,outdoor,"igloo, ski_slope, field_road, driveway, raceway",12298
-131,3144,outdoor,"hot_spring, wind_farm, igloo, shower, ski_slope",12298
-132,3168,outdoor,"wind_farm, bridge, ice_floe, wheat_field, igloo",12298
-133,3192,indoor,"archive, classroom, pharmacy, cemetery, locker_room",12298
-134,3216,indoor,"museum/indoor, elevator/door, hospital, pharmacy, art_gallery",12298
-135,3240,indoor,"bow_window/indoor, museum/indoor, barndoor, nursery, archive",12298
-136,3264,indoor,"archive, museum/indoor, classroom, bookstore, kindergarden_classroom",12298
-137,3288,indoor,"bow_window/indoor, archive, kindergarden_classroom, classroom, museum/indoor",12298
-138,3312,indoor,"museum/indoor, archive, bookstore, bow_window/indoor, kindergarden_classroom",12298
-139,3336,indoor,"bow_window/indoor, archive, bookstore, barndoor, art_studio",12298
-140,3360,indoor,"archive, classroom, schoolhouse, kindergarden_classroom, museum/indoor",12298
-141,3384,indoor,"archive, elevator/door, pharmacy, shower, locker_room",12298
-142,3408,indoor,"archive, shower, ice_shelf, locker_room, elevator/door",12298
-143,3432,indoor,"archive, elevator/door, pharmacy, locker_room, basement",12298
-144,3456,indoor,"clean_room, chemistry_lab, bow_window/indoor, physics_laboratory, museum/indoor",12298
-145,3480,indoor,"bow_window/indoor, classroom, museum/indoor, art_studio, kindergarden_classroom",12298
-146,3504,indoor,"museum/indoor, ice_shelf, archive, oilrig, stage/indoor",12298
-147,3528,indoor,"ice_shelf, bow_window/indoor, chemistry_lab, iceberg, clean_room",12298
-148,3552,indoor,"pharmacy, hospital, elevator/door, museum/indoor, reception",12298
-149,3576,indoor,"pharmacy, hospital, conference_center, beauty_salon, drugstore",12298
-150,3600,indoor,"classroom, archive, lecture_room, airport_terminal, clean_room",12298
-151,3624,indoor,"clean_room, museum/indoor, operating_room, iceberg, science_museum",12298
-152,3648,indoor,"bow_window/indoor, sauna, bathroom, jail_cell, utility_room",12298
-153,3672,indoor,"art_gallery, basement, elevator/door, attic, lecture_room",12298
-154,3696,indoor,"lecture_room, classroom, elevator/door, archive, museum/indoor",12298
-155,3720,indoor,"pharmacy, hospital, cemetery, archive, museum/indoor",12298
-156,3744,indoor,"pharmacy, hospital, elevator/door, museum/indoor, hospital_room",12298
-157,3768,indoor,"hospital, pharmacy, drugstore, hospital_room, cemetery",12298
-158,3792,indoor,"escalator/indoor, airport_terminal, staircase, entrance_hall, mezzanine",12298
-159,3816,indoor,"escalator/indoor, airport_terminal, staircase, entrance_hall, boat_deck",12298
-160,3840,indoor,"bridge, escalator/indoor, atrium/public, staircase, mezzanine",12298
-161,3864,indoor,"escalator/indoor, bridge, staircase, airport_terminal, atrium/public",12298
-162,3888,indoor,"escalator/indoor, bridge, airport_terminal, staircase, entrance_hall",12298
-163,3912,indoor,"escalator/indoor, airport_terminal, staircase, atrium/public, bridge",12298
-164,3936,indoor,"escalator/indoor, airport_terminal, bridge, staircase, entrance_hall",12298
-165,3960,indoor,"escalator/indoor, staircase, bridge, airport_terminal, entrance_hall",12298
-166,3984,indoor,"hospital, pharmacy, museum/indoor, hospital_room, archive",12298
-167,4008,indoor,"hospital, pharmacy, museum/indoor, cemetery, drugstore",12298
-168,4032,indoor,"hospital, pharmacy, museum/indoor, cemetery, hospital_room",12298
-169,4056,outdoor,"office_building, hospital, alley, building_facade, construction_site",12298
-170,4080,outdoor,"office_building, hospital, skyscraper, corridor, building_facade",12298
-171,4104,outdoor,"office_building, skyscraper, construction_site, alley, barndoor",12298
-172,4128,outdoor,"office_building, hospital, skyscraper, alley, building_facade",12298
-173,4152,indoor,"hospital, hospital_room, pharmacy, booth/indoor, drugstore",12298
-174,4176,indoor,"booth/indoor, hospital, hospital_room, conference_center, museum/indoor",12298
-175,4200,indoor,"booth/indoor, hospital, conference_center, hospital_room, elevator/door",12298
-176,4224,indoor,"booth/indoor, hospital, hospital_room, conference_center, cemetery",12298
-177,4248,indoor,"booth/indoor, hospital, hospital_room, conference_center, elevator/door",12298
-178,4272,indoor,"booth/indoor, hospital, cemetery, museum/indoor, conference_center",12298
-179,4296,outdoor,"desert/sand, sky, beach, lake/natural, marsh",12298
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,12298,0,0,1
+1,12298,24,0,1
+2,12298,48,0,1
+3,12298,72,0,1
+4,12298,96,0,1
+5,12298,120,0,1
+6,12298,144,0,1
+7,12298,168,0,1
+8,12298,192,0,1
+9,12298,216,0,1
+10,12298,240,0,1
+11,12298,264,0,1
+12,12298,288,0,1
+13,12298,312,0,1
+14,12298,336,0,1
+15,12298,360,0,1
+16,12298,384,0,1
+17,12298,408,0,1
+18,12298,432,0,1
+19,12298,456,0,1
+20,12298,480,0,1
+21,12298,504,0,1
+22,12298,528,0,1
+23,12298,552,0,1
+24,12298,576,0,1
+25,12298,600,0,1
+26,12298,624,0,1
+27,12298,648,0,1
+28,12298,672,0,1
+29,12298,696,0,1
+30,12298,720,0,1
+31,12298,744,0,1
+32,12298,768,0,1
+33,12298,792,0,1
+34,12298,816,0,1
+35,12298,840,0,1
+36,12298,864,0,1
+37,12298,888,0,1
+38,12298,912,0,1
+39,12298,936,0,1
+40,12298,960,0,1
+41,12298,984,0,1
+42,12298,1008,0,1
+43,12298,1032,0,1
+44,12298,1056,0,1
+45,12298,1080,1,0
+46,12298,1104,1,0
+47,12298,1128,0,1
+48,12298,1152,0,1
+49,12298,1176,0,1
+50,12298,1200,1,0
+51,12298,1224,1,0
+52,12298,1248,1,0
+53,12298,1272,1,0
+54,12298,1296,1,0
+55,12298,1320,1,0
+56,12298,1344,1,0
+57,12298,1368,1,0
+58,12298,1392,1,0
+59,12298,1416,1,0
+60,12298,1440,1,0
+61,12298,1464,1,0
+62,12298,1488,0,1
+63,12298,1512,0,1
+64,12298,1536,0,1
+65,12298,1560,1,0
+66,12298,1584,1,0
+67,12298,1608,1,0
+68,12298,1632,1,0
+69,12298,1656,1,0
+70,12298,1680,1,0
+71,12298,1704,0,1
+72,12298,1728,0,1
+73,12298,1752,0,1
+74,12298,1776,1,0
+75,12298,1800,1,0
+76,12298,1824,1,0
+77,12298,1848,1,0
+78,12298,1872,1,0
+79,12298,1896,1,0
+80,12298,1920,1,0
+81,12298,1944,0,1
+82,12298,1968,0,1
+83,12298,1992,1,0
+84,12298,2016,0,1
+85,12298,2040,0,1
+86,12298,2064,1,0
+87,12298,2088,1,0
+88,12298,2112,1,0
+89,12298,2136,1,0
+90,12298,2160,1,0
+91,12298,2184,1,0
+92,12298,2208,1,0
+93,12298,2232,1,0
+94,12298,2256,1,0
+95,12298,2280,0,1
+96,12298,2304,1,0
+97,12298,2328,1,0
+98,12298,2352,1,0
+99,12298,2376,1,0
+100,12298,2400,1,0
+101,12298,2424,1,0
+102,12298,2448,1,0
+103,12298,2472,1,0
+104,12298,2496,1,0
+105,12298,2520,1,0
+106,12298,2544,1,0
+107,12298,2568,1,0
+108,12298,2592,1,0
+109,12298,2616,0,1
+110,12298,2640,0,1
+111,12298,2664,0,1
+112,12298,2688,1,0
+113,12298,2712,0,1
+114,12298,2736,0,1
+115,12298,2760,0,1
+116,12298,2784,0,1
+117,12298,2808,1,0
+118,12298,2832,0,1
+119,12298,2856,0,1
+120,12298,2880,0,1
+121,12298,2904,1,0
+122,12298,2928,0,1
+123,12298,2952,0,1
+124,12298,2976,0,1
+125,12298,3000,0,1
+126,12298,3024,1,0
+127,12298,3048,1,0
+128,12298,3072,1,0
+129,12298,3096,1,0
+130,12298,3120,1,0
+131,12298,3144,1,0
+132,12298,3168,1,0
+133,12298,3192,0,1
+134,12298,3216,0,1
+135,12298,3240,0,1
+136,12298,3264,0,1
+137,12298,3288,0,1
+138,12298,3312,0,1
+139,12298,3336,0,1
+140,12298,3360,0,1
+141,12298,3384,0,1
+142,12298,3408,0,1
+143,12298,3432,0,1
+144,12298,3456,0,1
+145,12298,3480,0,1
+146,12298,3504,0,1
+147,12298,3528,0,1
+148,12298,3552,0,1
+149,12298,3576,0,1
+150,12298,3600,0,1
+151,12298,3624,0,1
+152,12298,3648,0,1
+153,12298,3672,0,1
+154,12298,3696,0,1
+155,12298,3720,0,1
+156,12298,3744,0,1
+157,12298,3768,0,1
+158,12298,3792,0,1
+159,12298,3816,0,1
+160,12298,3840,0,1
+161,12298,3864,0,1
+162,12298,3888,0,1
+163,12298,3912,0,1
+164,12298,3936,0,1
+165,12298,3960,0,1
+166,12298,3984,0,1
+167,12298,4008,0,1
+168,12298,4032,0,1
+169,12298,4056,1,0
+170,12298,4080,1,0
+171,12298,4104,1,0
+172,12298,4128,1,0
+173,12298,4152,0,1
+174,12298,4176,0,1
+175,12298,4200,0,1
+176,12298,4224,0,1
+177,12298,4248,0,1
+178,12298,4272,0,1
+179,12298,4296,1,0

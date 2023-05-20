@@ -1,158 +1,158 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"desert/sand, lake/natural, marsh, beach, sky",38338
-1,24,outdoor,"desert/sand, beach, lake/natural, marsh, sky",38338
-2,48,indoor,"clothing_store, beauty_salon, coffee_shop, pharmacy, ice_cream_parlor",38338
-3,72,indoor,"pharmacy, beauty_salon, drugstore, bookstore, coffee_shop",38338
-4,96,indoor,"beauty_salon, pharmacy, drugstore, motel, bookstore",38338
-5,120,indoor,"pharmacy, drugstore, beauty_salon, bookstore, motel",38338
-6,144,indoor,"drugstore, pharmacy, beauty_salon, bookstore, motel",38338
-7,168,indoor,"pharmacy, drugstore, beauty_salon, bookstore, coffee_shop",38338
-8,192,indoor,"pharmacy, drugstore, beauty_salon, bookstore, motel",38338
-9,216,indoor,"motel, drugstore, pharmacy, coffee_shop, bowling_alley",38338
-10,240,indoor,"drugstore, beauty_salon, bookstore, coffee_shop, pharmacy",38338
-11,264,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop",38338
-12,288,indoor,"drugstore, beauty_salon, coffee_shop, bookstore, pharmacy",38338
-13,312,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop",38338
-14,336,indoor,"drugstore, beauty_salon, bookstore, pharmacy, coffee_shop",38338
-15,360,indoor,"coffee_shop, nursery, dining_room, ice_shelf, motel",38338
-16,384,indoor,"nursery, coffee_shop, ice_shelf, dining_room, motel",38338
-17,408,indoor,"ice_shelf, dining_room, coffee_shop, nursery, motel",38338
-18,432,indoor,"ice_shelf, coffee_shop, dining_room, nursery, motel",38338
-19,456,indoor,"ice_shelf, nursery, coffee_shop, dining_room, motel",38338
-20,480,indoor,"nursery, playground, ice_shelf, jail_cell, drugstore",38338
-21,504,indoor,"nursery, locker_room, ice_shelf, pier, gymnasium/indoor",38338
-22,528,indoor,"martial_arts_gym, gymnasium/indoor, boxing_ring, motel, ice_shelf",38338
-23,552,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom",38338
-24,576,indoor,"clean_room, airport_terminal, shower, museum/indoor, ballroom",38338
-25,600,indoor,"clean_room, museum/indoor, airport_terminal, shower, ballroom",38338
-26,624,indoor,"clean_room, airport_terminal, museum/indoor, shower, lobby",38338
-27,648,indoor,"clean_room, airport_terminal, museum/indoor, shower, lobby",38338
-28,672,indoor,"clean_room, museum/indoor, shower, airport_terminal, ballroom",38338
-29,696,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom",38338
-30,720,indoor,"clean_room, airport_terminal, museum/indoor, shower, art_gallery",38338
-31,744,indoor,"clean_room, shower, museum/indoor, airport_terminal, art_gallery",38338
-32,768,indoor,"clean_room, airport_terminal, museum/indoor, shower, ballroom",38338
-33,792,indoor,"museum/indoor, shower, natural_history_museum, art_gallery, science_museum",38338
-34,816,indoor,"shower, bathroom, clean_room, elevator/door, basement",38338
-35,840,indoor,"museum/indoor, science_museum, aquarium, discotheque, shower",38338
-36,864,indoor,"shower, museum/indoor, natural_history_museum, science_museum, bathroom",38338
-37,888,indoor,"discotheque, stage/indoor, ballroom, dressing_room, music_studio",38338
-38,912,indoor,"museum/indoor, shower, art_gallery, elevator/door, archive",38338
-39,936,indoor,"museum/indoor, shower, nursery, art_gallery, bathroom",38338
-40,960,indoor,"nursery, museum/indoor, shower, science_museum, igloo",38338
-41,984,indoor,"basement, shower, elevator/door, locker_room, elevator_lobby",38338
-42,1008,indoor,"elevator/door, elevator_lobby, locker_room, shower, basement",38338
-43,1032,indoor,"elevator/door, elevator_lobby, clean_room, shower, locker_room",38338
-44,1056,indoor,"clean_room, airport_terminal, elevator/door, reception, elevator_lobby",38338
-45,1080,indoor,"clean_room, shower, basement, locker_room, airport_terminal",38338
-46,1104,indoor,"clean_room, elevator/door, airport_terminal, wind_farm, basement",38338
-47,1128,indoor,"clean_room, elevator/door, shower, art_gallery, bank_vault",38338
-48,1152,indoor,"staircase, entrance_hall, escalator/indoor, atrium/public, corridor",38338
-49,1176,indoor,"staircase, entrance_hall, corridor, escalator/indoor, basement",38338
-50,1200,indoor,"staircase, corridor, atrium/public, lobby, clean_room",38338
-51,1224,indoor,"shower, bank_vault, bathroom, elevator/door, elevator_lobby",38338
-52,1248,indoor,"shower, elevator/door, basement, bathroom, elevator_lobby",38338
-53,1272,indoor,"shower, elevator/door, basement, elevator_lobby, corridor",38338
-54,1296,indoor,"shower, museum/indoor, discotheque, clean_room, art_gallery",38338
-55,1320,indoor,"museum/indoor, natural_history_museum, art_gallery, science_museum, discotheque",38338
-56,1344,indoor,"shower, museum/indoor, natural_history_museum, basement, science_museum",38338
-57,1368,indoor,"shower, clean_room, locker_room, basement, bathroom",38338
-58,1392,indoor,"clean_room, archive, discotheque, museum/indoor, music_studio",38338
-59,1416,indoor,"clean_room, archive, music_studio, discotheque, museum/indoor",38338
-60,1440,indoor,"discotheque, museum/indoor, music_studio, stage/indoor, archive",38338
-61,1464,indoor,"discotheque, museum/indoor, boxing_ring, music_studio, stage/indoor",38338
-62,1488,indoor,"archive, locker_room, clean_room, museum/indoor, art_gallery",38338
-63,1512,indoor,"locker_room, archive, clean_room, basement, art_gallery",38338
-64,1536,indoor,"locker_room, shower, elevator/door, clean_room, server_room",38338
-65,1560,indoor,"shower, bathroom, art_gallery, museum/indoor, clean_room",38338
-66,1584,indoor,"shower, natural_history_museum, museum/indoor, bathroom, art_gallery",38338
-67,1608,indoor,"shower, bathroom, museum/indoor, natural_history_museum, clean_room",38338
-68,1632,indoor,"shower, bathroom, museum/indoor, nursery, clean_room",38338
-69,1656,indoor,"museum/indoor, clean_room, art_gallery, natural_history_museum, science_museum",38338
-70,1680,indoor,"museum/indoor, dressing_room, clean_room, discotheque, natural_history_museum",38338
-71,1704,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum",38338
-72,1728,indoor,"dressing_room, museum/indoor, clean_room, discotheque, art_gallery",38338
-73,1752,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, natural_history_museum",38338
-74,1776,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum",38338
-75,1800,indoor,"dressing_room, museum/indoor, clean_room, art_gallery, natural_history_museum",38338
-76,1824,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",38338
-77,1848,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",38338
-78,1872,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",38338
-79,1896,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, natural_history_museum",38338
-80,1920,indoor,"ice_cream_parlor, kindergarden_classroom, amusement_park, pharmacy, bar",38338
-81,1944,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, bar, mosque/outdoor",38338
-82,1968,indoor,"kindergarden_classroom, ice_cream_parlor, pharmacy, amusement_park, ticket_booth",38338
-83,1992,indoor,"ice_cream_parlor, pharmacy, kindergarden_classroom, cafeteria, bar",38338
-84,2016,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, cafeteria",38338
-85,2040,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, laundromat, archive",38338
-86,2064,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, laundromat",38338
-87,2088,indoor,"ice_cream_parlor, ticket_booth, pharmacy, kindergarden_classroom, laundromat",38338
-88,2112,indoor,"ice_cream_parlor, kindergarden_classroom, ticket_booth, pharmacy, dressing_room",38338
-89,2136,indoor,"ice_cream_parlor, kindergarden_classroom, pharmacy, ticket_booth, nursery",38338
-90,2160,indoor,"ice_cream_parlor, archive, clean_room, museum/indoor, cemetery",38338
-91,2184,indoor,"ice_cream_parlor, archive, clean_room, schoolhouse, cemetery",38338
-92,2208,indoor,"archive, gymnasium/indoor, boxing_ring, music_studio, library/indoor",38338
-93,2232,indoor,"archive, music_studio, boxing_ring, museum/indoor, clean_room",38338
-94,2256,indoor,"archive, music_studio, boxing_ring, clean_room, museum/indoor",38338
-95,2280,indoor,"archive, music_studio, boxing_ring, clean_room, locker_room",38338
-96,2304,indoor,"archive, music_studio, boxing_ring, gymnasium/indoor, stage/indoor",38338
-97,2328,indoor,"dressing_room, museum/indoor, clean_room, locker_room, archive",38338
-98,2352,indoor,"locker_room, museum/indoor, clean_room, dressing_room, archive",38338
-99,2376,indoor,"clean_room, locker_room, museum/indoor, dressing_room, archive",38338
-100,2400,indoor,"clean_room, locker_room, dressing_room, archive, museum/indoor",38338
-101,2424,indoor,"dressing_room, locker_room, clean_room, archive, museum/indoor",38338
-102,2448,indoor,"clean_room, locker_room, dressing_room, museum/indoor, archive",38338
-103,2472,indoor,"discotheque, museum/indoor, art_gallery, natural_history_museum, science_museum",38338
-104,2496,indoor,"museum/indoor, stage/indoor, art_gallery, discotheque, natural_history_museum",38338
-105,2520,indoor,"museum/indoor, art_gallery, natural_history_museum, stage/indoor, science_museum",38338
-106,2544,indoor,"museum/indoor, art_gallery, stage/indoor, discotheque, natural_history_museum",38338
-107,2568,indoor,"museum/indoor, art_gallery, stage/indoor, discotheque, natural_history_museum",38338
-108,2592,indoor,"art_gallery, iceberg, natural_history_museum, museum/indoor, archive",38338
-109,2616,indoor,"art_gallery, natural_history_museum, museum/indoor, iceberg, science_museum",38338
-110,2640,outdoor,"shower, pond, lake/natural, forest/broadleaf, swamp",38338
-111,2664,outdoor,"shower, pond, lake/natural, swamp, bathroom",38338
-112,2688,outdoor,"iceberg, aquarium, natural_history_museum, lake/natural, pond",38338
-113,2712,indoor,"clean_room, iceberg, museum/indoor, natural_history_museum, science_museum",38338
-114,2736,indoor,"clean_room, natural_history_museum, museum/indoor, shower, nursery",38338
-115,2760,indoor,"museum/indoor, clean_room, iceberg, natural_history_museum, shower",38338
-116,2784,indoor,"museum/indoor, natural_history_museum, science_museum, shower, aquarium",38338
-117,2808,indoor,"clean_room, art_gallery, chemistry_lab, museum/indoor, jewelry_shop",38338
-118,2832,indoor,"clean_room, art_gallery, museum/indoor, natural_history_museum, jewelry_shop",38338
-119,2856,indoor,"clothing_store, shower, closet, nursery, dressing_room",38338
-120,2880,indoor,"clothing_store, shower, clean_room, museum/indoor, airport_terminal",38338
-121,2904,indoor,"pharmacy, drugstore, elevator/door, motel, coffee_shop",38338
-122,2928,indoor,"pharmacy, drugstore, motel, bowling_alley, beauty_salon",38338
-123,2952,indoor,"pharmacy, drugstore, beauty_salon, motel, bowling_alley",38338
-124,2976,indoor,"pharmacy, drugstore, motel, beauty_salon, bowling_alley",38338
-125,3000,indoor,"discotheque, shower, locker_room, basement, bathroom",38338
-126,3024,indoor,"reception, nursery, hospital_room, hospital, pharmacy",38338
-127,3048,indoor,"locker_room, airport_terminal, hospital, hospital_room, nursery",38338
-128,3072,indoor,"pharmacy, motel, drugstore, airport_terminal, hospital_room",38338
-129,3096,indoor,"motel, pharmacy, drugstore, bowling_alley, airport_terminal",38338
-130,3120,indoor,"motel, bowling_alley, pharmacy, drugstore, hospital_room",38338
-131,3144,indoor,"natural_history_museum, nursery, museum/indoor, elevator/door, airport_terminal",38338
-132,3168,indoor,"banquet_hall, dining_hall, restaurant, jewelry_shop, ballroom",38338
-133,3192,indoor,"restaurant, banquet_hall, jewelry_shop, cafeteria, conference_center",38338
-134,3216,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital_room",38338
-135,3240,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital",38338
-136,3264,indoor,"pharmacy, beauty_salon, drugstore, hospital_room, hospital",38338
-137,3288,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital_room",38338
-138,3312,indoor,"pharmacy, beauty_salon, drugstore, motel, hospital",38338
-139,3336,indoor,"shower, natural_history_museum, discotheque, auditorium, museum/indoor",38338
-140,3360,indoor,"motel, airport_terminal, hospital_room, hospital, locker_room",38338
-141,3384,indoor,"bookstore, motel, department_store, airport_terminal, coffee_shop",38338
-142,3408,indoor,"bookstore, department_store, motel, airport_terminal, drugstore",38338
-143,3432,indoor,"department_store, bookstore, motel, airport_terminal, drugstore",38338
-144,3456,indoor,"motel, bookstore, coffee_shop, museum/indoor, archive",38338
-145,3480,indoor,"martial_arts_gym, airport_terminal, clean_room, museum/indoor, locker_room",38338
-146,3504,indoor,"laundromat, beauty_salon, pharmacy, airport_terminal, locker_room",38338
-147,3528,indoor,"locker_room, beauty_salon, department_store, clothing_store, dressing_room",38338
-148,3552,indoor,"locker_room, beauty_salon, clothing_store, dressing_room, department_store",38338
-149,3576,indoor,"locker_room, beauty_salon, nursery, dressing_room, clothing_store",38338
-150,3600,indoor,"locker_room, beauty_salon, dressing_room, nursery, clothing_store",38338
-151,3624,indoor,"locker_room, beauty_salon, dressing_room, nursery, clothing_store",38338
-152,3648,indoor,"locker_room, beauty_salon, department_store, dressing_room, nursery",38338
-153,3672,outdoor,"desert/sand, sky, beach, lake/natural, marsh",38338
-154,3696,outdoor,"desert/sand, sky, beach, lake/natural, marsh",38338
-155,3720,outdoor,"desert/sand, beach, lake/natural, marsh, sky",38338
-156,3744,outdoor,"desert/sand, beach, lake/natural, marsh, sky",38338
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,38338,0,1,0
+1,38338,24,1,0
+2,38338,48,0,1
+3,38338,72,0,1
+4,38338,96,0,1
+5,38338,120,0,1
+6,38338,144,0,1
+7,38338,168,0,1
+8,38338,192,0,1
+9,38338,216,0,1
+10,38338,240,0,1
+11,38338,264,0,1
+12,38338,288,0,1
+13,38338,312,0,1
+14,38338,336,0,1
+15,38338,360,0,1
+16,38338,384,0,1
+17,38338,408,0,1
+18,38338,432,0,1
+19,38338,456,0,1
+20,38338,480,0,1
+21,38338,504,0,1
+22,38338,528,0,1
+23,38338,552,0,1
+24,38338,576,0,1
+25,38338,600,0,1
+26,38338,624,0,1
+27,38338,648,0,1
+28,38338,672,0,1
+29,38338,696,0,1
+30,38338,720,0,1
+31,38338,744,0,1
+32,38338,768,0,1
+33,38338,792,0,1
+34,38338,816,0,1
+35,38338,840,0,1
+36,38338,864,0,1
+37,38338,888,0,1
+38,38338,912,0,1
+39,38338,936,0,1
+40,38338,960,0,1
+41,38338,984,0,1
+42,38338,1008,0,1
+43,38338,1032,0,1
+44,38338,1056,0,1
+45,38338,1080,0,1
+46,38338,1104,0,1
+47,38338,1128,0,1
+48,38338,1152,0,1
+49,38338,1176,0,1
+50,38338,1200,0,1
+51,38338,1224,0,1
+52,38338,1248,0,1
+53,38338,1272,0,1
+54,38338,1296,0,1
+55,38338,1320,0,1
+56,38338,1344,0,1
+57,38338,1368,0,1
+58,38338,1392,0,1
+59,38338,1416,0,1
+60,38338,1440,0,1
+61,38338,1464,0,1
+62,38338,1488,0,1
+63,38338,1512,0,1
+64,38338,1536,0,1
+65,38338,1560,0,1
+66,38338,1584,0,1
+67,38338,1608,0,1
+68,38338,1632,0,1
+69,38338,1656,0,1
+70,38338,1680,0,1
+71,38338,1704,0,1
+72,38338,1728,0,1
+73,38338,1752,0,1
+74,38338,1776,0,1
+75,38338,1800,0,1
+76,38338,1824,0,1
+77,38338,1848,0,1
+78,38338,1872,0,1
+79,38338,1896,0,1
+80,38338,1920,0,1
+81,38338,1944,0,1
+82,38338,1968,0,1
+83,38338,1992,0,1
+84,38338,2016,0,1
+85,38338,2040,0,1
+86,38338,2064,0,1
+87,38338,2088,0,1
+88,38338,2112,0,1
+89,38338,2136,0,1
+90,38338,2160,0,1
+91,38338,2184,0,1
+92,38338,2208,0,1
+93,38338,2232,0,1
+94,38338,2256,0,1
+95,38338,2280,0,1
+96,38338,2304,0,1
+97,38338,2328,0,1
+98,38338,2352,0,1
+99,38338,2376,0,1
+100,38338,2400,0,1
+101,38338,2424,0,1
+102,38338,2448,0,1
+103,38338,2472,0,1
+104,38338,2496,0,1
+105,38338,2520,0,1
+106,38338,2544,0,1
+107,38338,2568,0,1
+108,38338,2592,0,1
+109,38338,2616,0,1
+110,38338,2640,1,0
+111,38338,2664,1,0
+112,38338,2688,1,0
+113,38338,2712,0,1
+114,38338,2736,0,1
+115,38338,2760,0,1
+116,38338,2784,0,1
+117,38338,2808,0,1
+118,38338,2832,0,1
+119,38338,2856,0,1
+120,38338,2880,0,1
+121,38338,2904,0,1
+122,38338,2928,0,1
+123,38338,2952,0,1
+124,38338,2976,0,1
+125,38338,3000,0,1
+126,38338,3024,0,1
+127,38338,3048,0,1
+128,38338,3072,0,1
+129,38338,3096,0,1
+130,38338,3120,0,1
+131,38338,3144,0,1
+132,38338,3168,0,1
+133,38338,3192,0,1
+134,38338,3216,0,1
+135,38338,3240,0,1
+136,38338,3264,0,1
+137,38338,3288,0,1
+138,38338,3312,0,1
+139,38338,3336,0,1
+140,38338,3360,0,1
+141,38338,3384,0,1
+142,38338,3408,0,1
+143,38338,3432,0,1
+144,38338,3456,0,1
+145,38338,3480,0,1
+146,38338,3504,0,1
+147,38338,3528,0,1
+148,38338,3552,0,1
+149,38338,3576,0,1
+150,38338,3600,0,1
+151,38338,3624,0,1
+152,38338,3648,0,1
+153,38338,3672,1,0
+154,38338,3696,1,0
+155,38338,3720,1,0
+156,38338,3744,1,0

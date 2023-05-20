@@ -1,123 +1,123 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"sky, desert/sand, ocean, marsh, beach",20300
-1,24,indoor,"pharmacy, drugstore, hospital, hospital_room, beauty_salon",20300
-2,48,indoor,"pharmacy, drugstore, hospital, hospital_room, coffee_shop",20300
-3,72,indoor,"pharmacy, drugstore, hospital, beauty_salon, hospital_room",20300
-4,96,indoor,"pharmacy, drugstore, hospital, beauty_salon, hospital_room",20300
-5,120,indoor,"pharmacy, drugstore, hospital, beauty_salon, hospital_room",20300
-6,144,indoor,"pharmacy, drugstore, hospital, beauty_salon, hospital_room",20300
-7,168,indoor,"pharmacy, drugstore, hospital, beauty_salon, hospital_room",20300
-8,192,indoor,"pharmacy, drugstore, hospital, beauty_salon, hospital_room",20300
-9,216,indoor,"pharmacy, drugstore, hospital, hospital_room, beauty_salon",20300
-10,240,indoor,"discotheque, stage/indoor, museum/indoor, shower, boxing_ring",20300
-11,264,outdoor,"ice_shelf, iceberg, natural_history_museum, attic, igloo",20300
-12,288,outdoor,"attic, desert/sand, igloo, natural_history_museum, ice_shelf",20300
-13,312,indoor,"attic, natural_history_museum, hangar/outdoor, shower, desert/sand",20300
-14,336,indoor,"attic, natural_history_museum, hangar/outdoor, stable, desert/sand",20300
-15,360,indoor,"museum/indoor, art_studio, art_gallery, art_school, shower",20300
-16,384,indoor,"museum/indoor, stage/indoor, art_studio, playground, classroom",20300
-17,408,outdoor,"iceberg, ice_shelf, ocean, hot_spring, wave",20300
-18,432,outdoor,"hot_spring, sky, rainforest, lake/natural, waterfall",20300
-19,456,outdoor,"hot_spring, sky, raft, boat_deck, shower",20300
-20,480,indoor,"attic, natural_history_museum, desert/sand, hangar/outdoor, stable",20300
-21,504,outdoor,"ice_shelf, attic, iceberg, desert/sand, wind_farm",20300
-22,528,outdoor,"ice_shelf, waterfall, iceberg, wave, hot_spring",20300
-23,552,outdoor,"hot_spring, raft, waterfall, raceway, fire_station",20300
-24,576,outdoor,"waterfall, hot_spring, wave, raft, cliff",20300
-25,600,outdoor,"hot_spring, waterfall, wave, mountain, volcano",20300
-26,624,outdoor,"hot_spring, waterfall, ice_shelf, wave, mountain_snowy",20300
-27,648,outdoor,"hot_spring, wave, waterfall, ice_shelf, ocean",20300
-28,672,outdoor,"hot_spring, waterfall, ice_shelf, volcano, wave",20300
-29,696,outdoor,"bow_window/indoor, bridge, boat_deck, shower, hangar/outdoor",20300
-30,720,outdoor,"shower, bow_window/indoor, ice_shelf, hangar/outdoor, wind_farm",20300
-31,744,outdoor,"ice_shelf, lake/natural, iceberg, ice_floe, art_gallery",20300
-32,768,outdoor,"ice_shelf, lake/natural, iceberg, ice_floe, glacier",20300
-33,792,outdoor,"hot_spring, waterfall, rainforest, volcano, mountain",20300
-34,816,indoor,"shower, basement, elevator/door, jail_cell, bathroom",20300
-35,840,indoor,"pharmacy, hospital, drugstore, hospital_room, cemetery",20300
-36,864,indoor,"pharmacy, hospital, drugstore, hospital_room, cemetery",20300
-37,888,indoor,"pharmacy, hospital, drugstore, hospital_room, beauty_salon",20300
-38,912,indoor,"pharmacy, hospital, drugstore, hospital_room, beauty_salon",20300
-39,936,indoor,"pharmacy, hospital, drugstore, hospital_room, beauty_salon",20300
-40,960,indoor,"pharmacy, hospital, drugstore, hospital_room, cemetery",20300
-41,984,indoor,"pharmacy, hospital, drugstore, hospital_room, cemetery",20300
-42,1008,indoor,"pharmacy, hospital, hospital_room, drugstore, cemetery",20300
-43,1032,indoor,"pharmacy, hospital, drugstore, hospital_room, cemetery",20300
-44,1056,indoor,"closet, shower, elevator/door, locker_room, bathroom",20300
-45,1080,indoor,"shower, basement, hot_spring, elevator/door, alcove",20300
-46,1104,outdoor,"ice_shelf, ice_floe, iceberg, art_gallery, glacier",20300
-47,1128,indoor,"museum/indoor, art_gallery, ice_shelf, natural_history_museum, bow_window/indoor",20300
-48,1152,outdoor,"iceberg, sky, ice_floe, ice_cream_parlor, igloo",20300
-49,1176,outdoor,"sky, igloo, aquarium, wheat_field, hot_spring",20300
-50,1200,indoor,"shower, igloo, natural_history_museum, tower, art_gallery",20300
-51,1224,outdoor,"natural_history_museum, igloo, ice_floe, science_museum, sky",20300
-52,1248,indoor,"museum/indoor, discotheque, stage/indoor, art_gallery, science_museum",20300
-53,1272,indoor,"museum/indoor, clean_room, art_gallery, nursery, discotheque",20300
-54,1296,indoor,"sky, wind_farm, art_gallery, museum/indoor, shower",20300
-55,1320,outdoor,"sky, ice_shelf, iceberg, ice_floe, art_gallery",20300
-56,1344,outdoor,"sky, iceberg, ice_shelf, ice_floe, ocean",20300
-57,1368,outdoor,"sky, aquarium, water_tower, wind_farm, windmill",20300
-58,1392,indoor,"sky, discotheque, aquarium, iceberg, museum/indoor",20300
-59,1416,indoor,"aquarium, discotheque, underwater/ocean_deep, museum/indoor, science_museum",20300
-60,1440,indoor,"discotheque, stage/indoor, museum/indoor, classroom, martial_arts_gym",20300
-61,1464,outdoor,"sky, iceberg, ice_floe, aquarium, ice_shelf",20300
-62,1488,outdoor,"iceberg, sky, ice_shelf, igloo, ice_floe",20300
-63,1512,indoor,"museum/indoor, art_gallery, burial_chamber, igloo, sky",20300
-64,1536,outdoor,"hot_spring, volcano, sky, basement, waterfall",20300
-65,1560,outdoor,"volcano, sky, mountain, hot_spring, elevator/door",20300
-66,1584,indoor,"shower, basement, jail_cell, bathroom, closet",20300
-67,1608,indoor,"basement, shower, locker_room, bathroom, closet",20300
-68,1632,indoor,"clean_room, science_museum, natural_history_museum, museum/indoor, airport_terminal",20300
-69,1656,indoor,"clean_room, locker_room, server_room, elevator/door, hospital_room",20300
-70,1680,indoor,"clean_room, discotheque, science_museum, nursery, stage/indoor",20300
-71,1704,indoor,"clean_room, discotheque, stage/indoor, archive, nursery",20300
-72,1728,indoor,"clean_room, discotheque, nursery, stage/indoor, archive",20300
-73,1752,indoor,"clean_room, locker_room, discotheque, airport_terminal, hospital_room",20300
-74,1776,indoor,"staircase, elevator/door, escalator/indoor, clean_room, elevator_shaft",20300
-75,1800,outdoor,"natural_history_museum, wheat_field, wind_farm, sky, discotheque",20300
-76,1824,indoor,"stage/indoor, discotheque, music_studio, clean_room, staircase",20300
-77,1848,indoor,"discotheque, stage/indoor, clean_room, music_studio, staircase",20300
-78,1872,indoor,"clean_room, hospital_room, operating_room, nursery, bedroom",20300
-79,1896,indoor,"clean_room, archive, hospital_room, nursery, shower",20300
-80,1920,indoor,"locker_room, discotheque, stage/indoor, music_studio, clean_room",20300
-81,1944,indoor,"discotheque, stage/indoor, music_studio, clean_room, television_studio",20300
-82,1968,indoor,"discotheque, clean_room, stage/indoor, nursery, chemistry_lab",20300
-83,1992,indoor,"clean_room, ice_cream_parlor, discotheque, science_museum, chemistry_lab",20300
-84,2016,indoor,"discotheque, clean_room, stage/indoor, music_studio, ballroom",20300
-85,2040,indoor,"discotheque, stage/indoor, music_studio, arena/performance, bar",20300
-86,2064,indoor,"shower, bathroom, discotheque, locker_room, dressing_room",20300
-87,2088,indoor,"clean_room, iceberg, hospital_room, ice_floe, office_cubicles",20300
-88,2112,indoor,"clean_room, operating_room, shower, hospital_room, butchers_shop",20300
-89,2136,indoor,"clean_room, dressing_room, bathroom, locker_room, shower",20300
-90,2160,indoor,"clean_room, discotheque, locker_room, shower, music_studio",20300
-91,2184,indoor,"clean_room, discotheque, music_studio, dressing_room, stage/indoor",20300
-92,2208,indoor,"bow_window/indoor, shower, basement, alcove, art_gallery",20300
-93,2232,indoor,"discotheque, stage/indoor, iceberg, ice_shelf, shower",20300
-94,2256,indoor,"clean_room, iceberg, museum/indoor, science_museum, stage/indoor",20300
-95,2280,indoor,"clean_room, shower, discotheque, hospital_room, natural_history_museum",20300
-96,2304,indoor,"clean_room, museum/indoor, iceberg, art_gallery, stage/indoor",20300
-97,2328,indoor,"aquarium, natural_history_museum, clean_room, ice_cream_parlor, shower",20300
-98,2352,indoor,"clean_room, chemistry_lab, nursery, discotheque, biology_laboratory",20300
-99,2376,outdoor,"iceberg, igloo, ice_floe, ice_cream_parlor, ice_shelf",20300
-100,2400,outdoor,"shower, ice_shelf, iceberg, fountain, igloo",20300
-101,2424,indoor,"discotheque, clean_room, science_museum, natural_history_museum, basement",20300
-102,2448,indoor,"clean_room, natural_history_museum, shower, art_gallery, science_museum",20300
-103,2472,indoor,"museum/indoor, clean_room, art_gallery, martial_arts_gym, artists_loft",20300
-104,2496,indoor,"museum/indoor, igloo, alcove, burial_chamber, clean_room",20300
-105,2520,indoor,"basement, attic, clean_room, classroom, nursery",20300
-106,2544,indoor,"bow_window/indoor, alcove, attic, jail_cell, basement",20300
-107,2568,indoor,"museum/indoor, art_gallery, art_studio, bow_window/indoor, archive",20300
-108,2592,indoor,"clean_room, martial_arts_gym, nursery, archive, alcove",20300
-109,2616,indoor,"martial_arts_gym, clean_room, veterinarians_office, stable, basement",20300
-110,2640,indoor,"museum/indoor, bow_window/indoor, art_gallery, alcove, artists_loft",20300
-111,2664,indoor,"alcove, clean_room, basement, archive, igloo",20300
-112,2688,indoor,"alcove, clean_room, nursery, museum/indoor, art_gallery",20300
-113,2712,indoor,"museum/indoor, stable, laundromat, art_gallery, lecture_room",20300
-114,2736,indoor,"museum/indoor, art_gallery, lecture_room, clean_room, natural_history_museum",20300
-115,2760,indoor,"museum/indoor, classroom, boxing_ring, laundromat, sauna",20300
-116,2784,indoor,"museum/indoor, art_gallery, archive, martial_arts_gym, clean_room",20300
-117,2808,indoor,"museum/indoor, igloo, clean_room, alcove, art_gallery",20300
-118,2832,indoor,"museum/indoor, art_gallery, archive, natural_history_museum, science_museum",20300
-119,2856,indoor,"museum/indoor, art_gallery, clean_room, science_museum, natural_history_museum",20300
-120,2880,indoor,"museum/indoor, iceberg, art_gallery, clean_room, ice_floe",20300
-121,2904,outdoor,"iceberg, museum/indoor, ice_floe, lake/natural, art_gallery",20300
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,20300,0,1,0
+1,20300,24,0,1
+2,20300,48,0,1
+3,20300,72,0,1
+4,20300,96,0,1
+5,20300,120,0,1
+6,20300,144,0,1
+7,20300,168,0,1
+8,20300,192,0,1
+9,20300,216,0,1
+10,20300,240,0,1
+11,20300,264,1,0
+12,20300,288,1,0
+13,20300,312,0,1
+14,20300,336,0,1
+15,20300,360,0,1
+16,20300,384,0,1
+17,20300,408,1,0
+18,20300,432,1,0
+19,20300,456,1,0
+20,20300,480,0,1
+21,20300,504,1,0
+22,20300,528,1,0
+23,20300,552,1,0
+24,20300,576,1,0
+25,20300,600,1,0
+26,20300,624,1,0
+27,20300,648,1,0
+28,20300,672,1,0
+29,20300,696,1,0
+30,20300,720,1,0
+31,20300,744,1,0
+32,20300,768,1,0
+33,20300,792,1,0
+34,20300,816,0,1
+35,20300,840,0,1
+36,20300,864,0,1
+37,20300,888,0,1
+38,20300,912,0,1
+39,20300,936,0,1
+40,20300,960,0,1
+41,20300,984,0,1
+42,20300,1008,0,1
+43,20300,1032,0,1
+44,20300,1056,0,1
+45,20300,1080,0,1
+46,20300,1104,1,0
+47,20300,1128,0,1
+48,20300,1152,1,0
+49,20300,1176,1,0
+50,20300,1200,0,1
+51,20300,1224,1,0
+52,20300,1248,0,1
+53,20300,1272,0,1
+54,20300,1296,0,1
+55,20300,1320,1,0
+56,20300,1344,1,0
+57,20300,1368,1,0
+58,20300,1392,0,1
+59,20300,1416,0,1
+60,20300,1440,0,1
+61,20300,1464,1,0
+62,20300,1488,1,0
+63,20300,1512,0,1
+64,20300,1536,1,0
+65,20300,1560,1,0
+66,20300,1584,0,1
+67,20300,1608,0,1
+68,20300,1632,0,1
+69,20300,1656,0,1
+70,20300,1680,0,1
+71,20300,1704,0,1
+72,20300,1728,0,1
+73,20300,1752,0,1
+74,20300,1776,0,1
+75,20300,1800,1,0
+76,20300,1824,0,1
+77,20300,1848,0,1
+78,20300,1872,0,1
+79,20300,1896,0,1
+80,20300,1920,0,1
+81,20300,1944,0,1
+82,20300,1968,0,1
+83,20300,1992,0,1
+84,20300,2016,0,1
+85,20300,2040,0,1
+86,20300,2064,0,1
+87,20300,2088,0,1
+88,20300,2112,0,1
+89,20300,2136,0,1
+90,20300,2160,0,1
+91,20300,2184,0,1
+92,20300,2208,0,1
+93,20300,2232,0,1
+94,20300,2256,0,1
+95,20300,2280,0,1
+96,20300,2304,0,1
+97,20300,2328,0,1
+98,20300,2352,0,1
+99,20300,2376,1,0
+100,20300,2400,1,0
+101,20300,2424,0,1
+102,20300,2448,0,1
+103,20300,2472,0,1
+104,20300,2496,0,1
+105,20300,2520,0,1
+106,20300,2544,0,1
+107,20300,2568,0,1
+108,20300,2592,0,1
+109,20300,2616,0,1
+110,20300,2640,0,1
+111,20300,2664,0,1
+112,20300,2688,0,1
+113,20300,2712,0,1
+114,20300,2736,0,1
+115,20300,2760,0,1
+116,20300,2784,0,1
+117,20300,2808,0,1
+118,20300,2832,0,1
+119,20300,2856,0,1
+120,20300,2880,0,1
+121,20300,2904,1,0

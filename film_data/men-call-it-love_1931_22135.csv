@@ -1,330 +1,330 @@
-,frame_num,environment,places,imdb_id
-0,0,indoor,"museum/indoor, art_gallery, archive, clean_room, natural_history_museum",22135
-1,24,indoor,"museum/indoor, clean_room, art_gallery, archive, dressing_room",22135
-2,48,indoor,"museum/indoor, clean_room, archive, art_gallery, locker_room",22135
-3,72,indoor,"museum/indoor, clean_room, archive, art_gallery, natural_history_museum",22135
-4,96,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",22135
-5,120,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, clean_room",22135
-6,144,indoor,"museum/indoor, art_gallery, clean_room, science_museum, natural_history_museum",22135
-7,168,indoor,"museum/indoor, art_gallery, natural_history_museum, clean_room, science_museum",22135
-8,192,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, gift_shop",22135
-9,216,indoor,"museum/indoor, art_gallery, clean_room, natural_history_museum, science_museum",22135
-10,240,indoor,"museum/indoor, art_gallery, clean_room, natural_history_museum, science_museum",22135
-11,264,indoor,"museum/indoor, art_gallery, archive, clean_room, art_studio",22135
-12,288,indoor,"museum/indoor, art_gallery, archive, clean_room, art_studio",22135
-13,312,indoor,"museum/indoor, art_gallery, archive, dressing_room, elevator_lobby",22135
-14,336,indoor,"museum/indoor, art_gallery, dressing_room, archive, science_museum",22135
-15,360,indoor,"museum/indoor, art_gallery, dressing_room, science_museum, archive",22135
-16,384,indoor,"museum/indoor, archive, art_gallery, clean_room, dressing_room",22135
-17,408,indoor,"museum/indoor, art_gallery, archive, clean_room, dressing_room",22135
-18,432,indoor,"museum/indoor, art_gallery, archive, clean_room, dressing_room",22135
-19,456,indoor,"museum/indoor, art_gallery, archive, dressing_room, clean_room",22135
-20,480,indoor,"museum/indoor, art_gallery, clean_room, archive, dressing_room",22135
-21,504,indoor,"museum/indoor, art_gallery, clean_room, archive, dressing_room",22135
-22,528,indoor,"museum/indoor, art_gallery, archive, clean_room, office",22135
-23,552,indoor,"museum/indoor, art_gallery, archive, clean_room, office",22135
-24,576,indoor,"museum/indoor, clean_room, art_gallery, natural_history_museum, science_museum",22135
-25,600,indoor,"museum/indoor, clean_room, art_gallery, science_museum, natural_history_museum",22135
-26,624,indoor,"museum/indoor, clean_room, art_gallery, science_museum, natural_history_museum",22135
-27,648,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, clean_room",22135
-28,672,indoor,"museum/indoor, clean_room, art_gallery, archive, science_museum",22135
-29,696,indoor,"museum/indoor, clean_room, dining_room, art_gallery, dressing_room",22135
-30,720,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, jewelry_shop",22135
-31,744,indoor,"museum/indoor, clean_room, art_gallery, archive, natural_history_museum",22135
-32,768,indoor,"museum/indoor, clean_room, art_gallery, archive, natural_history_museum",22135
-33,792,indoor,"museum/indoor, clean_room, art_gallery, archive, dressing_room",22135
-34,816,indoor,"museum/indoor, clean_room, office, dining_room, archive",22135
-35,840,indoor,"museum/indoor, archive, clean_room, office, dining_room",22135
-36,864,indoor,"dressing_room, art_gallery, bathroom, clean_room, basement",22135
-37,888,indoor,"clean_room, art_gallery, museum/indoor, dressing_room, artists_loft",22135
-38,912,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, artists_loft",22135
-39,936,indoor,"dressing_room, clean_room, art_gallery, elevator_lobby, elevator/door",22135
-40,960,indoor,"clean_room, dressing_room, elevator/door, elevator_lobby, art_gallery",22135
-41,984,indoor,"museum/indoor, clean_room, archive, dressing_room, art_gallery",22135
-42,1008,indoor,"museum/indoor, clean_room, dressing_room, archive, art_gallery",22135
-43,1032,indoor,"museum/indoor, clean_room, dressing_room, archive, art_gallery",22135
-44,1056,indoor,"museum/indoor, clean_room, dressing_room, archive, art_gallery",22135
-45,1080,indoor,"museum/indoor, clean_room, dressing_room, archive, nursing_home",22135
-46,1104,indoor,"museum/indoor, clean_room, archive, nursing_home, dressing_room",22135
-47,1128,indoor,"clean_room, museum/indoor, archive, nursing_home, dressing_room",22135
-48,1152,indoor,"museum/indoor, clean_room, archive, dressing_room, nursing_home",22135
-49,1176,indoor,"museum/indoor, clean_room, dressing_room, archive, nursing_home",22135
-50,1200,indoor,"museum/indoor, clean_room, archive, dressing_room, nursing_home",22135
-51,1224,indoor,"museum/indoor, clean_room, dining_room, archive, nursing_home",22135
-52,1248,indoor,"museum/indoor, clean_room, nursing_home, archive, dining_room",22135
-53,1272,indoor,"museum/indoor, clean_room, archive, nursing_home, dining_room",22135
-54,1296,indoor,"museum/indoor, clean_room, archive, nursing_home, dining_room",22135
-55,1320,indoor,"museum/indoor, clean_room, archive, nursing_home, dressing_room",22135
-56,1344,indoor,"museum/indoor, clean_room, archive, nursing_home, art_gallery",22135
-57,1368,indoor,"museum/indoor, clean_room, archive, nursing_home, dining_room",22135
-58,1392,indoor,"museum/indoor, clean_room, dressing_room, archive, dining_room",22135
-59,1416,indoor,"clean_room, museum/indoor, dressing_room, nursing_home, archive",22135
-60,1440,indoor,"museum/indoor, clean_room, dressing_room, archive, nursing_home",22135
-61,1464,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, operating_room",22135
-62,1488,indoor,"museum/indoor, clean_room, dressing_room, dining_room, living_room",22135
-63,1512,indoor,"clean_room, museum/indoor, art_gallery, office_cubicles, office",22135
-64,1536,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, office_cubicles",22135
-65,1560,indoor,"clean_room, office_cubicles, office, museum/indoor, art_gallery",22135
-66,1584,indoor,"clean_room, office_cubicles, art_gallery, dressing_room, museum/indoor",22135
-67,1608,indoor,"dressing_room, art_gallery, clean_room, museum/indoor, elevator/door",22135
-68,1632,indoor,"clean_room, dressing_room, art_gallery, museum/indoor, bathroom",22135
-69,1656,indoor,"clean_room, art_gallery, museum/indoor, dressing_room, artists_loft",22135
-70,1680,indoor,"dressing_room, clean_room, art_gallery, office_cubicles, office",22135
-71,1704,indoor,"clean_room, dressing_room, office_cubicles, art_gallery, office",22135
-72,1728,indoor,"clean_room, dressing_room, office_cubicles, office, art_gallery",22135
-73,1752,indoor,"clean_room, office_cubicles, dressing_room, office, archive",22135
-74,1776,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, office_cubicles",22135
-75,1800,indoor,"office_cubicles, dressing_room, office, clean_room, archive",22135
-76,1824,indoor,"museum/indoor, clean_room, dressing_room, dining_room, nursing_home",22135
-77,1848,indoor,"museum/indoor, clean_room, dressing_room, nursing_home, archive",22135
-78,1872,indoor,"clean_room, dressing_room, museum/indoor, nursing_home, archive",22135
-79,1896,indoor,"clean_room, dressing_room, museum/indoor, nursing_home, jewelry_shop",22135
-80,1920,indoor,"clean_room, museum/indoor, dressing_room, nursing_home, archive",22135
-81,1944,indoor,"clean_room, museum/indoor, dressing_room, archive, nursing_home",22135
-82,1968,indoor,"clean_room, museum/indoor, dressing_room, archive, art_gallery",22135
-83,1992,indoor,"clean_room, dressing_room, museum/indoor, operating_room, hospital_room",22135
-84,2016,indoor,"clean_room, museum/indoor, dressing_room, living_room, operating_room",22135
-85,2040,indoor,"clean_room, museum/indoor, dressing_room, archive, nursing_home",22135
-86,2064,indoor,"clean_room, dressing_room, museum/indoor, office, living_room",22135
-87,2088,indoor,"clean_room, museum/indoor, art_gallery, archive, operating_room",22135
-88,2112,indoor,"museum/indoor, clean_room, art_gallery, archive, office",22135
-89,2136,indoor,"museum/indoor, clean_room, art_gallery, archive, office",22135
-90,2160,indoor,"clean_room, museum/indoor, art_gallery, archive, operating_room",22135
-91,2184,indoor,"museum/indoor, elevator/door, elevator_lobby, art_gallery, natural_history_museum",22135
-92,2208,indoor,"elevator/door, elevator_lobby, dressing_room, locker_room, shower",22135
-93,2232,indoor,"elevator/door, elevator_lobby, dressing_room, shower, locker_room",22135
-94,2256,indoor,"elevator/door, elevator_lobby, locker_room, dressing_room, bank_vault",22135
-95,2280,indoor,"elevator/door, elevator_lobby, dressing_room, shower, locker_room",22135
-96,2304,indoor,"elevator/door, elevator_lobby, locker_room, bank_vault, dressing_room",22135
-97,2328,indoor,"clean_room, museum/indoor, archive, operating_room, office",22135
-98,2352,indoor,"museum/indoor, clean_room, archive, art_gallery, office",22135
-99,2376,indoor,"clean_room, museum/indoor, art_gallery, archive, office",22135
-100,2400,indoor,"clean_room, museum/indoor, archive, art_gallery, dressing_room",22135
-101,2424,indoor,"clean_room, museum/indoor, archive, art_gallery, operating_room",22135
-102,2448,indoor,"clean_room, museum/indoor, archive, operating_room, dressing_room",22135
-103,2472,indoor,"clean_room, museum/indoor, archive, operating_room, dressing_room",22135
-104,2496,indoor,"museum/indoor, clean_room, archive, art_gallery, dressing_room",22135
-105,2520,indoor,"clean_room, museum/indoor, archive, office, art_gallery",22135
-106,2544,indoor,"clean_room, museum/indoor, archive, office, dressing_room",22135
-107,2568,indoor,"clean_room, museum/indoor, archive, dressing_room, office",22135
-108,2592,indoor,"clean_room, museum/indoor, archive, dressing_room, operating_room",22135
-109,2616,indoor,"clean_room, museum/indoor, archive, office, dressing_room",22135
-110,2640,indoor,"clean_room, museum/indoor, archive, office, art_gallery",22135
-111,2664,indoor,"clean_room, museum/indoor, archive, office, nursing_home",22135
-112,2688,indoor,"museum/indoor, archive, clean_room, dressing_room, office",22135
-113,2712,indoor,"museum/indoor, clean_room, archive, dressing_room, office",22135
-114,2736,indoor,"clean_room, archive, museum/indoor, operating_room, dressing_room",22135
-115,2760,indoor,"clean_room, museum/indoor, archive, nursing_home, operating_room",22135
-116,2784,indoor,"clean_room, museum/indoor, dressing_room, archive, office",22135
-117,2808,indoor,"clean_room, museum/indoor, archive, dressing_room, nursing_home",22135
-118,2832,indoor,"museum/indoor, clean_room, archive, art_gallery, nursing_home",22135
-119,2856,indoor,"museum/indoor, clean_room, art_gallery, banquet_hall, dining_room",22135
-120,2880,indoor,"museum/indoor, clean_room, art_gallery, archive, natural_history_museum",22135
-121,2904,indoor,"museum/indoor, clean_room, art_gallery, archive, natural_history_museum",22135
-122,2928,indoor,"museum/indoor, clean_room, art_gallery, archive, natural_history_museum",22135
-123,2952,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",22135
-124,2976,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",22135
-125,3000,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",22135
-126,3024,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",22135
-127,3048,indoor,"museum/indoor, art_gallery, clean_room, natural_history_museum, archive",22135
-128,3072,indoor,"museum/indoor, art_gallery, clean_room, archive, natural_history_museum",22135
-129,3096,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, archive",22135
-130,3120,indoor,"museum/indoor, art_gallery, clean_room, science_museum, natural_history_museum",22135
-131,3144,indoor,"museum/indoor, art_gallery, clean_room, clothing_store, archive",22135
-132,3168,indoor,"museum/indoor, art_gallery, clean_room, natural_history_museum, clothing_store",22135
-133,3192,indoor,"museum/indoor, art_gallery, natural_history_museum, living_room, jewelry_shop",22135
-134,3216,indoor,"museum/indoor, dressing_room, jewelry_shop, clothing_store, art_gallery",22135
-135,3240,indoor,"dressing_room, clothing_store, museum/indoor, clean_room, art_gallery",22135
-136,3264,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, clothing_store",22135
-137,3288,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, clothing_store",22135
-138,3312,indoor,"museum/indoor, dressing_room, art_gallery, clothing_store, clean_room",22135
-139,3336,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, entrance_hall",22135
-140,3360,indoor,"museum/indoor, dressing_room, art_gallery, clothing_store, clean_room",22135
-141,3384,indoor,"museum/indoor, dressing_room, art_gallery, clothing_store, clean_room",22135
-142,3408,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, clothing_store",22135
-143,3432,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, clothing_store",22135
-144,3456,indoor,"museum/indoor, art_gallery, archive, clean_room, jewelry_shop",22135
-145,3480,indoor,"dressing_room, clean_room, archive, art_gallery, museum/indoor",22135
-146,3504,indoor,"dressing_room, living_room, office, home_office, archive",22135
-147,3528,indoor,"bathroom, shower, clothing_store, dressing_room, museum/indoor",22135
-148,3552,indoor,"clothing_store, dressing_room, bathroom, shower, art_gallery",22135
-149,3576,indoor,"bathroom, museum/indoor, art_gallery, dressing_room, shower",22135
-150,3600,indoor,"dressing_room, museum/indoor, clothing_store, art_gallery, bathroom",22135
-151,3624,indoor,"dressing_room, clothing_store, bathroom, shower, nursery",22135
-152,3648,indoor,"dressing_room, nursery, dining_room, bow_window/indoor, home_office",22135
-153,3672,indoor,"artists_loft, dressing_room, office, home_office, dining_room",22135
-154,3696,indoor,"dressing_room, clean_room, bathroom, shower, artists_loft",22135
-155,3720,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, operating_room",22135
-156,3744,indoor,"clean_room, museum/indoor, dressing_room, operating_room, locker_room",22135
-157,3768,indoor,"clean_room, museum/indoor, dressing_room, shower, art_gallery",22135
-158,3792,indoor,"clean_room, museum/indoor, dressing_room, clothing_store, shower",22135
-159,3816,indoor,"clean_room, operating_room, museum/indoor, hospital_room, locker_room",22135
-160,3840,indoor,"clean_room, museum/indoor, dressing_room, clothing_store, shower",22135
-161,3864,indoor,"clean_room, dressing_room, museum/indoor, clothing_store, nursery",22135
-162,3888,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, clothing_store",22135
-163,3912,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, shower",22135
-164,3936,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, archive",22135
-165,3960,indoor,"clean_room, dressing_room, museum/indoor, locker_room, sauna",22135
-166,3984,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, sauna",22135
-167,4008,indoor,"museum/indoor, clean_room, dressing_room, sauna, art_gallery",22135
-168,4032,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, sauna",22135
-169,4056,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, sauna",22135
-170,4080,indoor,"museum/indoor, clean_room, art_gallery, locker_room, dressing_room",22135
-171,4104,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, locker_room",22135
-172,4128,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, locker_room",22135
-173,4152,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, locker_room",22135
-174,4176,indoor,"clean_room, dressing_room, locker_room, operating_room, museum/indoor",22135
-175,4200,indoor,"art_gallery, museum/indoor, clean_room, dressing_room, artists_loft",22135
-176,4224,indoor,"dressing_room, discotheque, museum/indoor, stage/indoor, art_gallery",22135
-177,4248,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, clothing_store",22135
-178,4272,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, stage/indoor",22135
-179,4296,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, clothing_store",22135
-180,4320,indoor,"museum/indoor, dressing_room, clean_room, art_gallery, clothing_store",22135
-181,4344,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, operating_room",22135
-182,4368,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, science_museum",22135
-183,4392,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, operating_room",22135
-184,4416,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, archive",22135
-185,4440,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, operating_room",22135
-186,4464,indoor,"dressing_room, clean_room, beauty_salon, museum/indoor, nursing_home",22135
-187,4488,indoor,"dressing_room, museum/indoor, art_gallery, clean_room, clothing_store",22135
-188,4512,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, art_studio",22135
-189,4536,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, art_studio",22135
-190,4560,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, artists_loft",22135
-191,4584,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, science_museum",22135
-192,4608,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, clothing_store",22135
-193,4632,indoor,"dressing_room, museum/indoor, art_gallery, ballroom, clothing_store",22135
-194,4656,indoor,"dressing_room, museum/indoor, discotheque, art_gallery, ballroom",22135
-195,4680,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, science_museum",22135
-196,4704,indoor,"museum/indoor, art_gallery, dressing_room, stage/indoor, ballroom",22135
-197,4728,indoor,"museum/indoor, art_gallery, dressing_room, martial_arts_gym, clean_room",22135
-198,4752,indoor,"museum/indoor, dressing_room, art_gallery, locker_room, clean_room",22135
-199,4776,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, science_museum",22135
-200,4800,indoor,"museum/indoor, art_gallery, dressing_room, science_museum, clean_room",22135
-201,4824,indoor,"dressing_room, museum/indoor, art_gallery, clean_room, bathroom",22135
-202,4848,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, science_museum",22135
-203,4872,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, science_museum",22135
-204,4896,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, science_museum",22135
-205,4920,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, bathroom",22135
-206,4944,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, science_museum",22135
-207,4968,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, clean_room",22135
-208,4992,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, bathroom",22135
-209,5016,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, artists_loft",22135
-210,5040,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, clean_room",22135
-211,5064,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, clean_room",22135
-212,5088,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, clean_room",22135
-213,5112,indoor,"museum/indoor, art_gallery, dressing_room, artists_loft, science_museum",22135
-214,5136,indoor,"museum/indoor, dressing_room, art_gallery, artists_loft, clothing_store",22135
-215,5160,indoor,"dressing_room, museum/indoor, art_gallery, artists_loft, clothing_store",22135
-216,5184,indoor,"museum/indoor, art_gallery, dressing_room, science_museum, artists_loft",22135
-217,5208,indoor,"museum/indoor, dressing_room, art_gallery, artists_loft, clothing_store",22135
-218,5232,indoor,"dressing_room, museum/indoor, art_gallery, artists_loft, sauna",22135
-219,5256,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, clothing_store",22135
-220,5280,indoor,"museum/indoor, art_gallery, natural_history_museum, science_museum, dressing_room",22135
-221,5304,indoor,"dressing_room, museum/indoor, art_gallery, clothing_store, clean_room",22135
-222,5328,indoor,"museum/indoor, art_gallery, dressing_room, clean_room, artists_loft",22135
-223,5352,indoor,"dressing_room, art_gallery, clean_room, clothing_store, closet",22135
-224,5376,indoor,"dressing_room, museum/indoor, discotheque, science_museum, clean_room",22135
-225,5400,indoor,"dressing_room, clean_room, museum/indoor, art_gallery, clothing_store",22135
-226,5424,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, clean_room",22135
-227,5448,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, artists_loft",22135
-228,5472,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, artists_loft",22135
-229,5496,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, clean_room",22135
-230,5520,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, clean_room",22135
-231,5544,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, artists_loft",22135
-232,5568,indoor,"museum/indoor, art_gallery, dressing_room, science_museum, bathroom",22135
-233,5592,indoor,"dressing_room, art_gallery, museum/indoor, bathroom, artists_loft",22135
-234,5616,indoor,"dressing_room, art_gallery, museum/indoor, bathroom, clothing_store",22135
-235,5640,indoor,"museum/indoor, dressing_room, art_gallery, artists_loft, bathroom",22135
-236,5664,indoor,"dressing_room, museum/indoor, art_gallery, artists_loft, clothing_store",22135
-237,5688,indoor,"dressing_room, museum/indoor, art_gallery, artists_loft, clothing_store",22135
-238,5712,indoor,"dressing_room, art_gallery, museum/indoor, clothing_store, bathroom",22135
-239,5736,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, operating_room",22135
-240,5760,indoor,"museum/indoor, art_gallery, clean_room, dressing_room, clothing_store",22135
-241,5784,indoor,"clean_room, dressing_room, operating_room, locker_room, museum/indoor",22135
-242,5808,indoor,"clean_room, dressing_room, museum/indoor, clothing_store, art_gallery",22135
-243,5832,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, clothing_store",22135
-244,5856,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, art_studio",22135
-245,5880,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, operating_room",22135
-246,5904,indoor,"clean_room, museum/indoor, art_gallery, operating_room, dressing_room",22135
-247,5928,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, clothing_store",22135
-248,5952,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, clothing_store",22135
-249,5976,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, clothing_store",22135
-250,6000,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, clothing_store",22135
-251,6024,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, shower",22135
-252,6048,indoor,"museum/indoor, clean_room, dressing_room, art_gallery, art_studio",22135
-253,6072,indoor,"museum/indoor, dressing_room, art_gallery, clean_room, artists_loft",22135
-254,6096,indoor,"clean_room, dressing_room, museum/indoor, art_gallery, operating_room",22135
-255,6120,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, clothing_store",22135
-256,6144,indoor,"clean_room, dressing_room, operating_room, museum/indoor, clothing_store",22135
-257,6168,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, operating_room",22135
-258,6192,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, operating_room",22135
-259,6216,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, shower",22135
-260,6240,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, clothing_store",22135
-261,6264,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, operating_room",22135
-262,6288,indoor,"museum/indoor, clean_room, art_gallery, science_museum, dressing_room",22135
-263,6312,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, bathroom",22135
-264,6336,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, jewelry_shop",22135
-265,6360,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, shower",22135
-266,6384,indoor,"clean_room, art_gallery, dressing_room, bathroom, shower",22135
-267,6408,indoor,"staircase, entrance_hall, mezzanine, corridor, lobby",22135
-268,6432,indoor,"staircase, entrance_hall, mezzanine, art_gallery, lobby",22135
-269,6456,indoor,"staircase, entrance_hall, mezzanine, lobby, balcony/exterior",22135
-270,6480,indoor,"staircase, entrance_hall, mezzanine, lobby, basement",22135
-271,6504,indoor,"staircase, entrance_hall, mezzanine, museum/indoor, lobby",22135
-272,6528,indoor,"dressing_room, museum/indoor, locker_room, entrance_hall, gymnasium/indoor",22135
-273,6552,indoor,"dressing_room, archive, lobby, staircase, elevator/door",22135
-274,6576,indoor,"clean_room, museum/indoor, dressing_room, clothing_store, nursery",22135
-275,6600,indoor,"museum/indoor, clothing_store, staircase, entrance_hall, lobby",22135
-276,6624,indoor,"museum/indoor, art_gallery, clean_room, clothing_store, dressing_room",22135
-277,6648,indoor,"museum/indoor, staircase, art_gallery, clean_room, entrance_hall",22135
-278,6672,indoor,"museum/indoor, art_gallery, clean_room, natural_history_museum, science_museum",22135
-279,6696,indoor,"museum/indoor, art_gallery, clean_room, artists_loft, staircase",22135
-280,6720,indoor,"museum/indoor, art_gallery, clean_room, clothing_store, staircase",22135
-281,6744,indoor,"museum/indoor, art_gallery, clean_room, clothing_store, dressing_room",22135
-282,6768,indoor,"museum/indoor, nursery, art_gallery, dressing_room, martial_arts_gym",22135
-283,6792,indoor,"museum/indoor, stage/indoor, ballroom, martial_arts_gym, art_gallery",22135
-284,6816,indoor,"museum/indoor, clean_room, martial_arts_gym, art_gallery, dressing_room",22135
-285,6840,indoor,"museum/indoor, art_gallery, clean_room, martial_arts_gym, science_museum",22135
-286,6864,indoor,"museum/indoor, art_gallery, clean_room, martial_arts_gym, science_museum",22135
-287,6888,indoor,"museum/indoor, art_gallery, clean_room, natural_history_museum, archive",22135
-288,6912,indoor,"museum/indoor, art_gallery, clean_room, art_studio, archive",22135
-289,6936,indoor,"museum/indoor, clean_room, art_gallery, martial_arts_gym, natural_history_museum",22135
-290,6960,indoor,"museum/indoor, clean_room, art_gallery, martial_arts_gym, natural_history_museum",22135
-291,6984,indoor,"museum/indoor, art_gallery, clean_room, martial_arts_gym, natural_history_museum",22135
-292,7008,indoor,"museum/indoor, art_gallery, stage/indoor, natural_history_museum, archive",22135
-293,7032,indoor,"museum/indoor, art_gallery, natural_history_museum, clean_room, science_museum",22135
-294,7056,indoor,"museum/indoor, art_gallery, clean_room, parking_garage/indoor, archive",22135
-295,7080,indoor,"art_gallery, museum/indoor, clean_room, artists_loft, wet_bar",22135
-296,7104,indoor,"art_gallery, museum/indoor, clean_room, artists_loft, reception",22135
-297,7128,indoor,"art_gallery, museum/indoor, artists_loft, reception, jewelry_shop",22135
-298,7152,indoor,"art_gallery, museum/indoor, clean_room, artists_loft, reception",22135
-299,7176,indoor,"clean_room, museum/indoor, lobby, living_room, art_gallery",22135
-300,7200,indoor,"clean_room, chemistry_lab, beauty_salon, biology_laboratory, dressing_room",22135
-301,7224,indoor,"clean_room, museum/indoor, ballroom, stage/indoor, music_studio",22135
-302,7248,indoor,"museum/indoor, clean_room, dressing_room, jewelry_shop, chemistry_lab",22135
-303,7272,indoor,"museum/indoor, clean_room, art_gallery, dressing_room, science_museum",22135
-304,7296,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, stage/indoor",22135
-305,7320,indoor,"clean_room, museum/indoor, art_gallery, dressing_room, chemistry_lab",22135
-306,7344,indoor,"clean_room, museum/indoor, art_gallery, chemistry_lab, dressing_room",22135
-307,7368,indoor,"clean_room, museum/indoor, stage/indoor, dressing_room, chemistry_lab",22135
-308,7392,indoor,"clean_room, museum/indoor, dressing_room, operating_room, stage/indoor",22135
-309,7416,indoor,"clean_room, museum/indoor, dressing_room, operating_room, art_gallery",22135
-310,7440,indoor,"clean_room, museum/indoor, art_gallery, operating_room, dressing_room",22135
-311,7464,indoor,"clean_room, museum/indoor, hospital_room, art_gallery, martial_arts_gym",22135
-312,7488,indoor,"clean_room, museum/indoor, dressing_room, art_gallery, stage/indoor",22135
-313,7512,indoor,"clean_room, museum/indoor, dressing_room, hospital_room, operating_room",22135
-314,7536,indoor,"clean_room, museum/indoor, science_museum, art_gallery, natural_history_museum",22135
-315,7560,indoor,"shower, bathroom, clean_room, jewelry_shop, beauty_salon",22135
-316,7584,indoor,"clean_room, dressing_room, shower, clothing_store, operating_room",22135
-317,7608,indoor,"clean_room, museum/indoor, art_gallery, atrium/public, science_museum",22135
-318,7632,indoor,"clean_room, museum/indoor, operating_room, chemistry_lab, art_gallery",22135
-319,7656,indoor,"clean_room, museum/indoor, operating_room, chemistry_lab, hospital_room",22135
-320,7680,indoor,"clean_room, museum/indoor, art_gallery, chemistry_lab, dressing_room",22135
-321,7704,indoor,"clean_room, dressing_room, museum/indoor, chemistry_lab, discotheque",22135
-322,7728,indoor,"clean_room, museum/indoor, stage/indoor, operating_room, dressing_room",22135
-323,7752,indoor,"clean_room, museum/indoor, stage/indoor, operating_room, art_gallery",22135
-324,7776,indoor,"clean_room, museum/indoor, dressing_room, chemistry_lab, operating_room",22135
-325,7800,indoor,"clean_room, museum/indoor, chemistry_lab, art_gallery, operating_room",22135
-326,7824,indoor,"clean_room, museum/indoor, dressing_room, chemistry_lab, art_gallery",22135
-327,7848,indoor,"clean_room, shower, dressing_room, chemistry_lab, museum/indoor",22135
-328,7872,indoor,"staircase, escalator/indoor, clean_room, corridor, basement",22135
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,22135,0,0,1
+1,22135,24,0,1
+2,22135,48,0,1
+3,22135,72,0,1
+4,22135,96,0,1
+5,22135,120,0,1
+6,22135,144,0,1
+7,22135,168,0,1
+8,22135,192,0,1
+9,22135,216,0,1
+10,22135,240,0,1
+11,22135,264,0,1
+12,22135,288,0,1
+13,22135,312,0,1
+14,22135,336,0,1
+15,22135,360,0,1
+16,22135,384,0,1
+17,22135,408,0,1
+18,22135,432,0,1
+19,22135,456,0,1
+20,22135,480,0,1
+21,22135,504,0,1
+22,22135,528,0,1
+23,22135,552,0,1
+24,22135,576,0,1
+25,22135,600,0,1
+26,22135,624,0,1
+27,22135,648,0,1
+28,22135,672,0,1
+29,22135,696,0,1
+30,22135,720,0,1
+31,22135,744,0,1
+32,22135,768,0,1
+33,22135,792,0,1
+34,22135,816,0,1
+35,22135,840,0,1
+36,22135,864,0,1
+37,22135,888,0,1
+38,22135,912,0,1
+39,22135,936,0,1
+40,22135,960,0,1
+41,22135,984,0,1
+42,22135,1008,0,1
+43,22135,1032,0,1
+44,22135,1056,0,1
+45,22135,1080,0,1
+46,22135,1104,0,1
+47,22135,1128,0,1
+48,22135,1152,0,1
+49,22135,1176,0,1
+50,22135,1200,0,1
+51,22135,1224,0,1
+52,22135,1248,0,1
+53,22135,1272,0,1
+54,22135,1296,0,1
+55,22135,1320,0,1
+56,22135,1344,0,1
+57,22135,1368,0,1
+58,22135,1392,0,1
+59,22135,1416,0,1
+60,22135,1440,0,1
+61,22135,1464,0,1
+62,22135,1488,0,1
+63,22135,1512,0,1
+64,22135,1536,0,1
+65,22135,1560,0,1
+66,22135,1584,0,1
+67,22135,1608,0,1
+68,22135,1632,0,1
+69,22135,1656,0,1
+70,22135,1680,0,1
+71,22135,1704,0,1
+72,22135,1728,0,1
+73,22135,1752,0,1
+74,22135,1776,0,1
+75,22135,1800,0,1
+76,22135,1824,0,1
+77,22135,1848,0,1
+78,22135,1872,0,1
+79,22135,1896,0,1
+80,22135,1920,0,1
+81,22135,1944,0,1
+82,22135,1968,0,1
+83,22135,1992,0,1
+84,22135,2016,0,1
+85,22135,2040,0,1
+86,22135,2064,0,1
+87,22135,2088,0,1
+88,22135,2112,0,1
+89,22135,2136,0,1
+90,22135,2160,0,1
+91,22135,2184,0,1
+92,22135,2208,0,1
+93,22135,2232,0,1
+94,22135,2256,0,1
+95,22135,2280,0,1
+96,22135,2304,0,1
+97,22135,2328,0,1
+98,22135,2352,0,1
+99,22135,2376,0,1
+100,22135,2400,0,1
+101,22135,2424,0,1
+102,22135,2448,0,1
+103,22135,2472,0,1
+104,22135,2496,0,1
+105,22135,2520,0,1
+106,22135,2544,0,1
+107,22135,2568,0,1
+108,22135,2592,0,1
+109,22135,2616,0,1
+110,22135,2640,0,1
+111,22135,2664,0,1
+112,22135,2688,0,1
+113,22135,2712,0,1
+114,22135,2736,0,1
+115,22135,2760,0,1
+116,22135,2784,0,1
+117,22135,2808,0,1
+118,22135,2832,0,1
+119,22135,2856,0,1
+120,22135,2880,0,1
+121,22135,2904,0,1
+122,22135,2928,0,1
+123,22135,2952,0,1
+124,22135,2976,0,1
+125,22135,3000,0,1
+126,22135,3024,0,1
+127,22135,3048,0,1
+128,22135,3072,0,1
+129,22135,3096,0,1
+130,22135,3120,0,1
+131,22135,3144,0,1
+132,22135,3168,0,1
+133,22135,3192,0,1
+134,22135,3216,0,1
+135,22135,3240,0,1
+136,22135,3264,0,1
+137,22135,3288,0,1
+138,22135,3312,0,1
+139,22135,3336,0,1
+140,22135,3360,0,1
+141,22135,3384,0,1
+142,22135,3408,0,1
+143,22135,3432,0,1
+144,22135,3456,0,1
+145,22135,3480,0,1
+146,22135,3504,0,1
+147,22135,3528,0,1
+148,22135,3552,0,1
+149,22135,3576,0,1
+150,22135,3600,0,1
+151,22135,3624,0,1
+152,22135,3648,0,1
+153,22135,3672,0,1
+154,22135,3696,0,1
+155,22135,3720,0,1
+156,22135,3744,0,1
+157,22135,3768,0,1
+158,22135,3792,0,1
+159,22135,3816,0,1
+160,22135,3840,0,1
+161,22135,3864,0,1
+162,22135,3888,0,1
+163,22135,3912,0,1
+164,22135,3936,0,1
+165,22135,3960,0,1
+166,22135,3984,0,1
+167,22135,4008,0,1
+168,22135,4032,0,1
+169,22135,4056,0,1
+170,22135,4080,0,1
+171,22135,4104,0,1
+172,22135,4128,0,1
+173,22135,4152,0,1
+174,22135,4176,0,1
+175,22135,4200,0,1
+176,22135,4224,0,1
+177,22135,4248,0,1
+178,22135,4272,0,1
+179,22135,4296,0,1
+180,22135,4320,0,1
+181,22135,4344,0,1
+182,22135,4368,0,1
+183,22135,4392,0,1
+184,22135,4416,0,1
+185,22135,4440,0,1
+186,22135,4464,0,1
+187,22135,4488,0,1
+188,22135,4512,0,1
+189,22135,4536,0,1
+190,22135,4560,0,1
+191,22135,4584,0,1
+192,22135,4608,0,1
+193,22135,4632,0,1
+194,22135,4656,0,1
+195,22135,4680,0,1
+196,22135,4704,0,1
+197,22135,4728,0,1
+198,22135,4752,0,1
+199,22135,4776,0,1
+200,22135,4800,0,1
+201,22135,4824,0,1
+202,22135,4848,0,1
+203,22135,4872,0,1
+204,22135,4896,0,1
+205,22135,4920,0,1
+206,22135,4944,0,1
+207,22135,4968,0,1
+208,22135,4992,0,1
+209,22135,5016,0,1
+210,22135,5040,0,1
+211,22135,5064,0,1
+212,22135,5088,0,1
+213,22135,5112,0,1
+214,22135,5136,0,1
+215,22135,5160,0,1
+216,22135,5184,0,1
+217,22135,5208,0,1
+218,22135,5232,0,1
+219,22135,5256,0,1
+220,22135,5280,0,1
+221,22135,5304,0,1
+222,22135,5328,0,1
+223,22135,5352,0,1
+224,22135,5376,0,1
+225,22135,5400,0,1
+226,22135,5424,0,1
+227,22135,5448,0,1
+228,22135,5472,0,1
+229,22135,5496,0,1
+230,22135,5520,0,1
+231,22135,5544,0,1
+232,22135,5568,0,1
+233,22135,5592,0,1
+234,22135,5616,0,1
+235,22135,5640,0,1
+236,22135,5664,0,1
+237,22135,5688,0,1
+238,22135,5712,0,1
+239,22135,5736,0,1
+240,22135,5760,0,1
+241,22135,5784,0,1
+242,22135,5808,0,1
+243,22135,5832,0,1
+244,22135,5856,0,1
+245,22135,5880,0,1
+246,22135,5904,0,1
+247,22135,5928,0,1
+248,22135,5952,0,1
+249,22135,5976,0,1
+250,22135,6000,0,1
+251,22135,6024,0,1
+252,22135,6048,0,1
+253,22135,6072,0,1
+254,22135,6096,0,1
+255,22135,6120,0,1
+256,22135,6144,0,1
+257,22135,6168,0,1
+258,22135,6192,0,1
+259,22135,6216,0,1
+260,22135,6240,0,1
+261,22135,6264,0,1
+262,22135,6288,0,1
+263,22135,6312,0,1
+264,22135,6336,0,1
+265,22135,6360,0,1
+266,22135,6384,0,1
+267,22135,6408,0,1
+268,22135,6432,0,1
+269,22135,6456,0,1
+270,22135,6480,0,1
+271,22135,6504,0,1
+272,22135,6528,0,1
+273,22135,6552,0,1
+274,22135,6576,0,1
+275,22135,6600,0,1
+276,22135,6624,0,1
+277,22135,6648,0,1
+278,22135,6672,0,1
+279,22135,6696,0,1
+280,22135,6720,0,1
+281,22135,6744,0,1
+282,22135,6768,0,1
+283,22135,6792,0,1
+284,22135,6816,0,1
+285,22135,6840,0,1
+286,22135,6864,0,1
+287,22135,6888,0,1
+288,22135,6912,0,1
+289,22135,6936,0,1
+290,22135,6960,0,1
+291,22135,6984,0,1
+292,22135,7008,0,1
+293,22135,7032,0,1
+294,22135,7056,0,1
+295,22135,7080,0,1
+296,22135,7104,0,1
+297,22135,7128,0,1
+298,22135,7152,0,1
+299,22135,7176,0,1
+300,22135,7200,0,1
+301,22135,7224,0,1
+302,22135,7248,0,1
+303,22135,7272,0,1
+304,22135,7296,0,1
+305,22135,7320,0,1
+306,22135,7344,0,1
+307,22135,7368,0,1
+308,22135,7392,0,1
+309,22135,7416,0,1
+310,22135,7440,0,1
+311,22135,7464,0,1
+312,22135,7488,0,1
+313,22135,7512,0,1
+314,22135,7536,0,1
+315,22135,7560,0,1
+316,22135,7584,0,1
+317,22135,7608,0,1
+318,22135,7632,0,1
+319,22135,7656,0,1
+320,22135,7680,0,1
+321,22135,7704,0,1
+322,22135,7728,0,1
+323,22135,7752,0,1
+324,22135,7776,0,1
+325,22135,7800,0,1
+326,22135,7824,0,1
+327,22135,7848,0,1
+328,22135,7872,0,1

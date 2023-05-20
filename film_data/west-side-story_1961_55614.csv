@@ -1,351 +1,351 @@
-,frame_num,environment,places,imdb_id
-0,0,outdoor,"desert/sand, lake/natural, beach, marsh, ocean",55614
-1,24,outdoor,"desert/sand, sky, beach, lake/natural, marsh",55614
-2,48,outdoor,"desert/sand, sky, beach, lake/natural, marsh",55614
-3,72,indoor,"nursery, shower, hospital, art_gallery, archive",55614
-4,96,indoor,"classroom, locker_room, art_gallery, kindergarden_classroom, basement",55614
-5,120,indoor,"art_gallery, home_theater, museum/indoor, elevator/door, closet",55614
-6,144,outdoor,"ice_shelf, home_theater, sky, art_gallery, desert/sand",55614
-7,168,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-8,192,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-9,216,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-10,240,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-11,264,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-12,288,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-13,312,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, lecture_room",55614
-14,336,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-15,360,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-16,384,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-17,408,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-18,432,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-19,456,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-20,480,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-21,504,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, lecture_room",55614
-22,528,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-23,552,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-24,576,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-25,600,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-26,624,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-27,648,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, lecture_room",55614
-28,672,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, lecture_room",55614
-29,696,indoor,"classroom, barndoor, art_gallery, kindergarden_classroom, elevator/door",55614
-30,720,indoor,"classroom, barndoor, art_gallery, elevator/door, kindergarden_classroom",55614
-31,744,indoor,"classroom, barndoor, kindergarden_classroom, art_gallery, lecture_room",55614
-32,768,outdoor,"barndoor, ice_shelf, desert/sand, sky, snowfield",55614
-33,792,outdoor,"barndoor, ice_shelf, sky, elevator/door, shed",55614
-34,816,outdoor,"barndoor, ice_shelf, shed, elevator/door, home_theater",55614
-35,840,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-36,864,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-37,888,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-38,912,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-39,936,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-40,960,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-41,984,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-42,1008,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-43,1032,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-44,1056,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-45,1080,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-46,1104,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-47,1128,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-48,1152,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-49,1176,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-50,1200,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-51,1224,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-52,1248,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-53,1272,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-54,1296,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-55,1320,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-56,1344,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-57,1368,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-58,1392,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-59,1416,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-60,1440,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-61,1464,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-62,1488,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-63,1512,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-64,1536,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-65,1560,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-66,1584,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-67,1608,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-68,1632,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-69,1656,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-70,1680,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-71,1704,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-72,1728,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-73,1752,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-74,1776,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-75,1800,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-76,1824,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-77,1848,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-78,1872,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-79,1896,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-80,1920,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-81,1944,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-82,1968,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-83,1992,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-84,2016,indoor,"barndoor, ice_shelf, home_theater, elevator/door, art_gallery",55614
-85,2040,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-86,2064,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-87,2088,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-88,2112,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-89,2136,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-90,2160,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-91,2184,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-92,2208,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, shed",55614
-93,2232,outdoor,"barndoor, ice_shelf, elevator/door, home_theater, sky",55614
-94,2256,outdoor,"barndoor, ice_shelf, elevator/door, home_theater, sky",55614
-95,2280,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-96,2304,outdoor,"barndoor, home_theater, ice_shelf, elevator/door, sky",55614
-97,2328,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-98,2352,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-99,2376,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-100,2400,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-101,2424,outdoor,"barndoor, ice_shelf, home_theater, sky, elevator/door",55614
-102,2448,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-103,2472,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-104,2496,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-105,2520,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-106,2544,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-107,2568,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-108,2592,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-109,2616,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-110,2640,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-111,2664,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-112,2688,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-113,2712,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-114,2736,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-115,2760,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-116,2784,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-117,2808,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-118,2832,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-119,2856,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-120,2880,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-121,2904,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-122,2928,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-123,2952,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-124,2976,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-125,3000,outdoor,"barndoor, ice_shelf, home_theater, elevator/door, sky",55614
-126,3024,indoor,"barndoor, ice_shelf, home_theater, elevator/door, movie_theater/indoor",55614
-127,3048,indoor,"barndoor, home_theater, ice_shelf, movie_theater/indoor, elevator/door",55614
-128,3072,indoor,"barndoor, home_theater, movie_theater/indoor, ice_shelf, art_gallery",55614
-129,3096,indoor,"home_theater, barndoor, movie_theater/indoor, ice_shelf, art_gallery",55614
-130,3120,indoor,"home_theater, barndoor, movie_theater/indoor, ice_shelf, art_gallery",55614
-131,3144,indoor,"home_theater, barndoor, ice_shelf, movie_theater/indoor, art_gallery",55614
-132,3168,indoor,"home_theater, barndoor, movie_theater/indoor, ice_shelf, art_gallery",55614
-133,3192,indoor,"home_theater, barndoor, movie_theater/indoor, art_gallery, ice_shelf",55614
-134,3216,indoor,"home_theater, movie_theater/indoor, art_gallery, ice_shelf, barndoor",55614
-135,3240,indoor,"home_theater, movie_theater/indoor, art_gallery, barndoor, ice_shelf",55614
-136,3264,indoor,"home_theater, movie_theater/indoor, art_gallery, stage/indoor, barndoor",55614
-137,3288,indoor,"home_theater, art_gallery, movie_theater/indoor, barndoor, stage/indoor",55614
-138,3312,indoor,"home_theater, art_gallery, ice_shelf, movie_theater/indoor, stage/indoor",55614
-139,3336,indoor,"home_theater, art_gallery, ice_shelf, movie_theater/indoor, art_studio",55614
-140,3360,indoor,"ice_shelf, home_theater, art_gallery, art_studio, classroom",55614
-141,3384,indoor,"ice_shelf, bow_window/indoor, art_gallery, home_theater, iceberg",55614
-142,3408,indoor,"home_theater, ice_shelf, movie_theater/indoor, art_gallery, barndoor",55614
-143,3432,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-144,3456,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-145,3480,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-146,3504,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-147,3528,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-148,3552,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-149,3576,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-150,3600,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-151,3624,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-152,3648,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-153,3672,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-154,3696,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-155,3720,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-156,3744,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-157,3768,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-158,3792,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-159,3816,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-160,3840,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-161,3864,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-162,3888,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-163,3912,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-164,3936,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-165,3960,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-166,3984,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-167,4008,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-168,4032,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-169,4056,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-170,4080,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-171,4104,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-172,4128,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-173,4152,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-174,4176,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-175,4200,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-176,4224,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-177,4248,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-178,4272,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-179,4296,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-180,4320,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-181,4344,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-182,4368,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-183,4392,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-184,4416,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-185,4440,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-186,4464,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-187,4488,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-188,4512,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-189,4536,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-190,4560,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-191,4584,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-192,4608,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-193,4632,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-194,4656,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-195,4680,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-196,4704,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-197,4728,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-198,4752,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-199,4776,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-200,4800,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-201,4824,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-202,4848,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-203,4872,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-204,4896,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-205,4920,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-206,4944,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-207,4968,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-208,4992,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-209,5016,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-210,5040,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-211,5064,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-212,5088,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-213,5112,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-214,5136,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-215,5160,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-216,5184,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-217,5208,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-218,5232,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-219,5256,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-220,5280,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-221,5304,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-222,5328,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-223,5352,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-224,5376,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-225,5400,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-226,5424,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-227,5448,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-228,5472,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-229,5496,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-230,5520,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-231,5544,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-232,5568,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-233,5592,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-234,5616,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-235,5640,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-236,5664,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-237,5688,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-238,5712,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-239,5736,indoor,"home_theater, movie_theater/indoor, ice_shelf, art_gallery, barndoor",55614
-240,5760,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-241,5784,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-242,5808,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-243,5832,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, art_gallery",55614
-244,5856,indoor,"home_theater, ice_shelf, bow_window/indoor, movie_theater/indoor, art_gallery",55614
-245,5880,indoor,"classroom, barndoor, rice_paddy, art_gallery, art_studio",55614
-246,5904,indoor,"classroom, barndoor, art_gallery, museum/indoor, art_studio",55614
-247,5928,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-248,5952,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-249,5976,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-250,6000,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-251,6024,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-252,6048,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-253,6072,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-254,6096,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-255,6120,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-256,6144,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-257,6168,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-258,6192,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-259,6216,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-260,6240,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-261,6264,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-262,6288,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-263,6312,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-264,6336,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-265,6360,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-266,6384,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-267,6408,outdoor,"barndoor, ice_shelf, elevator/door, sky, desert/sand",55614
-268,6432,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-269,6456,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-270,6480,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-271,6504,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-272,6528,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-273,6552,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-274,6576,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-275,6600,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-276,6624,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-277,6648,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-278,6672,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-279,6696,outdoor,"barndoor, ice_shelf, sky, elevator/door, ocean",55614
-280,6720,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-281,6744,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-282,6768,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-283,6792,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-284,6816,outdoor,"barndoor, ice_shelf, elevator/door, sky, desert/sand",55614
-285,6840,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-286,6864,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-287,6888,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-288,6912,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-289,6936,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-290,6960,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-291,6984,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-292,7008,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-293,7032,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-294,7056,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-295,7080,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-296,7104,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-297,7128,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-298,7152,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-299,7176,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-300,7200,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-301,7224,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-302,7248,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-303,7272,outdoor,"barndoor, ice_shelf, elevator/door, sky, desert/sand",55614
-304,7296,outdoor,"barndoor, ice_shelf, elevator/door, sky, desert/sand",55614
-305,7320,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-306,7344,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-307,7368,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-308,7392,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-309,7416,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-310,7440,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-311,7464,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-312,7488,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-313,7512,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-314,7536,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-315,7560,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-316,7584,outdoor,"barndoor, ice_shelf, sky, desert/sand, elevator/door",55614
-317,7608,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-318,7632,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-319,7656,outdoor,"barndoor, ice_shelf, sky, elevator/door, desert/sand",55614
-320,7680,indoor,"classroom, kindergarden_classroom, art_gallery, lecture_room, art_studio",55614
-321,7704,indoor,"rice_paddy, classroom, kindergarden_classroom, art_school, field/cultivated",55614
-322,7728,indoor,"rice_paddy, classroom, kindergarden_classroom, art_school, field/cultivated",55614
-323,7752,indoor,"classroom, rice_paddy, kindergarden_classroom, art_school, art_studio",55614
-324,7776,indoor,"ice_shelf, booth/indoor, classroom, art_studio, home_theater",55614
-325,7800,indoor,"home_theater, movie_theater/indoor, ice_shelf, barndoor, classroom",55614
-326,7824,indoor,"home_theater, movie_theater/indoor, barndoor, lecture_room, classroom",55614
-327,7848,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, barndoor",55614
-328,7872,indoor,"home_theater, movie_theater/indoor, barndoor, lecture_room, classroom",55614
-329,7896,indoor,"home_theater, movie_theater/indoor, barndoor, lecture_room, classroom",55614
-330,7920,indoor,"home_theater, movie_theater/indoor, lecture_room, stage/indoor, classroom",55614
-331,7944,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, stage/indoor",55614
-332,7968,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, stage/indoor",55614
-333,7992,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, conference_center",55614
-334,8016,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, conference_center",55614
-335,8040,indoor,"home_theater, movie_theater/indoor, classroom, lecture_room, conference_center",55614
-336,8064,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, conference_center",55614
-337,8088,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, conference_center",55614
-338,8112,indoor,"home_theater, movie_theater/indoor, lecture_room, classroom, conference_center",55614
-339,8136,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, kindergarden_classroom",55614
-340,8160,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, booth/indoor",55614
-341,8184,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, booth/indoor",55614
-342,8208,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, booth/indoor",55614
-343,8232,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, booth/indoor",55614
-344,8256,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, kindergarden_classroom",55614
-345,8280,indoor,"home_theater, classroom, lecture_room, movie_theater/indoor, kindergarden_classroom",55614
-346,8304,indoor,"home_theater, movie_theater/indoor, classroom, lecture_room, stage/indoor",55614
-347,8328,indoor,"movie_theater/indoor, home_theater, stage/indoor, ice_shelf, aquarium",55614
-348,8352,outdoor,"islet, ice_floe, ice_shelf, ocean, lake/natural",55614
-349,8376,outdoor,"islet, ice_floe, ice_shelf, ocean, harbor",55614
+,imdb_id,frame_num,is_outdoor,is_indoor
+0,55614,0,1,0
+1,55614,24,1,0
+2,55614,48,1,0
+3,55614,72,0,1
+4,55614,96,0,1
+5,55614,120,0,1
+6,55614,144,1,0
+7,55614,168,0,1
+8,55614,192,0,1
+9,55614,216,0,1
+10,55614,240,0,1
+11,55614,264,0,1
+12,55614,288,0,1
+13,55614,312,0,1
+14,55614,336,0,1
+15,55614,360,0,1
+16,55614,384,0,1
+17,55614,408,0,1
+18,55614,432,0,1
+19,55614,456,0,1
+20,55614,480,0,1
+21,55614,504,0,1
+22,55614,528,0,1
+23,55614,552,0,1
+24,55614,576,0,1
+25,55614,600,0,1
+26,55614,624,0,1
+27,55614,648,0,1
+28,55614,672,0,1
+29,55614,696,0,1
+30,55614,720,0,1
+31,55614,744,0,1
+32,55614,768,1,0
+33,55614,792,1,0
+34,55614,816,1,0
+35,55614,840,1,0
+36,55614,864,0,1
+37,55614,888,1,0
+38,55614,912,0,1
+39,55614,936,0,1
+40,55614,960,0,1
+41,55614,984,0,1
+42,55614,1008,1,0
+43,55614,1032,1,0
+44,55614,1056,1,0
+45,55614,1080,0,1
+46,55614,1104,0,1
+47,55614,1128,1,0
+48,55614,1152,1,0
+49,55614,1176,1,0
+50,55614,1200,0,1
+51,55614,1224,0,1
+52,55614,1248,1,0
+53,55614,1272,1,0
+54,55614,1296,0,1
+55,55614,1320,0,1
+56,55614,1344,0,1
+57,55614,1368,0,1
+58,55614,1392,0,1
+59,55614,1416,0,1
+60,55614,1440,0,1
+61,55614,1464,0,1
+62,55614,1488,0,1
+63,55614,1512,1,0
+64,55614,1536,0,1
+65,55614,1560,0,1
+66,55614,1584,1,0
+67,55614,1608,1,0
+68,55614,1632,0,1
+69,55614,1656,0,1
+70,55614,1680,1,0
+71,55614,1704,1,0
+72,55614,1728,1,0
+73,55614,1752,1,0
+74,55614,1776,1,0
+75,55614,1800,0,1
+76,55614,1824,0,1
+77,55614,1848,0,1
+78,55614,1872,0,1
+79,55614,1896,0,1
+80,55614,1920,1,0
+81,55614,1944,0,1
+82,55614,1968,0,1
+83,55614,1992,0,1
+84,55614,2016,0,1
+85,55614,2040,0,1
+86,55614,2064,1,0
+87,55614,2088,1,0
+88,55614,2112,1,0
+89,55614,2136,0,1
+90,55614,2160,0,1
+91,55614,2184,0,1
+92,55614,2208,1,0
+93,55614,2232,1,0
+94,55614,2256,1,0
+95,55614,2280,1,0
+96,55614,2304,1,0
+97,55614,2328,1,0
+98,55614,2352,1,0
+99,55614,2376,1,0
+100,55614,2400,1,0
+101,55614,2424,1,0
+102,55614,2448,1,0
+103,55614,2472,1,0
+104,55614,2496,1,0
+105,55614,2520,1,0
+106,55614,2544,1,0
+107,55614,2568,1,0
+108,55614,2592,1,0
+109,55614,2616,1,0
+110,55614,2640,1,0
+111,55614,2664,1,0
+112,55614,2688,1,0
+113,55614,2712,1,0
+114,55614,2736,1,0
+115,55614,2760,1,0
+116,55614,2784,1,0
+117,55614,2808,1,0
+118,55614,2832,1,0
+119,55614,2856,1,0
+120,55614,2880,1,0
+121,55614,2904,1,0
+122,55614,2928,1,0
+123,55614,2952,1,0
+124,55614,2976,1,0
+125,55614,3000,1,0
+126,55614,3024,0,1
+127,55614,3048,0,1
+128,55614,3072,0,1
+129,55614,3096,0,1
+130,55614,3120,0,1
+131,55614,3144,0,1
+132,55614,3168,0,1
+133,55614,3192,0,1
+134,55614,3216,0,1
+135,55614,3240,0,1
+136,55614,3264,0,1
+137,55614,3288,0,1
+138,55614,3312,0,1
+139,55614,3336,0,1
+140,55614,3360,0,1
+141,55614,3384,0,1
+142,55614,3408,0,1
+143,55614,3432,0,1
+144,55614,3456,0,1
+145,55614,3480,0,1
+146,55614,3504,0,1
+147,55614,3528,0,1
+148,55614,3552,0,1
+149,55614,3576,0,1
+150,55614,3600,0,1
+151,55614,3624,0,1
+152,55614,3648,0,1
+153,55614,3672,0,1
+154,55614,3696,0,1
+155,55614,3720,0,1
+156,55614,3744,0,1
+157,55614,3768,0,1
+158,55614,3792,0,1
+159,55614,3816,0,1
+160,55614,3840,0,1
+161,55614,3864,0,1
+162,55614,3888,0,1
+163,55614,3912,0,1
+164,55614,3936,0,1
+165,55614,3960,0,1
+166,55614,3984,0,1
+167,55614,4008,0,1
+168,55614,4032,0,1
+169,55614,4056,0,1
+170,55614,4080,0,1
+171,55614,4104,0,1
+172,55614,4128,0,1
+173,55614,4152,0,1
+174,55614,4176,0,1
+175,55614,4200,0,1
+176,55614,4224,0,1
+177,55614,4248,0,1
+178,55614,4272,0,1
+179,55614,4296,0,1
+180,55614,4320,0,1
+181,55614,4344,0,1
+182,55614,4368,0,1
+183,55614,4392,0,1
+184,55614,4416,0,1
+185,55614,4440,0,1
+186,55614,4464,0,1
+187,55614,4488,0,1
+188,55614,4512,0,1
+189,55614,4536,0,1
+190,55614,4560,0,1
+191,55614,4584,0,1
+192,55614,4608,0,1
+193,55614,4632,0,1
+194,55614,4656,0,1
+195,55614,4680,0,1
+196,55614,4704,0,1
+197,55614,4728,0,1
+198,55614,4752,0,1
+199,55614,4776,0,1
+200,55614,4800,0,1
+201,55614,4824,0,1
+202,55614,4848,0,1
+203,55614,4872,0,1
+204,55614,4896,0,1
+205,55614,4920,0,1
+206,55614,4944,0,1
+207,55614,4968,0,1
+208,55614,4992,0,1
+209,55614,5016,0,1
+210,55614,5040,0,1
+211,55614,5064,0,1
+212,55614,5088,0,1
+213,55614,5112,0,1
+214,55614,5136,0,1
+215,55614,5160,0,1
+216,55614,5184,0,1
+217,55614,5208,0,1
+218,55614,5232,0,1
+219,55614,5256,0,1
+220,55614,5280,0,1
+221,55614,5304,0,1
+222,55614,5328,0,1
+223,55614,5352,0,1
+224,55614,5376,0,1
+225,55614,5400,0,1
+226,55614,5424,0,1
+227,55614,5448,0,1
+228,55614,5472,0,1
+229,55614,5496,0,1
+230,55614,5520,0,1
+231,55614,5544,0,1
+232,55614,5568,0,1
+233,55614,5592,0,1
+234,55614,5616,0,1
+235,55614,5640,0,1
+236,55614,5664,0,1
+237,55614,5688,0,1
+238,55614,5712,0,1
+239,55614,5736,0,1
+240,55614,5760,0,1
+241,55614,5784,0,1
+242,55614,5808,0,1
+243,55614,5832,0,1
+244,55614,5856,0,1
+245,55614,5880,0,1
+246,55614,5904,0,1
+247,55614,5928,1,0
+248,55614,5952,1,0
+249,55614,5976,1,0
+250,55614,6000,1,0
+251,55614,6024,1,0
+252,55614,6048,1,0
+253,55614,6072,1,0
+254,55614,6096,1,0
+255,55614,6120,1,0
+256,55614,6144,1,0
+257,55614,6168,1,0
+258,55614,6192,1,0
+259,55614,6216,1,0
+260,55614,6240,1,0
+261,55614,6264,1,0
+262,55614,6288,1,0
+263,55614,6312,1,0
+264,55614,6336,1,0
+265,55614,6360,1,0
+266,55614,6384,1,0
+267,55614,6408,1,0
+268,55614,6432,1,0
+269,55614,6456,1,0
+270,55614,6480,1,0
+271,55614,6504,1,0
+272,55614,6528,1,0
+273,55614,6552,1,0
+274,55614,6576,1,0
+275,55614,6600,1,0
+276,55614,6624,1,0
+277,55614,6648,1,0
+278,55614,6672,1,0
+279,55614,6696,1,0
+280,55614,6720,1,0
+281,55614,6744,1,0
+282,55614,6768,1,0
+283,55614,6792,1,0
+284,55614,6816,1,0
+285,55614,6840,1,0
+286,55614,6864,1,0
+287,55614,6888,1,0
+288,55614,6912,1,0
+289,55614,6936,1,0
+290,55614,6960,1,0
+291,55614,6984,1,0
+292,55614,7008,1,0
+293,55614,7032,1,0
+294,55614,7056,1,0
+295,55614,7080,1,0
+296,55614,7104,1,0
+297,55614,7128,1,0
+298,55614,7152,1,0
+299,55614,7176,1,0
+300,55614,7200,1,0
+301,55614,7224,1,0
+302,55614,7248,1,0
+303,55614,7272,1,0
+304,55614,7296,1,0
+305,55614,7320,1,0
+306,55614,7344,1,0
+307,55614,7368,1,0
+308,55614,7392,1,0
+309,55614,7416,1,0
+310,55614,7440,1,0
+311,55614,7464,1,0
+312,55614,7488,1,0
+313,55614,7512,1,0
+314,55614,7536,1,0
+315,55614,7560,1,0
+316,55614,7584,1,0
+317,55614,7608,1,0
+318,55614,7632,1,0
+319,55614,7656,1,0
+320,55614,7680,0,1
+321,55614,7704,0,1
+322,55614,7728,0,1
+323,55614,7752,0,1
+324,55614,7776,0,1
+325,55614,7800,0,1
+326,55614,7824,0,1
+327,55614,7848,0,1
+328,55614,7872,0,1
+329,55614,7896,0,1
+330,55614,7920,0,1
+331,55614,7944,0,1
+332,55614,7968,0,1
+333,55614,7992,0,1
+334,55614,8016,0,1
+335,55614,8040,0,1
+336,55614,8064,0,1
+337,55614,8088,0,1
+338,55614,8112,0,1
+339,55614,8136,0,1
+340,55614,8160,0,1
+341,55614,8184,0,1
+342,55614,8208,0,1
+343,55614,8232,0,1
+344,55614,8256,0,1
+345,55614,8280,0,1
+346,55614,8304,0,1
+347,55614,8328,0,1
+348,55614,8352,1,0
+349,55614,8376,1,0
